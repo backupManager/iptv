@@ -81,6 +81,14 @@
     <display-name>NITV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png"/>
   </channel>
+  <channel id="tv.fox.sports.news">
+    <display-name>Fox Sports News</display-name>
+    <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png"/>
+  </channel>
+  <channel id="tv.redbull.tv">
+    <display-name>Redbull TV</display-name>
+    <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png"/>
+  </channel>
   <programme channel="tv.101002210220" start="20171001140000 +0000" stop="20171001143000 +0000">
     <title>BBC World News</title>
     <episode-num system="dd_progid">ZW0969A118S00</episode-num>
