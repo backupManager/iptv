@@ -1,0 +1,1180 @@
+{
+    "radio.or.1": {
+        "name": "The Rock",
+        "description": "New Zealand's rock radio station",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.1|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png"
+    },
+    "radio.or.2": {
+        "name": "More FM",
+        "description": "Today's best music mix",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.2|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.2.png"
+    },
+    "radio.or.3": {
+        "name": "Mai FM",
+        "description": "The Hottest Hip Hop & RnB",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.3|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.3.png"
+    },
+    "radio.or.4": {
+        "name": "The Breeze",
+        "description": "The Breeze plays more music with less talk.",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.4|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.4.png"
+    },
+    "radio.or.5": {
+        "name": "The Sound",
+        "description": "The Soundtrack Of Our Lives",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.5|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.5.png"
+    },
+    "radio.or.6": {
+        "name": "George FM",
+        "description": "NZ's dance and electronic music station",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.6|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.6.png"
+    },
+    "radio.or.7": {
+        "name": "Radio Live",
+        "description": "Your News, Your Views",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.7|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.7.png"
+    },
+    "radio.or.8": {
+        "name": "The Edge",
+        "description": "All the Hits",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.8.png"
+    },
+    "radio.or.9": {
+        "name": "RDU",
+        "description": "Christchurch's Alternative Radio Station",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.9.png"
+    },
+    "radio.or.10": {
+        "name": "BASE FM",
+        "description": "The station that rules the nation",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.10|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "mp3",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.10.png"
+    },
+    "radio.or.11": {
+        "name": "The Cheese",
+        "description": "Playing music of the 80s, 90s and today",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.11|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.11.png"
+    },
+    "radio.or.12": {
+        "name": "Radio Active",
+        "description": "Wellington's best, oldest and most independent radio station.",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.12|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.12.png"
+    },
+    "radio.or.13": {
+        "name": "Radio Control",
+        "description": "The only true alternative radio in the Manawatu",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.13|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.13.png"
+    },
+    "radio.or.14": {
+        "name": "Magic",
+        "description": "We’re bringing back the Magic with the great artists from Elvis to the Bee Gees, from The Everly Brothers to the music we buy that no other radio stations plays - these are the artists Magic is made of.",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.14|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.14.png"
+    },
+    "radio.or.15": {
+        "name": "Radio Waatea",
+        "description": "Radio Waatea is Aucklands' just Māori radio station that gives a broad bi-lingual show to its audience members.",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.15|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.15.png"
+    },
+    "radio.ih.6897": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6897.png",
+        "name": "The Hits Southern Lakes",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6897|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6203": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6203.png",
+        "name": "The Hits Dunedin",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6203|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6205": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6205.png",
+        "name": "The Hits Manawatu",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6205|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6204": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6204.png",
+        "name": "The Hits Hawkes Bay",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6204|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6202": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6202.png",
+        "name": "The Hits Bay of Plenty",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6202|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6206": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6206.png",
+        "name": "The Hits Nelson",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6206|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6207": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6207.png",
+        "name": "The Hits Northland",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6207|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6212": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6212.png",
+        "name": "The Hits Gisborne",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6212|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6210": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6210.png",
+        "name": "The Hits Taranaki",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6210|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6209": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6209.png",
+        "name": "The Hits Southland",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6209|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6213": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6213.png",
+        "name": "The Hits Wanganui",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6213|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6217": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6217.png",
+        "name": "The Hits West Coast",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6217|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6216": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6216.png",
+        "name": "The Hits Timaru",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6216|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7265": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7265.png",
+        "name": "The Lounge",
+        "description": "Laid back in NZ",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7265|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7401": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7401.png",
+        "name": "Lyall Bay School's Maranui FM",
+        "description": "Sweet Sounds Of The Surf",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7401|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6197": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6197.png",
+        "name": "The Hits Auckland",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6197|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6211": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6211.png",
+        "name": "The Hits Waikato",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6211|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6208": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6208.png",
+        "name": "The Hits Rotorua",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6208|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6198": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6198.png",
+        "name": "The Hits Wellington",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6198|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6159": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6159.png",
+        "name": "Flava",
+        "description": "FLAVA – BEATS THAT MOVE YOU",
+        "genres": [
+            "Hip Hop and R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6190": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6190.png",
+        "name": "ZM",
+        "description": "Hit Music Lives Here",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6190|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6191": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6191.png",
+        "name": "Radio Hauraki",
+        "description": "Get Into The Music",
+        "genres": [
+            "Rock"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6191|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6193": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6193.png",
+        "name": "Coast",
+        "description": "Love the Music ",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6193|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6194": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6194.png",
+        "name": "Radio Sport",
+        "description": "NZ's #1 sports station",
+        "genres": [
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6194|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6939": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6939.png",
+        "name": "Southern Star",
+        "description": "Southern Star - Christian Radio",
+        "genres": [
+            "Christian & Gospel"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6939|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6848": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6848.png",
+        "name": "The Axe Attack",
+        "description": "Metal Radio with the Axeman",
+        "genres": [
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6848|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7105": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7105.png",
+        "name": "Coast Soul",
+        "description": "All the Best Soul and R&B",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7105|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7299": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7299.png",
+        "name": "Ed Sheeran Divide World Tour",
+        "description": "Ed Sheeran Divide World Tour NZ 2018",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7299|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6218": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6218.png",
+        "name": "Radio Sport Extra ",
+        "description": "Sport Highlights and Live Commentary",
+        "genres": [
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6218|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7317": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7317.png",
+        "name": "1 Double X",
+        "description": "Local Radio",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7317|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6676": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6676.png",
+        "name": "Radio Tarana",
+        "description": "New Zealand's Premier Hindi Radio",
+        "genres": [
+            "World"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6676|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6373": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6373.png",
+        "name": "Official NZ Top 20",
+        "description": "Top 20 NZ Singles Thanks to NZ On Air",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6373|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6799": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6799.png",
+        "name": "Radio Sport Extra 2",
+        "description": "Best of Radio Sport and Live Commentary",
+        "genres": [
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6799|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6826": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6826.png",
+        "name": "Chinese Hits",
+        "description": "Chinese Hits Radio",
+        "genres": [
+            "World"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6826|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6867": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6867.png",
+        "name": "Radio New Zealand Concert",
+        "description": "Reflecting music & cultural life in NZ",
+        "genres": [
+            "Classical"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6867|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6937": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6937.png",
+        "name": "Rhema",
+        "description": "RHEMA -Your Christian Radio Station",
+        "genres": [
+            "Christian & Gospel"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6937|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6938": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6938.png",
+        "name": "Life FM",
+        "description": "Life FM - Live it!",
+        "genres": [
+            "Christian & Gospel"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6938|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6196": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6196.png",
+        "name": "Hokonui",
+        "description": "Hokonui",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6196|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6199": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6199.png",
+        "name": "The Hits Christchurch",
+        "description": "Hits from the 90s Til Now",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6199|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6374": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6374.png",
+        "name": "Hauraki Classic Rock",
+        "description": "Classic Rock handcrafted for New Zealand",
+        "genres": [
+            "Classic Rock"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6374|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6491": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6491.png",
+        "name": "NZ Top 40",
+        "description": "New Zealand's Top 40 singles",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6491|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6632": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6632.png",
+        "name": "Flava Old School",
+        "description": "Nothing But Classic Hip Hop & RnB Flava",
+        "genres": [
+            "Hip Hop and R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6632|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6693": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6693.png",
+        "name": "Alternative Comntry Collective",
+        "description": "Always Your #2 Sports Commentary Team!",
+        "genres": [
+            "Sports"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6693|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7156": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7156.png",
+        "name": "Ski FM Network",
+        "description": "Today's Hit Music Channel",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7156|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7168": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7168.png",
+        "name": "Mix",
+        "description": "Best of the 70s 80s & 90s",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7168|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7301": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7301.png",
+        "name": "Roy FM",
+        "description": "All about new music",
+        "genres": [
+            "Hip Hop and R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7301|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7302": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7302.png",
+        "name": "Pride",
+        "description": "Pride Festival Radio: Pride & Progress",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7302|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7303": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7303.png",
+        "name": "Super Boom Boom Radio",
+        "description": "Investec Super Rugby - Player Playlist",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7303|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7383": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7383.png",
+        "name": "Coast Classic",
+        "description": "All the 50s and 60s songs you love!",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7383|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7391": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7391.png",
+        "name": "Central FM",
+        "description": "Central Hawkes Bay/Tararua's Best Music",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7391|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7213": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7213.png",
+        "name": "The Hits 90s Bus",
+        "description": "Nothing but your favourite 90s bangers!",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7213|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7300": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7300.png",
+        "name": "Radio Wanaka",
+        "description": "Local & Loving It",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7300|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7316": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7316.png",
+        "name": "ZM Friday Jams",
+        "description": "Every Day is Friday",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7316|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6465": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6465.png",
+        "name": "Country Nation ",
+        "description": "Best New Country & all-time favourites ",
+        "genres": [
+            "Country"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6465|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6718": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6718.png",
+        "name": "The Pulse",
+        "description": "Live healthier with PULSE on the beat",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6718|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6776": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6776.png",
+        "name": "ZM DMA",
+        "description": "Dance More Awesome",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6776|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6987": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6987.png",
+        "name": "80s Radio",
+        "description": "Just Hits of the 80s Live Here",
+        "genres": [
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6987|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7113": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7113.png",
+        "name": "Heads 106.4FM Mangawhai",
+        "description": "Eclectic and Classic Rock",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7113|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7114": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7114.png",
+        "name": "The Wireless 90.4FM",
+        "description": "Nostalgia",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7114|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6868": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6868.png",
+        "name": "Radio NZ International",
+        "description": "New Zealand's voice in the Pacific",
+        "genres": [
+            "Mix & Variety",
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6868|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6866": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6866.png",
+        "name": "Radio New Zealand National",
+        "description": "News, Current Affairs, & Music for NZ",
+        "genres": [
+            "Mix & Variety",
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6866|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6965": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6965.png",
+        "name": "NBR Radio",
+        "description": "Meeting Place of Intelligent Business",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6965|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7072": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7072.png",
+        "name": "Chinese Voice",
+        "description": "Chinese News & Documentaries (Mandarin)",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7072|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6187": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6187.png",
+        "name": "Newstalk ZB",
+        "description": "New Zealand's #1 Talk Station",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6187|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7073": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7073.png",
+        "name": "Chinese Radio",
+        "description": "Chinese News & Documentaries (Cantonese)",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7073|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7074": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7074.png",
+        "name": "Radio 9",
+        "description": "China Radio International (English)",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7074|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7159": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7159.png",
+        "name": "The Country",
+        "description": "For The Love Of The Land",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6188": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6188.png",
+        "name": "Newstalk ZB Wellington",
+        "description": "New Zealand's #1 Talk Station",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6188|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6189": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6189.png",
+        "name": "Newstalk ZB Christchurch",
+        "description": "New Zealand's #1 Talk Station",
+        "genres": [
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.6189|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7429": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7429.png",
+        "name": "The Station",
+        "description": "Vinyl Destination",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7429|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7438": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7438.png",
+        "name": "Live Well Festival Radio",
+        "description": "NZ's Health & Wellbeing Event",
+        "genres": [
+            "Mix & Variety"
+        ],
+        "url": "http://iptv.matthuisman.nz/nz/radio.ih.7438|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    }
+}

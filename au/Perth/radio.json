@@ -1,0 +1,660 @@
+{
+    "radio.ih.6712": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6712.png",
+        "name": "6PR Perth",
+        "description": "Perth’s favourite news, talk & sport",
+        "genres": [
+            "Sports",
+            "News & Talk"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6712|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6708": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6708.png",
+        "name": "96FM Perth",
+        "description": "Better Music and More of It",
+        "genres": [
+            "Rock",
+            "80s & 90s Hits",
+            "Classic Rock",
+            "Mix & Variety",
+            "Soft Rock"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6708|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7123": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7123.png",
+        "name": "ABC Classic 2",
+        "description": "Simply classical",
+        "genres": [
+            "Classical",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7123|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7118": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7118.png",
+        "name": "ABC Classic FM",
+        "description": "The World's Most Beautiful Music",
+        "genres": [
+            "Classical",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7118|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7125": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7125.png",
+        "name": "ABC Country",
+        "description": "Australia's home of country music",
+        "genres": [
+            "Country",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7125|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7146": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7146.png",
+        "name": "ABC Goldfields",
+        "description": "It's where you live",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7146|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7112": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7112.png",
+        "name": "ABC Grandstand",
+        "description": "100% pure sport",
+        "genres": [
+            "Sports",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7112|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7124": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7124.png",
+        "name": "ABC Jazz",
+        "description": "Just Jazz",
+        "genres": [
+            "Jazz",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7124|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7147": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7147.png",
+        "name": "ABC Kimberley",
+        "description": "It's where you live",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7147|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7110": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7110.png",
+        "name": "ABC News Radio",
+        "description": "Australia's only continuous news station",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7110|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7148": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7148.png",
+        "name": "ABC North West",
+        "description": "It's where you live",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7148|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7134": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7134.png",
+        "name": "ABC Radio Perth",
+        "description": "It's Where You Live",
+        "genres": [
+            "News & Talk",
+            "Public Radio",
+            "Traffic, Weather & News"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7134|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7149": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7149.png",
+        "name": "ABC South West",
+        "description": "It's where you live",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7149|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7136": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7136.png",
+        "name": "ABC Western Plains",
+        "description": "It's where you live",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7136|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7421": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png",
+        "name": "AndrewHaug.com Metal Radio",
+        "description": "Australia’s Metal Radio Station! \\m/",
+        "genres": [
+            "Punk",
+            "Rock",
+            "Metal"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6995": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6995.png",
+        "name": "Asia Pop 40",
+        "description": "Asia’s Home Grown Chart Show w/ Dom Lau",
+        "genres": [
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6995|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7308": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7308.png",
+        "name": "Bondi Radio",
+        "description": "Escape to a Tropical Life on Bondi Beach",
+        "genres": [
+            "Dance",
+            "EDM",
+            "Hip Hop and R&B",
+            "R&B",
+            "Reggae & Island",
+            "Rock",
+            "Top 40 & Pop",
+            "Alternative"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7308|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "mp3",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6178": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png",
+        "name": "CW Remix",
+        "description": "Chemist Warehouse Remix",
+        "genres": [
+            "Mix & Variety",
+            "80s & 90s Hits"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7260": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png",
+        "name": "Guzman Y Gomez",
+        "description": "Guac ‘n’ Roll",
+        "genres": [
+            "Spanish",
+            "Mexico"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7260|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6898": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6898.png",
+        "name": "Kyle & Jackie O's Alist",
+        "description": "The Biggest Stars and the Hottest Music",
+        "genres": [
+            "Top 40 & Pop",
+            "Hip Hop and R&B",
+            "Dance",
+            "EDM",
+            "R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6898|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "mp3",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6970": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6970.png",
+        "name": "Little Rockers Radio",
+        "description": "A Station Dedicated to Kids!",
+        "genres": [
+            "Kids & Family"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6970|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7111": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7111.png",
+        "name": "RN",
+        "description": "The ideas network",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7111|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7415": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7415.png",
+        "name": "Radio Dead",
+        "description": "Playing the best of artists who are dead",
+        "genres": [
+            "Mix & Variety",
+            "Oldies",
+            "Classic Rock",
+            "Metal"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7030": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png",
+        "name": "SBS Arabic24",
+        "description": "Australian News in Arabic",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7029": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png",
+        "name": "SBS Chill",
+        "description": "Chill to relaxing sounds of world music",
+        "genres": [
+            "World",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7028": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png",
+        "name": "SBS PopAsia",
+        "description": "The hottest K-Pop, J-Pop, C-Pop!",
+        "genres": [
+            "World",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7031": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png",
+        "name": "SBS PopDesi",
+        "description": "Non-Stop Desi Pop. Bhangra to Bollywood!",
+        "genres": [
+            "World",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7025": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png",
+        "name": "SBS Radio 2",
+        "description": "News and information in your language",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7026": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png",
+        "name": "SBS Radio 3",
+        "description": "News and information in your language",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7027": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7027.png",
+        "name": "SBS Radio 4",
+        "description": "News and information in your language",
+        "genres": [
+            "News & Talk",
+            "Public Radio"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7027|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7293": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7293.png",
+        "name": "Sydney Gay Lesbian Mardi Gras",
+        "description": "Uniting to Create Equality",
+        "genres": [
+            "Dance",
+            "EDM",
+            "Hosts and DJs",
+            "Popular Artists",
+            "R&B",
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7293|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6794": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6794.png",
+        "name": "The 80s iHeartRadio",
+        "description": "Australia’s Ultimate 80s Station",
+        "genres": [
+            "80s & 90s Hits",
+            "Classic Rock",
+            "Dance",
+            "Mix & Variety",
+            "R&B",
+            "Rock",
+            "Soft Rock",
+            "Hip Hop and R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6794|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6793": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6793.png",
+        "name": "The 90s iHeartRadio",
+        "description": "Australia’s Ultimate 90s Station",
+        "genres": [
+            "80s & 90s Hits",
+            "Dance",
+            "Hip Hop and R&B",
+            "R&B",
+            "Rock",
+            "Classic Rock",
+            "Mix & Variety",
+            "Soft Rock"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6793|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6180": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6180.png",
+        "name": "The Edge Digital",
+        "description": "Beats That Move You",
+        "genres": [
+            "Hip Hop and R&B",
+            "Dance",
+            "EDM",
+            "R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6180|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7419": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7419.png",
+        "name": "The Faction Radio",
+        "description": "The Faction – Heavy Music Streaming 24/7",
+        "genres": [
+            "Punk",
+            "Rock",
+            "Alternative",
+            "Metal"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7419|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7222": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7222.png",
+        "name": "iHeartCountry Australia",
+        "description": "The Hottest Country Hits",
+        "genres": [
+            "Country",
+            "Blues"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6902": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6902.png",
+        "name": "iHeartRadio Countdown AUS",
+        "description": "The Weeks Hottest Tracks on iHeartRadio",
+        "genres": [
+            "Top 40 & Pop",
+            "Dance",
+            "Hip Hop and R&B",
+            "Popular Artists"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6902|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6941": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6941.png",
+        "name": "iHeartRadio Dance",
+        "description": "Devoted To All Things Dance",
+        "genres": [
+            "Dance",
+            "EDM",
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6941|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.6996": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6996.png",
+        "name": "iHeartRadio Old Skool",
+        "description": "From Back in the Day",
+        "genres": [
+            "Hip Hop and R&B",
+            "R&B"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.6996|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7115": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7115.png",
+        "name": "triplej",
+        "description": "We love music",
+        "genres": [
+            "Alternative",
+            "Rock",
+            "College Radio",
+            "Hip Hop and R&B",
+            "Dance",
+            "EDM",
+            "Metal",
+            "Public Radio",
+            "Punk"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7115|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    },
+    "radio.ih.7116": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7116.png",
+        "name": "triplej Unearthed",
+        "description": "100% independent Australian music",
+        "genres": [
+            "Alternative"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Perth/radio.ih.7116|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "48000"
+        }
+    }
+}

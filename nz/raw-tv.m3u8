@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
+http://iptv.matthuisman.nz/nz/tv.9
+
+#EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
+http://iptv.matthuisman.nz/nz/tv.10
+
+#EXTINF:-1 tvg-name="003" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
+http://iptv.matthuisman.nz/nz/tv.11
+
+#EXTINF:-1 tvg-name="004" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
+http://iptv.matthuisman.nz/nz/tv.12
+
+#EXTINF:-1 tvg-name="005" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
+http://iptv.matthuisman.nz/nz/tv.51
+
+#EXTINF:-1 tvg-name="006" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
+http://iptv.matthuisman.nz/nz/tv.55
+
+#EXTINF:-1 tvg-name="007" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
+http://iptv.matthuisman.nz/nz/tv.46
+
+#EXTINF:-1 tvg-name="008" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
+http://iptv.matthuisman.nz/nz/tv.45
+
+#EXTINF:-1 tvg-name="009" tvg-id="tv.7" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.7.png",Shine TV
+http://iptv.matthuisman.nz/nz/tv.7
+
+#EXTINF:-1 tvg-name="010" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
+rtmp://streamer1.streamhost.org/salive/GMIFLNL
+
+#EXTINF:-1 tvg-name="011" tvg-id="tv.21" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.21.png",CTV 8
+http://iptv.matthuisman.nz/nz/tv.21
+
+#EXTINF:-1 tvg-name="012" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
+http://iptv.matthuisman.nz/nz/tv.18
+
+#EXTINF:-1 tvg-name="013" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
+http://iptv.matthuisman.nz/nz/tv.60
+
+#EXTINF:-1 tvg-name="014" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
+http://iptv.matthuisman.nz/nz/tv.redbull.tv
