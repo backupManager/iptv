@@ -2682,7 +2682,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171001235500 +0000" stop="20171002012500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>Premiere. New Episode. The experts begin their matching process and the singles enjoy their Hen and Stag nights! Plus, the first two weddings take place. S1 Ep1</desc>
     <episode-num system="dd_progid">T785428</episode-num>
     <rating system="Freeview">
@@ -2690,7 +2690,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171002012500 +0000" stop="20171002015500 +0000">
-    <title>Now That's Funny!</title>
+    <title>Now That's Funny</title>
     <desc>Hosted by MORE FM's Simon Barnett and Gary McCormick, Now That's Funny features all of the web's funniest videos, guaranteeing laughs for everyone from 5 to 95! S1 Ep2</desc>
     <episode-num system="dd_progid">T680920</episode-num>
     <rating system="Freeview">
@@ -2765,7 +2765,7 @@
   </programme>
   <programme channel="tv.11" start="20171002060000 +0000" stop="20171002063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury discuss a possible National and Greens coalition and fireworks on Guy Fawkes Night. Plus, Lacey from Married at First Sight NZ is in studio.</desc>
     <episode-num system="dd_progid">T751791</episode-num>
   </programme>
   <programme channel="tv.11" start="20171002063000 +0000" stop="20171002073500 +0000">
@@ -2815,8 +2815,8 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171002110000 +0000" stop="20171002113000 +0000">
-    <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <title>The Project (Encore)</title>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury discuss a possible National and Greens coalition and fireworks on Guy Fawkes Night. Plus, Lacey from Married at First Sight NZ is in studio.</desc>
     <episode-num system="dd_progid">T751791</episode-num>
   </programme>
   <programme channel="tv.11" start="20171002113000 +0000" stop="20171002160000 +0000">
@@ -2876,7 +2876,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171002235500 +0000" stop="20171003005500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings continue as the next two couples are married and spend their first night together as newlyweds. S1 Ep2</desc>
     <episode-num system="dd_progid">T785429</episode-num>
     <rating system="Freeview">
@@ -3006,7 +3006,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171003110000 +0000" stop="20171003113000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751792</episode-num>
   </programme>
@@ -3144,6 +3144,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Bridgette, a single North Shore mother of four, has a large budget with big expectations. And Bruce from Nelson is looking for to buy investment property before heading overseas. S1 Ep3</desc>
     <episode-num system="dd_progid">T786601</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171004073000 +0000" stop="20171004083000 +0000">
     <title>NCIS: LA</title>
@@ -3184,7 +3187,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171004105000 +0000" stop="20171004112000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
@@ -3356,7 +3359,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171005113000 +0000" stop="20171005120000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
@@ -3491,6 +3494,9 @@
     <title>The Graham Norton Show</title>
     <desc>Premiere. New Episode. Graham Norton is back and joined by special guests Harrison Ford, Ryan Gosling, Margot Robbie, Reese Witherspoon and Bananarama. S22 Ep1</desc>
     <episode-num system="dd_progid">T784927</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171006080000 +0000" stop="20171006084500 +0000">
     <title>7 Days</title>
@@ -3514,6 +3520,9 @@
     <title>Bob's Burgers</title>
     <desc>Premiere. New Episode. Bob's Burgers decides to compete with Jimmy Pesto by serving brunch, which turns chaotic. Tina, Gene and Louise offer to help Mr Fischoeder's brother. S8 Ep1</desc>
     <episode-num system="dd_progid">T787076</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3608,9 +3617,12 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171007023000 +0000" stop="20171007033000 +0000">
-    <title>Slice Of Paradise</title>
+    <title>Slice Of Paradise (Encore)</title>
     <desc>New Episode. Bridgette, a single North Shore mother of four, has a large budget with big expectations. And Bruce from Nelson is looking for to buy investment property before heading overseas. S1 Ep3</desc>
     <episode-num system="dd_progid">T786601</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007033000 +0000" stop="20171007040000 +0000">
     <title>Getaway</title>
@@ -4050,7 +4062,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171001234500 +0000" stop="20171002004000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>The wives continue their San Francisco getaway - with the ladies offering frank assessments of Vicki.</desc>
     <episode-num system="dd_progid">T284540</episode-num>
     <rating system="Freeview">
@@ -4058,7 +4070,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171002004000 +0000" stop="20171002013500 +0000">
-    <title>Jury Speaks</title>
+    <title>The Jury Speaks</title>
     <desc>Viewers can hear from four of the jurors who found Hollywood legend, Robert Blake not guilty of firstdegree murder in 2005 after his wife, Bonnie Lee Bakley, was found shot execution style.</desc>
     <episode-num system="dd_progid">T775473</episode-num>
     <rating system="Freeview">
@@ -4185,7 +4197,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171002234500 +0000" stop="20171003004000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>Vicki licks her wounds after a point-blank verbal peppering hurled her way by the other wives during a San Francisco getaway.</desc>
     <episode-num system="dd_progid">T284541</episode-num>
     <rating system="Freeview">
@@ -4249,7 +4261,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171003073000 +0000" stop="20171003083000 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In reunion part I, the ladies put it all out on the table, and everyone is called out for their bad and good behavior. S9 Ep20</desc>
     <episode-num system="dd_progid">T763726</episode-num>
     <rating system="Freeview">
@@ -4641,13 +4653,16 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171006063000 +0000" stop="20171006073000 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>In the Mexican desert, two cult leaders' passion for torture and human sacrifice is exposed when they pick the wrong victim. S4 Ep4</desc>
     <episode-num system="dd_progid">T737348</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171006073000 +0000" stop="20171006093500 +0000">
@@ -4938,6 +4953,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171008053000 +0000" stop="20171008063000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -5006,6 +5024,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171008225000 +0000" stop="20171008234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5067,6 +5088,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171009063000 +0000" stop="20171009073000 +0000">
     <title>Flipping Out</title>
@@ -13106,7 +13130,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171002005500 +0000" stop="20171002022500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>Premiere. New Episode. The experts begin their matching process and the singles enjoy their Hen and Stag nights! Plus, the first two weddings take place. S1 Ep1</desc>
     <episode-num system="dd_progid">T785428</episode-num>
     <rating system="Freeview">
@@ -13114,7 +13138,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171002022500 +0000" stop="20171002025500 +0000">
-    <title>Now That's Funny!</title>
+    <title>Now That's Funny</title>
     <desc>Hosted by MORE FM's Simon Barnett and Gary McCormick, Now That's Funny features all of the web's funniest videos, guaranteeing laughs for everyone from 5 to 95! S1 Ep2</desc>
     <episode-num system="dd_progid">T680920</episode-num>
     <rating system="Freeview">
@@ -13189,7 +13213,7 @@
   </programme>
   <programme channel="tv.27" start="20171002070000 +0000" stop="20171002073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury discuss a possible National and Greens coalition and fireworks on Guy Fawkes Night. Plus, Lacey from Married at First Sight NZ is in studio.</desc>
     <episode-num system="dd_progid">T751791</episode-num>
   </programme>
   <programme channel="tv.27" start="20171002073000 +0000" stop="20171002083500 +0000">
@@ -13230,8 +13254,8 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171002120000 +0000" stop="20171002123000 +0000">
-    <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <title>The Project (Encore)</title>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury discuss a possible National and Greens coalition and fireworks on Guy Fawkes Night. Plus, Lacey from Married at First Sight NZ is in studio.</desc>
     <episode-num system="dd_progid">T751791</episode-num>
   </programme>
   <programme channel="tv.27" start="20171002123000 +0000" stop="20171002170000 +0000">
@@ -13291,7 +13315,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171003005500 +0000" stop="20171003015500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings continue as the next two couples are married and spend their first night together as newlyweds. S1 Ep2</desc>
     <episode-num system="dd_progid">T785429</episode-num>
     <rating system="Freeview">
@@ -13415,7 +13439,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171003120000 +0000" stop="20171003123000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751792</episode-num>
   </programme>
@@ -13553,6 +13577,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Bridgette, a single North Shore mother of four, has a large budget with big expectations. And Bruce from Nelson is looking for to buy investment property before heading overseas. S1 Ep3</desc>
     <episode-num system="dd_progid">T786601</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171004083000 +0000" stop="20171004093000 +0000">
     <title>NCIS: LA</title>
@@ -13584,7 +13611,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171004115000 +0000" stop="20171004122000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
@@ -13750,7 +13777,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171005123000 +0000" stop="20171005130000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
@@ -13885,6 +13912,9 @@
     <title>The Graham Norton Show</title>
     <desc>Premiere. New Episode. Graham Norton is back and joined by special guests Harrison Ford, Ryan Gosling, Margot Robbie, Reese Witherspoon and Bananarama. S22 Ep1</desc>
     <episode-num system="dd_progid">T784927</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171006090000 +0000" stop="20171006094500 +0000">
     <title>7 Days</title>
@@ -13999,9 +14029,12 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171007033000 +0000" stop="20171007043000 +0000">
-    <title>Slice Of Paradise</title>
+    <title>Slice Of Paradise (Encore)</title>
     <desc>New Episode. Bridgette, a single North Shore mother of four, has a large budget with big expectations. And Bruce from Nelson is looking for to buy investment property before heading overseas. S1 Ep3</desc>
     <episode-num system="dd_progid">T786601</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007043000 +0000" stop="20171007050000 +0000">
     <title>Getaway</title>
@@ -16058,7 +16091,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171002004500 +0000" stop="20171002014000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>The wives continue their San Francisco getaway - with the ladies offering frank assessments of Vicki.</desc>
     <episode-num system="dd_progid">T284540</episode-num>
     <rating system="Freeview">
@@ -16066,7 +16099,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171002014000 +0000" stop="20171002023500 +0000">
-    <title>Jury Speaks</title>
+    <title>The Jury Speaks</title>
     <desc>Viewers can hear from four of the jurors who found Hollywood legend, Robert Blake not guilty of firstdegree murder in 2005 after his wife, Bonnie Lee Bakley, was found shot execution style.</desc>
     <episode-num system="dd_progid">T775473</episode-num>
     <rating system="Freeview">
@@ -16193,7 +16226,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171003004500 +0000" stop="20171003014000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>Vicki licks her wounds after a point-blank verbal peppering hurled her way by the other wives during a San Francisco getaway.</desc>
     <episode-num system="dd_progid">T284541</episode-num>
     <rating system="Freeview">
@@ -16257,7 +16290,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171003083000 +0000" stop="20171003093000 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In reunion part I, the ladies put it all out on the table, and everyone is called out for their bad and good behavior. S9 Ep20</desc>
     <episode-num system="dd_progid">T763726</episode-num>
     <rating system="Freeview">
@@ -16649,13 +16682,16 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171006073000 +0000" stop="20171006083000 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>In the Mexican desert, two cult leaders' passion for torture and human sacrifice is exposed when they pick the wrong victim. S4 Ep4</desc>
     <episode-num system="dd_progid">T737348</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171006083000 +0000" stop="20171006103500 +0000">
@@ -16946,6 +16982,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171008063000 +0000" stop="20171008073000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -17014,6 +17053,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171008235000 +0000" stop="20171009004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17075,6 +17117,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171009073000 +0000" stop="20171009083000 +0000">
     <title>Flipping Out</title>
@@ -29330,9 +29375,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171002200000 +0000" stop="20171002210000 +0000">
-    <title>Top 10 197</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T576243</episode-num>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Cameos</desc>
+    <episode-num system="dd_progid">T576113</episode-num>
   </programme>
   <programme channel="tv.51" start="20171002210000 +0000" stop="20171002230000 +0000">
     <title>All The Hits</title>
@@ -29382,14 +29427,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171003063000 +0000" stop="20171003070000 +0000">
-    <title>This vs That 197</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T576043</episode-num>
+    <title>This vs That</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Disclosure Vs. Major Lazer</desc>
+    <episode-num system="dd_progid">T575870</episode-num>
   </programme>
   <programme channel="tv.51" start="20171003070000 +0000" stop="20171003080000 +0000">
-    <title>Top 10 197</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T576243</episode-num>
+    <title>Top 10</title>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Cameos</desc>
+    <episode-num system="dd_progid">T576113</episode-num>
   </programme>
   <programme channel="tv.51" start="20171003080000 +0000" stop="20171003093000 +0000">
     <title>All The Hits</title>
