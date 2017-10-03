@@ -380,6 +380,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam gets stingy on his date with Eve on their Zedd song parody, Saale bakes some brownies with Matty McLean, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471376</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171003030500 +0000" stop="20171003033000 +0000">
     <title>Disney Bizaardvark</title>
@@ -545,6 +548,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam gets stingy on his date with Eve on their Zedd song parody, Saale bakes some brownies with Matty McLean, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471376</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171003160500 +0000" stop="20171003163000 +0000">
     <title>Neighbours</title>
@@ -687,6 +693,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to the stars on The Changeover red carpet, you could win from home with "Eyes on the Prize", and Ivy encounters some hidden messages with her horoscopes!</desc>
     <episode-num system="dd_progid">10471377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171004030500 +0000" stop="20171004033000 +0000">
     <title>Disney Bizaardvark</title>
@@ -766,6 +775,12 @@
     <title>All New The Big Bang Theory</title>
     <desc>Leonard angers the University and the Physics Community when he gives an embarrassing radio interview. After the embarrassing radio interview Penny comforts her husband.</desc>
     <episode-num system="dd_progid">10494559</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171004080500 +0000" stop="20171004083500 +0000">
     <title>All New 2 Broke Girls</title>
@@ -886,6 +901,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to the stars on The Changeover red carpet, you could win from home with "Eyes on the Prize", and Ivy encounters some hidden messages with her horoscopes!</desc>
     <episode-num system="dd_progid">10471377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171004160500 +0000" stop="20171004163000 +0000">
     <title>Neighbours</title>
@@ -1037,6 +1055,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to Justin Theroux and Fred Armisen from The Lego Ninjago Movie, national hip hop champs ID Co have some pro dance tips, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471378</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171005030500 +0000" stop="20171005033000 +0000">
     <title>Disney Bizaardvark</title>
@@ -1097,6 +1118,9 @@
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171005063000 +0000" stop="20171005070000 +0000">
     <title>Police Ten 7</title>
@@ -1173,6 +1197,9 @@
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171005125000 +0000" stop="20171005135500 +0000">
     <title>Infomercial</title>
@@ -1210,6 +1237,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to Justin Theroux and Fred Armisen from The Lego Ninjago Movie, national hip hop champs ID Co have some pro dance tips, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471378</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171005160500 +0000" stop="20171005163000 +0000">
     <title>Neighbours</title>
@@ -1338,6 +1368,9 @@
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006023000 +0000" stop="20171006023500 +0000">
     <title>Leon</title>
@@ -1731,7 +1764,13 @@
     <title>Horrible Bosses</title>
     <desc>Three friends conspire to murder their awful bosses when they realise they are standing in the way of their happiness. Starring Jennifer Aniston, Jason Bateman and Kevin Spacey.</desc>
     <episode-num system="dd_progid">10313021</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171007100500 +0000" stop="20171007114000 +0000">
     <title>Deuce Bigalow: Male Gigolo</title>
@@ -2432,7 +2471,7 @@
     <desc>The Weekly Hot List: Catch up on the seventh and final full week in the Love Island villa, with plenty of unseen action and all the best moments crammed into one jam-packed hour.</desc>
     <episode-num system="dd_progid">10485607</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171010010000 +0000" stop="20171010013000 +0000">
