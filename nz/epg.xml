@@ -785,6 +785,9 @@
     <title>Shortland Street</title>
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -864,6 +867,9 @@
     <title>Shortland Street</title>
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1035,6 +1041,9 @@
     <title>Shortland Street</title>
     <desc>Harry faces losing his love. Frank embraces chaos.</desc>
     <episode-num system="dd_progid">10469659</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1087,6 +1096,9 @@
     <title>Home And Away</title>
     <desc>Things turn around for Olivia. Brody faces accusations.</desc>
     <episode-num system="dd_progid">10487052</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006050000 +0000" stop="20171006053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1108,7 +1120,13 @@
     <title>Shortland Street</title>
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006063000 +0000" stop="20171006070000 +0000">
     <title>The Middle</title>
@@ -1168,7 +1186,13 @@
     <title>Shortland Street</title>
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006123000 +0000" stop="20171006133000 +0000">
     <title>Infomercial</title>
@@ -1600,7 +1624,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>G</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171008011500 +0000" stop="20171008013000 +0000">
@@ -1729,7 +1753,7 @@
     </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171008163000 +0000" stop="20171008170000 +0000">
@@ -1840,12 +1864,21 @@
     <title>Home And Away</title>
     <desc>Things turn around for Olivia. Brody faces accusations.</desc>
     <episode-num system="dd_progid">10487052</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009020000 +0000" stop="20171009023000 +0000">
     <title>Shortland Street</title>
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009023000 +0000" stop="20171009023500 +0000">
     <title>Leon</title>
@@ -1864,6 +1897,9 @@
     <title>Disney Bizaardvark</title>
     <desc>Best friends Paige and Frankie take the video blogging world by storm with their online comedy channel “Bizaardvark.”</desc>
     <episode-num system="dd_progid">10457519</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
   </programme>
   <programme channel="tv.10" start="20171009033000 +0000" stop="20171009040000 +0000">
     <title>Friends</title>
@@ -1909,6 +1945,9 @@
     <title>Shortland Street</title>
     <desc>Chris tries to veto Harry’s plan. Damo is exposed as a fraud. Frank learns about love from Vinnie and Nicole.</desc>
     <episode-num system="dd_progid">10469661</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1988,6 +2027,9 @@
     <title>Shortland Street</title>
     <desc>Chris tries to veto Harry’s plan. Damo is exposed as a fraud. Frank learns about love from Vinnie and Nicole.</desc>
     <episode-num system="dd_progid">10469661</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2126,18 +2168,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171009230000 +0000" stop="20171010000000 +0000">
-    <title>Jeremy Kyle</title>
-    <desc>Today on Jeremy Kyle: "My Wife Puts Her Pet Pigs Before Our Marriage!"</desc>
-    <episode-num system="dd_progid">10428722</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.10" start="20171010000000 +0000" stop="20171010010000 +0000">
-    <title>Love Island</title>
-    <desc>The Weekly Hot List: Catch up on the seventh and final full week in the Love Island villa, with plenty of unseen action and all the best moments crammed into one jam-packed hour.</desc>
-    <episode-num system="dd_progid">10485607</episode-num>
+  <programme channel="tv.10" start="20171009230000 +0000" stop="20171010010000 +0000">
+    <title>Mean Girls 2</title>
+    <desc>The Plastics are back in the long awaited follow-up to the smash-hit Mean Girls! Confident senior Jo begins the new school year by breaking her own cardinal rule: don't get involved in girl drama.</desc>
+    <episode-num system="dd_progid">10402851</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -2156,6 +2194,9 @@
     <title>Shortland Street</title>
     <desc>Chris tries to veto Harry’s plan. Damo is exposed as a fraud. Frank learns about love from Vinnie and Nicole.</desc>
     <episode-num system="dd_progid">10469661</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2201,7 +2242,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171010043000 +0000" stop="20171010050000 +0000">
@@ -2229,6 +2270,9 @@
     <title>Shortland Street</title>
     <desc>Frank plays the long game. Chris pushes too far. Dawn’s bubble threatens to burst.</desc>
     <episode-num system="dd_progid">10469662</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2293,6 +2337,9 @@
     <title>Shortland Street</title>
     <desc>Frank plays the long game. Chris pushes too far. Dawn’s bubble threatens to burst.</desc>
     <episode-num system="dd_progid">10469662</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2431,14 +2478,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171010230000 +0000" stop="20171011010000 +0000">
-    <title>Mean Girls 2</title>
-    <desc>The Plastics are back in the long awaited follow-up to the smash-hit Mean Girls! Confident senior Jo begins the new school year by breaking her own cardinal rule: don't get involved in girl drama.</desc>
-    <episode-num system="dd_progid">10402851</episode-num>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
-    <subtitles type="teletext"/>
+  <programme channel="tv.10" start="20171010230000 +0000" stop="20171011000000 +0000">
+    <title>Jeremy Kyle</title>
+    <desc>Today on Jeremy Kyle: "My Wife Puts Her Pet Pigs Before Our Marriage!"</desc>
+    <episode-num system="dd_progid">10428722</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20171011000000 +0000" stop="20171011010000 +0000">
+    <title>Love Island</title>
+    <desc>The Weekly Hot List: Catch up on the seventh and final full week in the Love Island villa, with plenty of unseen action and all the best moments crammed into one jam-packed hour.</desc>
+    <episode-num system="dd_progid">10485607</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -2463,6 +2514,9 @@
     <title>Shortland Street</title>
     <desc>Frank plays the long game. Chris pushes too far. Dawn’s bubble threatens to burst.</desc>
     <episode-num system="dd_progid">10469662</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2536,6 +2590,9 @@
     <title>Shortland Street</title>
     <desc>Curtis and Dawn discover honesty. Mo fights to stay in charge. Vinnie’s family threatens to tear apart.</desc>
     <episode-num system="dd_progid">10469663</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -7971,6 +8028,9 @@
     <title>Home And Away</title>
     <desc>Things turn around for Olivia. Brody faces accusations.</desc>
     <episode-num system="dd_progid">10487052</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171006060000 +0000" stop="20171006063000 +0000">
     <title>The Big Bang Theory</title>
@@ -7993,6 +8053,9 @@
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171006073000 +0000" stop="20171006080000 +0000">
     <title>The Middle</title>
@@ -8047,6 +8110,9 @@
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171006133000 +0000" stop="20171006143000 +0000">
     <title>Infomercial</title>
@@ -8418,7 +8484,7 @@
     <desc>Join host Alfonso Ribeiro for America's Funniest Home Videos.</desc>
     <episode-num system="dd_progid">10377267</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171008021500 +0000" stop="20171008023000 +0000">
@@ -8520,7 +8586,7 @@
     <episode-num system="dd_progid">10377050</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171008173000 +0000" stop="20171008180000 +0000">
@@ -8628,12 +8694,18 @@
     <title>Home And Away</title>
     <desc>Things turn around for Olivia. Brody faces accusations.</desc>
     <episode-num system="dd_progid">10487052</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171009030000 +0000" stop="20171009033000 +0000">
     <title>Shortland Street</title>
     <desc>Damo breaks a trust. Drew’s guilt overcomes him.</desc>
     <episode-num system="dd_progid">10469660</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171009033000 +0000" stop="20171009033500 +0000">
     <title>Leon</title>
@@ -8899,18 +8971,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171010000000 +0000" stop="20171010010000 +0000">
-    <title>Jeremy Kyle</title>
-    <desc>Today on Jeremy Kyle: "My Wife Puts Her Pet Pigs Before Our Marriage!"</desc>
-    <episode-num system="dd_progid">10428722</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
-  </programme>
-  <programme channel="tv.14" start="20171010010000 +0000" stop="20171010020000 +0000">
-    <title>Love Island</title>
-    <desc>The Weekly Hot List: Catch up on the seventh and final full week in the Love Island villa, with plenty of unseen action and all the best moments crammed into one jam-packed hour.</desc>
-    <episode-num system="dd_progid">10485607</episode-num>
+  <programme channel="tv.14" start="20171010000000 +0000" stop="20171010020000 +0000">
+    <title>Mean Girls 2</title>
+    <desc>The Plastics are back in the long awaited follow-up to the smash-hit Mean Girls! Confident senior Jo begins the new school year by breaking her own cardinal rule: don't get involved in girl drama.</desc>
+    <episode-num system="dd_progid">10402851</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -8968,7 +9033,7 @@
     <desc>When Bart's voodoo doll spell accidentally makes his teacher pregnant, he becomes a saviour to couples hoping to conceive.</desc>
     <episode-num system="dd_progid">10478314</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171010053000 +0000" stop="20171010060000 +0000">
@@ -9189,11 +9254,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171011000000 +0000" stop="20171011020000 +0000">
-    <title>Mean Girls 2</title>
-    <desc>The Plastics are back in the long awaited follow-up to the smash-hit Mean Girls! Confident senior Jo begins the new school year by breaking her own cardinal rule: don't get involved in girl drama.</desc>
-    <episode-num system="dd_progid">10402851</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.14" start="20171011000000 +0000" stop="20171011010000 +0000">
+    <title>Jeremy Kyle</title>
+    <desc>Today on Jeremy Kyle: "My Wife Puts Her Pet Pigs Before Our Marriage!"</desc>
+    <episode-num system="dd_progid">10428722</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20171011010000 +0000" stop="20171011020000 +0000">
+    <title>Love Island</title>
+    <desc>The Weekly Hot List: Catch up on the seventh and final full week in the Love Island villa, with plenty of unseen action and all the best moments crammed into one jam-packed hour.</desc>
+    <episode-num system="dd_progid">10485607</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -21401,6 +21473,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On this show today, Sean Hayes and Rita Ora.</desc>
     <episode-num system="dd_progid">10491708</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171008220000 +0000" stop="20171008223000 +0000">
     <title>Morena</title>
@@ -21795,6 +21870,9 @@
     <title>Morena</title>
     <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
     <episode-num system="dd_progid">10495400</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171010223000 +0000" stop="20171010233000 +0000">
     <title>The Chase</title>
@@ -30759,7 +30837,7 @@
     <desc>Part 2 of 2. Stewie and Brian journey to the North Pole in order to kill Santa.</desc>
     <episode-num system="dd_progid">10426315</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.55" start="20171008083000 +0000" stop="20171008092500 +0000">
@@ -43665,6 +43743,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On this show today, Sean Hayes and Rita Ora.</desc>
     <episode-num system="dd_progid">10491708</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171008210000 +0000" stop="20171008213000 +0000">
     <title>Morena</title>
@@ -43953,6 +44034,9 @@
     <title>Outback Truckers</title>
     <desc>New Season: Highly dramatic, often humorous, Outback Truckers reveals the true blue heart and soul of Aussie trucking.</desc>
     <episode-num system="dd_progid">10468160</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171010073000 +0000" stop="20171010080000 +0000">
     <title>Border Security</title>
@@ -44056,6 +44140,9 @@
     <title>Morena</title>
     <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
     <episode-num system="dd_progid">10495400</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171010213000 +0000" stop="20171010223000 +0000">
     <title>The Chase</title>
