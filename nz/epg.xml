@@ -33481,7 +33481,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171011180000 +0000" stop="20171011183000 +0000">
+  <programme channel="tv.56" start="20171011180000 +0000" stop="20171011183500 +0000">
     <title>Stevie's Trek</title>
     <desc>Stevie heads off to the Holy land to visit the places where a young shepherd boy once lived, a boy who became king of Israel. Find out where his throne was.</desc>
     <episode-num system="dd_progid">STEVIETREKx04</episode-num>
@@ -33489,7 +33489,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171011183000 +0000" stop="20171011190000 +0000">
+  <programme channel="tv.56" start="20171011183500 +0000" stop="20171011190000 +0000">
     <title>Friends and Heroes</title>
     <desc>While Macky and the girls are minding the shop, a petty thief steals a silver fish with vital information to the rebel movement engraved upon it. Can the gang get the fish back?</desc>
     <episode-num system="dd_progid">FRHEROx108</episode-num>
@@ -33585,10 +33585,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171012013000 +0000" stop="20171012023000 +0000">
+  <programme channel="tv.56" start="20171012013000 +0000" stop="20171012022000 +0000">
     <title>Beginnings</title>
     <desc>Satan told 2 lies in the very beginning. One was that people have an immortal soul and will never die; the second was that people are gods, knowing what is eternally right and wrong</desc>
     <episode-num system="dd_progid">BEGIN02x01</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20171012022000 +0000" stop="20171012023000 +0000">
+    <title>Hymns of the Forefathers</title>
+    <desc>Continue the celebration in sight and sound as we follow the musical story of the English church from the 18th and 19th Centuries</desc>
+    <episode-num system="dd_progid">HYMNSOTFx06A</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
