@@ -2890,7 +2890,7 @@
   </programme>
   <programme channel="tv.11" start="20171004060000 +0000" stop="20171004063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Louise Wallace discuss women drinking while pregnant and Civil Defence text alerts. Plus, some inspiring stories that have come out of the Las Vegas shooting</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
   <programme channel="tv.11" start="20171004063000 +0000" stop="20171004073000 +0000">
@@ -2941,7 +2941,7 @@
   </programme>
   <programme channel="tv.11" start="20171004105000 +0000" stop="20171004112000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Louise Wallace discuss women drinking while pregnant and Civil Defence text alerts. Plus, some inspiring stories that have come out of the Las Vegas shooting</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
   <programme channel="tv.11" start="20171004112000 +0000" stop="20171004160000 +0000">
@@ -2999,6 +2999,9 @@
     <title>Mom &amp; Dad Undergrads</title>
     <desc>When twins attend university, their mother decides to enrol and take college classes with her husband in order to keep the family together.</desc>
     <episode-num system="dd_progid">T788584</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171005015000 +0000" stop="20171005022000 +0000">
     <title>Celebrity Name Game</title>
@@ -3079,7 +3082,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171005073000 +0000" stop="20171005094000 +0000">
+  <programme channel="tv.11" start="20171005073000 +0000" stop="20171005093000 +0000">
     <title>Salt</title>
     <desc>Evelyn Salt, a CIA officer, swore an oath to do duty to her country. But when she is accused of being a Russian spy, Salt becomes a fugitive.</desc>
     <episode-num system="dd_progid">T761830</episode-num>
@@ -3090,17 +3093,17 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171005094000 +0000" stop="20171005101000 +0000">
+  <programme channel="tv.11" start="20171005093000 +0000" stop="20171005100000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745898</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171005101000 +0000" stop="20171005104000 +0000">
+  <programme channel="tv.11" start="20171005100000 +0000" stop="20171005103000 +0000">
     <title>Holden Golf World</title>
     <desc>Mark Leishman and Laura McGoldrick visit the world's most exotic golfing destinations, uncover hidden golf gems around New Zealand and get your game in shape with skills and drills.</desc>
     <episode-num system="dd_progid">T759801</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171005104000 +0000" stop="20171005113000 +0000">
+  <programme channel="tv.11" start="20171005103000 +0000" stop="20171005112500 +0000">
     <title>State Of Affairs</title>
     <desc>A threatening text is sent to Charlie and Nick. Meanwhile, Charlie has flashbacks of her first interactions with Fatah. S1 Ep4</desc>
     <episode-num system="dd_progid">T504719</episode-num>
@@ -3111,12 +3114,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171005113000 +0000" stop="20171005120000 +0000">
+  <programme channel="tv.11" start="20171005112500 +0000" stop="20171005115000 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171005120000 +0000" stop="20171005160000 +0000">
+  <programme channel="tv.11" start="20171005115000 +0000" stop="20171005160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3327,7 +3330,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171006223000 +0000" stop="20171007000000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Omnibus)</title>
     <desc>Premiere. New Episode. The experts begin their matching process and the singles enjoy their Hen and Stag nights! Plus, the first two weddings take place. S1 Ep1</desc>
     <episode-num system="dd_progid">T785428</episode-num>
     <rating system="Freeview">
@@ -3335,7 +3338,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171007000000 +0000" stop="20171007010000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Omnibus)</title>
     <desc>New Episode. The weddings continue as the next two couples are married and spend their first night together as newlyweds. S1 Ep2</desc>
     <episode-num system="dd_progid">T785429</episode-num>
     <rating system="Freeview">
@@ -3365,6 +3368,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. Adam's school project backfires and Beverly teaches Erica and Barry an important lesson. S5 Ep2</desc>
     <episode-num system="dd_progid">T785699</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3620,7 +3626,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20171008222500 +0000" stop="20171008225500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784485</episode-num>
     <rating system="Freeview">
@@ -3636,7 +3642,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171008235500 +0000" stop="20171009012500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
   </programme>
@@ -3808,7 +3814,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20171009222500 +0000" stop="20171009225500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784486</episode-num>
     <rating system="Freeview">
@@ -3824,7 +3830,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171009235500 +0000" stop="20171010005500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
   </programme>
@@ -3940,12 +3946,15 @@
     <title>The Blacklist</title>
     <desc>New Episode. Liz and the Task Force join Red on an international task of pursuing a billionaire who is suspected to be a high end art thief. S5 Ep2</desc>
     <episode-num system="dd_progid">T785676</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.11" start="20171010110000 +0000" stop="20171010113000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
@@ -3985,7 +3994,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20171010222500 +0000" stop="20171010225500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784487</episode-num>
     <rating system="Freeview">
@@ -4004,6 +4013,9 @@
     <title>My George</title>
     <desc>A struggling writer unlucky in love is forced to fake a relationship with a man to promote her book and save her career, while she overlooks the love of a long-time friend.</desc>
     <episode-num system="dd_progid">T788586</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171011015000 +0000" stop="20171011022000 +0000">
     <title>Celebrity Name Game</title>
@@ -4485,6 +4497,9 @@
     <title>Four Weddings UK</title>
     <desc>Butterfly obessed Becky is getting married in a church, and will be entertaining her guests with a magician. S3 Ep4</desc>
     <episode-num system="dd_progid">T784355</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171006053000 +0000" stop="20171006063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -4758,11 +4773,17 @@
     <title>Four Weddings UK</title>
     <desc>A small gathering with only 30 guest, a princess wedding, a Halloween themed fancy dress and a celtic wedding who will be voted the winner? S2 Ep2</desc>
     <episode-num system="dd_progid">T784353</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171008014500 +0000" stop="20171008024500 +0000">
     <title>Four Weddings UK</title>
     <desc>True party animals Steven and Paul are throwing the wedding to remember. A traditional scottish affair with kilts bagpipes and lots to drink. S2 Ep3</desc>
     <episode-num system="dd_progid">T784354</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171008024500 +0000" stop="20171008033500 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -4856,7 +4877,7 @@
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171008225000 +0000" stop="20171008234500 +0000">
@@ -4911,11 +4932,17 @@
     <title>Four Weddings UK</title>
     <desc>Emma and Kam are already married under English law. Now they are having a huge Indian wedding at a Sikh temple to marry in the tradition of Kam's cutlure. S2 Ep5</desc>
     <episode-num system="dd_progid">T784356</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171009053000 +0000" stop="20171009063000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171009063000 +0000" stop="20171009073000 +0000">
     <title>Flipping Out</title>
@@ -4985,7 +5012,7 @@
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171009225500 +0000" stop="20171009235000 +0000">
@@ -5049,7 +5076,7 @@
     <desc>Tabatha tries to refurbish a Miami salon that's not making the cut. The establishment's troubles include lazy styling skills and an unprofessional staff that disrespects the young owner. S2 Ep4</desc>
     <episode-num system="dd_progid">T278920</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171010063000 +0000" stop="20171010073000 +0000">
@@ -5174,6 +5201,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171011063000 +0000" stop="20171011073000 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -13396,7 +13426,7 @@
   </programme>
   <programme channel="tv.27" start="20171004070000 +0000" stop="20171004073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Louise Wallace discuss women drinking while pregnant and Civil Defence text alerts. Plus, some inspiring stories that have come out of the Las Vegas shooting</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
   <programme channel="tv.27" start="20171004073000 +0000" stop="20171004083000 +0000">
@@ -13438,7 +13468,7 @@
   </programme>
   <programme channel="tv.27" start="20171004115000 +0000" stop="20171004122000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Louise Wallace discuss women drinking while pregnant and Civil Defence text alerts. Plus, some inspiring stories that have come out of the Las Vegas shooting</desc>
     <episode-num system="dd_progid">T751793</episode-num>
   </programme>
   <programme channel="tv.27" start="20171004122000 +0000" stop="20171004170000 +0000">
@@ -13496,6 +13526,9 @@
     <title>Mom &amp; Dad Undergrads</title>
     <desc>When twins attend university, their mother decides to enrol and take college classes with her husband in order to keep the family together.</desc>
     <episode-num system="dd_progid">T788584</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171005025000 +0000" stop="20171005032000 +0000">
     <title>Celebrity Name Game</title>
@@ -13576,7 +13609,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171005083000 +0000" stop="20171005104000 +0000">
+  <programme channel="tv.27" start="20171005083000 +0000" stop="20171005103000 +0000">
     <title>Salt</title>
     <desc>Evelyn Salt, a CIA officer, swore an oath to do duty to her country. But when she is accused of being a Russian spy, Salt becomes a fugitive.</desc>
     <episode-num system="dd_progid">T761830</episode-num>
@@ -13584,17 +13617,17 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171005104000 +0000" stop="20171005111000 +0000">
+  <programme channel="tv.27" start="20171005103000 +0000" stop="20171005110000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745898</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171005111000 +0000" stop="20171005114000 +0000">
+  <programme channel="tv.27" start="20171005110000 +0000" stop="20171005113000 +0000">
     <title>Holden Golf World</title>
     <desc>Mark Leishman and Laura McGoldrick visit the world's most exotic golfing destinations, uncover hidden golf gems around New Zealand and get your game in shape with skills and drills.</desc>
     <episode-num system="dd_progid">T759801</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171005114000 +0000" stop="20171005123000 +0000">
+  <programme channel="tv.27" start="20171005113000 +0000" stop="20171005122500 +0000">
     <title>State Of Affairs</title>
     <desc>A threatening text is sent to Charlie and Nick. Meanwhile, Charlie has flashbacks of her first interactions with Fatah. S1 Ep4</desc>
     <episode-num system="dd_progid">T504719</episode-num>
@@ -13602,12 +13635,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171005123000 +0000" stop="20171005130000 +0000">
+  <programme channel="tv.27" start="20171005122500 +0000" stop="20171005125000 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171005130000 +0000" stop="20171005170000 +0000">
+  <programme channel="tv.27" start="20171005125000 +0000" stop="20171005170000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13815,7 +13848,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171006233000 +0000" stop="20171007010000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Omnibus)</title>
     <desc>Premiere. New Episode. The experts begin their matching process and the singles enjoy their Hen and Stag nights! Plus, the first two weddings take place. S1 Ep1</desc>
     <episode-num system="dd_progid">T785428</episode-num>
     <rating system="Freeview">
@@ -13823,7 +13856,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171007010000 +0000" stop="20171007020000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Omnibus)</title>
     <desc>New Episode. The weddings continue as the next two couples are married and spend their first night together as newlyweds. S1 Ep2</desc>
     <episode-num system="dd_progid">T785429</episode-num>
     <rating system="Freeview">
@@ -14093,7 +14126,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20171008232500 +0000" stop="20171008235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784485</episode-num>
     <rating system="Freeview">
@@ -14109,7 +14142,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171009005500 +0000" stop="20171009022500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
   </programme>
@@ -14272,7 +14305,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20171009232500 +0000" stop="20171009235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784486</episode-num>
     <rating system="Freeview">
@@ -14288,7 +14321,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171010005500 +0000" stop="20171010015500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
   </programme>
@@ -14406,7 +14439,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171010120000 +0000" stop="20171010123000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
@@ -14446,7 +14479,7 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20171010232500 +0000" stop="20171010235500 +0000">
-    <title>Entertainment Tonight</title>
+    <title>Entertainment Tonight (Encore)</title>
     <desc>ET covers entertainment news stories on celebrities, film, television, music, fashion, award shows and special events in a trend-setting, ground-breaking format.</desc>
     <episode-num system="dd_progid">T784487</episode-num>
     <rating system="Freeview">
@@ -14465,6 +14498,9 @@
     <title>My George</title>
     <desc>A struggling writer unlucky in love is forced to fake a relationship with a man to promote her book and save her career, while she overlooks the love of a long-time friend.</desc>
     <episode-num system="dd_progid">T788586</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171011025000 +0000" stop="20171011032000 +0000">
     <title>Celebrity Name Game</title>
@@ -16588,6 +16624,9 @@
     <title>Four Weddings UK</title>
     <desc>Butterfly obessed Becky is getting married in a church, and will be entertaining her guests with a magician. S3 Ep4</desc>
     <episode-num system="dd_progid">T784355</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171006063000 +0000" stop="20171006073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -16861,11 +16900,17 @@
     <title>Four Weddings UK</title>
     <desc>A small gathering with only 30 guest, a princess wedding, a Halloween themed fancy dress and a celtic wedding who will be voted the winner? S2 Ep2</desc>
     <episode-num system="dd_progid">T784353</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171008024500 +0000" stop="20171008034500 +0000">
     <title>Four Weddings UK</title>
     <desc>True party animals Steven and Paul are throwing the wedding to remember. A traditional scottish affair with kilts bagpipes and lots to drink. S2 Ep3</desc>
     <episode-num system="dd_progid">T784354</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171008034500 +0000" stop="20171008043500 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -16959,7 +17004,7 @@
     <desc>Candolyn has owned Candolyn's Salon for 10 years but she has fallen on hard times. She is losing control of her staff, losing customers from her business, and losing hope fast.</desc>
     <episode-num system="dd_progid">T242227</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171008235000 +0000" stop="20171009004500 +0000">
@@ -17014,11 +17059,17 @@
     <title>Four Weddings UK</title>
     <desc>Emma and Kam are already married under English law. Now they are having a huge Indian wedding at a Sikh temple to marry in the tradition of Kam's cutlure. S2 Ep5</desc>
     <episode-num system="dd_progid">T784356</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171009063000 +0000" stop="20171009073000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171009073000 +0000" stop="20171009083000 +0000">
     <title>Flipping Out</title>
@@ -17088,7 +17139,7 @@
     <desc>Tabatha takes over a Chicago salon that sorely lacks organisation, passion and teamwork. S2 Ep1</desc>
     <episode-num system="dd_progid">T278917</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171009235500 +0000" stop="20171010005000 +0000">
@@ -17152,7 +17203,7 @@
     <desc>Tabatha tries to refurbish a Miami salon that's not making the cut. The establishment's troubles include lazy styling skills and an unprofessional staff that disrespects the young owner. S2 Ep4</desc>
     <episode-num system="dd_progid">T278920</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171010073000 +0000" stop="20171010083000 +0000">
@@ -17277,6 +17328,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171011073000 +0000" stop="20171011083000 +0000">
     <title>Hoarders: Family Secrets</title>
