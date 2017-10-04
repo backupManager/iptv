@@ -24885,9 +24885,9 @@
     </rating>
   </programme>
   <programme channel="tv.41" start="20171008073000 +0000" stop="20171008083000 +0000">
-    <title>Tonnes of Grunt Pt1-RailsceneSpecial</title>
-    <desc>A four-part series looking at New Zealands current diesel locomotives. Part 2 screens next week.</desc>
-    <episode-num system="dd_progid">TonnesofGruntPt1RailsceneSpe</episode-num>
+    <title>NZ Railscene</title>
+    <desc>series for railfans and covers recent activity of rail operations in New Zealand including KiwiRail, Tranz Scenic, mainline heritage operated excursions, restoration, archive footage, railway museums</desc>
+    <episode-num system="dd_progid">NZRailscene-Week41</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25800,9 +25800,12 @@
     <episode-num system="dd_progid">MotorWeek-Week41</episode-num>
   </programme>
   <programme channel="tv.41" start="20171012103000 +0000" stop="20171012110000 +0000">
-    <title>Blokesworld</title>
-    <desc>The show for men.</desc>
-    <episode-num system="dd_progid">Blokesworld-Week41</episode-num>
+    <title>Brown's Takeaways</title>
+    <desc>A penniless fish 'n' chip shop on the edge of a dying town.</desc>
+    <episode-num system="dd_progid">BrownsTakeaways-Week41</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.45" start="20171004103000 +0000" stop="20171004113000 +0000">
     <title>Elizabeth Grant Beauty</title>
