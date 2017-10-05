@@ -730,6 +730,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their coordination skills to the test on a rowing Adam vs Eve, we release your next "Snap That" challenge to win big over the weekend, and Chase talks the power of story making!</desc>
     <episode-num system="dd_progid">10471379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006030500 +0000" stop="20171006033000 +0000">
     <title>Disney Bizaardvark</title>
@@ -894,6 +897,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their coordination skills to the test on a rowing Adam vs Eve, we release your next "Snap That" challenge to win big over the weekend, and Chase talks the power of story making!</desc>
     <episode-num system="dd_progid">10471379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171006161000 +0000" stop="20171006163500 +0000">
     <title>Neighbours</title>
@@ -1097,6 +1103,9 @@
     <desc>New season: The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
     <episode-num system="dd_progid">10423865</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171007053000 +0000" stop="20171007060000 +0000">
     <title>The Middle</title>
@@ -1293,7 +1302,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171008011500 +0000" stop="20171008013000 +0000">
@@ -1396,6 +1405,7 @@
   <programme channel="tv.10" start="20171008135000 +0000" stop="20171008142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10438879</episode-num>
   </programme>
   <programme channel="tv.10" start="20171008142500 +0000" stop="20171008151000 +0000">
     <title>24: Legacy</title>
@@ -1428,6 +1438,7 @@
   <programme channel="tv.10" start="20171008163000 +0000" stop="20171008170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171008170000 +0000" stop="20171008173000 +0000">
     <title>Creflo Dollar</title>
@@ -1482,17 +1493,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171008200000 +0000" stop="20171008203000 +0000">
+  <programme channel="tv.10" start="20171008200000 +0000" stop="20171008213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171008203000 +0000" stop="20171008210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171008210000 +0000" stop="20171008213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.10" start="20171008213000 +0000" stop="20171008220000 +0000">
     <title>Neighbours</title>
@@ -1569,6 +1573,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009033000 +0000" stop="20171009040000 +0000">
     <title>Friends</title>
@@ -1593,6 +1600,9 @@
     <title>Home And Away</title>
     <desc>A Police search causes tension. Scarlett takes matters into her own hands.</desc>
     <episode-num system="dd_progid">10487053</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009050000 +0000" stop="20171009053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1614,9 +1624,6 @@
     <title>Shortland Street</title>
     <desc>Chris tries to veto Harry’s plan. Damo is exposed as a fraud. Frank learns about love from Vinnie and Nicole.</desc>
     <episode-num system="dd_progid">10469661</episode-num>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1632,8 +1639,14 @@
   </programme>
   <programme channel="tv.10" start="20171009073000 +0000" stop="20171009080000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>Comedy’s most fabulous foursome is back! See what 2017 holds for these comedy icons!</desc>
+    <desc>New Season: We pick up with Will, Grace, Jack, and Karen 11 years since we last saw them. In this episode, Will and Grace both falter when their political beliefs are put to the test. Jack.</desc>
     <episode-num system="dd_progid">10491206</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009080000 +0000" stop="20171009083000 +0000">
     <title>The Mick</title>
@@ -1704,13 +1717,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171009123500 +0000" stop="20171009131000 +0000">
+  <programme channel="tv.10" start="20171009123500 +0000" stop="20171009134000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171009131000 +0000" stop="20171009134000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171009134000 +0000" stop="20171009142500 +0000">
     <title>Switched At Birth</title>
@@ -1755,6 +1765,7 @@
   <programme channel="tv.10" start="20171009163000 +0000" stop="20171009170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10438879</episode-num>
   </programme>
   <programme channel="tv.10" start="20171009170000 +0000" stop="20171009173000 +0000">
     <title>Creflo Dollar</title>
@@ -1809,17 +1820,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171009200000 +0000" stop="20171009203000 +0000">
+  <programme channel="tv.10" start="20171009200000 +0000" stop="20171009213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171009203000 +0000" stop="20171009210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171009210000 +0000" stop="20171009213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473158</episode-num>
   </programme>
   <programme channel="tv.10" start="20171009213000 +0000" stop="20171009220000 +0000">
     <title>Neighbours</title>
@@ -1858,6 +1862,9 @@
     <title>Home And Away</title>
     <desc>A Police search causes tension. Scarlett takes matters into her own hands.</desc>
     <episode-num system="dd_progid">10487053</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171010020000 +0000" stop="20171010023000 +0000">
     <title>Shortland Street</title>
@@ -2014,13 +2021,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171010125500 +0000" stop="20171010133000 +0000">
+  <programme channel="tv.10" start="20171010125500 +0000" stop="20171010140000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171010133000 +0000" stop="20171010140000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.10" start="20171010140000 +0000" stop="20171010144500 +0000">
     <title>Switched At Birth</title>
@@ -2065,6 +2069,7 @@
   <programme channel="tv.10" start="20171010163000 +0000" stop="20171010170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171010170000 +0000" stop="20171010173000 +0000">
     <title>Creflo Dollar</title>
@@ -2119,17 +2124,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171010200000 +0000" stop="20171010203000 +0000">
+  <programme channel="tv.10" start="20171010200000 +0000" stop="20171010213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171010203000 +0000" stop="20171010210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171010210000 +0000" stop="20171010213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171010213000 +0000" stop="20171010220000 +0000">
     <title>Neighbours</title>
@@ -2363,13 +2361,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171011124500 +0000" stop="20171011132000 +0000">
+  <programme channel="tv.10" start="20171011124500 +0000" stop="20171011135000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171011132000 +0000" stop="20171011135000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10438879</episode-num>
   </programme>
   <programme channel="tv.10" start="20171011135000 +0000" stop="20171011145000 +0000">
     <title>Switched At Birth</title>
@@ -2406,6 +2401,7 @@
   <programme channel="tv.10" start="20171011163000 +0000" stop="20171011170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171011170000 +0000" stop="20171011173000 +0000">
     <title>Creflo Dollar</title>
@@ -2463,17 +2459,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171011200000 +0000" stop="20171011203000 +0000">
+  <programme channel="tv.10" start="20171011200000 +0000" stop="20171011213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171011203000 +0000" stop="20171011210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171011210000 +0000" stop="20171011213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.10" start="20171011213000 +0000" stop="20171011220000 +0000">
     <title>Neighbours</title>
