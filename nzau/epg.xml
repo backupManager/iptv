@@ -2862,7 +2862,7 @@
   </programme>
   <programme channel="tv.11" start="20171005060000 +0000" stop="20171005063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Patrick Gower are joined by NASA scientist Natalie Batalha who discusses potentially living on another planet. Plus, how you can invest your cash easily.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
   <programme channel="tv.11" start="20171005063000 +0000" stop="20171005073000 +0000">
@@ -2907,7 +2907,7 @@
   </programme>
   <programme channel="tv.11" start="20171005112500 +0000" stop="20171005115000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Patrick Gower are joined by NASA scientist Natalie Batalha who discusses potentially living on another planet. Plus, how you can invest your cash easily.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
   <programme channel="tv.11" start="20171005115000 +0000" stop="20171005160000 +0000">
@@ -2965,6 +2965,9 @@
     <title>Perfect On Paper</title>
     <desc>A young woman moves to LA with the task of helping a famous author. She is asked to date men and look for things that make them look good on paper to contribute to the author's new book.</desc>
     <episode-num system="dd_progid">T788588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171006015500 +0000" stop="20171006022000 +0000">
     <title>Celebrity Name Game</title>
@@ -3186,6 +3189,9 @@
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
     <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity). Who w</desc>
     <episode-num system="dd_progid">T784658</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -3195,7 +3201,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746249</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171007060000 +0000" stop="20171007075500 +0000">
+  <programme channel="tv.11" start="20171007060000 +0000" stop="20171007075000 +0000">
     <title>Movie: Nim's Island</title>
     <desc>A young girl inhabits an isolated island with her scientist father and communicates with a reclusive author of the novel she's reading. Starring Jodie Foster, Michael Carman, and Anthony Simcoe.</desc>
     <episode-num system="dd_progid">T284730</episode-num>
@@ -3206,7 +3212,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171007075500 +0000" stop="20171007095000 +0000">
+  <programme channel="tv.11" start="20171007075000 +0000" stop="20171007094500 +0000">
     <title>Cruel Intentions</title>
     <desc>Two bored, wealthy teenage stepsiblings, Kathryn and Sebastian, begin a wicked summer of seduction and betrayal by placing a wager on their feats of sexual one-upmanship. Starring Reese Witherspoon.</desc>
     <episode-num system="dd_progid">T342297</episode-num>
@@ -3217,7 +3223,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171007095000 +0000" stop="20171007120000 +0000">
+  <programme channel="tv.11" start="20171007094500 +0000" stop="20171007115000 +0000">
     <title>The Broken Shore</title>
     <desc>Based on Peter Temple's novel, this crime thriller follows Detective Joe Cashin as he uncovers a web of lies, betrayal and police corruption in a small coastal town.</desc>
     <episode-num system="dd_progid">T739807</episode-num>
@@ -3225,12 +3231,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171007120000 +0000" stop="20171007130000 +0000">
+  <programme channel="tv.11" start="20171007115000 +0000" stop="20171007125000 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753377</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171007130000 +0000" stop="20171007150000 +0000">
+  <programme channel="tv.11" start="20171007125000 +0000" stop="20171007150000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3241,9 +3247,12 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.11" start="20171007160000 +0000" stop="20171007163000 +0000">
-    <title>Hillsong</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1070</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770342</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007163000 +0000" stop="20171007170000 +0000">
     <title>Charles Stanley</title>
@@ -3251,29 +3260,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20171007170000 +0000" stop="20171007173000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 139</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730241</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007173000 +0000" stop="20171007180000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1071</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770343</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007180000 +0000" stop="20171007190000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1741</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758518</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007190000 +0000" stop="20171007193000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756537</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007193000 +0000" stop="20171007200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780939</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171007200000 +0000" stop="20171007203000 +0000">
     <title>R &amp; R</title>
@@ -3353,6 +3377,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171008073000 +0000" stop="20171008100000 +0000">
     <title>Bridesmaids</title>
@@ -3436,6 +3463,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171009012500 +0000" stop="20171009015000 +0000">
     <title>Now That's Funny!</title>
@@ -4142,7 +4172,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171004234500 +0000" stop="20171005004000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>The Orange County wives reassemble to comment on all the hissing, dissing and dishing of Season Five.</desc>
     <episode-num system="dd_progid">T330871</episode-num>
     <rating system="Freeview">
@@ -4985,11 +5015,17 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Alexis, Gretchen and Peggy assemble for a shop-til-you-drop get-together. In due time, dinner conversation turns racy when they spill their lusty secrets.</desc>
     <episode-num system="dd_progid">T343261</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171011004000 +0000" stop="20171011013500 +0000">
     <title>Below Deck: Mediterranean</title>
     <desc>A one day charter quickly feels like an eternity when a group of eccentric Texans board Sirocco and keep the demands flowing more than the drinks. S2 Ep12</desc>
     <episode-num system="dd_progid">T753157</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171011013500 +0000" stop="20171011023500 +0000">
     <title>Real Housewives Of New York City, The</title>
@@ -5019,13 +5055,16 @@
     <title>Four Weddings UK</title>
     <desc>Four celebrity weddings face off S2 Ep7</desc>
     <episode-num system="dd_progid">T784358</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171011053000 +0000" stop="20171011063000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171011063000 +0000" stop="20171011073000 +0000">
@@ -13331,7 +13370,7 @@
   </programme>
   <programme channel="tv.27" start="20171005070000 +0000" stop="20171005073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Patrick Gower are joined by NASA scientist Natalie Batalha who discusses potentially living on another planet. Plus, how you can invest your cash easily.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
   <programme channel="tv.27" start="20171005073000 +0000" stop="20171005083000 +0000">
@@ -13370,7 +13409,7 @@
   </programme>
   <programme channel="tv.27" start="20171005122500 +0000" stop="20171005125000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Patrick Gower are joined by NASA scientist Natalie Batalha who discusses potentially living on another planet. Plus, how you can invest your cash easily.</desc>
     <episode-num system="dd_progid">T751794</episode-num>
   </programme>
   <programme channel="tv.27" start="20171005125000 +0000" stop="20171005170000 +0000">
@@ -13428,6 +13467,9 @@
     <title>Perfect On Paper</title>
     <desc>A young woman moves to LA with the task of helping a famous author. She is asked to date men and look for things that make them look good on paper to contribute to the author's new book.</desc>
     <episode-num system="dd_progid">T788588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171006025500 +0000" stop="20171006032000 +0000">
     <title>Celebrity Name Game</title>
@@ -13649,7 +13691,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746249</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171007070000 +0000" stop="20171007085500 +0000">
+  <programme channel="tv.27" start="20171007070000 +0000" stop="20171007085000 +0000">
     <title>Movie: Nim's Island</title>
     <desc>A young girl inhabits an isolated island with her scientist father and communicates with a reclusive author of the novel she's reading. Starring Jodie Foster, Michael Carman, and Anthony Simcoe.</desc>
     <episode-num system="dd_progid">T284730</episode-num>
@@ -13657,7 +13699,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171007085500 +0000" stop="20171007105000 +0000">
+  <programme channel="tv.27" start="20171007085000 +0000" stop="20171007104500 +0000">
     <title>Cruel Intentions</title>
     <desc>Two bored, wealthy teenage stepsiblings, Kathryn and Sebastian, begin a wicked summer of seduction and betrayal by placing a wager on their feats of sexual one-upmanship. Starring Reese Witherspoon.</desc>
     <episode-num system="dd_progid">T342297</episode-num>
@@ -13665,7 +13707,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171007105000 +0000" stop="20171007130000 +0000">
+  <programme channel="tv.27" start="20171007104500 +0000" stop="20171007125000 +0000">
     <title>The Broken Shore</title>
     <desc>Based on Peter Temple's novel, this crime thriller follows Detective Joe Cashin as he uncovers a web of lies, betrayal and police corruption in a small coastal town.</desc>
     <episode-num system="dd_progid">T739807</episode-num>
@@ -13673,12 +13715,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171007130000 +0000" stop="20171007140000 +0000">
+  <programme channel="tv.27" start="20171007125000 +0000" stop="20171007135000 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753377</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171007140000 +0000" stop="20171007160000 +0000">
+  <programme channel="tv.27" start="20171007135000 +0000" stop="20171007160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13689,9 +13731,12 @@
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
   <programme channel="tv.27" start="20171007170000 +0000" stop="20171007173000 +0000">
-    <title>Hillsong</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1070</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770342</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007173000 +0000" stop="20171007180000 +0000">
     <title>Charles Stanley</title>
@@ -13699,29 +13744,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20171007180000 +0000" stop="20171007183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 139</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730241</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007183000 +0000" stop="20171007190000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1071</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770343</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007190000 +0000" stop="20171007200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1741</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758518</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007200000 +0000" stop="20171007203000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756537</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007203000 +0000" stop="20171007210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780939</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171007210000 +0000" stop="20171007213000 +0000">
     <title>R &amp; R</title>
@@ -13801,6 +13861,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171008083000 +0000" stop="20171008110000 +0000">
     <title>Bridesmaids</title>
@@ -13878,6 +13941,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171009022500 +0000" stop="20171009025000 +0000">
     <title>Now That's Funny!</title>
@@ -16205,7 +16271,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171005004500 +0000" stop="20171005014000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>The Orange County wives reassemble to comment on all the hissing, dissing and dishing of Season Five.</desc>
     <episode-num system="dd_progid">T330871</episode-num>
     <rating system="Freeview">
@@ -17048,11 +17114,17 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Alexis, Gretchen and Peggy assemble for a shop-til-you-drop get-together. In due time, dinner conversation turns racy when they spill their lusty secrets.</desc>
     <episode-num system="dd_progid">T343261</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171011014000 +0000" stop="20171011023500 +0000">
     <title>Below Deck: Mediterranean</title>
     <desc>A one day charter quickly feels like an eternity when a group of eccentric Texans board Sirocco and keep the demands flowing more than the drinks. S2 Ep12</desc>
     <episode-num system="dd_progid">T753157</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171011023500 +0000" stop="20171011033500 +0000">
     <title>Real Housewives Of New York City, The</title>
@@ -17082,13 +17154,16 @@
     <title>Four Weddings UK</title>
     <desc>Four celebrity weddings face off S2 Ep7</desc>
     <episode-num system="dd_progid">T784358</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171011063000 +0000" stop="20171011073000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171011073000 +0000" stop="20171011083000 +0000">
@@ -72984,16 +73059,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171005015700 +0000" stop="20171005030700 +0000">
+    <title>To Be Advised</title>
+    <episode-num system="dd_progid">150794E23423</episode-num>
+  </programme>
+  <programme channel="tv.101406020625" start="20171005015700 +0000" stop="20171005030700 +0000">
     <title>The Bachelorette Australia</title>
     <episode-num system="dd_progid">59779E1500222</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20171005015700 +0000" stop="20171005030700 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
   <programme channel="tv.101406020625" start="20171005030700 +0000" stop="20171005033700 +0000">
     <title>Entertainment Tonight</title>
