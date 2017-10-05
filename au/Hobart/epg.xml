@@ -1821,6 +1821,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20171013130000 +0000" stop="20171013133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H205S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20171005124200 +0000" stop="20171005130800 +0000">
     <title>Scrotal Recall</title>
     <episode-num system="dd_progid">ZW0218A003S00</episode-num>
@@ -6456,13 +6463,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210224" start="20171005113400 +0000" stop="20171005180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20171005180000 +0000" stop="20171005182500 +0000">
@@ -11429,14 +11429,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20171005120000 +0000" stop="20171005143100 +0000">
-    <title>Socceroos - World Cup Qualifiers</title>
-    <episode-num system="dd_progid">SOCC_2016_9</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20171005143100 +0000" stop="20171005150000 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH_2016_A2830TL32N</episode-num>
@@ -12896,13 +12888,6 @@
     <title>Law &amp; Order True Crime: The Menendez Murders</title>
     <episode-num system="dd_progid">LAORME_1_2</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20171005123100 +0000" stop="20171005130100 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_6_5DU04</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -14908,12 +14893,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20171005121900 +0000" stop="20171005131500 +0000">
-    <title>Person of Interest</title>
-    <episode-num system="dd_progid">PEIN_5_3J6011</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204300433" start="20171013130000 +0000" stop="20171013133000 +0000">
+    <title>House Hunters</title>
+    <episode-num system="dd_progid">HOHU_83_8311H</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204300436" start="20171005131500 +0000" stop="20171005140000 +0000">
@@ -16488,13 +16472,6 @@
     <title>The Special Relationship</title>
     <episode-num system="dd_progid">SPRE__1</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300437" start="20171005123100 +0000" stop="20171005132800 +0000">
-    <title>Total Divas</title>
-    <episode-num system="dd_progid">TODI_1_101</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -20635,12 +20612,12 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20171005120000 +0000" stop="20171005130000 +0000">
-    <title>Manhunt</title>
-    <episode-num system="dd_progid">tufivtaOltaPmdaO</episode-num>
+  <programme channel="tv.101305020528" start="20171013130000 +0000" stop="20171013133000 +0000">
+    <title>Raceday Review - Donald</title>
+    <episode-num system="dd_progid">RV13101A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20171005130000 +0000" stop="20171005133000 +0000">
@@ -22029,11 +22006,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030532" start="20171005123100 +0000" stop="20171005132900 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3mOltaPmdiM</episode-num>
+  <programme channel="tv.101305030530" start="20171013130000 +0000" stop="20171013150000 +0000">
+    <title>Point Last Seen</title>
+    <episode-num system="dd_progid">vL1mr4LPmdaLoaxx</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20171005132900 +0000" stop="20171005135800 +0000">
@@ -23740,13 +23718,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20171005123300 +0000" stop="20171005130300 +0000">
-    <title>Rude Tube</title>
-    <episode-num system="dd_progid">u2ruq3aIltaPmdaK</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20171005130300 +0000" stop="20171005133100 +0000">
     <title>Bloopers</title>
     <episode-num system="dd_progid">q2OpudaOltaPmdeP</episode-num>
@@ -25315,14 +25286,6 @@
   <programme channel="tv.101305030533" start="20171013124600 +0000" stop="20171013140000 +0000">
     <title>America's Hardest Prisons</title>
     <episode-num system="dd_progid">teCdsMqSmdaPmdqx</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030535" start="20171005122700 +0000" stop="20171005132700 +0000">
-    <title>The Blacklist</title>
-    <episode-num system="dd_progid">q2OltdaMltaPmdiN</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -27084,13 +27047,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030631" start="20171005123500 +0000" stop="20171005130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59619E1435281</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20171005130000 +0000" stop="20171005133000 +0000">
@@ -28976,14 +28932,6 @@
     <episode-num system="dd_progid">0E1415628</episode-num>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030635" start="20171005123600 +0000" stop="20171005133600 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500790</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20171005133600 +0000" stop="20171005143000 +0000">
@@ -39802,9 +39750,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20171005123000 +0000" stop="20171005130000 +0000">
-    <title>Cultural Flows - Wadi Wadi</title>
-    <episode-num system="dd_progid">704157</episode-num>
+  <programme channel="tv.320203000304" start="20171013130000 +0000" stop="20171013133000 +0000">
+    <title>Burgers, Brew and 'Que</title>
+    <episode-num system="dd_progid">840329</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -42157,6 +42105,13 @@
   <programme channel="tv.320203000305" start="20171013113000 +0000" stop="20171013130000 +0000">
     <title>Aluna</title>
     <episode-num system="dd_progid">724440</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171013130000 +0000" stop="20171013140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">685953</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
