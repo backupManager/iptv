@@ -14775,6 +14775,9 @@
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886881</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171007193000 +0000" stop="20171007200000 +0000">
     <title>Beyond Today</title>
@@ -14819,6 +14822,9 @@
     <title>Hot Bench</title>
     <desc>'Judge Judy's latest creation adds a new dynamic to courtroom disputes, with not one, but three judges exchanging lively debate before rendering a verdict on the hot bench. G (R)'</desc>
     <episode-num system="dd_progid">SNZ10678641</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171008013000 +0000" stop="20171008020000 +0000">
     <title>University Challenge</title>
@@ -15102,7 +15108,7 @@
   </programme>
   <programme channel="tv.28" start="20171009093000 +0000" stop="20171009103000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Kathy Bates. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983659</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15232,7 +15238,7 @@
   </programme>
   <programme channel="tv.28" start="20171010003000 +0000" stop="20171010013000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR (R)'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Kathy Bates. (R)'</desc>
     <episode-num system="dd_progid">SNZ10983659</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15327,7 +15333,7 @@
   </programme>
   <programme channel="tv.28" start="20171010102000 +0000" stop="20171010112000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Jackie Chan, Tig Notaro, Bob Schieffer and Trombone Shorty sits in with Jon Batiste and Stay Human. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983660</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15457,7 +15463,7 @@
   </programme>
   <programme channel="tv.28" start="20171011003000 +0000" stop="20171011013000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR (R)'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Jackie Chan, Tig Notaro, Bob Schieffer and Trombone Shorty sits in with Jon Batiste and Stay Human. PGR (R)'</desc>
     <episode-num system="dd_progid">SNZ10983660</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15565,7 +15571,7 @@
   </programme>
   <programme channel="tv.28" start="20171011115500 +0000" stop="20171011125500 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Tracee Ellis Ross, Luke Evans and a musical performance by Jade Bird. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983661</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15695,7 +15701,7 @@
   </programme>
   <programme channel="tv.28" start="20171012003000 +0000" stop="20171012013000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR (R)'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Tracee Ellis Ross, Luke Evans and a musical performance by Jade Bird. PGR (R)'</desc>
     <episode-num system="dd_progid">SNZ36002372</episode-num>
   </programme>
   <programme channel="tv.28" start="20171012013000 +0000" stop="20171012020000 +0000">
@@ -15787,7 +15793,7 @@
   </programme>
   <programme channel="tv.28" start="20171012093500 +0000" stop="20171012103500 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Andrew Garfield, Tracy Ullman and a musical performance by Wolf Parade. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983662</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -15917,7 +15923,7 @@
   </programme>
   <programme channel="tv.28" start="20171013003000 +0000" stop="20171013013000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR (R)'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Andrew Garfield, Tracy Ullman and a musical performance by Wolf Parade. PGR (R)'</desc>
     <episode-num system="dd_progid">SNZ36002522</episode-num>
   </programme>
   <programme channel="tv.28" start="20171013013000 +0000" stop="20171013020000 +0000">
@@ -15993,7 +15999,7 @@
   </programme>
   <programme channel="tv.28" start="20171013093000 +0000" stop="20171013103000 +0000">
     <title>The Late Show</title>
-    <desc>'Join Stephen Colbert and his eclectic mix of guests for a satirical and comedic take on what's new and relevant in the worlds of politics, entertainment, business, music, technology and more. PGR'</desc>
+    <desc>'Join Stephen Colbert for a satirical and comedic take on what's new and relevant, with Bill Murray, Claire Foy and a musical performance by Bill Murray with Jan Vogler and Friends. PGR'</desc>
     <episode-num system="dd_progid">SNZ10983663</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
