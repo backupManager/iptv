@@ -1054,7 +1054,7 @@
   <programme channel="tv.10" start="20171008135000 +0000" stop="20171008142500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10438879</episode-num>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171008142500 +0000" stop="20171008151000 +0000">
     <title>24: Legacy</title>
@@ -1282,17 +1282,11 @@
     <title>My Kitchen Rules New Zealand</title>
     <desc>It’s Wellington Hairdressers Teal &amp; Sophie‘s Instant Restaurant tonight where they will be showcasing Teal’s Vietnamese heritage. Will these bold Asian flavours be to every ones liking?</desc>
     <episode-num system="dd_progid">10462919</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20171009073000 +0000" stop="20171009080000 +0000">
     <title>All New Will &amp; Grace</title>
     <desc>New Season: We pick up with Will, Grace, Jack, and Karen 11 years since we last saw them. In this episode, Will and Grace both falter when their political beliefs are put to the test. Jack.</desc>
     <episode-num system="dd_progid">10491206</episode-num>
-    <audio>
-      <stereo>dolby</stereo>
-    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -1301,6 +1295,9 @@
     <title>The Mick</title>
     <desc>A hard-living aunt is forced to take care of her wealthy sister's spoiled kids. Mickey befriends a Greenwich divorcee, testing her friendship with Alba.</desc>
     <episode-num system="dd_progid">10494341</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -1414,7 +1411,7 @@
   <programme channel="tv.10" start="20171009163000 +0000" stop="20171009170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10438879</episode-num>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171009170000 +0000" stop="20171009173000 +0000">
     <title>Creflo Dollar</title>
@@ -1506,6 +1503,9 @@
     <title>The Simpsons</title>
     <desc>A boulder traps Homer's arm when he takes a drive through a canyon, Flanders becomes a vigilante by night, and Bart and Milhouse travel to a distant planet.</desc>
     <episode-num system="dd_progid">10478254</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171010013000 +0000" stop="20171010020000 +0000">
     <title>Home And Away</title>
@@ -2013,7 +2013,7 @@
   <programme channel="tv.10" start="20171011124500 +0000" stop="20171011135000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10438879</episode-num>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171011135000 +0000" stop="20171011145000 +0000">
     <title>Switched At Birth</title>
@@ -2349,7 +2349,7 @@
   <programme channel="tv.10" start="20171012163000 +0000" stop="20171012170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10438879</episode-num>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171012170000 +0000" stop="20171012173000 +0000">
     <title>Creflo Dollar</title>
@@ -40995,9 +40995,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171008223000 +0000" stop="20171008224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc></desc>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171008224500 +0000" stop="20171008230000 +0000">
     <title>Weather Forecast</title>
@@ -41170,9 +41170,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171009223000 +0000" stop="20171009224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc></desc>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171009224500 +0000" stop="20171009230000 +0000">
     <title>Weather Forecast</title>
@@ -41250,9 +41250,9 @@
     <episode-num system="dd_progid">TV33s0115</episode-num>
   </programme>
   <programme channel="tv.8" start="20171010072000 +0000" stop="20171010073000 +0000">
-    <title>Finance Time</title>
+    <title>IRD Workshop</title>
     <desc></desc>
-    <episode-num system="dd_progid">TV33S012</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171010073000 +0000" stop="20171010080000 +0000">
     <title>HuNan Impression</title>
@@ -41350,9 +41350,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171010223000 +0000" stop="20171010224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc></desc>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171010224500 +0000" stop="20171010230000 +0000">
     <title>Weather Forecast</title>
@@ -41375,9 +41375,9 @@
     <episode-num system="dd_progid">TV33Et011</episode-num>
   </programme>
   <programme channel="tv.8" start="20171011004500 +0000" stop="20171011010000 +0000">
-    <title>Guangxi's Story</title>
+    <title>IRD Workshop</title>
     <desc></desc>
-    <episode-num system="dd_progid">TV33D044</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171011010000 +0000" stop="20171011030000 +0000">
     <title>Chinese Drama Series</title>
