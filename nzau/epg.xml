@@ -2809,7 +2809,7 @@
   </programme>
   <programme channel="tv.11" start="20171006060000 +0000" stop="20171006070000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown are joined by Married at First Sight expert Tony Jones and The Breakers. Plus, do Kiwi teens wish we didn't have social media?</desc>
     <episode-num system="dd_progid">T751795</episode-num>
   </programme>
   <programme channel="tv.11" start="20171006070000 +0000" stop="20171006080000 +0000">
@@ -2824,6 +2824,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul Ego and Dai Henwood in check, as they're joined by Urzila Carlson, Ben Hurley, Laura Daniel, and Cori Gonzalez-Macuer.</desc>
     <episode-num system="dd_progid">T732894</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171006084500 +0000" stop="20171006091500 +0000">
     <title>Fail Army</title>
@@ -2851,7 +2854,7 @@
   </programme>
   <programme channel="tv.11" start="20171006101500 +0000" stop="20171006110500 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown are joined by Married at First Sight expert Tony Jones and The Breakers. Plus, do Kiwi teens wish we didn't have social media?</desc>
     <episode-num system="dd_progid">T751795</episode-num>
   </programme>
   <programme channel="tv.11" start="20171006110500 +0000" stop="20171006160000 +0000">
@@ -3145,7 +3148,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746250</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171008060000 +0000" stop="20171008073000 +0000">
+  <programme channel="tv.11" start="20171008060000 +0000" stop="20171008073500 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
@@ -3153,7 +3156,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171008073000 +0000" stop="20171008100000 +0000">
+  <programme channel="tv.11" start="20171008073500 +0000" stop="20171008100500 +0000">
     <title>Bridesmaids</title>
     <desc>Competition between the maid of honour and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef. Starring Kristen Wiig and Maya Rudolph.</desc>
     <episode-num system="dd_progid">T443587</episode-num>
@@ -3164,7 +3167,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171008100000 +0000" stop="20171008115500 +0000">
+  <programme channel="tv.11" start="20171008100500 +0000" stop="20171008120500 +0000">
     <title>Reflections</title>
     <desc>Europol Agent Tom Brindle is called to Barcelona, Spain, to track down the notorious serial killer known as Pygmalion. Starring Timothy Hutton, Miguel µngel Silvestre.</desc>
     <episode-num system="dd_progid">T739214</episode-num>
@@ -3175,7 +3178,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171008115500 +0000" stop="20171008160000 +0000">
+  <programme channel="tv.11" start="20171008120500 +0000" stop="20171008160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3322,6 +3325,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171009073000 +0000" stop="20171009083000 +0000">
     <title>Tin Star</title>
@@ -3426,6 +3432,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171010005500 +0000" stop="20171010015000 +0000">
     <title>Minute To Win It</title>
@@ -4118,7 +4127,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171005234500 +0000" stop="20171006004000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>In the conclusion of a reunion episode, the reconvened Orange County wives recall the good, bad and ugly of Season Five.</desc>
     <episode-num system="dd_progid">T330872</episode-num>
     <rating system="Freeview">
@@ -4839,7 +4848,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171011013500 +0000" stop="20171011023500 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In part II of the reunion, new housewife Tinsley opens up about her rocky re-entry into NYC life and reveals some big news. S9 Ep21</desc>
     <episode-num system="dd_progid">T781534</episode-num>
     <rating system="Freeview">
@@ -4867,7 +4876,7 @@
     <desc>Four celebrity weddings face off S2 Ep7</desc>
     <episode-num system="dd_progid">T784358</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171011053000 +0000" stop="20171011063000 +0000">
@@ -4890,6 +4899,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Easter arrives in the OC and Shannon looks to her mum for advice about her marriage with David. Vicki decides to call Tamra to finally meet and end their feud once and for all. S12 Ep13</desc>
     <episode-num system="dd_progid">T774572</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171011083000 +0000" stop="20171011092500 +0000">
     <title>Little Women: LA</title>
@@ -4958,6 +4970,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Tamra and Vicki depart for Cabo San Lucas, Mexico, for some fun in the sun - not to mention tequila shots. Back home, Gretchen turns to Alexis for romantic advice.</desc>
     <episode-num system="dd_progid">T343262</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171012004500 +0000" stop="20171012013500 +0000">
     <title>Little Women: LA</title>
@@ -4971,6 +4986,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Easter arrives in the OC and Shannon looks to her mum for advice about her marriage with David. Vicki decides to call Tamra to finally meet and end their feud once and for all. S12 Ep13</desc>
     <episode-num system="dd_progid">T774572</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171012023500 +0000" stop="20171012033000 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -13241,7 +13259,7 @@
   </programme>
   <programme channel="tv.27" start="20171006070000 +0000" stop="20171006080000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown are joined by Married at First Sight expert Tony Jones and The Breakers. Plus, do Kiwi teens wish we didn't have social media?</desc>
     <episode-num system="dd_progid">T751795</episode-num>
   </programme>
   <programme channel="tv.27" start="20171006080000 +0000" stop="20171006090000 +0000">
@@ -13256,6 +13274,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul Ego and Dai Henwood in check, as they're joined by Urzila Carlson, Ben Hurley, Laura Daniel, and Cori Gonzalez-Macuer.</desc>
     <episode-num system="dd_progid">T732894</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171006094500 +0000" stop="20171006101500 +0000">
     <title>Fail Army</title>
@@ -13280,7 +13301,7 @@
   </programme>
   <programme channel="tv.27" start="20171006111500 +0000" stop="20171006120500 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown are joined by Married at First Sight expert Tony Jones and The Breakers. Plus, do Kiwi teens wish we didn't have social media?</desc>
     <episode-num system="dd_progid">T751795</episode-num>
   </programme>
   <programme channel="tv.27" start="20171006120500 +0000" stop="20171006170000 +0000">
@@ -13559,7 +13580,7 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746250</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171008070000 +0000" stop="20171008083000 +0000">
+  <programme channel="tv.27" start="20171008070000 +0000" stop="20171008083500 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The weddings conclude as the final two couples are married at first sight. Plus, their first night together as newlyweds. S1 Ep3</desc>
     <episode-num system="dd_progid">T785430</episode-num>
@@ -13567,7 +13588,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171008083000 +0000" stop="20171008110000 +0000">
+  <programme channel="tv.27" start="20171008083500 +0000" stop="20171008110500 +0000">
     <title>Bridesmaids</title>
     <desc>Competition between the maid of honour and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef. Starring Kristen Wiig and Maya Rudolph.</desc>
     <episode-num system="dd_progid">T443587</episode-num>
@@ -13575,7 +13596,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171008110000 +0000" stop="20171008125500 +0000">
+  <programme channel="tv.27" start="20171008110500 +0000" stop="20171008130500 +0000">
     <title>Reflections</title>
     <desc>Europol Agent Tom Brindle is called to Barcelona, Spain, to track down the notorious serial killer known as Pygmalion. Starring Timothy Hutton, Miguel µngel Silvestre.</desc>
     <episode-num system="dd_progid">T739214</episode-num>
@@ -13583,7 +13604,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171008125500 +0000" stop="20171008170000 +0000">
+  <programme channel="tv.27" start="20171008130500 +0000" stop="20171008170000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13730,6 +13751,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171009083000 +0000" stop="20171009093000 +0000">
     <title>Tin Star</title>
@@ -13825,6 +13849,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. Our six couples must pack and depart for their highly anticipated honeymoons. S1 Ep4</desc>
     <episode-num system="dd_progid">T785431</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171010015500 +0000" stop="20171010025000 +0000">
     <title>Minute To Win It</title>
@@ -16153,7 +16180,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171006004500 +0000" stop="20171006014000 +0000">
-    <title>Real Housewives Of Orange County, The</title>
+    <title>The Real Housewives Of Orange County</title>
     <desc>In the conclusion of a reunion episode, the reconvened Orange County wives recall the good, bad and ugly of Season Five.</desc>
     <episode-num system="dd_progid">T330872</episode-num>
     <rating system="Freeview">
@@ -16874,7 +16901,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171011023500 +0000" stop="20171011033500 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In part II of the reunion, new housewife Tinsley opens up about her rocky re-entry into NYC life and reveals some big news. S9 Ep21</desc>
     <episode-num system="dd_progid">T781534</episode-num>
     <rating system="Freeview">
@@ -16902,7 +16929,7 @@
     <desc>Four celebrity weddings face off S2 Ep7</desc>
     <episode-num system="dd_progid">T784358</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171011063000 +0000" stop="20171011073000 +0000">
@@ -16925,6 +16952,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Easter arrives in the OC and Shannon looks to her mum for advice about her marriage with David. Vicki decides to call Tamra to finally meet and end their feud once and for all. S12 Ep13</desc>
     <episode-num system="dd_progid">T774572</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171011093000 +0000" stop="20171011102500 +0000">
     <title>Little Women: LA</title>
@@ -16993,6 +17023,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Tamra and Vicki depart for Cabo San Lucas, Mexico, for some fun in the sun - not to mention tequila shots. Back home, Gretchen turns to Alexis for romantic advice.</desc>
     <episode-num system="dd_progid">T343262</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171012014500 +0000" stop="20171012023500 +0000">
     <title>Little Women: LA</title>
@@ -17006,6 +17039,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Easter arrives in the OC and Shannon looks to her mum for advice about her marriage with David. Vicki decides to call Tamra to finally meet and end their feud once and for all. S12 Ep13</desc>
     <episode-num system="dd_progid">T774572</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171012033500 +0000" stop="20171012043000 +0000">
     <title>Hoarders: Family Secrets</title>
