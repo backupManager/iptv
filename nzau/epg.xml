@@ -25101,11 +25101,11 @@
     </rating>
   </programme>
   <programme channel="tv.41" start="20171015073000 +0000" stop="20171015083000 +0000">
-    <title>The Defiant Memories - Shalom Yoran</title>
-    <desc>The Defiant Memories - Shalom Yoran</desc>
-    <episode-num system="dd_progid">TheDefiantMemoriesShalomYora</episode-num>
+    <title>New Zealand Railscene</title>
+    <desc>This series covers recent activities of rail operation in New Zealand.</desc>
+    <episode-num system="dd_progid">NewZealandRailscene-51150805</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.41" start="20171015083000 +0000" stop="20171015100000 +0000">
@@ -73955,19 +73955,19 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011113000 +0000">
-    <title>Bob's Burgers</title>
-    <episode-num system="dd_progid">58661E1466994</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011120000 +0000">
     <title>The Graham Norton Show</title>
     <episode-num system="dd_progid">57278E1437680</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011113000 +0000">
+    <title>Bob's Burgers</title>
+    <episode-num system="dd_progid">58661E1466994</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20171011120000 +0000" stop="20171011130000 +0000">
