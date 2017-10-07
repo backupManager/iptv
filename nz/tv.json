@@ -149,6 +149,23 @@
             "sample_rate": "22050"
         }
     },
+    "tv.21": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.21.png",
+        "channel": 28,
+        "name": "CTV 8",
+        "description": "A channel dedicated to local Chinese people",
+        "url": "http://iptv.matthuisman.nz/nz/tv.21|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "video": {
+            "codec": "h264",
+            "width": 504,
+            "height": 280
+        },
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
     "tv.18": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",
         "channel": 31,
