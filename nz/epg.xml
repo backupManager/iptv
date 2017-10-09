@@ -7223,6 +7223,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their core balance to the test on a rowing Adam vs Eve, your Snapchat could get on TV for "Snap That", and we have your next chance to win on "Too Close To Tell"!</desc>
     <episode-num system="dd_progid">10471380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171009040500 +0000" stop="20171009043000 +0000">
     <title>Disney Bizaardvark</title>
@@ -7387,6 +7390,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their core balance to the test on a rowing Adam vs Eve, your Snapchat could get on TV for "Snap That", and we have your next chance to win on "Too Close To Tell"!</desc>
     <episode-num system="dd_progid">10471380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171009170500 +0000" stop="20171009173000 +0000">
     <title>Neighbours</title>
@@ -8630,6 +8636,9 @@
     <title>Food Fighters</title>
     <desc>In this cooking competition gameshow, home cooks compete against five professional chefs to create dishes using their homemade recipes.</desc>
     <episode-num system="dd_progid">10409726</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171013233000 +0000" stop="20171014003000 +0000">
     <title>Take Me Out</title>
@@ -8722,9 +8731,6 @@
     <desc>A vengeful fairy places a curse on an infant princess, only to discover that the child may be the one person who can restore peace to their troubled land. Starring Angelina Jolie and Elle Fanning.</desc>
     <episode-num system="dd_progid">10405795</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20171014090000 +0000" stop="20171014110000 +0000">
     <title>After Earth</title>
@@ -20356,7 +20362,7 @@
   </programme>
   <programme channel="tv.38" start="20171009073000 +0000" stop="20171009080000 +0000">
     <title>Fair Go</title>
-    <desc>Pippa Wetzell, Hadyn Jones and the Fair Go team help New Zealanders who are battling bureaucracy, rip-offs or just simply fighting for their rights.</desc>
+    <desc>Tonight on Fair Go, a new road, heavy downpours and rising flood waters have combined to cause a world of pain for those mourning lost loved ones in the tiny township of Foxton.</desc>
     <episode-num system="dd_progid">10468121</episode-num>
   </programme>
   <programme channel="tv.38" start="20171009080000 +0000" stop="20171009083000 +0000">
@@ -21236,6 +21242,9 @@
     <title>When We Rise</title>
     <desc>S1 E5, E6. Cleve creates the AIDS quilt in order to get the President's attention, while Diane's daughter Annie struggles with her identity as the child of a lesbian couple and a gay man.</desc>
     <episode-num system="dd_progid">10456987</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171014123000 +0000" stop="20171014134000 +0000">
     <title>Cuffs</title>
@@ -30228,6 +30237,9 @@
     <title>New: Brooklyn Nine-Nine</title>
     <desc>Catch the brand new season of Brooklyn Nine Nine, straight after the U.S! In this episode, Jake must pass an official evaluation performed by Holt in order to solve a real case.</desc>
     <episode-num system="dd_progid">10493653</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171012093000 +0000" stop="20171012095500 +0000">
     <title>The Mick</title>
@@ -40752,7 +40764,7 @@
   </programme>
   <programme channel="tv.9" start="20171009063000 +0000" stop="20171009070000 +0000">
     <title>Fair Go</title>
-    <desc>Pippa Wetzell, Hadyn Jones and the Fair Go team help New Zealanders who are battling bureaucracy, rip-offs or just simply fighting for their rights.</desc>
+    <desc>Tonight on Fair Go, a new road, heavy downpours and rising flood waters have combined to cause a world of pain for those mourning lost loved ones in the tiny township of Foxton.</desc>
     <episode-num system="dd_progid">10468121</episode-num>
   </programme>
   <programme channel="tv.9" start="20171009070000 +0000" stop="20171009073000 +0000">
@@ -41632,6 +41644,9 @@
     <title>When We Rise</title>
     <desc>S1 E5, E6. Cleve creates the AIDS quilt in order to get the President's attention, while Diane's daughter Annie struggles with her identity as the child of a lesbian couple and a gay man.</desc>
     <episode-num system="dd_progid">10456987</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171014113000 +0000" stop="20171014124000 +0000">
     <title>Cuffs</title>
