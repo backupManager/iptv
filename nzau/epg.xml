@@ -2792,7 +2792,7 @@
   </programme>
   <programme channel="tv.11" start="20171009060000 +0000" stop="20171009063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Jeremy Corbett as they discuss dangerous NZ roads and complex personality tests. Plus, a special interview with pop superstar Pink.</desc>
     <episode-num system="dd_progid">T751796</episode-num>
   </programme>
   <programme channel="tv.11" start="20171009063000 +0000" stop="20171009073000 +0000">
@@ -2843,7 +2843,7 @@
   </programme>
   <programme channel="tv.11" start="20171009105000 +0000" stop="20171009112000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Jeremy Corbett as they discuss dangerous NZ roads and complex personality tests. Plus, a special interview with pop superstar Pink.</desc>
     <episode-num system="dd_progid">T751796</episode-num>
   </programme>
   <programme channel="tv.11" start="20171009112000 +0000" stop="20171009160000 +0000">
@@ -2992,7 +2992,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171010063000 +0000" stop="20171010073000 +0000">
+  <programme channel="tv.11" start="20171010063000 +0000" stop="20171010073500 +0000">
     <title>Grand Designs NZ</title>
     <desc>New Episode. Jamie and Melissa went to buy a staircase from a Christchurch villa and ended up buying the whole house. Now they must transport their massive manion overland to Queenstown. S2 Ep12</desc>
     <episode-num system="dd_progid">T786590</episode-num>
@@ -3000,12 +3000,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171010073000 +0000" stop="20171010083000 +0000">
+  <programme channel="tv.11" start="20171010073500 +0000" stop="20171010083500 +0000">
     <title>Lost &amp; Found</title>
     <desc>New Episode. Kyra's father was a German seaman who never contacted her again. And Ross was a teenage bikie who married in to wealth. Almost 50 years later he's looking for his stolen son. S3 Ep6</desc>
     <episode-num system="dd_progid">T727004</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20171010083000 +0000" stop="20171010093000 +0000">
+  <programme channel="tv.11" start="20171010083500 +0000" stop="20171010093500 +0000">
     <title>Killer Women With Piers Morgan</title>
     <desc>Final. New Episode. Piers meets Sheila Davalloo, in a New York State prison, with a 25-year sentence for attempted murder of her husband and 50 years for killing a young woman. S2 Ep5</desc>
     <episode-num system="dd_progid">T756391</episode-num>
@@ -3013,12 +3016,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171010093000 +0000" stop="20171010100000 +0000">
+  <programme channel="tv.11" start="20171010093500 +0000" stop="20171010100500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745901</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171010100000 +0000" stop="20171010110000 +0000">
+  <programme channel="tv.11" start="20171010100500 +0000" stop="20171010110000 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. Liz and the Task Force join Red on an international task of pursuing a billionaire who is suspected to be a high end art thief. S5 Ep2</desc>
     <episode-num system="dd_progid">T785676</episode-num>
@@ -3168,6 +3171,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171011073000 +0000" stop="20171011083000 +0000">
     <title>NCIS: LA</title>
@@ -3641,6 +3647,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014033000 +0000" stop="20171014040000 +0000">
     <title>Getaway</title>
@@ -4029,6 +4038,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171008102500 +0000" stop="20171008111500 +0000">
     <title>Ladies Of London</title>
@@ -4253,9 +4265,9 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171010043000 +0000" stop="20171010053000 +0000">
-    <title>I'm Having Their Baby</title>
-    <desc>Amanda is rebuilding her life by placing her baby up for adoption. Carrying the little boy she's always wanted, Megan feels pressure from her parents to consider adoption. S2 Ep4</desc>
-    <episode-num system="dd_progid">T774652</episode-num>
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Melissa Joan Hart is a skeptic turned believer when her reading with Tyler reveals a hidden family secret and connects to her deceased father. S2 Ep2</desc>
+    <episode-num system="dd_progid">T751337</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4277,7 +4289,7 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171010073000 +0000" stop="20171010083000 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In part II of the reunion, new housewife Tinsley opens up about her rocky re-entry into NYC life and reveals some big news. S9 Ep21</desc>
     <episode-num system="dd_progid">T781534</episode-num>
     <rating system="Freeview">
@@ -4526,11 +4538,17 @@
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171012053000 +0000" stop="20171012063000 +0000">
-    <title>Tabatha's Salon Takeover</title>
-    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
-    <episode-num system="dd_progid">T278921</episode-num>
+    <title>I'm Having Their Baby</title>
+    <desc>Amanda is rebuilding her life by placing her baby up for adoption. Carrying the little boy she's always wanted, Megan feels pressure from her parents to consider adoption. S2 Ep4</desc>
+    <episode-num system="dd_progid">T774652</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171012063000 +0000" stop="20171012073000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -4599,6 +4617,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
     <episode-num system="dd_progid">T278921</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171012225000 +0000" stop="20171012234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -4612,6 +4633,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki has trouble balancing her workload demands with family time. And Fernanda throws a party to celebrate her citizenship, but tensions run high when Alexis can't attend. S6 Ep5</desc>
     <episode-num system="dd_progid">T343263</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171013004000 +0000" stop="20171013013500 +0000">
     <title>Escaping Polygamy</title>
@@ -4872,8 +4896,8 @@
   </programme>
   <programme channel="tv.12" start="20171014200000 +0000" stop="20171014204500 +0000">
     <title>Tabatha's Salon Takeover</title>
-    <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
-    <episode-num system="dd_progid">T278926</episode-num>
+    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
+    <episode-num system="dd_progid">T278921</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4927,6 +4951,9 @@
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171015024000 +0000" stop="20171015033500 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -4938,8 +4965,11 @@
   </programme>
   <programme channel="tv.12" start="20171015033500 +0000" stop="20171015043000 +0000">
     <title>Tabatha's Salon Takeover</title>
-    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
-    <episode-num system="dd_progid">T278921</episode-num>
+    <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
+    <episode-num system="dd_progid">T278926</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171015043000 +0000" stop="20171015053000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -5061,6 +5091,9 @@
     <title>Four Weddings UK</title>
     <desc>Jody is having a day that she describes as next years big wedding crazs shabby chic. S2 Ep10</desc>
     <episode-num system="dd_progid">T784361</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171016053000 +0000" stop="20171016063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -5090,6 +5123,9 @@
     <title>Snapped: She Made Me Do It</title>
     <desc>When a family man is shot dead in a parking garage, clues lead to questions about gang affiliation and an estranged wife with a mysterious new lifestyle. S2 Ep8</desc>
     <episode-num system="dd_progid">T774596</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171016093000 +0000" stop="20171016103000 +0000">
     <title>Intervention</title>
@@ -13181,7 +13217,7 @@
   </programme>
   <programme channel="tv.27" start="20171009070000 +0000" stop="20171009073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Jeremy Corbett as they discuss dangerous NZ roads and complex personality tests. Plus, a special interview with pop superstar Pink.</desc>
     <episode-num system="dd_progid">T751796</episode-num>
   </programme>
   <programme channel="tv.27" start="20171009073000 +0000" stop="20171009083000 +0000">
@@ -13223,7 +13259,7 @@
   </programme>
   <programme channel="tv.27" start="20171009115000 +0000" stop="20171009122000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Jeremy Corbett as they discuss dangerous NZ roads and complex personality tests. Plus, a special interview with pop superstar Pink.</desc>
     <episode-num system="dd_progid">T751796</episode-num>
   </programme>
   <programme channel="tv.27" start="20171009122000 +0000" stop="20171009170000 +0000">
@@ -13369,7 +13405,7 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171010073000 +0000" stop="20171010083000 +0000">
+  <programme channel="tv.27" start="20171010073000 +0000" stop="20171010083500 +0000">
     <title>Grand Designs NZ</title>
     <desc>New Episode. Jamie and Melissa went to buy a staircase from a Christchurch villa and ended up buying the whole house. Now they must transport their massive manion overland to Queenstown. S2 Ep12</desc>
     <episode-num system="dd_progid">T786590</episode-num>
@@ -13377,12 +13413,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171010083000 +0000" stop="20171010093000 +0000">
+  <programme channel="tv.27" start="20171010083500 +0000" stop="20171010093500 +0000">
     <title>Lost &amp; Found</title>
     <desc>New Episode. Kyra's father was a German seaman who never contacted her again. And Ross was a teenage bikie who married in to wealth. Almost 50 years later he's looking for his stolen son. S3 Ep6</desc>
     <episode-num system="dd_progid">T727004</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20171010093000 +0000" stop="20171010103000 +0000">
+  <programme channel="tv.27" start="20171010093500 +0000" stop="20171010103500 +0000">
     <title>Killer Women With Piers Morgan</title>
     <desc>Final. New Episode. Piers meets Sheila Davalloo, in a New York State prison, with a 25-year sentence for attempted murder of her husband and 50 years for killing a young woman. S2 Ep5</desc>
     <episode-num system="dd_progid">T756391</episode-num>
@@ -13390,12 +13429,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171010103000 +0000" stop="20171010110000 +0000">
+  <programme channel="tv.27" start="20171010103500 +0000" stop="20171010110500 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745901</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171010110000 +0000" stop="20171010120000 +0000">
+  <programme channel="tv.27" start="20171010110500 +0000" stop="20171010120000 +0000">
     <title>The Blacklist</title>
     <desc>New Episode. Liz and the Task Force join Red on an international task of pursuing a billionaire who is suspected to be a high end art thief. S5 Ep2</desc>
     <episode-num system="dd_progid">T785676</episode-num>
@@ -13542,6 +13581,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171011083000 +0000" stop="20171011093000 +0000">
     <title>NCIS: LA</title>
@@ -13994,6 +14036,9 @@
     <title>Slice Of Paradise</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014043000 +0000" stop="20171014050000 +0000">
     <title>Getaway</title>
@@ -16247,9 +16292,9 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171010053000 +0000" stop="20171010063000 +0000">
-    <title>I'm Having Their Baby</title>
-    <desc>Amanda is rebuilding her life by placing her baby up for adoption. Carrying the little boy she's always wanted, Megan feels pressure from her parents to consider adoption. S2 Ep4</desc>
-    <episode-num system="dd_progid">T774652</episode-num>
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Melissa Joan Hart is a skeptic turned believer when her reading with Tyler reveals a hidden family secret and connects to her deceased father. S2 Ep2</desc>
+    <episode-num system="dd_progid">T751337</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16271,7 +16316,7 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171010083000 +0000" stop="20171010093000 +0000">
-    <title>Real Housewives Of New York City, The</title>
+    <title>The Real Housewives Of New York City</title>
     <desc>In part II of the reunion, new housewife Tinsley opens up about her rocky re-entry into NYC life and reveals some big news. S9 Ep21</desc>
     <episode-num system="dd_progid">T781534</episode-num>
     <rating system="Freeview">
@@ -16520,11 +16565,17 @@
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171012063000 +0000" stop="20171012073000 +0000">
-    <title>Tabatha's Salon Takeover</title>
-    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
-    <episode-num system="dd_progid">T278921</episode-num>
+    <title>I'm Having Their Baby</title>
+    <desc>Amanda is rebuilding her life by placing her baby up for adoption. Carrying the little boy she's always wanted, Megan feels pressure from her parents to consider adoption. S2 Ep4</desc>
+    <episode-num system="dd_progid">T774652</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171012073000 +0000" stop="20171012083000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -16593,6 +16644,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
     <episode-num system="dd_progid">T278921</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171012235000 +0000" stop="20171013004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -16606,6 +16660,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki has trouble balancing her workload demands with family time. And Fernanda throws a party to celebrate her citizenship, but tensions run high when Alexis can't attend. S6 Ep5</desc>
     <episode-num system="dd_progid">T343263</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171013014000 +0000" stop="20171013023500 +0000">
     <title>Escaping Polygamy</title>
@@ -16866,8 +16923,8 @@
   </programme>
   <programme channel="tv.30" start="20171014210000 +0000" stop="20171014214500 +0000">
     <title>Tabatha's Salon Takeover</title>
-    <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
-    <episode-num system="dd_progid">T278926</episode-num>
+    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
+    <episode-num system="dd_progid">T278921</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16921,6 +16978,9 @@
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171015034000 +0000" stop="20171015043500 +0000">
     <title>Hoarders: Family Secrets</title>
@@ -16932,8 +16992,11 @@
   </programme>
   <programme channel="tv.30" start="20171015043500 +0000" stop="20171015053000 +0000">
     <title>Tabatha's Salon Takeover</title>
-    <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
-    <episode-num system="dd_progid">T278921</episode-num>
+    <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
+    <episode-num system="dd_progid">T278926</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171015053000 +0000" stop="20171015063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -17055,6 +17118,9 @@
     <title>Four Weddings UK</title>
     <desc>Jody is having a day that she describes as next years big wedding crazs shabby chic. S2 Ep10</desc>
     <episode-num system="dd_progid">T784361</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171016063000 +0000" stop="20171016073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -17084,6 +17150,9 @@
     <title>Snapped: She Made Me Do It</title>
     <desc>When a family man is shot dead in a parking garage, clues lead to questions about gang affiliation and an estranged wife with a mysterious new lifestyle. S2 Ep8</desc>
     <episode-num system="dd_progid">T774596</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171016103000 +0000" stop="20171016113000 +0000">
     <title>Intervention</title>
@@ -29329,7 +29398,7 @@
   <programme channel="tv.51" start="20171010200000 +0000" stop="20171010210000 +0000">
     <title>Top 10</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T576054</episode-num>
   </programme>
   <programme channel="tv.51" start="20171010210000 +0000" stop="20171010230000 +0000">
     <title>All The Hits</title>
@@ -29385,13 +29454,13 @@
   </programme>
   <programme channel="tv.51" start="20171011063000 +0000" stop="20171011070000 +0000">
     <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Rudimental vs Sigma</desc>
+    <episode-num system="dd_progid">T575879</episode-num>
   </programme>
   <programme channel="tv.51" start="20171011070000 +0000" stop="20171011080000 +0000">
     <title>Top 10</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T576054</episode-num>
   </programme>
   <programme channel="tv.51" start="20171011080000 +0000" stop="20171011093000 +0000">
     <title>All The Hits</title>
@@ -29435,8 +29504,8 @@
   </programme>
   <programme channel="tv.51" start="20171011200000 +0000" stop="20171011210000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Demi Lovato</desc>
+    <episode-num system="dd_progid">T576149</episode-num>
   </programme>
   <programme channel="tv.51" start="20171011210000 +0000" stop="20171011230000 +0000">
     <title>All The Hits</title>
@@ -29492,13 +29561,13 @@
   </programme>
   <programme channel="tv.51" start="20171012063000 +0000" stop="20171012070000 +0000">
     <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Rihnna vs Beyonce</desc>
+    <episode-num system="dd_progid">T575850</episode-num>
   </programme>
   <programme channel="tv.51" start="20171012070000 +0000" stop="20171012080000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Demi Lovato</desc>
+    <episode-num system="dd_progid">T576149</episode-num>
   </programme>
   <programme channel="tv.51" start="20171012080000 +0000" stop="20171012093000 +0000">
     <title>All The Hits</title>
@@ -29542,8 +29611,8 @@
   </programme>
   <programme channel="tv.51" start="20171012200000 +0000" stop="20171012210000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Lost In Space</desc>
+    <episode-num system="dd_progid">T576048</episode-num>
   </programme>
   <programme channel="tv.51" start="20171012210000 +0000" stop="20171012230000 +0000">
     <title>All The Hits</title>
@@ -29598,14 +29667,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171013063000 +0000" stop="20171013070000 +0000">
-    <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Little Mix vs Fifth Harmony</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Little Mix vs Fifth Harmony</desc>
+    <episode-num system="dd_progid">T575959</episode-num>
   </programme>
   <programme channel="tv.51" start="20171013070000 +0000" stop="20171013080000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Lost In Space</desc>
+    <episode-num system="dd_progid">T576048</episode-num>
   </programme>
   <programme channel="tv.51" start="20171013080000 +0000" stop="20171013093000 +0000">
     <title>Edge Mix</title>
@@ -29823,9 +29892,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171015200000 +0000" stop="20171015210000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Acoustic</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Acoustic</desc>
+    <episode-num system="dd_progid">T576198</episode-num>
   </programme>
   <programme channel="tv.51" start="20171015210000 +0000" stop="20171015230000 +0000">
     <title>All The Hits</title>
@@ -29880,14 +29949,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171016063000 +0000" stop="20171016070000 +0000">
-    <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Party vs Chill</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Party vs Chill</desc>
+    <episode-num system="dd_progid">T575966</episode-num>
   </programme>
   <programme channel="tv.51" start="20171016070000 +0000" stop="20171016080000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Acoustic</title>
+    <desc>Top 10 songs with a daily changing theme. Todays theme.. Acoustic</desc>
+    <episode-num system="dd_progid">T576198</episode-num>
   </programme>
   <programme channel="tv.51" start="20171016080000 +0000" stop="20171016093000 +0000">
     <title>All The Hits</title>
