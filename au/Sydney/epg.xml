@@ -12713,6 +12713,7 @@
   <programme channel="tv.101204200421" start="20171015023000 +0000" stop="20171015034000 +0000">
     <title>The Block</title>
     <episode-num system="dd_progid">BLOC_13_42</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12727,7 +12728,6 @@
   <programme channel="tv.101204200421" start="20171015045000 +0000" stop="20171015060000 +0000">
     <title>The Block</title>
     <episode-num system="dd_progid">BLOC_13_44</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12782,6 +12782,7 @@
   <programme channel="tv.101204200421" start="20171015113000 +0000" stop="20171015123500 +0000">
     <title>See No Evil</title>
     <episode-num system="dd_progid">SENO101_2_7</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -12789,6 +12790,7 @@
   <programme channel="tv.101204200421" start="20171015123500 +0000" stop="20171015133000 +0000">
     <title>House</title>
     <episode-num system="dd_progid">HOUS_1_22</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -14378,6 +14380,7 @@
   <programme channel="tv.101204200424" start="20171014000000 +0000" stop="20171014003000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_36</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14572,6 +14575,7 @@
   <programme channel="tv.101204200424" start="20171014223000 +0000" stop="20171014230000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_36</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14759,6 +14763,7 @@
   <programme channel="tv.101204200424" start="20171015170000 +0000" stop="20171015173000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_36</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14854,6 +14859,7 @@
   <programme channel="tv.101204200424" start="20171016013000 +0000" stop="20171016020000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_36</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -25371,13 +25377,13 @@
   </programme>
   <programme channel="tv.101305020528" start="20171009011500 +0000" stop="20171009014500 +0000">
     <title>Champions of Racing</title>
-    <episode-num system="dd_progid">COR17012A</episode-num>
+    <episode-num system="dd_progid">COR1712A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171009014500 +0000" stop="20171009061500 +0000">
+  <programme channel="tv.101305020528" start="20171009014500 +0000" stop="20171009041500 +0000">
     <title>Racing Live: Kilmore</title>
     <episode-num system="dd_progid">RDAY0810</episode-num>
     <subtitles type="teletext"/>
@@ -25385,7 +25391,31 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171009061500 +0000" stop="20171009071500 +0000">
+  <programme channel="tv.101305020528" start="20171009041500 +0000" stop="20171009043000 +0000">
+    <title>Champions - So You Think</title>
+    <episode-num system="dd_progid">CHP1703A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171009043000 +0000" stop="20171009053000 +0000">
+    <title>Season In Review</title>
+    <episode-num system="dd_progid">SIR0917A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171009053000 +0000" stop="20171009060000 +0000">
+    <title>Champions of Racing</title>
+    <episode-num system="dd_progid">COR1705A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171009060000 +0000" stop="20171009070000 +0000">
     <title>After The Last</title>
     <episode-num system="dd_progid">ATL0910L</episode-num>
     <subtitles type="teletext"/>
@@ -25393,15 +25423,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171009071500 +0000" stop="20171009074500 +0000">
-    <title>Raceday Review - Kilmore</title>
-    <episode-num system="dd_progid">RV09101A</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20171009074500 +0000" stop="20171009081500 +0000">
+  <programme channel="tv.101305020528" start="20171009070000 +0000" stop="20171009073000 +0000">
     <title>Raceday Review - Sha Tin</title>
     <episode-num system="dd_progid">RV08104A</episode-num>
     <subtitles type="teletext"/>
@@ -25409,9 +25431,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171009081500 +0000" stop="20171009083000 +0000">
-    <title>Champions - Vo Rogue</title>
-    <episode-num system="dd_progid">CHP1710A</episode-num>
+  <programme channel="tv.101305020528" start="20171009073000 +0000" stop="20171009080000 +0000">
+    <title>Raceday Review - Bairnsdale</title>
+    <episode-num system="dd_progid">RV08101A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171009080000 +0000" stop="20171009083000 +0000">
+    <title>Champions of Racing</title>
+    <episode-num system="dd_progid">COR1704A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -29209,7 +29239,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171008202500 +0000" stop="20171008210000 +0000">
+  <programme channel="tv.101406020625" start="20171008202500 +0000" stop="20171008205700 +0000">
     <title>Jamie's 30 Minute Meals</title>
     <episode-num system="dd_progid">53996E992878</episode-num>
     <subtitles type="teletext"/>
@@ -29217,9 +29247,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171008210000 +0000" stop="20171008213000 +0000">
+  <programme channel="tv.101406020625" start="20171008205700 +0000" stop="20171008213000 +0000">
     <title>Everyday Gourmet with Justine Schofield</title>
-    <episode-num system="dd_progid">266808E8005141</episode-num>
+    <episode-num system="dd_progid">53936E1372566</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29233,7 +29263,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009010100 +0000" stop="20171009020000 +0000">
+  <programme channel="tv.101406020625" start="20171009010100 +0000" stop="20171009015900 +0000">
     <title>Dr. Phil</title>
     <episode-num system="dd_progid">58876E1470218</episode-num>
     <subtitles type="teletext"/>
@@ -29241,7 +29271,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009020000 +0000" stop="20171009030400 +0000">
+  <programme channel="tv.101406020625" start="20171009015900 +0000" stop="20171009030400 +0000">
     <title>Australian Survivor</title>
     <episode-num system="dd_progid">59796E1500625</episode-num>
     <subtitles type="teletext"/>
@@ -29257,7 +29287,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009033300 +0000" stop="20171009035700 +0000">
+  <programme channel="tv.101406020625" start="20171009033300 +0000" stop="20171009035800 +0000">
     <title>Ben's Menu</title>
     <episode-num system="dd_progid">57300E1438009</episode-num>
     <subtitles type="teletext"/>
@@ -29265,7 +29295,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009035700 +0000" stop="20171009042600 +0000">
+  <programme channel="tv.101406020625" start="20171009035800 +0000" stop="20171009042700 +0000">
     <title>Judge Judy</title>
     <episode-num system="dd_progid">58879E1470434</episode-num>
     <subtitles type="teletext"/>
@@ -29273,7 +29303,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009042600 +0000" stop="20171009045900 +0000">
+  <programme channel="tv.101406020625" start="20171009042700 +0000" stop="20171009045900 +0000">
     <title>Alive and Cooking</title>
     <episode-num system="dd_progid">59402E1487233</episode-num>
     <subtitles type="teletext"/>
@@ -29307,7 +29337,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171009065900 +0000" stop="20171009073000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503145</episode-num>
+    <episode-num system="dd_progid">59838E1503144</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29337,7 +29367,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009104700 +0000" stop="20171009111500 +0000">
+  <programme channel="tv.101406020625" start="20171009104700 +0000" stop="20171009111400 +0000">
     <title>Man with a Plan</title>
     <episode-num system="dd_progid">58877E1470323</episode-num>
     <subtitles type="teletext"/>
@@ -29345,7 +29375,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171009111500 +0000" stop="20171009114600 +0000">
+  <programme channel="tv.101406020625" start="20171009111400 +0000" stop="20171009114600 +0000">
     <title>Man with a Plan</title>
     <episode-num system="dd_progid">58877E1470324</episode-num>
     <subtitles type="teletext"/>
@@ -29461,7 +29491,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171009210000 +0000" stop="20171009213000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503145</episode-num>
+    <episode-num system="dd_progid">59838E1503144</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29549,7 +29579,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171010070000 +0000" stop="20171010073000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503146</episode-num>
+    <episode-num system="dd_progid">59838E1503145</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29688,7 +29718,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171010210000 +0000" stop="20171010213000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503146</episode-num>
+    <episode-num system="dd_progid">59838E1503145</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29776,7 +29806,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171011070000 +0000" stop="20171011073000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503147</episode-num>
+    <episode-num system="dd_progid">59838E1503146</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -29922,7 +29952,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171011210000 +0000" stop="20171011213000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503147</episode-num>
+    <episode-num system="dd_progid">59838E1503146</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -30006,7 +30036,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171012070000 +0000" stop="20171012073000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503148</episode-num>
+    <episode-num system="dd_progid">59838E1503147</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -30041,7 +30071,7 @@
     <episode-num system="dd_progid">59987E1510152</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171012114000 +0000" stop="20171012123000 +0000">
@@ -30152,7 +30182,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171012210000 +0000" stop="20171012213000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503148</episode-num>
+    <episode-num system="dd_progid">59838E1503147</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -30224,7 +30254,7 @@
   </programme>
   <programme channel="tv.101406020625" start="20171013070000 +0000" stop="20171013073000 +0000">
     <title>Family Feud</title>
-    <episode-num system="dd_progid">59838E1503149</episode-num>
+    <episode-num system="dd_progid">59838E1503148</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
