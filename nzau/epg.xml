@@ -19132,7 +19132,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171011083000 +0000" stop="20171011093000 +0000">
+  <programme channel="tv.37" start="20171011083000 +0000" stop="20171011093500 +0000">
     <title>Cold Water Cowboys</title>
     <desc>Richard takes a dangerous gamble; Justin tries to gain respect.</desc>
     <episode-num system="dd_progid">CLWTR01Ep2</episode-num>
@@ -19140,7 +19140,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171011093000 +0000" stop="20171011100000 +0000">
+  <programme channel="tv.37" start="20171011093500 +0000" stop="20171011100500 +0000">
     <title>American Pickers</title>
     <desc>Danielle has a sketchy lead. She's found an incredible collection but the bad news is it's owned by a reluctant seller.</desc>
     <episode-num system="dd_progid">APICK01Ep12</episode-num>
@@ -19148,7 +19148,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171011100000 +0000" stop="20171011103000 +0000">
+  <programme channel="tv.37" start="20171011100500 +0000" stop="20171011103500 +0000">
     <title>American Restoration</title>
     <desc>Drivers Kyle Bush and Marcus Smith call on Rick to create a trophy for the History 300 race. Ron makes it his mission to tag along to the race and win driver Danica Patrick's heart.</desc>
     <episode-num system="dd_progid">ARES07Ep13</episode-num>
@@ -19156,7 +19156,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171011103000 +0000" stop="20171011113000 +0000">
+  <programme channel="tv.37" start="20171011103500 +0000" stop="20171011113000 +0000">
     <title>Gordon Ramsay's Ultimate Cookery Course</title>
     <desc>Stuffed full of delicious recipes, invaluable tips and lashings of Gordon's trademark cheeky wit, Gordon Ramsay's Ultimate Cookery Course is the ultimate cooking lesson from the ultimate chef.</desc>
     <episode-num system="dd_progid">GRUCC01Ep3</episode-num>
@@ -73849,19 +73849,19 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011113000 +0000">
+    <title>Bob's Burgers</title>
+    <episode-num system="dd_progid">58661E1466994</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011120000 +0000">
     <title>The Graham Norton Show</title>
     <episode-num system="dd_progid">57278E1437680</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020628" start="20171011110000 +0000" stop="20171011113000 +0000">
-    <title>Bob's Burgers</title>
-    <episode-num system="dd_progid">58661E1466994</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20171011120000 +0000" stop="20171011130000 +0000">
