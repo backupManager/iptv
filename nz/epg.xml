@@ -354,6 +354,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their core balance to the test on a rowing Adam vs Eve, your Snapchat could get on TV for "Snap That", and we have your next chance to win on "Too Close To Tell"!</desc>
     <episode-num system="dd_progid">10471380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009030500 +0000" stop="20171009033000 +0000">
     <title>Disney Bizaardvark</title>
@@ -542,6 +545,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve put their core balance to the test on a rowing Adam vs Eve, your Snapchat could get on TV for "Snap That", and we have your next chance to win on "Too Close To Tell"!</desc>
     <episode-num system="dd_progid">10471380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171009160500 +0000" stop="20171009163000 +0000">
     <title>Neighbours</title>
@@ -2015,9 +2021,6 @@
       <stereo>dolby</stereo>
     </audio>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.10" start="20171014080000 +0000" stop="20171014100000 +0000">
     <title>After Earth</title>
