@@ -22470,20 +22470,20 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171010090000 +0000" stop="20171010110000 +0000">
-    <title>A Touch of Frost</title>
-    <episode-num system="dd_progid">veCgncLPmdaPmqxx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050552" start="20171010090000 +0000" stop="20171010100000 +0000">
     <title>Martin Clunes: Islands of Australia</title>
     <episode-num system="dd_progid">svnpqtaOltaPmdaO</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305050552" start="20171010090000 +0000" stop="20171010110000 +0000">
+    <title>A Touch of Frost</title>
+    <episode-num system="dd_progid">veCgncLPmdaPmqxx</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305050552" start="20171010110000 +0000" stop="20171010131500 +0000">
@@ -31697,19 +31697,19 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050658" start="20171011113000 +0000" stop="20171011120000 +0000">
-    <title>Bob's Burgers</title>
-    <episode-num system="dd_progid">58661E1466994</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050658" start="20171011113000 +0000" stop="20171011123000 +0000">
     <title>The Graham Norton Show</title>
     <episode-num system="dd_progid">57278E1437680</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406050658" start="20171011113000 +0000" stop="20171011120000 +0000">
+    <title>Bob's Burgers</title>
+    <episode-num system="dd_progid">58661E1466994</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20171011123000 +0000" stop="20171011133000 +0000">
@@ -35585,15 +35585,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171010060500 +0000" stop="20171010063000 +0000">
-    <title>Beerland</title>
-    <episode-num system="dd_progid">891623</episode-num>
+    <title>Rivals</title>
+    <episode-num system="dd_progid">870773</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171010060500 +0000" stop="20171010063000 +0000">
-    <title>Rivals</title>
-    <episode-num system="dd_progid">870773</episode-num>
+    <title>Beerland</title>
+    <episode-num system="dd_progid">891623</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
