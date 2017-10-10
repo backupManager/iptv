@@ -370,6 +370,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to comedian Kumail Nanjiani from the new LEGO Ninjago Movie, Saale has a delicious fried chicken recipe, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171010030500 +0000" stop="20171010033000 +0000">
     <title>Bunk'd</title>
@@ -540,6 +543,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to comedian Kumail Nanjiani from the new LEGO Ninjago Movie, Saale has a delicious fried chicken recipe, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171010160500 +0000" stop="20171010163000 +0000">
     <title>Neighbours</title>
@@ -722,6 +728,9 @@
     <title>Home And Away</title>
     <desc>Things are tense between Ash and Tori. Scarlett and Kat try to find solid ground.</desc>
     <episode-num system="dd_progid">10487055</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171011050000 +0000" stop="20171011053000 +0000">
     <title>The Big Bang Theory</title>
@@ -763,6 +772,12 @@
     <title>All New The Big Bang Theory</title>
     <desc>Sheldon and Amy struggle with picking a wedding date. Meanwhile Stuart and Raj fight over one of Bernadette's co-workers for a date.</desc>
     <episode-num system="dd_progid">10494560</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171011081000 +0000" stop="20171011084000 +0000">
     <title>All New 2 Broke Girls</title>
@@ -989,6 +1004,9 @@
     <title>Home And Away</title>
     <desc>Things are tense between Ash and Tori. Scarlett and Kat try to find solid ground.</desc>
     <episode-num system="dd_progid">10487055</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171012020000 +0000" stop="20171012023000 +0000">
     <title>Shortland Street</title>
@@ -1070,6 +1088,9 @@
     <title>Shortland Street</title>
     <desc>Vinnie fights for his son. Kate faces Sass’ ire. Mo fights his inner demons.</desc>
     <episode-num system="dd_progid">10469664</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1149,6 +1170,9 @@
     <title>Shortland Street</title>
     <desc>Vinnie fights for his son. Kate faces Sass’ ire. Mo fights his inner demons.</desc>
     <episode-num system="dd_progid">10469664</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1303,6 +1327,9 @@
     <title>Shortland Street</title>
     <desc>Vinnie fights for his son. Kate faces Sass’ ire. Mo fights his inner demons.</desc>
     <episode-num system="dd_progid">10469664</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1376,6 +1403,9 @@
     <title>Shortland Street</title>
     <desc>Mo’s big win leaves him feeling low. Vinnie makes a difficult decision. Chris calls Sass’ bluff.</desc>
     <episode-num system="dd_progid">10469665</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1420,6 +1450,9 @@
     <title>Shortland Street</title>
     <desc>Mo’s big win leaves him feeling low. Vinnie makes a difficult decision. Chris calls Sass’ bluff.</desc>
     <episode-num system="dd_progid">10469665</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -1587,6 +1620,9 @@
     <title>Food Fighters</title>
     <desc>In this cooking competition gameshow, home cooks compete against five professional chefs to create dishes using their homemade recipes.</desc>
     <episode-num system="dd_progid">10409726</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171013223000 +0000" stop="20171013233000 +0000">
     <title>Take Me Out</title>
@@ -1659,7 +1695,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171014033000 +0000" stop="20171014040000 +0000">
@@ -1754,7 +1790,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171014160500 +0000" stop="20171014163000 +0000">
@@ -2102,6 +2138,9 @@
     <title>Shortland Street</title>
     <desc>Mo’s big win leaves him feeling low. Vinnie makes a difficult decision. Chris calls Sass’ bluff.</desc>
     <episode-num system="dd_progid">10469665</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2175,6 +2214,9 @@
     <title>Shortland Street</title>
     <desc>Damo struggles with baby boot camp. Frank manipulates Drew’s guilt. Sass gets a very rude awakening.</desc>
     <episode-num system="dd_progid">10469666</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2190,13 +2232,16 @@
   </programme>
   <programme channel="tv.10" start="20171016073000 +0000" stop="20171016080000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>Will and Jack try to date younger guys but find it challenging. Meanwhile, Grace and Karen experience a crisis that reveals Grace's true feelings about Karen. Ben Platt guest stars.</desc>
+    <desc>Grace is shocked to find that the emergency contact called by her doctor's office is ex-husband Leo not Will. Special guest star Harry Connick, Jr.</desc>
     <episode-num system="dd_progid">10491207</episode-num>
   </programme>
   <programme channel="tv.10" start="20171016080000 +0000" stop="20171016083000 +0000">
     <title>The Mick</title>
     <desc>Mickey takes the kids to visit their parents in jail to gain closure, but it turns out Mickey may be the one who needs it the most.</desc>
     <episode-num system="dd_progid">10494342</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171016083000 +0000" stop="20171016093000 +0000">
     <title>Tricked House Of Horrors</title>
@@ -2251,6 +2296,9 @@
     <title>Shortland Street</title>
     <desc>Damo struggles with baby boot camp. Frank manipulates Drew’s guilt. Sass gets a very rude awakening.</desc>
     <episode-num system="dd_progid">10469666</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2420,6 +2468,9 @@
     <title>Shortland Street</title>
     <desc>Damo struggles with baby boot camp. Frank manipulates Drew’s guilt. Sass gets a very rude awakening.</desc>
     <episode-num system="dd_progid">10469666</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -2493,6 +2544,9 @@
     <title>Shortland Street</title>
     <desc>Mo sinks further. Frank ups his game. Ali’s tough love goes belly up.</desc>
     <episode-num system="dd_progid">10469667</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -19097,9 +19151,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171012033000 +0000" stop="20171012043000 +0000">
-    <title>Food Hour</title>
-    <desc></desc>
-    <episode-num system="dd_progid">FDHR01Ep1</episode-num>
+    <title>Better Homes and Gardens: Food</title>
+    <desc>Join the Better Homes and Gardens team for tantalising recipes and top kitchen tips!</desc>
+    <episode-num system="dd_progid">BHAGS22Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19128,7 +19182,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171012073000 +0000" stop="20171012083000 +0000">
+  <programme channel="tv.37" start="20171012073000 +0000" stop="20171012083500 +0000">
     <title>Trust Me I'm a Doctor</title>
     <desc>Trust Me I'm A Doctor goes behind the headlines to give the definitive answers to health questions.</desc>
     <episode-num system="dd_progid">TDOC05Ep4</episode-num>
@@ -19136,7 +19190,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171012083000 +0000" stop="20171012093000 +0000">
+  <programme channel="tv.37" start="20171012083500 +0000" stop="20171012093500 +0000">
     <title>Tiny House Nation</title>
     <desc>Zack and John build two tiny house trailers to connect a couple to their Hawaiian roots, keeping a natural and airy feel on the inside and embracing the beautiful Pacific Northwest on the outside.</desc>
     <episode-num system="dd_progid">TINYH03BEp7</episode-num>
@@ -19144,7 +19198,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171012093000 +0000" stop="20171012103000 +0000">
+  <programme channel="tv.37" start="20171012093500 +0000" stop="20171012103000 +0000">
     <title>Collectaholics</title>
     <desc>Meet engaging collectors with fascinating collections, discover the history surrounding them and find out if they're sitting on a gold mine.</desc>
     <episode-num system="dd_progid">COLOH01Ep2</episode-num>
@@ -19153,9 +19207,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171012103000 +0000" stop="20171012113000 +0000">
-    <title>Food Hour</title>
-    <desc></desc>
-    <episode-num system="dd_progid">FDHR01Ep1</episode-num>
+    <title>Better Homes and Gardens: Food</title>
+    <desc>Join the Better Homes and Gardens team for tantalising recipes and top kitchen tips!</desc>
+    <episode-num system="dd_progid">BHAGS22Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19249,9 +19303,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171012203000 +0000" stop="20171012213000 +0000">
-    <title>Food Hour</title>
-    <desc></desc>
-    <episode-num system="dd_progid">FDHR01Ep1</episode-num>
+    <title>Better Homes and Gardens: Food</title>
+    <desc>Join the Better Homes and Gardens team for tantalising recipes and top kitchen tips!</desc>
+    <episode-num system="dd_progid">BHAGS22Ep1</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
