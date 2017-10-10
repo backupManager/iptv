@@ -14556,6 +14556,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ10850649</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171011020000 +0000" stop="20171011030000 +0000">
     <title>Escape To The Country</title>
@@ -15092,9 +15095,6 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ10850652</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20171013110000 +0000" stop="20171013170000 +0000">
     <title>Prime</title>
@@ -15551,9 +15551,6 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ10850652</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.28" start="20171016020000 +0000" stop="20171016030000 +0000">
     <title>Escape To The Country</title>
@@ -27100,10 +27097,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416177</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171010193000 +0000" stop="20171010210000 +0000">
+  <programme channel="tv.46" start="20171010193000 +0000" stop="20171010200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>What are the challenges of helping Syrian refugees cope with mental health issues?</desc>
     <episode-num system="dd_progid">33844643</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171010200000 +0000" stop="20171010210000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171010210000 +0000" stop="20171010220000 +0000">
     <title>Newshour</title>
@@ -27162,7 +27164,7 @@
   </programme>
   <programme channel="tv.46" start="20171011043000 +0000" stop="20171011050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>What are the challenges of helping Syrian refugees cope with mental health issues?</desc>
     <episode-num system="dd_progid">33844643</episode-num>
   </programme>
   <programme channel="tv.46" start="20171011050000 +0000" stop="20171011053000 +0000">
@@ -27197,7 +27199,7 @@
   </programme>
   <programme channel="tv.46" start="20171011083000 +0000" stop="20171011090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>What are the challenges of helping Syrian refugees cope with mental health issues?</desc>
     <episode-num system="dd_progid">33844643</episode-num>
   </programme>
   <programme channel="tv.46" start="20171011090000 +0000" stop="20171011093000 +0000">
@@ -27220,10 +27222,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416202</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171011113000 +0000" stop="20171011130000 +0000">
+  <programme channel="tv.46" start="20171011113000 +0000" stop="20171011120000 +0000">
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
     <episode-num system="dd_progid">33844639</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171011120000 +0000" stop="20171011130000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171011130000 +0000" stop="20171011140000 +0000">
     <title>Newshour</title>
@@ -27237,7 +27244,7 @@
   </programme>
   <programme channel="tv.46" start="20171011143000 +0000" stop="20171011150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>What are the challenges of helping Syrian refugees cope with mental health issues?</desc>
     <episode-num system="dd_progid">33844643</episode-num>
   </programme>
   <programme channel="tv.46" start="20171011150000 +0000" stop="20171011160000 +0000">
@@ -27310,10 +27317,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416221</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171012003000 +0000" stop="20171012020000 +0000">
+  <programme channel="tv.46" start="20171012003000 +0000" stop="20171012010000 +0000">
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
     <episode-num system="dd_progid">33844655</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171012010000 +0000" stop="20171012020000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171012020000 +0000" stop="20171012030000 +0000">
     <title>Newshour</title>
@@ -27530,10 +27542,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416266</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171013053000 +0000" stop="20171013070000 +0000">
+  <programme channel="tv.46" start="20171013053000 +0000" stop="20171013060000 +0000">
     <title>Risking it All</title>
     <desc>Bolivians risk snake and insect bites harvesting brazil nuts in the Amazon, as lorry drivers battle extreme rain, flooding and landslides to deliver the nuts.</desc>
     <episode-num system="dd_progid">33844504</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171013060000 +0000" stop="20171013070000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171013070000 +0000" stop="20171013073000 +0000">
     <title>News Live</title>
@@ -27702,8 +27719,8 @@
   </programme>
   <programme channel="tv.46" start="20171014043000 +0000" stop="20171014050000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
-    <episode-num system="dd_progid">33844520</episode-num>
+    <desc>Frederik DeKlerk discusses the apartheid's aftermath and termination of the nuclear weapons programme.</desc>
+    <episode-num system="dd_progid">34003180</episode-num>
   </programme>
   <programme channel="tv.46" start="20171014050000 +0000" stop="20171014053000 +0000">
     <title>News Live</title>
@@ -27820,10 +27837,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416325</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171014193000 +0000" stop="20171014210000 +0000">
+  <programme channel="tv.46" start="20171014193000 +0000" stop="20171014200000 +0000">
     <title>Listening Post</title>
     <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
     <episode-num system="dd_progid">33844324</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171014200000 +0000" stop="20171014210000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171014210000 +0000" stop="20171014220000 +0000">
     <title>Newshour</title>
@@ -27917,8 +27939,8 @@
   </programme>
   <programme channel="tv.46" start="20171015083000 +0000" stop="20171015090000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
-    <episode-num system="dd_progid">33844520</episode-num>
+    <desc>Frederik DeKlerk discusses the apartheid's aftermath and termination of the nuclear weapons programme.</desc>
+    <episode-num system="dd_progid">34003180</episode-num>
   </programme>
   <programme channel="tv.46" start="20171015090000 +0000" stop="20171015093000 +0000">
     <title>News Live</title>
@@ -27940,10 +27962,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1883416350</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171015113000 +0000" stop="20171015130000 +0000">
+  <programme channel="tv.46" start="20171015113000 +0000" stop="20171015120000 +0000">
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
     <episode-num system="dd_progid">33844722</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171015120000 +0000" stop="20171015130000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171015130000 +0000" stop="20171015140000 +0000">
     <title>Newshour</title>
@@ -27997,8 +28024,8 @@
   </programme>
   <programme channel="tv.46" start="20171015193000 +0000" stop="20171015200000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
-    <episode-num system="dd_progid">33844520</episode-num>
+    <desc>Frederik DeKlerk discusses the apartheid's aftermath and termination of the nuclear weapons programme.</desc>
+    <episode-num system="dd_progid">34003180</episode-num>
   </programme>
   <programme channel="tv.46" start="20171015200000 +0000" stop="20171015210000 +0000">
     <title>Shadow War In The Sahara</title>
@@ -28030,10 +28057,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1902123624</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171016003000 +0000" stop="20171016020000 +0000">
+  <programme channel="tv.46" start="20171016003000 +0000" stop="20171016010000 +0000">
     <title>Inside Story</title>
     <desc>Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
     <episode-num system="dd_progid">33844736</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171016010000 +0000" stop="20171016020000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171016020000 +0000" stop="20171016030000 +0000">
     <title>Newshour</title>
@@ -28137,8 +28169,8 @@
   </programme>
   <programme channel="tv.46" start="20171016143000 +0000" stop="20171016150000 +0000">
     <title>Talk to Al Jazeera</title>
-    <desc>A conversation about ideas, people, events and facts shaping our times. With guests from around the world.</desc>
-    <episode-num system="dd_progid">33844520</episode-num>
+    <desc>Frederik DeKlerk discusses the apartheid's aftermath and termination of the nuclear weapons programme.</desc>
+    <episode-num system="dd_progid">34003180</episode-num>
   </programme>
   <programme channel="tv.46" start="20171016150000 +0000" stop="20171016160000 +0000">
     <title>newsgrid</title>
@@ -28250,10 +28282,15 @@
     <desc>Get the latest news every evening about what is happening around the globe.</desc>
     <episode-num system="dd_progid">1902123669</episode-num>
   </programme>
-  <programme channel="tv.46" start="20171017053000 +0000" stop="20171017070000 +0000">
+  <programme channel="tv.46" start="20171017053000 +0000" stop="20171017060000 +0000">
     <title>Counting the Cost</title>
     <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
     <episode-num system="dd_progid">33844220</episode-num>
+  </programme>
+  <programme channel="tv.46" start="20171017060000 +0000" stop="20171017070000 +0000">
+    <title>Al Jazeera World</title>
+    <desc>The story of the ban on bullfighting in Catalonia after years of lobbying by animal rights campaigners, as calls grow in other parts of Spain to follow suit.</desc>
+    <episode-num system="dd_progid">30830443</episode-num>
   </programme>
   <programme channel="tv.46" start="20171017070000 +0000" stop="20171017073000 +0000">
     <title>News Live</title>
@@ -28362,8 +28399,8 @@
   </programme>
   <programme channel="tv.46" start="20171017200000 +0000" stop="20171017210000 +0000">
     <title>Al Jazeera World</title>
-    <desc>The controversial trial of five leaders of the Islamic charity designated a terrorist organisation by the U.S. government and charged with supporting Hamas (2/2).</desc>
-    <episode-num system="dd_progid">30752831</episode-num>
+    <desc>The story of a high society hostess in Beirut, codenamed 'The Pearl', who spied for Mossad for 14 years in the 1940s and 50s.</desc>
+    <episode-num system="dd_progid">34003138</episode-num>
   </programme>
   <programme channel="tv.46" start="20171017210000 +0000" stop="20171017220000 +0000">
     <title>Newshour</title>
