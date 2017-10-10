@@ -2833,7 +2833,7 @@
   </programme>
   <programme channel="tv.11" start="20171010060000 +0000" stop="20171010063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Lisa Owen who discuss mental health and rifles being sold at a Wellington school. Plus, David Lomas of Lost &amp; Found is in studio.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
   <programme channel="tv.11" start="20171010063000 +0000" stop="20171010073500 +0000">
@@ -2878,7 +2878,7 @@
   </programme>
   <programme channel="tv.11" start="20171010110000 +0000" stop="20171010113000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Lisa Owen who discuss mental health and rifles being sold at a Wellington school. Plus, David Lomas of Lost &amp; Found is in studio.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
   <programme channel="tv.11" start="20171010113000 +0000" stop="20171010160000 +0000">
@@ -3230,7 +3230,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171012114000 +0000" stop="20171012121000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
@@ -3368,10 +3368,13 @@
     <title>The Graham Norton Show</title>
     <desc>The Graham Norton Show sees Graham Norton present a show focusing on the people, trends, stories and aspects of celebrity culture that interest him most, featuring trademark Norton comedy monologues a</desc>
     <episode-num system="dd_progid">T784928</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171013080000 +0000" stop="20171013084500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Jeremy Elwood, Claire Hooper, Eli Matthewson and Chopper.</desc>
     <episode-num system="dd_progid">T789468</episode-num>
   </programme>
   <programme channel="tv.11" start="20171013084500 +0000" stop="20171013091500 +0000">
@@ -3399,7 +3402,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171013101500 +0000" stop="20171013111500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
@@ -3488,7 +3491,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171014023000 +0000" stop="20171014033000 +0000">
-    <title>Slice Of Paradise</title>
+    <title>Slice Of Paradise (Encore)</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
     <rating system="Freeview">
@@ -3760,7 +3763,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171015235500 +0000" stop="20171016013000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
   </programme>
@@ -3948,7 +3951,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171016235500 +0000" stop="20171017010000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
   </programme>
@@ -4564,6 +4567,9 @@
     <title>Four Weddings UK</title>
     <desc>Another group of celebrity brides face off to see whos wedding can take the cake. S2 Ep9</desc>
     <episode-num system="dd_progid">T784360</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171013053000 +0000" stop="20171013063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -4829,6 +4835,9 @@
     <title>Four Weddings UK</title>
     <desc>Nudists Ivy and Graham are kicking off their wedding day with a nudist blessing where guests will be encouraged to share the same dress code as the bride and groom take their clothes off! S2 Ep6</desc>
     <episode-num system="dd_progid">T784357</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171015005000 +0000" stop="20171015014500 +0000">
     <title>Four Weddings UK</title>
@@ -4838,7 +4847,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171015014500 +0000" stop="20171015024000 +0000">
+  <programme channel="tv.12" start="20171015014500 +0000" stop="20171015024500 +0000">
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
@@ -4846,7 +4855,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171015024000 +0000" stop="20171015033500 +0000">
+  <programme channel="tv.12" start="20171015024500 +0000" stop="20171015033500 +0000">
     <title>Hoarders: Family Secrets</title>
     <desc>Len lives in a home stuffed full of garbage bags where he keeps all his belongings. If he doesn't clean up his family fears his house will kill him. S1 Ep11</desc>
     <episode-num system="dd_progid">T716178</episode-num>
@@ -4859,7 +4868,7 @@
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171015043000 +0000" stop="20171015053000 +0000">
@@ -4906,6 +4915,9 @@
     <title>Four Weddings UK</title>
     <desc>Another group of celebrity brides face off to see whos wedding can take the cake. S2 Ep9</desc>
     <episode-num system="dd_progid">T784360</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171015111000 +0000" stop="20171015160000 +0000">
     <title>Infomercials</title>
@@ -5077,6 +5089,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Whispers spread about the Bellinos' possible home foreclosure, as Vicki and Tamra dish about the development. S6 Ep7</desc>
     <episode-num system="dd_progid">T343265</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171017004000 +0000" stop="20171017013500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5114,6 +5129,9 @@
     <title>Four Weddings UK</title>
     <desc>Vicky and Adam are a proud Welsh couple, so much that they are having their wedding and speeches in Welsh! S2 Ep11</desc>
     <episode-num system="dd_progid">T784362</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171017053000 +0000" stop="20171017063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13244,7 +13262,7 @@
   </programme>
   <programme channel="tv.27" start="20171010070000 +0000" stop="20171010073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Lisa Owen who discuss mental health and rifles being sold at a Wellington school. Plus, David Lomas of Lost &amp; Found is in studio.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
   <programme channel="tv.27" start="20171010073000 +0000" stop="20171010083500 +0000">
@@ -13286,7 +13304,7 @@
   </programme>
   <programme channel="tv.27" start="20171010120000 +0000" stop="20171010123000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Dai Henwood and Lisa Owen who discuss mental health and rifles being sold at a Wellington school. Plus, David Lomas of Lost &amp; Found is in studio.</desc>
     <episode-num system="dd_progid">T751797</episode-num>
   </programme>
   <programme channel="tv.27" start="20171010123000 +0000" stop="20171010170000 +0000">
@@ -13623,7 +13641,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171012124000 +0000" stop="20171012131000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
@@ -13761,10 +13779,13 @@
     <title>The Graham Norton Show</title>
     <desc>The Graham Norton Show sees Graham Norton present a show focusing on the people, trends, stories and aspects of celebrity culture that interest him most, featuring trademark Norton comedy monologues a</desc>
     <episode-num system="dd_progid">T784928</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171013090000 +0000" stop="20171013094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Jeremy Elwood, Claire Hooper, Eli Matthewson and Chopper.</desc>
     <episode-num system="dd_progid">T789468</episode-num>
   </programme>
   <programme channel="tv.27" start="20171013094500 +0000" stop="20171013101500 +0000">
@@ -13789,7 +13810,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171013111500 +0000" stop="20171013121500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
@@ -13875,7 +13896,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171014033000 +0000" stop="20171014043000 +0000">
-    <title>Slice Of Paradise</title>
+    <title>Slice Of Paradise (Encore)</title>
     <desc>New Episode. Caza and Clayton want to buy their first home in Wellington's outer suburbs. And Waikato's Terry and Leslie look for something suitable for next phase of their lives. S1 Ep4</desc>
     <episode-num system="dd_progid">T786602</episode-num>
     <rating system="Freeview">
@@ -14132,7 +14153,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171016005500 +0000" stop="20171016023000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
   </programme>
@@ -14311,7 +14332,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171017005500 +0000" stop="20171017020000 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
   </programme>
@@ -16592,6 +16613,9 @@
     <title>Four Weddings UK</title>
     <desc>Another group of celebrity brides face off to see whos wedding can take the cake. S2 Ep9</desc>
     <episode-num system="dd_progid">T784360</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171013063000 +0000" stop="20171013073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -16857,6 +16881,9 @@
     <title>Four Weddings UK</title>
     <desc>Nudists Ivy and Graham are kicking off their wedding day with a nudist blessing where guests will be encouraged to share the same dress code as the bride and groom take their clothes off! S2 Ep6</desc>
     <episode-num system="dd_progid">T784357</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171015015000 +0000" stop="20171015024500 +0000">
     <title>Four Weddings UK</title>
@@ -16866,7 +16893,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171015024500 +0000" stop="20171015034000 +0000">
+  <programme channel="tv.30" start="20171015024500 +0000" stop="20171015034500 +0000">
     <title>Four Weddings UK</title>
     <desc>Gemma is a real girlie girl who admits she is quite a sensitive person. She claims anything over her 15K budget makes her feel sick. S2 Ep8</desc>
     <episode-num system="dd_progid">T784359</episode-num>
@@ -16874,7 +16901,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171015034000 +0000" stop="20171015043500 +0000">
+  <programme channel="tv.30" start="20171015034500 +0000" stop="20171015043500 +0000">
     <title>Hoarders: Family Secrets</title>
     <desc>Len lives in a home stuffed full of garbage bags where he keeps all his belongings. If he doesn't clean up his family fears his house will kill him. S1 Ep11</desc>
     <episode-num system="dd_progid">T716178</episode-num>
@@ -16887,7 +16914,7 @@
     <desc>Tabatha focuses on refashioning a Los Angeles hair parlour mired in major debt. Tabatha's main tasks are to tame the uncontrollable staff and help reignite the owner's lost passion. S2 Ep10</desc>
     <episode-num system="dd_progid">T278926</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171015053000 +0000" stop="20171015063000 +0000">
@@ -16934,6 +16961,9 @@
     <title>Four Weddings UK</title>
     <desc>Another group of celebrity brides face off to see whos wedding can take the cake. S2 Ep9</desc>
     <episode-num system="dd_progid">T784360</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171015121000 +0000" stop="20171015170000 +0000">
     <title>Infomercials</title>
@@ -17105,6 +17135,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Whispers spread about the Bellinos' possible home foreclosure, as Vicki and Tamra dish about the development. S6 Ep7</desc>
     <episode-num system="dd_progid">T343265</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171017014000 +0000" stop="20171017023500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17142,6 +17175,9 @@
     <title>Four Weddings UK</title>
     <desc>Vicky and Adam are a proud Welsh couple, so much that they are having their wedding and speeches in Welsh! S2 Ep11</desc>
     <episode-num system="dd_progid">T784362</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171017063000 +0000" stop="20171017073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -77859,15 +77895,15 @@
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171010060500 +0000" stop="20171010063000 +0000">
-    <title>Beerland</title>
-    <episode-num system="dd_progid">891623</episode-num>
+    <title>Rivals</title>
+    <episode-num system="dd_progid">870773</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171010060500 +0000" stop="20171010063000 +0000">
-    <title>Rivals</title>
-    <episode-num system="dd_progid">870773</episode-num>
+    <title>Beerland</title>
+    <episode-num system="dd_progid">891623</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
