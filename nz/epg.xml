@@ -7267,6 +7267,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to comedian Kumail Nanjiani from the new LEGO Ninjago Movie, Saale has a delicious fried chicken recipe, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171010040500 +0000" stop="20171010043000 +0000">
     <title>Bunk'd</title>
@@ -7416,6 +7419,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to comedian Kumail Nanjiani from the new LEGO Ninjago Movie, Saale has a delicious fried chicken recipe, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471381</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171010170500 +0000" stop="20171010173000 +0000">
     <title>Neighbours</title>
@@ -7586,6 +7592,9 @@
     <title>Home And Away</title>
     <desc>Things are tense between Ash and Tori. Scarlett and Kat try to find solid ground.</desc>
     <episode-num system="dd_progid">10487055</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171011060000 +0000" stop="20171011063000 +0000">
     <title>The Big Bang Theory</title>
@@ -7624,6 +7633,9 @@
     <title>All New The Big Bang Theory</title>
     <desc>Sheldon and Amy struggle with picking a wedding date. Meanwhile Stuart and Raj fight over one of Bernadette's co-workers for a date.</desc>
     <episode-num system="dd_progid">10494560</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171011091000 +0000" stop="20171011094000 +0000">
     <title>All New 2 Broke Girls</title>
@@ -7823,6 +7835,9 @@
     <title>Home And Away</title>
     <desc>Things are tense between Ash and Tori. Scarlett and Kat try to find solid ground.</desc>
     <episode-num system="dd_progid">10487055</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171012030000 +0000" stop="20171012033000 +0000">
     <title>Shortland Street</title>
@@ -8433,7 +8448,7 @@
     <desc>Live life blow-by-blow! From the creators of Will &amp; Grace comes Clipped, a hilarious sitcom set in a barbershop in the small, working-class town of Charlestown in Boston. Starring George Wendt.</desc>
     <episode-num system="dd_progid">10423204</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171014043000 +0000" stop="20171014050000 +0000">
@@ -8510,7 +8525,7 @@
     <desc>S2 E6 Gabi and Sofia are thrilled when a larger apartment opens up across the hall. Determined to get a jump on the competition, they hatch a plan when their landlord takes a liking to Yolanda.</desc>
     <episode-num system="dd_progid">10394099</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171014170500 +0000" stop="20171014173000 +0000">
@@ -8907,13 +8922,16 @@
   </programme>
   <programme channel="tv.14" start="20171016083000 +0000" stop="20171016090000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>Will and Jack try to date younger guys but find it challenging. Meanwhile, Grace and Karen experience a crisis that reveals Grace's true feelings about Karen. Ben Platt guest stars.</desc>
+    <desc>Grace is shocked to find that the emergency contact called by her doctor's office is ex-husband Leo not Will. Special guest star Harry Connick, Jr.</desc>
     <episode-num system="dd_progid">10491207</episode-num>
   </programme>
   <programme channel="tv.14" start="20171016090000 +0000" stop="20171016093000 +0000">
     <title>The Mick</title>
     <desc>Mickey takes the kids to visit their parents in jail to gain closure, but it turns out Mickey may be the one who needs it the most.</desc>
     <episode-num system="dd_progid">10494342</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171016093000 +0000" stop="20171016103000 +0000">
     <title>Tricked House Of Horrors</title>
@@ -20407,7 +20425,7 @@
   </programme>
   <programme channel="tv.38" start="20171009220000 +0000" stop="20171009223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we talk to artist Lisa Reihana at the Venice Biennale , Travel consultant Bayley shares tips about Cruises, and Raniera hits the ancestry trail.</desc>
     <episode-num system="dd_progid">10495399</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -20578,7 +20596,7 @@
   </programme>
   <programme channel="tv.38" start="20171010220000 +0000" stop="20171010223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena we find out about Pop Up weddings , Miria tries teeth whitening , Dan brings his picks of watch to watch on the box , and we visit Ohaki for Marae 101 with Patara.</desc>
     <episode-num system="dd_progid">10495400</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -20741,10 +20759,13 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On this show today, Ryan Gosling.</desc>
     <episode-num system="dd_progid">10491711</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171011220000 +0000" stop="20171011223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today, Kara catches up with Designer and Fashionista Adrienne Whitewood, Kani waxes on with beauty treatments for blokes , and Legal expert Phil Winiata lays down the law on car accidents.</desc>
     <episode-num system="dd_progid">10495401</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -20903,10 +20924,13 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
     <episode-num system="dd_progid">10491712</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171012220000 +0000" stop="20171012223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we meet Entreprenuer Robett Hollis , for Flash food Friday Chef James Miller makes Thai larb, Heidi talks about the Paemanau exhibition , and we visit Hot water beach.</desc>
     <episode-num system="dd_progid">10495402</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21156,9 +21180,6 @@
     <desc>Tamati Coffey follows the fortunes of City dwellers as they attempt to forge new futures in Provincial NZ. Tonight, Tamati meets Belinda and Luis Lima who are selling up and heading to Whangamata.</desc>
     <episode-num system="dd_progid">10456725</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.38" start="20171014073000 +0000" stop="20171014080000 +0000">
     <title>The X Factor UK</title>
@@ -21472,7 +21493,7 @@
   </programme>
   <programme channel="tv.38" start="20171015220000 +0000" stop="20171015223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , On Mexican Monday Faine makes sala , Tammy tricks Pax Assadi into riding in his paru waka, and Neuroscientist Nathan discusses the impacts of social media.</desc>
     <episode-num system="dd_progid">10495403</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21565,6 +21586,9 @@
     <title>Highway Cops</title>
     <desc>Today, a driver so drunk she shouldn’t be standing let alone driving; a lying passenger gets his comeuppance; and wild winds threaten to shut down a motorbike rally.</desc>
     <episode-num system="dd_progid">10317164</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171016083000 +0000" stop="20171016094500 +0000">
     <title>Doctor Foster</title>
@@ -21665,7 +21689,7 @@
   </programme>
   <programme channel="tv.38" start="20171016220000 +0000" stop="20171016223000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we talk to Ngāi Tahu artist Fiona Pardington , Travel consultant Bayley shares tips about Cruises, Raniera explains whakapapa , and Miria tries out cat Yoga.</desc>
     <episode-num system="dd_progid">10495404</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -40930,7 +40954,7 @@
   </programme>
   <programme channel="tv.9" start="20171009210000 +0000" stop="20171009213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we talk to artist Lisa Reihana at the Venice Biennale , Travel consultant Bayley shares tips about Cruises, and Raniera hits the ancestry trail.</desc>
     <episode-num system="dd_progid">10495399</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -41101,7 +41125,7 @@
   </programme>
   <programme channel="tv.9" start="20171010210000 +0000" stop="20171010213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena we find out about Pop Up weddings , Miria tries teeth whitening , Dan brings his picks of watch to watch on the box , and we visit Ohaki for Marae 101 with Patara.</desc>
     <episode-num system="dd_progid">10495400</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -41264,10 +41288,13 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On this show today, Ryan Gosling.</desc>
     <episode-num system="dd_progid">10491711</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171011210000 +0000" stop="20171011213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today, Kara catches up with Designer and Fashionista Adrienne Whitewood, Kani waxes on with beauty treatments for blokes , and Legal expert Phil Winiata lays down the law on car accidents.</desc>
     <episode-num system="dd_progid">10495401</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -41426,10 +41453,13 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
     <episode-num system="dd_progid">10491712</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171012210000 +0000" stop="20171012213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we meet Entreprenuer Robett Hollis , for Flash food Friday Chef James Miller makes Thai larb, Heidi talks about the Paemanau exhibition , and we visit Hot water beach.</desc>
     <episode-num system="dd_progid">10495402</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -41679,9 +41709,6 @@
     <desc>Tamati Coffey follows the fortunes of City dwellers as they attempt to forge new futures in Provincial NZ. Tonight, Tamati meets Belinda and Luis Lima who are selling up and heading to Whangamata.</desc>
     <episode-num system="dd_progid">10456725</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20171014063000 +0000" stop="20171014070000 +0000">
     <title>The X Factor UK</title>
@@ -41995,7 +42022,7 @@
   </programme>
   <programme channel="tv.9" start="20171015210000 +0000" stop="20171015213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , On Mexican Monday Faine makes sala , Tammy tricks Pax Assadi into riding in his paru waka, and Neuroscientist Nathan discusses the impacts of social media.</desc>
     <episode-num system="dd_progid">10495403</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -42088,6 +42115,9 @@
     <title>Highway Cops</title>
     <desc>Today, a driver so drunk she shouldn’t be standing let alone driving; a lying passenger gets his comeuppance; and wild winds threaten to shut down a motorbike rally.</desc>
     <episode-num system="dd_progid">10317164</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171016073000 +0000" stop="20171016084500 +0000">
     <title>Doctor Foster</title>
@@ -42188,7 +42218,7 @@
   </programme>
   <programme channel="tv.9" start="20171016210000 +0000" stop="20171016213000 +0000">
     <title>Morena</title>
-    <desc>Morena! Join Kara Rickard and Tim Lambourne as they bring you the very latest in lifestyle from a Maori perspective.</desc>
+    <desc>Today on Mōrena , we talk to Ngāi Tahu artist Fiona Pardington , Travel consultant Bayley shares tips about Cruises, Raniera explains whakapapa , and Miria tries out cat Yoga.</desc>
     <episode-num system="dd_progid">10495404</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
