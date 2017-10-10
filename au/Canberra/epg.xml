@@ -1887,10 +1887,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20171010121500 +0000" stop="20171010132300 +0000">
-    <title>Q&amp;A</title>
-    <episode-num system="dd_progid">NC1703H034S00</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20171018130000 +0000" stop="20171018133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H208S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -8334,13 +8333,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171010113500 +0000" stop="20171010180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20171010180000 +0000" stop="20171010182200 +0000">
     <title>Odd Squad</title>
     <episode-num system="dd_progid">ZW0308A010S00</episode-num>
@@ -11618,13 +11610,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20171010123700 +0000" stop="20171010133000 +0000">
-    <title>Cold Case</title>
-    <episode-num system="dd_progid">COCA_3_2T6355</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20171010133000 +0000" stop="20171010142400 +0000">
     <title>20/20</title>
     <episode-num system="dd_progid">TWTW_2017_40</episode-num>
@@ -13108,13 +13093,6 @@
     <title>The Closer</title>
     <episode-num system="dd_progid">CLOS_2_2T7652</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20171010123200 +0000" stop="20171010130100 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_6_5DU07</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15083,11 +15061,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171010124800 +0000" stop="20171010135100 +0000">
-    <title>Heartbeat</title>
-    <episode-num system="dd_progid">HEBE_14_23</episode-num>
+  <programme channel="tv.101204200424" start="20171018130000 +0000" stop="20171018133000 +0000">
+    <title>House Hunters</title>
+    <episode-num system="dd_progid">HOHU_84_8401H</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171010135100 +0000" stop="20171010140200 +0000">
@@ -16642,14 +16620,6 @@
     <episode-num system="dd_progid">SIWI_11_1</episode-num>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171010110000 +0000" stop="20171010131300 +0000">
-    <title>Non-Stop</title>
-    <episode-num system="dd_progid">NOST__1</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20171010131300 +0000" stop="20171010133000 +0000">
@@ -18958,14 +18928,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171010124000 +0000" stop="20171010133500 +0000">
-    <title>Mistresses</title>
-    <episode-num system="dd_progid">tvnuu3mSmdaPmtmx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020520" start="20171010133500 +0000" stop="20171010140600 +0000">
     <title>Cosmetic Coffee</title>
     <episode-num system="dd_progid">qLKdr3aOltaPmdeP</episode-num>
@@ -20258,14 +20220,6 @@
   <programme channel="tv.101305020520" start="20171018120000 +0000" stop="20171018130400 +0000">
     <title>Chicago Fire</title>
     <episode-num system="dd_progid">qL5jr3aKltaPmdaH</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20171010124500 +0000" stop="20171010140000 +0000">
-    <title>All Round to Mrs. Brown's</title>
-    <episode-num system="dd_progid">qvjnq3aOltaPmdaJ</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -21898,13 +21852,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20171010120700 +0000" stop="20171010130700 +0000">
-    <title>Inside West Coast Customs</title>
-    <episode-num system="dd_progid">sv9dqNLPmdaPmqxx</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20171010130700 +0000" stop="20171010140300 +0000">
@@ -27237,13 +27184,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20171010123000 +0000" stop="20171010130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59619E1435284</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020621" start="20171010130000 +0000" stop="20171010133000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57596E1476525</episode-num>
@@ -29126,6 +29066,13 @@
   <programme channel="tv.101406020621" start="20171018123000 +0000" stop="20171018130000 +0000">
     <title>Hogan's Heroes</title>
     <episode-num system="dd_progid">59620E1032334</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406020621" start="20171018130000 +0000" stop="20171018133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476386</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33445,11 +33392,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20171010113000 +0000" stop="20171010131000 +0000">
-    <title>The Girl Who Played with Fire Part 2</title>
-    <episode-num system="dd_progid">788295</episode-num>
+  <programme channel="tv.101406020628" start="20171018130000 +0000" stop="20171018133000 +0000">
+    <title>The King of Queens</title>
+    <episode-num system="dd_progid">59560E1111307</episode-num>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20171010131000 +0000" stop="20171010145500 +0000">
@@ -37315,12 +37262,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20171010125500 +0000" stop="20171010130000 +0000">
-    <title>Destination Flavour Scandinavia Bitesize</title>
-    <episode-num system="dd_progid">829312</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.320203000302" start="20171018130000 +0000" stop="20171018132500 +0000">
+    <title>VICE News Tonight</title>
+    <episode-num system="dd_progid">863899</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171010130000 +0000" stop="20171010133000 +0000">
@@ -40015,11 +39961,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000305" start="20171010123000 +0000" stop="20171010130000 +0000">
-    <title>Whadjuk to Wadjemup</title>
-    <episode-num system="dd_progid">742879</episode-num>
+  <programme channel="tv.320203000304" start="20171018130000 +0000" stop="20171018133000 +0000">
+    <title>Man Fire Food</title>
+    <episode-num system="dd_progid">774062</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171010130000 +0000" stop="20171010140000 +0000">
@@ -42386,6 +42332,13 @@
     <episode-num system="dd_progid">732053</episode-num>
     <rating system="Freeview">
       <value>MA</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171018130000 +0000" stop="20171018140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">643347</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
