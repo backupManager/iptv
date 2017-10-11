@@ -1859,6 +1859,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20171019130000 +0000" stop="20171019133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H209S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20171011123700 +0000" stop="20171011132500 +0000">
     <title>My Mania And Me</title>
     <episode-num system="dd_progid">ZW0587A001S00</episode-num>
@@ -6478,13 +6485,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171011114600 +0000" stop="20171011180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20171011180000 +0000" stop="20171011182300 +0000">
     <title>Arthur</title>
     <episode-num system="dd_progid">ZX8973A048S00</episode-num>
@@ -9918,14 +9918,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002310231" start="20171011122600 +0000" stop="20171011131300 +0000">
-    <title>Four Corners</title>
-    <episode-num system="dd_progid">NC1704H035S00</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002310231" start="20171011131300 +0000" stop="20171011132900 +0000">
     <title>Media Watch</title>
     <episode-num system="dd_progid">FA1635H035S00</episode-num>
@@ -11681,14 +11673,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20171011124300 +0000" stop="20171011133500 +0000">
-    <title>The Closer</title>
-    <episode-num system="dd_progid">CLOS_2_2T7653</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20171011133500 +0000" stop="20171011142900 +0000">
     <title>20/20</title>
     <episode-num system="dd_progid">TWTW17A__14</episode-num>
@@ -13156,13 +13140,6 @@
     <title>What Would You Do?</title>
     <episode-num system="dd_progid">PRIM_2016_TX%2026_AUGUST_201</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20171011123000 +0000" stop="20171011130000 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_6_5DU08</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15154,13 +15131,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300436" start="20171011125900 +0000" stop="20171011140600 +0000">
-    <title>Silent Witness</title>
-    <episode-num system="dd_progid">SIWI_10_Ep%208</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300436" start="20171011140600 +0000" stop="20171011143400 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH_2017_A2830BMT08GE</episode-num>
@@ -16756,12 +16726,12 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20171011124400 +0000" stop="20171011131200 +0000">
-    <title>Mad About You</title>
-    <episode-num system="dd_progid">MAAB101_5_5-15</episode-num>
+  <programme channel="tv.101204300436" start="20171019130000 +0000" stop="20171019140000 +0000">
+    <title>Person of Interest</title>
+    <episode-num system="dd_progid">PEIN_5_3J6013</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300437" start="20171011131200 +0000" stop="20171011134000 +0000">
@@ -21044,12 +21014,12 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20171011122900 +0000" stop="20171011132600 +0000">
-    <title>Motive</title>
-    <episode-num system="dd_progid">tuCuv3aLltaPmdaH</episode-num>
+  <programme channel="tv.101305020528" start="20171019130000 +0000" stop="20171019131500 +0000">
+    <title>Champions - Elvstroem</title>
+    <episode-num system="dd_progid">CHP1711A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>M</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20171011132600 +0000" stop="20171011135700 +0000">
@@ -22317,13 +22287,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030532" start="20171011123100 +0000" stop="20171011133000 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3mOltaPmdiI</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20171011133000 +0000" stop="20171011142900 +0000">
@@ -23993,13 +23956,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20171011123200 +0000" stop="20171011130100 +0000">
-    <title>Hardcore Pawn</title>
-    <episode-num system="dd_progid">sfbxt3uSmdaPmtax</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20171011130100 +0000" stop="20171011133000 +0000">
     <title>Pawn Stars</title>
     <episode-num system="dd_progid">uf9ouMePltaPmdeG</episode-num>
@@ -25638,14 +25594,6 @@
     <episode-num system="dd_progid">u2ruq3aIltaPmdaH</episode-num>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030535" start="20171011121000 +0000" stop="20171011143400 +0000">
-    <title>Deliver Us From Evil</title>
-    <episode-num system="dd_progid">uKbdr3aIltaPmdaJ</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305030535" start="20171011143400 +0000" stop="20171011150200 +0000">
@@ -27431,13 +27379,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030631" start="20171011123500 +0000" stop="20171011130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59619E1435285</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20171011130000 +0000" stop="20171011133000 +0000">
@@ -29312,12 +29253,11 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406030635" start="20171011123300 +0000" stop="20171011133200 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500794</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406030631" start="20171019130000 +0000" stop="20171019133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476387</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20171011133200 +0000" stop="20171011143000 +0000">
@@ -37551,13 +37491,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20171011125500 +0000" stop="20171011130000 +0000">
-    <title>Best Thing I Ever Ate Bitesize</title>
-    <episode-num system="dd_progid">783413</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20171011130000 +0000" stop="20171011133000 +0000">
     <title>Burgers, Brew and 'Que</title>
     <episode-num system="dd_progid">840327</episode-num>
@@ -40271,6 +40204,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171019130000 +0000" stop="20171019133000 +0000">
+    <title>Man Fire Food</title>
+    <episode-num system="dd_progid">774063</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171011120000 +0000" stop="20171011130000 +0000">
     <title>Express Yourself</title>
     <episode-num system="dd_progid">732052</episode-num>
@@ -42633,6 +42573,13 @@
   <programme channel="tv.320203000305" start="20171019123000 +0000" stop="20171019130000 +0000">
     <title>Hardwood</title>
     <episode-num system="dd_progid">824225</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171019130000 +0000" stop="20171019140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">643295</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
