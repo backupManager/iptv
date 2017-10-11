@@ -33212,10 +33212,18 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171017190000 +0000" stop="20171017201500 +0000">
+  <programme channel="tv.56" start="20171017190000 +0000" stop="20171017195500 +0000">
     <title>Go Healthy For Good</title>
     <desc>Dr Nerida McKibben helps people live life to the fullest, integrating wholistic principles into medical treatments and procedures. Today we look at falls in the elderly</desc>
     <episode-num system="dd_progid">GOHEALTHYx130926</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20171017195500 +0000" stop="20171017201500 +0000">
+    <title>Let's Pray</title>
+    <desc></desc>
+    <episode-num system="dd_progid">LETSPRAY01x03</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -33348,7 +33356,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171018063000 +0000" stop="20171018070000 +0000">
+  <programme channel="tv.56" start="20171018063000 +0000" stop="20171018070500 +0000">
     <title>It Is Written</title>
     <desc>John Bradshaw visits his hometown of Ngaruawahia and considers the influence of the church and its 'saints' on his life as a young person</desc>
     <episode-num system="dd_progid">IIWJB04x1407</episode-num>
@@ -33356,7 +33364,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171018070000 +0000" stop="20171018073000 +0000">
+  <programme channel="tv.56" start="20171018070500 +0000" stop="20171018073000 +0000">
     <title>Tell The World</title>
     <desc>Ellen struggles with another loss, James' poor health, and new visions about health and education. Faced with profound limitations the leaders of this new movement have to decide how large their vis</desc>
     <episode-num system="dd_progid">TELLWORLDx06</episode-num>
@@ -33436,10 +33444,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.56" start="20171018130000 +0000" stop="20171018134000 +0000">
+  <programme channel="tv.56" start="20171018130000 +0000" stop="20171018132500 +0000">
     <title>Lifestyle Magazine</title>
     <desc>Smart phones are everywhere, and anywhere you look you can see someone plugged in to a mobile device. Today's guest shares what technology is doing to our brains, both good and bad.</desc>
     <episode-num system="dd_progid">LIFEMAGx2616</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.56" start="20171018132500 +0000" stop="20171018134000 +0000">
+    <title>Hymns of the Forefathers</title>
+    <desc>Continue the celebration in sight and sound as we follow the musical story of the English church from the 18th and 19th Centuries</desc>
+    <episode-num system="dd_progid">HYMNSOTFx06B</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
