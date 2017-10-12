@@ -2766,13 +2766,16 @@
   </programme>
   <programme channel="tv.11" start="20171012060000 +0000" stop="20171012063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury are joined by Six60 and the Kiwi women speaking out in light of Harvey Weinstein's abuse of power.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
   <programme channel="tv.11" start="20171012063000 +0000" stop="20171012073000 +0000">
     <title>Jono And Ben</title>
-    <desc>Hosted by Jono Pryor and Ben Boyce, with Guy Williams and Laura Daniel, Jono and Ben is a comedy show with hilarious sketches, topical chat and celebrity guests.</desc>
+    <desc>Tonight: Final. Jono and Ben meet Australian duo Hamish and Andy for the first time! Plus, the Breakers on The Guy Williams Show, Shaun Johnson on Next Actor, and an interview with Jack Black.</desc>
     <episode-num system="dd_progid">T789470</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171012073000 +0000" stop="20171012094500 +0000">
     <title>Safe House</title>
@@ -2808,7 +2811,7 @@
   </programme>
   <programme channel="tv.11" start="20171012114000 +0000" stop="20171012121000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury are joined by Six60 and the Kiwi women speaking out in light of Harvey Weinstein's abuse of power.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
   <programme channel="tv.11" start="20171012121000 +0000" stop="20171012160000 +0000">
@@ -3063,6 +3066,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. Beverly confronts Couch Mellor. Geoff and Erica struggle with their long distance relationship. S5 Ep3</desc>
     <episode-num system="dd_progid">T785700</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3107,7 +3113,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171014074000 +0000" stop="20171014093500 +0000">
+  <programme channel="tv.11" start="20171014074000 +0000" stop="20171014094000 +0000">
     <title>Fargo</title>
     <desc>Things go horribly wrong when a struggling car salesman hires two criminals to hold his wife for ransom to earn some quick money, and a pregnant police chief must get to the bottom of it.</desc>
     <episode-num system="dd_progid">T771233</episode-num>
@@ -3118,7 +3124,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171014093500 +0000" stop="20171014114500 +0000">
+  <programme channel="tv.11" start="20171014094000 +0000" stop="20171014115500 +0000">
     <title>Out Of Time</title>
     <desc>A Florida police chief must solve a vicious double homicide before he himself falls under suspicion. Starring Denzel Washington, Eva Mendes, and Dean Cain.</desc>
     <episode-num system="dd_progid">T638381</episode-num>
@@ -3129,12 +3135,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171014114500 +0000" stop="20171014124500 +0000">
+  <programme channel="tv.11" start="20171014115500 +0000" stop="20171014125500 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753378</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171014124500 +0000" stop="20171014150000 +0000">
+  <programme channel="tv.11" start="20171014125500 +0000" stop="20171014150000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3158,29 +3164,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20171014170000 +0000" stop="20171014173000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 140</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730242</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014173000 +0000" stop="20171014180000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1072</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770344</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014180000 +0000" stop="20171014190000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1742</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758519</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014190000 +0000" stop="20171014193000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756538</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014193000 +0000" stop="20171014200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780940</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171014200000 +0000" stop="20171014203000 +0000">
     <title>R &amp; R</title>
@@ -3467,7 +3488,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171016110000 +0000" stop="20171016113000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
@@ -4822,6 +4843,9 @@
     <title>Real Housewives Of New York City, The</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171017083000 +0000" stop="20171017093000 +0000">
     <title>Below Deck: Mediterranean</title>
@@ -4906,6 +4930,9 @@
     <title>The Real Housewives Of New York City</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171018023500 +0000" stop="20171018033000 +0000">
     <title>Catfish</title>
@@ -5056,6 +5083,9 @@
     <title>Four Weddings UK</title>
     <desc>Brazilian bridezilla Rosana has planned the perfrct castle wedding. S2 Ep13</desc>
     <episode-num system="dd_progid">T784364</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171019053000 +0000" stop="20171019063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -13228,13 +13258,16 @@
   </programme>
   <programme channel="tv.27" start="20171012070000 +0000" stop="20171012073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury are joined by Six60 and the Kiwi women speaking out in light of Harvey Weinstein's abuse of power.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
   <programme channel="tv.27" start="20171012073000 +0000" stop="20171012083000 +0000">
     <title>Jono And Ben</title>
-    <desc>Hosted by Jono Pryor and Ben Boyce, with Guy Williams and Laura Daniel, Jono and Ben is a comedy show with hilarious sketches, topical chat and celebrity guests.</desc>
+    <desc>Tonight: Final. Jono and Ben meet Australian duo Hamish and Andy for the first time! Plus, the Breakers on The Guy Williams Show, Shaun Johnson on Next Actor, and an interview with Jack Black.</desc>
     <episode-num system="dd_progid">T789470</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171012083000 +0000" stop="20171012104500 +0000">
     <title>Safe House</title>
@@ -13264,7 +13297,7 @@
   </programme>
   <programme channel="tv.27" start="20171012124000 +0000" stop="20171012131000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury are joined by Six60 and the Kiwi women speaking out in light of Harvey Weinstein's abuse of power.</desc>
     <episode-num system="dd_progid">T751799</episode-num>
   </programme>
   <programme channel="tv.27" start="20171012131000 +0000" stop="20171012170000 +0000">
@@ -13554,7 +13587,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171014084000 +0000" stop="20171014103500 +0000">
+  <programme channel="tv.27" start="20171014084000 +0000" stop="20171014104000 +0000">
     <title>Fargo</title>
     <desc>Things go horribly wrong when a struggling car salesman hires two criminals to hold his wife for ransom to earn some quick money, and a pregnant police chief must get to the bottom of it.</desc>
     <episode-num system="dd_progid">T771233</episode-num>
@@ -13562,7 +13595,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171014103500 +0000" stop="20171014124500 +0000">
+  <programme channel="tv.27" start="20171014104000 +0000" stop="20171014125500 +0000">
     <title>Out Of Time</title>
     <desc>A Florida police chief must solve a vicious double homicide before he himself falls under suspicion. Starring Denzel Washington, Eva Mendes, and Dean Cain.</desc>
     <episode-num system="dd_progid">T638381</episode-num>
@@ -13570,12 +13603,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171014124500 +0000" stop="20171014134500 +0000">
+  <programme channel="tv.27" start="20171014125500 +0000" stop="20171014135500 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753378</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171014134500 +0000" stop="20171014160000 +0000">
+  <programme channel="tv.27" start="20171014135500 +0000" stop="20171014160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13599,29 +13632,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20171014180000 +0000" stop="20171014183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 140</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730242</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014183000 +0000" stop="20171014190000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1072</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770344</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014190000 +0000" stop="20171014200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1742</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758519</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014200000 +0000" stop="20171014203000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756538</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014203000 +0000" stop="20171014210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780940</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171014210000 +0000" stop="20171014213000 +0000">
     <title>R &amp; R</title>
@@ -13893,7 +13941,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171016120000 +0000" stop="20171016123000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
@@ -16903,6 +16951,9 @@
     <title>Real Housewives Of New York City, The</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171017093000 +0000" stop="20171017103000 +0000">
     <title>Below Deck: Mediterranean</title>
@@ -16987,6 +17038,9 @@
     <title>The Real Housewives Of New York City</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171018033500 +0000" stop="20171018043000 +0000">
     <title>Catfish</title>
@@ -17137,6 +17191,9 @@
     <title>Four Weddings UK</title>
     <desc>Brazilian bridezilla Rosana has planned the perfrct castle wedding. S2 Ep13</desc>
     <episode-num system="dd_progid">T784364</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171019063000 +0000" stop="20171019073000 +0000">
     <title>Tabatha's Salon Takeover</title>
