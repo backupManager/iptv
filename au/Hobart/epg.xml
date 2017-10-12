@@ -1853,6 +1853,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20171020130000 +0000" stop="20171020133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H210S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20171012123300 +0000" stop="20171012130600 +0000">
     <title>Crack Up: Opening Shot</title>
     <episode-num system="dd_progid">DO1334Q001S00</episode-num>
@@ -6482,13 +6489,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210224" start="20171012113300 +0000" stop="20171012180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20171012180000 +0000" stop="20171012182300 +0000">
@@ -11726,14 +11726,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20171012125100 +0000" stop="20171012134200 +0000">
-    <title>What Would You Do?</title>
-    <episode-num system="dd_progid">PRIM_2016_TX%2029_JULY_2016</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20171012134200 +0000" stop="20171012141100 +0000">
     <title>Anger Management</title>
     <episode-num system="dd_progid">ANMA__2077</episode-num>
@@ -13188,13 +13180,6 @@
     <title>Law &amp; Order True Crime: The Menendez Murders</title>
     <episode-num system="dd_progid">LAORME_1_3</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20171012120000 +0000" stop="20171012130000 +0000">
-    <title>The Real Housewives of Orange County</title>
-    <episode-num system="dd_progid">REHOOC_7_VJH23</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16766,13 +16751,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20171012121800 +0000" stop="20171012132100 +0000">
-    <title>WWE Raw</title>
-    <episode-num system="dd_progid">WRESRAW_23_1272</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20171012132100 +0000" stop="20171012141700 +0000">
     <title>Total Divas</title>
     <episode-num system="dd_progid">TODI_1_103</episode-num>
@@ -19015,12 +18993,11 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171012120000 +0000" stop="20171012130000 +0000">
-    <title>Get On!</title>
-    <episode-num system="dd_progid">GO3717A</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204300437" start="20171020130000 +0000" stop="20171020140000 +0000">
+    <title>WWE Smackdown</title>
+    <episode-num system="dd_progid">WRESSMAC_19_10</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020528" start="20171012130000 +0000" stop="20171012133000 +0000">
@@ -20975,12 +20952,12 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20171012123800 +0000" stop="20171012130900 +0000">
-    <title>The Goldbergs</title>
-    <episode-num system="dd_progid">rLCmq3aLltaPmdaH</episode-num>
+  <programme channel="tv.101305020528" start="20171020130000 +0000" stop="20171020133000 +0000">
+    <title>Raceday Review - Murray Bridge</title>
+    <episode-num system="dd_progid">RV20102A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20171012130900 +0000" stop="20171012134000 +0000">
@@ -22294,13 +22271,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030532" start="20171012123300 +0000" stop="20171012133000 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3mOltaPmdiH</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20171012133000 +0000" stop="20171012163300 +0000">
@@ -23972,13 +23942,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20171012123100 +0000" stop="20171012130200 +0000">
-    <title>Rude Tube</title>
-    <episode-num system="dd_progid">u2ruq3aIltaPmdaI</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20171012130200 +0000" stop="20171012140500 +0000">
     <title>Ink Master</title>
     <episode-num system="dd_progid">suGlttqSmdaPmd0x</episode-num>
@@ -25543,14 +25506,6 @@
   <programme channel="tv.101305030533" start="20171020112700 +0000" stop="20171020135000 +0000">
     <title>Beowulf</title>
     <episode-num system="dd_progid">vLjgr3aOltaPmdaM</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030535" start="20171012122700 +0000" stop="20171012133100 +0000">
-    <title>The Blacklist</title>
-    <episode-num system="dd_progid">q2OltdaMltaPmdiM</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -27271,13 +27226,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030631" start="20171012122900 +0000" stop="20171012130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59619E1435286</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030631" start="20171012130000 +0000" stop="20171012133000 +0000">
@@ -29116,14 +29064,6 @@
     <episode-num system="dd_progid">0E1414568</episode-num>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030635" start="20171012123300 +0000" stop="20171012133300 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500795</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20171012133300 +0000" stop="20171012143000 +0000">
@@ -40059,6 +39999,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171020130000 +0000" stop="20171020133000 +0000">
+    <title>Man Fire Food</title>
+    <episode-num system="dd_progid">774064</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171012120500 +0000" stop="20171012130000 +0000">
     <title>Children of the Wind</title>
     <episode-num system="dd_progid">767577</episode-num>
@@ -42428,6 +42375,13 @@
   <programme channel="tv.320203000305" start="20171020123000 +0000" stop="20171020130000 +0000">
     <title>Destiny in Alice</title>
     <episode-num system="dd_progid">612322</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171020130000 +0000" stop="20171020140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">641885</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>

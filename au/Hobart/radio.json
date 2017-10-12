@@ -120,23 +120,6 @@
             "sample_rate": "48000"
         }
     },
-    "radio.ih.7103": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7103.png",
-        "name": "AFTRS FM",
-        "description": "Young talk, current affairs and music",
-        "genres": [
-            "Traffic, Weather & News",
-            "College Radio",
-            "Public Radio",
-            "News & Talk"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
     "radio.ih.7421": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7421.png",
         "name": "AndrewHaug.com Metal Radio",
@@ -258,6 +241,24 @@
             "Kids & Family"
         ],
         "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.6970|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 2,
+            "sample_rate": "44100"
+        }
+    },
+    "radio.ih.7103": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7103.png",
+        "name": "Next Radio",
+        "description": "A Young Talk and New Music Station",
+        "genres": [
+            "College Radio",
+            "Rock",
+            "Alternative",
+            "Hip Hop and R&B",
+            "Top 40 & Pop"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Hobart/radio.ih.7103|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "audio": {
             "codec": "aac",
             "channels": 2,
