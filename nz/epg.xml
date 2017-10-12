@@ -740,6 +740,9 @@
     <title>Home And Away</title>
     <desc>Liv makes a wrong move. Raffy's strange behaviour causes concern.</desc>
     <episode-num system="dd_progid">10487057</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171013050000 +0000" stop="20171013053000 +0000">
     <title>The Big Bang Theory</title>
@@ -895,6 +898,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469477</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171013175500 +0000" stop="20171013182000 +0000">
     <title>Future-Worm!</title>
@@ -1056,7 +1062,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171014033000 +0000" stop="20171014040000 +0000">
@@ -1080,6 +1086,9 @@
     <desc>The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
     <episode-num system="dd_progid">10423866</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171014053000 +0000" stop="20171014060000 +0000">
     <title>The Middle</title>
@@ -1352,6 +1361,7 @@
   <programme channel="tv.10" start="20171015135500 +0000" stop="20171015143000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171015143000 +0000" stop="20171015151500 +0000">
     <title>24: Legacy</title>
@@ -1384,11 +1394,23 @@
   <programme channel="tv.10" start="20171015163000 +0000" stop="20171015170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
-  <programme channel="tv.10" start="20171015170000 +0000" stop="20171015173000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466742</episode-num>
+  <programme channel="tv.10" start="20171015170000 +0000" stop="20171015172500 +0000">
+    <title>Paw Patrol</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10437459</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20171015172500 +0000" stop="20171015173000 +0000">
+    <title>Wiki The Kiwi</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10386102</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171015173000 +0000" stop="20171015175500 +0000">
     <title>Sesame Street</title>
@@ -1449,17 +1471,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171015200000 +0000" stop="20171015203000 +0000">
+  <programme channel="tv.10" start="20171015200000 +0000" stop="20171015213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171015203000 +0000" stop="20171015210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171015210000 +0000" stop="20171015213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473196</episode-num>
   </programme>
   <programme channel="tv.10" start="20171015213000 +0000" stop="20171015220000 +0000">
     <title>Neighbours</title>
@@ -1500,6 +1515,9 @@
     <title>Home And Away</title>
     <desc>Liv makes a wrong move. Raffy's strange behaviour causes concern.</desc>
     <episode-num system="dd_progid">10487057</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171016020000 +0000" stop="20171016023000 +0000">
     <title>Shortland Street</title>
@@ -1671,13 +1689,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171016123000 +0000" stop="20171016130500 +0000">
+  <programme channel="tv.10" start="20171016123000 +0000" stop="20171016133500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171016130500 +0000" stop="20171016133500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171016133500 +0000" stop="20171016151000 +0000">
     <title>Mistresses</title>
@@ -1714,11 +1729,23 @@
   <programme channel="tv.10" start="20171016163000 +0000" stop="20171016170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
-  <programme channel="tv.10" start="20171016170000 +0000" stop="20171016173000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466743</episode-num>
+  <programme channel="tv.10" start="20171016170000 +0000" stop="20171016172500 +0000">
+    <title>Paw Patrol</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10437460</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20171016172500 +0000" stop="20171016173000 +0000">
+    <title>Wiki The Kiwi</title>
+    <desc>Come along with Wiki the Kiwi and his best friend Brian the Bat as they set out to explore the Fuzzy Forest in this Christmas special!</desc>
+    <episode-num system="dd_progid">10386103</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171016173000 +0000" stop="20171016175500 +0000">
     <title>Sesame Street</title>
@@ -1776,17 +1803,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171016200000 +0000" stop="20171016203000 +0000">
+  <programme channel="tv.10" start="20171016200000 +0000" stop="20171016213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171016203000 +0000" stop="20171016210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171016210000 +0000" stop="20171016213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.10" start="20171016213000 +0000" stop="20171016220000 +0000">
     <title>Neighbours</title>
@@ -1896,7 +1916,7 @@
     <desc>S3 E15 It's Valentine's Day, and Leonard can only bring one guest on a trip to see the world's largest and highest energy particle accelerator in Switzerland. Will it be Sheldon or Penny?</desc>
     <episode-num system="dd_progid">10181427</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171017053000 +0000" stop="20171017060000 +0000">
@@ -1988,13 +2008,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171017123500 +0000" stop="20171017131000 +0000">
+  <programme channel="tv.10" start="20171017123500 +0000" stop="20171017134000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171017131000 +0000" stop="20171017134000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171017134000 +0000" stop="20171017151000 +0000">
     <title>Mistresses</title>
@@ -2031,11 +2048,11 @@
   <programme channel="tv.10" start="20171017163000 +0000" stop="20171017170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.10" start="20171017170000 +0000" stop="20171017173000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466744</episode-num>
+    <title>Infomercial 6am</title>
+    <desc></desc>
   </programme>
   <programme channel="tv.10" start="20171017173000 +0000" stop="20171017175500 +0000">
     <title>Sesame Street</title>
@@ -2085,17 +2102,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171017200000 +0000" stop="20171017203000 +0000">
+  <programme channel="tv.10" start="20171017200000 +0000" stop="20171017213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171017203000 +0000" stop="20171017210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171017210000 +0000" stop="20171017213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473195</episode-num>
   </programme>
   <programme channel="tv.10" start="20171017213000 +0000" stop="20171017220000 +0000">
     <title>Neighbours</title>
@@ -2335,13 +2345,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171018124000 +0000" stop="20171018131500 +0000">
+  <programme channel="tv.10" start="20171018124000 +0000" stop="20171018134500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171018131500 +0000" stop="20171018134500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171018134500 +0000" stop="20171018151500 +0000">
     <title>Mistresses</title>
@@ -2378,11 +2385,11 @@
   <programme channel="tv.10" start="20171018163000 +0000" stop="20171018170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171018170000 +0000" stop="20171018173000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466745</episode-num>
+    <title>Infomercial 6am</title>
+    <desc></desc>
   </programme>
   <programme channel="tv.10" start="20171018173000 +0000" stop="20171018175500 +0000">
     <title>Sesame Street</title>
@@ -2440,17 +2447,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171018200000 +0000" stop="20171018203000 +0000">
+  <programme channel="tv.10" start="20171018200000 +0000" stop="20171018213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171018203000 +0000" stop="20171018210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171018210000 +0000" stop="20171018213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171018213000 +0000" stop="20171018220000 +0000">
     <title>Neighbours</title>
@@ -7663,6 +7663,9 @@
     <title>Home And Away</title>
     <desc>Liv makes a wrong move. Raffy's strange behaviour causes concern.</desc>
     <episode-num system="dd_progid">10487057</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171013060000 +0000" stop="20171013063000 +0000">
     <title>The Big Bang Theory</title>
@@ -7803,6 +7806,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469477</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171013185500 +0000" stop="20171013192000 +0000">
     <title>Future-Worm!</title>
@@ -7937,7 +7943,7 @@
     <desc>Live life blow-by-blow! From the creators of Will &amp; Grace comes Clipped, a hilarious sitcom set in a barbershop in the small, working-class town of Charlestown in Boston. Starring George Wendt.</desc>
     <episode-num system="dd_progid">10423204</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171014043000 +0000" stop="20171014050000 +0000">
@@ -7961,6 +7967,9 @@
     <desc>The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
     <episode-num system="dd_progid">10423866</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171014063000 +0000" stop="20171014070000 +0000">
     <title>The Middle</title>
@@ -8191,6 +8200,7 @@
   <programme channel="tv.14" start="20171015145500 +0000" stop="20171015153000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171015153000 +0000" stop="20171015161500 +0000">
     <title>24: Legacy</title>
@@ -8217,11 +8227,23 @@
   <programme channel="tv.14" start="20171015173000 +0000" stop="20171015180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
-  <programme channel="tv.14" start="20171015180000 +0000" stop="20171015183000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466742</episode-num>
+  <programme channel="tv.14" start="20171015180000 +0000" stop="20171015182500 +0000">
+    <title>Paw Patrol</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10437459</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20171015182500 +0000" stop="20171015183000 +0000">
+    <title>Wiki The Kiwi</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10386102</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171015183000 +0000" stop="20171015185500 +0000">
     <title>Sesame Street</title>
@@ -8279,17 +8301,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171015210000 +0000" stop="20171015213000 +0000">
+  <programme channel="tv.14" start="20171015210000 +0000" stop="20171015223000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171015213000 +0000" stop="20171015220000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171015220000 +0000" stop="20171015223000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473196</episode-num>
   </programme>
   <programme channel="tv.14" start="20171015223000 +0000" stop="20171015230000 +0000">
     <title>Neighbours</title>
@@ -8327,6 +8342,9 @@
     <title>Home And Away</title>
     <desc>Liv makes a wrong move. Raffy's strange behaviour causes concern.</desc>
     <episode-num system="dd_progid">10487057</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171016030000 +0000" stop="20171016033000 +0000">
     <title>Shortland Street</title>
@@ -8474,13 +8492,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171016133000 +0000" stop="20171016140500 +0000">
+  <programme channel="tv.14" start="20171016133000 +0000" stop="20171016143500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171016140500 +0000" stop="20171016143500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171016143500 +0000" stop="20171016161000 +0000">
     <title>Mistresses</title>
@@ -8514,11 +8529,23 @@
   <programme channel="tv.14" start="20171016173000 +0000" stop="20171016180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
-  <programme channel="tv.14" start="20171016180000 +0000" stop="20171016183000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466743</episode-num>
+  <programme channel="tv.14" start="20171016180000 +0000" stop="20171016182500 +0000">
+    <title>Paw Patrol</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10437460</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20171016182500 +0000" stop="20171016183000 +0000">
+    <title>Wiki The Kiwi</title>
+    <desc>Come along with Wiki the Kiwi and his best friend Brian the Bat as they set out to explore the Fuzzy Forest in this Christmas special!</desc>
+    <episode-num system="dd_progid">10386103</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171016183000 +0000" stop="20171016185500 +0000">
     <title>Sesame Street</title>
@@ -8576,17 +8603,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171016210000 +0000" stop="20171016213000 +0000">
+  <programme channel="tv.14" start="20171016210000 +0000" stop="20171016223000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171016213000 +0000" stop="20171016220000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171016220000 +0000" stop="20171016223000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.14" start="20171016223000 +0000" stop="20171016230000 +0000">
     <title>Neighbours</title>
@@ -8681,7 +8701,7 @@
     <desc>S3 E15 It's Valentine's Day, and Leonard can only bring one guest on a trip to see the world's largest and highest energy particle accelerator in Switzerland. Will it be Sheldon or Penny?</desc>
     <episode-num system="dd_progid">10181427</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171017063000 +0000" stop="20171017070000 +0000">
@@ -8758,13 +8778,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171017133500 +0000" stop="20171017141000 +0000">
+  <programme channel="tv.14" start="20171017133500 +0000" stop="20171017144000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171017141000 +0000" stop="20171017144000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171017144000 +0000" stop="20171017161000 +0000">
     <title>Mistresses</title>
@@ -8798,11 +8815,11 @@
   <programme channel="tv.14" start="20171017173000 +0000" stop="20171017180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.14" start="20171017180000 +0000" stop="20171017183000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466744</episode-num>
+    <title>Infomercial 6am</title>
+    <desc></desc>
   </programme>
   <programme channel="tv.14" start="20171017183000 +0000" stop="20171017185500 +0000">
     <title>Sesame Street</title>
@@ -8852,17 +8869,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171017210000 +0000" stop="20171017213000 +0000">
+  <programme channel="tv.14" start="20171017210000 +0000" stop="20171017223000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171017213000 +0000" stop="20171017220000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171017220000 +0000" stop="20171017223000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473195</episode-num>
   </programme>
   <programme channel="tv.14" start="20171017223000 +0000" stop="20171017230000 +0000">
     <title>Neighbours</title>
@@ -9063,13 +9073,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171018134000 +0000" stop="20171018141500 +0000">
+  <programme channel="tv.14" start="20171018134000 +0000" stop="20171018144500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171018141500 +0000" stop="20171018144500 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171018144500 +0000" stop="20171018161500 +0000">
     <title>Mistresses</title>
@@ -9103,11 +9110,11 @@
   <programme channel="tv.14" start="20171018173000 +0000" stop="20171018180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171018180000 +0000" stop="20171018183000 +0000">
-    <title>Creflo Dollar</title>
-    <desc>Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change. Creflo helps viewers find ways to renew their faith, mind and spirit.</desc>
-    <episode-num system="dd_progid">10466745</episode-num>
+    <title>Infomercial 6am</title>
+    <desc></desc>
   </programme>
   <programme channel="tv.14" start="20171018183000 +0000" stop="20171018185500 +0000">
     <title>Sesame Street</title>
@@ -9165,17 +9172,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171018210000 +0000" stop="20171018213000 +0000">
+  <programme channel="tv.14" start="20171018210000 +0000" stop="20171018223000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171018213000 +0000" stop="20171018220000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.14" start="20171018220000 +0000" stop="20171018223000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171018223000 +0000" stop="20171018230000 +0000">
     <title>Neighbours</title>
@@ -21074,6 +21074,9 @@
     <title>Waka Huia</title>
     <desc>When Sir Edmund Hillary called to announce he’d conquered Everest, she told him he was lying. Mokikiwa Hutchen is the telephone exchange worker who reconnected families for 40 years.</desc>
     <episode-num system="dd_progid">10467462</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171014230000 +0000" stop="20171014233500 +0000">
     <title>Mastermind</title>
@@ -21227,25 +21230,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20171015152000 +0000" stop="20171015155000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171015152000 +0000" stop="20171015180000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171015155000 +0000" stop="20171015162000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171015162000 +0000" stop="20171015165500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171015165500 +0000" stop="20171015173000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171015173000 +0000" stop="20171015180000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473129</episode-num>
   </programme>
   <programme channel="tv.38" start="20171015180000 +0000" stop="20171015210000 +0000">
     <title>Breakfast</title>
@@ -21314,6 +21302,9 @@
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its £10,000 jackpot.</desc>
     <episode-num system="dd_progid">10475135</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171016035500 +0000" stop="20171016042500 +0000">
     <title>Te Karere</title>
@@ -21404,37 +21395,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460789</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171016131500 +0000" stop="20171016134500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171016131500 +0000" stop="20171016170500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016134500 +0000" stop="20171016141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016141500 +0000" stop="20171016144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016144000 +0000" stop="20171016151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016151000 +0000" stop="20171016154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016154000 +0000" stop="20171016160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016160500 +0000" stop="20171016163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171016163500 +0000" stop="20171016170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473157</episode-num>
   </programme>
   <programme channel="tv.38" start="20171016170500 +0000" stop="20171016173500 +0000">
     <title>Impact For Life</title>
@@ -21547,7 +21511,7 @@
   </programme>
   <programme channel="tv.38" start="20171017073000 +0000" stop="20171017083000 +0000">
     <title>Outback Truckers</title>
-    <desc>Highly dramatic, often humorous, Outback Truckers reveals the true blue heart and soul of Aussie trucking.</desc>
+    <desc>They’re back for a fourth season! The biggest trucks and toughest drivers in the world. Tonight, Turbo’s bleeding money as his run lurches out of control.</desc>
     <episode-num system="dd_progid">10468161</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21597,37 +21561,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460790</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171017133000 +0000" stop="20171017135500 +0000">
-    <title>Informercials</title>
+  <programme channel="tv.38" start="20171017133000 +0000" stop="20171017173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017135500 +0000" stop="20171017143000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017143000 +0000" stop="20171017150000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017150000 +0000" stop="20171017153000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017153000 +0000" stop="20171017160000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017160000 +0000" stop="20171017163000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017163000 +0000" stop="20171017170500 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171017170500 +0000" stop="20171017173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473165</episode-num>
   </programme>
   <programme channel="tv.38" start="20171017173500 +0000" stop="20171017180000 +0000">
     <title>Te Karere</title>
@@ -21780,41 +21717,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460791</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171018131500 +0000" stop="20171018134500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171018131500 +0000" stop="20171018173500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018134500 +0000" stop="20171018141500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018141500 +0000" stop="20171018144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018144000 +0000" stop="20171018151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018151000 +0000" stop="20171018154000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018154000 +0000" stop="20171018161000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018161000 +0000" stop="20171018163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018163500 +0000" stop="20171018170500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.38" start="20171018170500 +0000" stop="20171018173500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473183</episode-num>
   </programme>
   <programme channel="tv.38" start="20171018173500 +0000" stop="20171018180000 +0000">
     <title>Te Karere</title>
@@ -30405,12 +30311,12 @@
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171012170000 +0000" stop="20171012210500 +0000">
+  <programme channel="tv.55" start="20171012170000 +0000" stop="20171012205000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
     <episode-num system="dd_progid">10432293</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171012210500 +0000" stop="20171012233500 +0000">
+  <programme channel="tv.55" start="20171012205000 +0000" stop="20171012233500 +0000">
     <title>NFL- Chiefs v Texans</title>
     <desc>Replay of the Houston Texans hosting the Kansas City Chiefs from NRG Stadium in Houston, Texas.</desc>
     <episode-num system="dd_progid">10490810</episode-num>
@@ -43094,6 +43000,9 @@
     <title>Waka Huia</title>
     <desc>When Sir Edmund Hillary called to announce he’d conquered Everest, she told him he was lying. Mokikiwa Hutchen is the telephone exchange worker who reconnected families for 40 years.</desc>
     <episode-num system="dd_progid">10467462</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171014220000 +0000" stop="20171014223500 +0000">
     <title>Mastermind</title>
@@ -43247,25 +43156,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20171015142000 +0000" stop="20171015145000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171015142000 +0000" stop="20171015170000 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171015145000 +0000" stop="20171015152000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171015152000 +0000" stop="20171015155500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171015155500 +0000" stop="20171015163000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171015163000 +0000" stop="20171015170000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473129</episode-num>
   </programme>
   <programme channel="tv.9" start="20171015170000 +0000" stop="20171015200000 +0000">
     <title>Breakfast</title>
@@ -43334,6 +43228,9 @@
     <title>Tipping Point</title>
     <desc>Quiz show in which four players take on an extraordinary machine in the hope of winning its £10,000 jackpot.</desc>
     <episode-num system="dd_progid">10475135</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171016025500 +0000" stop="20171016032500 +0000">
     <title>Te Karere</title>
@@ -43424,37 +43321,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460789</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171016121500 +0000" stop="20171016124500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171016121500 +0000" stop="20171016160500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016124500 +0000" stop="20171016131500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016131500 +0000" stop="20171016134000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016134000 +0000" stop="20171016141000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016141000 +0000" stop="20171016144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016144000 +0000" stop="20171016150500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016150500 +0000" stop="20171016153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171016153500 +0000" stop="20171016160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473157</episode-num>
   </programme>
   <programme channel="tv.9" start="20171016160500 +0000" stop="20171016163500 +0000">
     <title>Impact For Life</title>
@@ -43567,7 +43437,7 @@
   </programme>
   <programme channel="tv.9" start="20171017063000 +0000" stop="20171017073000 +0000">
     <title>Outback Truckers</title>
-    <desc>Highly dramatic, often humorous, Outback Truckers reveals the true blue heart and soul of Aussie trucking.</desc>
+    <desc>They’re back for a fourth season! The biggest trucks and toughest drivers in the world. Tonight, Turbo’s bleeding money as his run lurches out of control.</desc>
     <episode-num system="dd_progid">10468161</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -43617,37 +43487,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460790</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171017123000 +0000" stop="20171017125500 +0000">
-    <title>Informercials</title>
+  <programme channel="tv.9" start="20171017123000 +0000" stop="20171017163500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017125500 +0000" stop="20171017133000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017133000 +0000" stop="20171017140000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017140000 +0000" stop="20171017143000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017143000 +0000" stop="20171017150000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017150000 +0000" stop="20171017153000 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017153000 +0000" stop="20171017160500 +0000">
-    <title>Informercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171017160500 +0000" stop="20171017163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473165</episode-num>
   </programme>
   <programme channel="tv.9" start="20171017163500 +0000" stop="20171017170000 +0000">
     <title>Te Karere</title>
@@ -43800,41 +43643,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460791</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171018121500 +0000" stop="20171018124500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171018121500 +0000" stop="20171018163500 +0000">
+    <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018124500 +0000" stop="20171018131500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018131500 +0000" stop="20171018134000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018134000 +0000" stop="20171018141000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018141000 +0000" stop="20171018144000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018144000 +0000" stop="20171018151000 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018151000 +0000" stop="20171018153500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018153500 +0000" stop="20171018160500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.9" start="20171018160500 +0000" stop="20171018163500 +0000">
-    <title>Infomercials</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473183</episode-num>
   </programme>
   <programme channel="tv.9" start="20171018163500 +0000" stop="20171018170000 +0000">
     <title>Te Karere</title>
