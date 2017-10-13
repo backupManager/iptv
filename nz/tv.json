@@ -123,8 +123,8 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.7|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
-            "width": 1024,
-            "height": 576
+            "width": 0,
+            "height": 0
         },
         "audio": {
             "codec": "aac",
