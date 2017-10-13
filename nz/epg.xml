@@ -2755,7 +2755,7 @@
   </programme>
   <programme channel="tv.11" start="20171013060000 +0000" stop="20171013070000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss who is on the board that Winston must check with first. Plus, cyber-bullying and some Billy T Comedy Award nominees are live in studio.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
   <programme channel="tv.11" start="20171013070000 +0000" stop="20171013080000 +0000">
@@ -2770,6 +2770,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Jeremy Elwood, Claire Hooper, Eli Matthewson and Chopper.</desc>
     <episode-num system="dd_progid">T789468</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171013084500 +0000" stop="20171013091500 +0000">
     <title>Fail Army</title>
@@ -2797,7 +2800,7 @@
   </programme>
   <programme channel="tv.11" start="20171013101500 +0000" stop="20171013111500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss who is on the board that Winston must check with first. Plus, cyber-bullying and some Billy T Comedy Award nominees are live in studio.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
   <programme channel="tv.11" start="20171013111500 +0000" stop="20171013160000 +0000">
@@ -2907,6 +2910,9 @@
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
     <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity). Who w</desc>
     <episode-num system="dd_progid">T784659</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -3050,7 +3056,7 @@
   </programme>
   <programme channel="tv.11" start="20171015000000 +0000" stop="20171015000100 +0000">
     <title>CRC Motorsport</title>
-    <desc>Same day coverage of the Laser Plumbing &amp; Electrical Hampton Downs 500. This year 100km have been added to the race length, making it a 500km battle! Teams must work on strategy and manage pit stops.</desc>
+    <desc></desc>
     <episode-num system="dd_progid">T445432</episode-num>
   </programme>
   <programme channel="tv.11" start="20171015000100 +0000" stop="20171015003000 +0000">
@@ -3091,12 +3097,15 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746257</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171015060000 +0000" stop="20171015073500 +0000">
+  <programme channel="tv.11" start="20171015060000 +0000" stop="20171015073000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20171015073500 +0000" stop="20171015102500 +0000">
+  <programme channel="tv.11" start="20171015073000 +0000" stop="20171015102500 +0000">
     <title>Gone Girl</title>
     <desc>Ben Affleck and Rosamund Pike head an all-star cast in this thriller based on Gillian Flynn's bestseller about a man suspected of wrongdoing when his wife goes missing.</desc>
     <episode-num system="dd_progid">T673323</episode-num>
@@ -3107,7 +3116,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171015102500 +0000" stop="20171015124000 +0000">
+  <programme channel="tv.11" start="20171015102500 +0000" stop="20171015125000 +0000">
     <title>Lord Of War</title>
     <desc>Academy Award winner Nicolas Cage thrills in this action-packed, true story of a gunrunner who supplied dictators and outran the law for nearly 20 years. Also starring Jared Leto and Bridget Moynahan.</desc>
     <episode-num system="dd_progid">T638380</episode-num>
@@ -3118,7 +3127,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171015124000 +0000" stop="20171015160000 +0000">
+  <programme channel="tv.11" start="20171015125000 +0000" stop="20171015160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3178,6 +3187,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171016013000 +0000" stop="20171016015500 +0000">
     <title>Now That's Funny!</title>
@@ -3258,12 +3270,15 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171016063000 +0000" stop="20171016073500 +0000">
+  <programme channel="tv.11" start="20171016063000 +0000" stop="20171016073000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20171016073500 +0000" stop="20171016083500 +0000">
+  <programme channel="tv.11" start="20171016073000 +0000" stop="20171016083000 +0000">
     <title>Tin Star</title>
     <desc>New Episode. Whitey is consumed with rage and grief following Jack's violent response. Elizabeth confronts Gagnon and starts to find out dark and dangerous secrets about her employer. S1 Ep6</desc>
     <episode-num system="dd_progid">T780913</episode-num>
@@ -3274,7 +3289,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171016083500 +0000" stop="20171016093500 +0000">
+  <programme channel="tv.11" start="20171016083000 +0000" stop="20171016093000 +0000">
     <title>Blue Bloods</title>
     <desc>New Episode. A resident living in the low-income section of a luxury apartment is found murdered. And Frank isn't impressed with a detective who takes advantage of legal loopholes. S5 Ep14</desc>
     <episode-num system="dd_progid">T503041</episode-num>
@@ -3285,12 +3300,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171016093500 +0000" stop="20171016100500 +0000">
+  <programme channel="tv.11" start="20171016093000 +0000" stop="20171016100000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745905</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171016100500 +0000" stop="20171016110000 +0000">
+  <programme channel="tv.11" start="20171016100000 +0000" stop="20171016105500 +0000">
     <title>Satisfaction</title>
     <desc>New Episode. When Anika takes a mind-altering drug, Neil and Grace must try to rescue her. S2 Ep8</desc>
     <episode-num system="dd_progid">T694274</episode-num>
@@ -3301,12 +3316,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171016110000 +0000" stop="20171016113000 +0000">
+  <programme channel="tv.11" start="20171016105500 +0000" stop="20171016112500 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171016113000 +0000" stop="20171016160000 +0000">
+  <programme channel="tv.11" start="20171016112500 +0000" stop="20171016160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3366,6 +3381,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171017010000 +0000" stop="20171017015500 +0000">
     <title>Minute To Win It</title>
@@ -4050,7 +4068,7 @@
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
-  <programme channel="tv.12" start="20171012210000 +0000" stop="20171012215500 +0000">
+  <programme channel="tv.12" start="20171012210000 +0000" stop="20171012220000 +0000">
     <title>Top Chef</title>
     <desc>It's the challenge the chefs have been waiting for all season -- Restaurant Wars. The remaining chefs divide into two teams to design a restaurant. S14 Ep8</desc>
     <episode-num system="dd_progid">T757127</episode-num>
@@ -4058,7 +4076,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171012215500 +0000" stop="20171012225000 +0000">
+  <programme channel="tv.12" start="20171012220000 +0000" stop="20171012225000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
     <episode-num system="dd_progid">T278921</episode-num>
@@ -4839,6 +4857,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki and Tamra finally come face-to-face, and Lydia discovers the joys of when the rich get richer. S12 Ep14</desc>
     <episode-num system="dd_progid">T774573</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171018083000 +0000" stop="20171018092500 +0000">
     <title>Little Women: LA</title>
@@ -4923,6 +4944,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki and Tamra finally come face-to-face, and Lydia discovers the joys of when the rich get richer. S12 Ep14</desc>
     <episode-num system="dd_progid">T774573</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171019023500 +0000" stop="20171019033000 +0000">
     <title>Catfish</title>
@@ -13206,7 +13230,7 @@
   </programme>
   <programme channel="tv.27" start="20171013070000 +0000" stop="20171013080000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss who is on the board that Winston must check with first. Plus, cyber-bullying and some Billy T Comedy Award nominees are live in studio.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
   <programme channel="tv.27" start="20171013080000 +0000" stop="20171013090000 +0000">
@@ -13221,6 +13245,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Jeremy Elwood, Claire Hooper, Eli Matthewson and Chopper.</desc>
     <episode-num system="dd_progid">T789468</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171013094500 +0000" stop="20171013101500 +0000">
     <title>Fail Army</title>
@@ -13245,7 +13272,7 @@
   </programme>
   <programme channel="tv.27" start="20171013111500 +0000" stop="20171013121500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss who is on the board that Winston must check with first. Plus, cyber-bullying and some Billy T Comedy Award nominees are live in studio.</desc>
     <episode-num system="dd_progid">T751800</episode-num>
   </programme>
   <programme channel="tv.27" start="20171013121500 +0000" stop="20171013170000 +0000">
@@ -13483,7 +13510,7 @@
   </programme>
   <programme channel="tv.27" start="20171015010000 +0000" stop="20171015010100 +0000">
     <title>CRC Motorsport</title>
-    <desc>Same day coverage of the Laser Plumbing &amp; Electrical Hampton Downs 500. This year 100km have been added to the race length, making it a 500km battle! Teams must work on strategy and manage pit stops.</desc>
+    <desc></desc>
     <episode-num system="dd_progid">T445432</episode-num>
   </programme>
   <programme channel="tv.27" start="20171015010100 +0000" stop="20171015013000 +0000">
@@ -13524,12 +13551,15 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746257</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171015070000 +0000" stop="20171015083500 +0000">
+  <programme channel="tv.27" start="20171015070000 +0000" stop="20171015083000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20171015083500 +0000" stop="20171015112500 +0000">
+  <programme channel="tv.27" start="20171015083000 +0000" stop="20171015112500 +0000">
     <title>Gone Girl</title>
     <desc>Ben Affleck and Rosamund Pike head an all-star cast in this thriller based on Gillian Flynn's bestseller about a man suspected of wrongdoing when his wife goes missing.</desc>
     <episode-num system="dd_progid">T673323</episode-num>
@@ -13537,7 +13567,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171015112500 +0000" stop="20171015134000 +0000">
+  <programme channel="tv.27" start="20171015112500 +0000" stop="20171015135000 +0000">
     <title>Lord Of War</title>
     <desc>Academy Award winner Nicolas Cage thrills in this action-packed, true story of a gunrunner who supplied dictators and outran the law for nearly 20 years. Also starring Jared Leto and Bridget Moynahan.</desc>
     <episode-num system="dd_progid">T638380</episode-num>
@@ -13545,7 +13575,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171015134000 +0000" stop="20171015170000 +0000">
+  <programme channel="tv.27" start="20171015135000 +0000" stop="20171015170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13605,6 +13635,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoon period continues for some as they grow closer. But for others, cracks are starting to show. S1 Ep5</desc>
     <episode-num system="dd_progid">T785432</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171016023000 +0000" stop="20171016025500 +0000">
     <title>Now That's Funny!</title>
@@ -13685,12 +13718,15 @@
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171016073000 +0000" stop="20171016083500 +0000">
+  <programme channel="tv.27" start="20171016073000 +0000" stop="20171016083000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20171016083500 +0000" stop="20171016093500 +0000">
+  <programme channel="tv.27" start="20171016083000 +0000" stop="20171016093000 +0000">
     <title>Tin Star</title>
     <desc>New Episode. Whitey is consumed with rage and grief following Jack's violent response. Elizabeth confronts Gagnon and starts to find out dark and dangerous secrets about her employer. S1 Ep6</desc>
     <episode-num system="dd_progid">T780913</episode-num>
@@ -13698,7 +13734,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171016093500 +0000" stop="20171016103500 +0000">
+  <programme channel="tv.27" start="20171016093000 +0000" stop="20171016103000 +0000">
     <title>Blue Bloods</title>
     <desc>New Episode. A resident living in the low-income section of a luxury apartment is found murdered. And Frank isn't impressed with a detective who takes advantage of legal loopholes. S5 Ep14</desc>
     <episode-num system="dd_progid">T503041</episode-num>
@@ -13706,12 +13742,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171016103500 +0000" stop="20171016110500 +0000">
+  <programme channel="tv.27" start="20171016103000 +0000" stop="20171016110000 +0000">
     <title>Newshub Late</title>
     <desc>Newshub Late is a late-night mix of news, entertainment and pop culture.</desc>
     <episode-num system="dd_progid">T745905</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171016110500 +0000" stop="20171016120000 +0000">
+  <programme channel="tv.27" start="20171016110000 +0000" stop="20171016115500 +0000">
     <title>Satisfaction</title>
     <desc>New Episode. When Anika takes a mind-altering drug, Neil and Grace must try to rescue her. S2 Ep8</desc>
     <episode-num system="dd_progid">T694274</episode-num>
@@ -13719,12 +13755,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171016120000 +0000" stop="20171016123000 +0000">
+  <programme channel="tv.27" start="20171016115500 +0000" stop="20171016122500 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751801</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171016123000 +0000" stop="20171016170000 +0000">
+  <programme channel="tv.27" start="20171016122500 +0000" stop="20171016170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13784,6 +13820,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The honeymoons are over and the pressure is on when the couples meet for the first time at the cocktail party. S1 Ep6</desc>
     <episode-num system="dd_progid">T785433</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171017020000 +0000" stop="20171017025500 +0000">
     <title>Minute To Win It</title>
@@ -16097,7 +16136,7 @@
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
   </programme>
-  <programme channel="tv.30" start="20171012220000 +0000" stop="20171012225500 +0000">
+  <programme channel="tv.30" start="20171012220000 +0000" stop="20171012230000 +0000">
     <title>Top Chef</title>
     <desc>It's the challenge the chefs have been waiting for all season -- Restaurant Wars. The remaining chefs divide into two teams to design a restaurant. S14 Ep8</desc>
     <episode-num system="dd_progid">T757127</episode-num>
@@ -16105,7 +16144,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171012225500 +0000" stop="20171012235000 +0000">
+  <programme channel="tv.30" start="20171012230000 +0000" stop="20171012235000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>It gets hairy when Tabatha tries to recondition a troubled Florida salon burdened by an immature, overtly irresponsible owner. S2 Ep5</desc>
     <episode-num system="dd_progid">T278921</episode-num>
@@ -16886,6 +16925,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki and Tamra finally come face-to-face, and Lydia discovers the joys of when the rich get richer. S12 Ep14</desc>
     <episode-num system="dd_progid">T774573</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171018093000 +0000" stop="20171018102500 +0000">
     <title>Little Women: LA</title>
@@ -16970,6 +17012,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki and Tamra finally come face-to-face, and Lydia discovers the joys of when the rich get richer. S12 Ep14</desc>
     <episode-num system="dd_progid">T774573</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171019033500 +0000" stop="20171019043000 +0000">
     <title>Catfish</title>
