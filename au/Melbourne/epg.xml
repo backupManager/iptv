@@ -89,14 +89,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.101002210220" start="20171015123000 +0000" stop="20171015130000 +0000">
-    <title>The Mix</title>
-    <episode-num system="dd_progid">NU1702H037S00</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20171015130000 +0000" stop="20171015130100 +0000">
     <title>ABC News Update</title>
     <episode-num system="dd_progid">NU1732H083S00</episode-num>
@@ -1799,6 +1791,13 @@
     <title>7.30</title>
     <episode-num system="dd_progid">NC1705H177S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20171023130000 +0000" stop="20171023133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H211S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11710,14 +11709,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300430" start="20171015125700 +0000" stop="20171015134700 +0000">
-    <title>House</title>
-    <episode-num system="dd_progid">HOUS_1_22</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300430" start="20171015134700 +0000" stop="20171015141700 +0000">
     <title>Bike Bug Full Cycle</title>
     <episode-num system="dd_progid">FUCY_2017_26</episode-num>
@@ -13181,13 +13172,6 @@
     <title>Amazing Medical Stories</title>
     <episode-num system="dd_progid">BOWI5__1</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204300433" start="20171015125900 +0000" stop="20171015135700 +0000">
-    <title>Zombie House Flipping</title>
-    <episode-num system="dd_progid">ZOHO1_2_6</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -16694,14 +16678,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204300437" start="20171015124200 +0000" stop="20171015131000 +0000">
-    <title>Two and a Half Men</title>
-    <episode-num system="dd_progid">TWHA_4_2T7952</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204300437" start="20171015131000 +0000" stop="20171015131100 +0000">
     <title>[adult swim]</title>
     <episode-num system="dd_progid">ADSW_1_6</episode-num>
@@ -19009,14 +18985,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171015123000 +0000" stop="20171015130000 +0000">
-    <title>Raceday Review - Cranbourne</title>
-    <episode-num system="dd_progid">RV15101A</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020528" start="20171015130000 +0000" stop="20171015133000 +0000">
     <title>Raceday Review - Sha Tin</title>
     <episode-num system="dd_progid">RV14104A</episode-num>
@@ -21025,12 +20993,12 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030530" start="20171015123100 +0000" stop="20171015130200 +0000">
-    <title>The Goldbergs</title>
-    <episode-num system="dd_progid">rLCmq3aLltaPmdeP</episode-num>
+  <programme channel="tv.101305020528" start="20171023130000 +0000" stop="20171023133000 +0000">
+    <title>Raceday Review</title>
+    <episode-num system="dd_progid">RV23101A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101305030530" start="20171015130200 +0000" stop="20171015133300 +0000">
@@ -22351,13 +22319,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030532" start="20171015123900 +0000" stop="20171015133700 +0000">
-    <title>Escape to the Country</title>
-    <episode-num system="dd_progid">rvruqMiOltaPmdiL</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305030532" start="20171015133700 +0000" stop="20171015163700 +0000">
@@ -24040,13 +24001,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305030533" start="20171015125200 +0000" stop="20171015132100 +0000">
-    <title>Baggage Battles</title>
-    <episode-num system="dd_progid">q2fhq3aLltaPmdaL</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305030533" start="20171015132100 +0000" stop="20171015140100 +0000">
     <title>What Went Down</title>
     <episode-num system="dd_progid">vL5bvcLPmdaOn6xx</episode-num>
@@ -25553,14 +25507,6 @@
   <programme channel="tv.101305030533" start="20171023105800 +0000" stop="20171023132100 +0000">
     <title>47 Ronin</title>
     <episode-num system="dd_progid">t2jdr3iGltaPmdaO</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305030535" start="20171015123700 +0000" stop="20171015142700 +0000">
-    <title>Total Stranger</title>
-    <episode-num system="dd_progid">vL1mr4LPmdaKmaxx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -27334,13 +27280,6 @@
     <title>The Goldbergs</title>
     <episode-num system="dd_progid">rLCmq4LPmdaNm6xx</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406030631" start="20171015124400 +0000" stop="20171015134200 +0000">
-    <title>Car Crash Global: Caught on Camera</title>
-    <episode-num system="dd_progid">58276E1457337</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -30869,14 +30808,6 @@
   <programme channel="tv.101406030635" start="20171023113000 +0000" stop="20171023133000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
-  </programme>
-  <programme channel="tv.101406030638" start="20171015123500 +0000" stop="20171015130500 +0000">
-    <title>Becker</title>
-    <episode-num system="dd_progid">59514E1166700</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme channel="tv.101406030638" start="20171015130500 +0000" stop="20171015133300 +0000">
     <title>Becker</title>
@@ -37255,13 +37186,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20171015123000 +0000" stop="20171015130000 +0000">
-    <title>Barefoot Contessa: Back to Basics</title>
-    <episode-num system="dd_progid">873167</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20171015130000 +0000" stop="20171015140000 +0000">
     <title>Bon appetit: Gerard Depardieu's Europe</title>
     <episode-num system="dd_progid">845691</episode-num>
@@ -39978,6 +39902,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171023130000 +0000" stop="20171023133000 +0000">
+    <title>Man Fire Food</title>
+    <episode-num system="dd_progid">774065</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171015123000 +0000" stop="20171015130000 +0000">
     <title>Eight Ladies</title>
     <episode-num system="dd_progid">842344</episode-num>
@@ -42319,6 +42250,13 @@
   <programme channel="tv.320203000305" start="20171023120000 +0000" stop="20171023130000 +0000">
     <title>Te Araroa: Tales from the Trails</title>
     <episode-num system="dd_progid">819095</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171023130000 +0000" stop="20171023140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">644156</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
