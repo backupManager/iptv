@@ -20715,18 +20715,27 @@
     <title>Outback Truckers</title>
     <desc>They’re back for a fourth season! The biggest trucks and toughest drivers in the world. Tonight, Turbo’s bleeding money as his run lurches out of control.</desc>
     <episode-num system="dd_progid">10468161</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171017083000 +0000" stop="20171017093000 +0000">
     <title>Inside The London Fire Brigade</title>
     <desc>New Series: A unique insight into the work of the London Fire Brigade. Tonight, firefighters talk for the very first time about the Grenfell fire and their experiences of that tragic night.</desc>
     <episode-num system="dd_progid">10491872</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171017093000 +0000" stop="20171017103500 +0000">
     <title>Million Pound Properties</title>
     <desc>New Series: From Scottish castles to central London shoeboxes, this documentary series reveals what a million pounds actually buys across the UK.</desc>
     <episode-num system="dd_progid">10400836</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171017103500 +0000" stop="20171017110500 +0000">
     <title>1 News Tonight</title>
@@ -29922,6 +29931,9 @@
     <title>New: Marvel's Inhumans</title>
     <desc>An isolated community of superhumans fight to protect themselves.</desc>
     <episode-num system="dd_progid">10492337</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171015092500 +0000" stop="20171015102000 +0000">
     <title>Ice Road Truckers</title>
@@ -43839,18 +43851,27 @@
     <title>Outback Truckers</title>
     <desc>They’re back for a fourth season! The biggest trucks and toughest drivers in the world. Tonight, Turbo’s bleeding money as his run lurches out of control.</desc>
     <episode-num system="dd_progid">10468161</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171017073000 +0000" stop="20171017083000 +0000">
     <title>Inside The London Fire Brigade</title>
     <desc>New Series: A unique insight into the work of the London Fire Brigade. Tonight, firefighters talk for the very first time about the Grenfell fire and their experiences of that tragic night.</desc>
     <episode-num system="dd_progid">10491872</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171017083000 +0000" stop="20171017093500 +0000">
     <title>Million Pound Properties</title>
     <desc>New Series: From Scottish castles to central London shoeboxes, this documentary series reveals what a million pounds actually buys across the UK.</desc>
     <episode-num system="dd_progid">10400836</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171017093500 +0000" stop="20171017100500 +0000">
     <title>1 News Tonight</title>
@@ -54176,7 +54197,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093100 +0000">
+  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093000 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0236A016S00</episode-num>
     <subtitles type="teletext"/>
@@ -54184,7 +54205,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093000 +0000">
+  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093100 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0236A016S00</episode-num>
     <subtitles type="teletext"/>
