@@ -263,3 +263,6 @@ http://iptv.matthuisman.nz/nz/radio.or.16|X-Forwarded-For=202.89.4.222&User-Agen
 
 #EXTINF:-1 tvg-name="088" tvg-id="radio.or.17" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.17.png" radio="true",Brian FM Ashburton
 http://iptv.matthuisman.nz/nz/radio.or.17|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="089" tvg-id="radio.ih.6720" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6720.png" radio="true",Sounds Like Christmas
+http://iptv.matthuisman.nz/nz/radio.ih.6720|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29

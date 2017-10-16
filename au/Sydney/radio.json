@@ -14,6 +14,20 @@
             "sample_rate": "48000"
         }
     },
+    "radio.ih.7220": {
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7220.png",
+        "name": "2CH",
+        "description": "Sydney's Easy Classics",
+        "genres": [
+            "Oldies"
+        ],
+        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7220|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "aac",
+            "channels": 1,
+            "sample_rate": "44100"
+        }
+    },
     "radio.ih.7221": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7221.png",
         "name": "2GB",
@@ -277,20 +291,6 @@
         "audio": {
             "codec": "aac",
             "channels": 2,
-            "sample_rate": "44100"
-        }
-    },
-    "radio.ih.7220": {
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7220.png",
-        "name": "Magic 2CH",
-        "description": "Sydney's Easy Classics",
-        "genres": [
-            "Oldies"
-        ],
-        "url": "http://iptv.matthuisman.nz/au/Sydney/radio.ih.7220|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "audio": {
-            "codec": "aac",
-            "channels": 1,
             "sample_rate": "44100"
         }
     },
