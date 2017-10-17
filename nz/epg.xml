@@ -560,8 +560,12 @@
     <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.10" start="20171017170000 +0000" stop="20171017173000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc></desc>
+    <episode-num system="dd_progid">10437461</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171017173000 +0000" stop="20171017175500 +0000">
     <title>Sesame Street</title>
@@ -776,6 +780,12 @@
     <title>All New The Big Bang Theory</title>
     <desc>Howard and Sheldon bond over their relationships with their disappointing fathers when they drive to the desert to shoot off a model rocket.</desc>
     <episode-num system="dd_progid">10494561</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171018081000 +0000" stop="20171018084000 +0000">
     <title>All New 2 Broke Girls</title>
@@ -909,8 +919,12 @@
     <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171018170000 +0000" stop="20171018173000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc></desc>
+    <episode-num system="dd_progid">10437462</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171018173000 +0000" stop="20171018175500 +0000">
     <title>Sesame Street</title>
@@ -1238,8 +1252,12 @@
     <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171019170000 +0000" stop="20171019173000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc></desc>
+    <episode-num system="dd_progid">10437463</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171019173000 +0000" stop="20171019175500 +0000">
     <title>Sesame Street</title>
@@ -1303,7 +1321,7 @@
   <programme channel="tv.10" start="20171019200000 +0000" stop="20171019213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10473194</episode-num>
+    <episode-num system="dd_progid">10473202</episode-num>
   </programme>
   <programme channel="tv.10" start="20171019213000 +0000" stop="20171019220000 +0000">
     <title>Neighbours</title>
@@ -15501,16 +15519,25 @@
     <title>Peter Popoff Ministries</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10850116</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171021180000 +0000" stop="20171021183000 +0000">
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10860411</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171021183000 +0000" stop="20171021193000 +0000">
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886883</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171021193000 +0000" stop="20171021200000 +0000">
     <title>Beyond Today</title>
@@ -15529,6 +15556,9 @@
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10887044</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171021210000 +0000" stop="20171021213000 +0000">
     <title>Running With Fire</title>
@@ -25857,8 +25887,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20171017063000 +0000" stop="20171017073000 +0000">
-    <title>NEW Marahlago Larimar</title>
-    <desc>One of nature's best kept secrets, Larimar comes from a remote mountain in the Caribbean. MarahLago settings are designed to celebrate the distinctive hues, patterns and natural wonder of each gem.</desc>
+    <title>Madagascan Coloured Sapphire</title>
+    <desc>Discovered in Madagascar, colourful sapphires bring a range of stunning rainbow gems, including traditional blue sapphires, for you to wear set in this exquisite jewellery.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
