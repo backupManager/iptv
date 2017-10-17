@@ -7596,8 +7596,12 @@
     <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.14" start="20171017180000 +0000" stop="20171017183000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc/>
+    <episode-num system="dd_progid">10437461</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171017183000 +0000" stop="20171017185500 +0000">
     <title>Sesame Street</title>
@@ -7794,6 +7798,9 @@
     <title>All New The Big Bang Theory</title>
     <desc>Howard and Sheldon bond over their relationships with their disappointing fathers when they drive to the desert to shoot off a model rocket.</desc>
     <episode-num system="dd_progid">10494561</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171018091000 +0000" stop="20171018094000 +0000">
     <title>All New 2 Broke Girls</title>
@@ -7903,8 +7910,12 @@
     <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171018180000 +0000" stop="20171018183000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc/>
+    <episode-num system="dd_progid">10437462</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171018183000 +0000" stop="20171018185500 +0000">
     <title>Sesame Street</title>
@@ -8205,8 +8216,12 @@
     <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171019180000 +0000" stop="20171019183000 +0000">
-    <title>Infomercial 6am</title>
+    <title>Paw Patrol</title>
     <desc/>
+    <episode-num system="dd_progid">10437463</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171019183000 +0000" stop="20171019185500 +0000">
     <title>Sesame Street</title>
@@ -8267,7 +8282,7 @@
   <programme channel="tv.14" start="20171019210000 +0000" stop="20171019223000 +0000">
     <title>Infomercial</title>
     <desc/>
-    <episode-num system="dd_progid">10473194</episode-num>
+    <episode-num system="dd_progid">10473202</episode-num>
   </programme>
   <programme channel="tv.14" start="20171019223000 +0000" stop="20171019230000 +0000">
     <title>Neighbours</title>
@@ -8905,6 +8920,7 @@
   <programme channel="tv.14" start="20171022144000 +0000" stop="20171022151000 +0000">
     <title>Infomercial</title>
     <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171022151000 +0000" stop="20171022155500 +0000">
     <title>24: Legacy</title>
@@ -8939,6 +8955,7 @@
   <programme channel="tv.14" start="20171022173000 +0000" stop="20171022180000 +0000">
     <title>Infomercial</title>
     <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171022180000 +0000" stop="20171022183000 +0000">
     <title>Infomercial 6am</title>
@@ -9000,17 +9017,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171022210000 +0000" stop="20171022213000 +0000">
+  <programme channel="tv.14" start="20171022210000 +0000" stop="20171022223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171022213000 +0000" stop="20171022220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171022220000 +0000" stop="20171022223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.14" start="20171022223000 +0000" stop="20171022230000 +0000">
     <title>Neighbours</title>
@@ -9170,13 +9180,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023135000 +0000" stop="20171023142500 +0000">
+  <programme channel="tv.14" start="20171023135000 +0000" stop="20171023145500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171023142500 +0000" stop="20171023145500 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171023145500 +0000" stop="20171023162000 +0000">
     <title>Mistresses</title>
@@ -20622,7 +20629,7 @@
   </programme>
   <programme channel="tv.38" start="20171016210000 +0000" stop="20171016220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean "Diddy" Combs and French Montana.</desc>
     <episode-num system="dd_progid">10491714</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -20786,7 +20793,7 @@
   </programme>
   <programme channel="tv.38" start="20171017210000 +0000" stop="20171017220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kate Hudson and Nacho Figueras.</desc>
     <episode-num system="dd_progid">10491715</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -20945,7 +20952,7 @@
   </programme>
   <programme channel="tv.38" start="20171018210000 +0000" stop="20171018220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Mindy Kaling and Bethenny Frankel.</desc>
     <episode-num system="dd_progid">10491716</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21118,8 +21125,11 @@
   </programme>
   <programme channel="tv.38" start="20171019210000 +0000" stop="20171019220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Cate Blanchett and Taylor Kitch.</desc>
     <episode-num system="dd_progid">10491717</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171019220000 +0000" stop="20171019223000 +0000">
     <title>Morena</title>
@@ -21512,6 +21522,9 @@
     <title>Waka Huia</title>
     <desc>He’s the Constantine of Whangarei but unlike Keanu Reeves, he’s the real deal. Hohepa Rudolph (Ngapuhi) tells all about the spiritual realm and how he cleanses multiple murder scenes.</desc>
     <episode-num system="dd_progid">10467463</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171021230000 +0000" stop="20171021233500 +0000">
     <title>Mastermind</title>
@@ -21616,7 +21629,7 @@
   </programme>
   <programme channel="tv.38" start="20171022073000 +0000" stop="20171022083000 +0000">
     <title>Sunday Special Wait For Me Hollywood</title>
-    <desc/>
+    <desc>'Boy' star James Rolleston was on his way to Hollywood when a horrific car crash nearly killed him. In this doco, he talks about his recovery.</desc>
     <episode-num system="dd_progid">10482149</episode-num>
   </programme>
   <programme channel="tv.38" start="20171022083000 +0000" stop="20171022093500 +0000">
@@ -21708,7 +21721,7 @@
   </programme>
   <programme channel="tv.38" start="20171022210000 +0000" stop="20171022220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Andrew Garfield and Snoop Dogg.</desc>
     <episode-num system="dd_progid">10491718</episode-num>
   </programme>
   <programme channel="tv.38" start="20171022220000 +0000" stop="20171022223000 +0000">
@@ -21892,7 +21905,7 @@
   </programme>
   <programme channel="tv.38" start="20171023210000 +0000" stop="20171023220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Laura Dern and Arcade Fire.</desc>
     <episode-num system="dd_progid">10491719</episode-num>
   </programme>
   <programme channel="tv.38" start="20171023220000 +0000" stop="20171023223000 +0000">
@@ -30620,6 +30633,9 @@
     <title>New: Brooklyn Nine-Nine</title>
     <desc>Catch the brand new season of Brooklyn Nine Nine, straight after the U.S!</desc>
     <episode-num system="dd_progid">10493654</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171019093000 +0000" stop="20171019095500 +0000">
     <title>The Mick</title>
@@ -30862,6 +30878,9 @@
     <title>Asia Pacific Rally Champs</title>
     <desc>Highlights of the Malaysia and Japan rounds of this year’s Asia Pacific Rally Champs.</desc>
     <episode-num system="dd_progid">10491675</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171022033000 +0000" stop="20171022040000 +0000">
     <title>Home Improvement</title>
@@ -31097,6 +31116,9 @@
     <title>Asia Pacific Rally Champs</title>
     <desc>Highlights of the Malaysia and Japan rounds of this year’s Asia Pacific Rally Champs.</desc>
     <episode-num system="dd_progid">10491675</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171024005500 +0000" stop="20171024024500 +0000">
     <title>MLS Decision Day Replay</title>
@@ -43370,7 +43392,7 @@
   </programme>
   <programme channel="tv.9" start="20171016200000 +0000" stop="20171016210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean "Diddy" Combs and French Montana.</desc>
     <episode-num system="dd_progid">10491714</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -43534,7 +43556,7 @@
   </programme>
   <programme channel="tv.9" start="20171017200000 +0000" stop="20171017210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kate Hudson and Nacho Figueras.</desc>
     <episode-num system="dd_progid">10491715</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -43693,7 +43715,7 @@
   </programme>
   <programme channel="tv.9" start="20171018200000 +0000" stop="20171018210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Mindy Kaling and Bethenny Frankel.</desc>
     <episode-num system="dd_progid">10491716</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -43866,8 +43888,11 @@
   </programme>
   <programme channel="tv.9" start="20171019200000 +0000" stop="20171019210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Cate Blanchett and Taylor Kitch.</desc>
     <episode-num system="dd_progid">10491717</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171019210000 +0000" stop="20171019213000 +0000">
     <title>Morena</title>
@@ -44260,6 +44285,9 @@
     <title>Waka Huia</title>
     <desc>He’s the Constantine of Whangarei but unlike Keanu Reeves, he’s the real deal. Hohepa Rudolph (Ngapuhi) tells all about the spiritual realm and how he cleanses multiple murder scenes.</desc>
     <episode-num system="dd_progid">10467463</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171021220000 +0000" stop="20171021223500 +0000">
     <title>Mastermind</title>
@@ -44364,7 +44392,7 @@
   </programme>
   <programme channel="tv.9" start="20171022063000 +0000" stop="20171022073000 +0000">
     <title>Sunday Special Wait For Me Hollywood</title>
-    <desc/>
+    <desc>'Boy' star James Rolleston was on his way to Hollywood when a horrific car crash nearly killed him. In this doco, he talks about his recovery.</desc>
     <episode-num system="dd_progid">10482149</episode-num>
   </programme>
   <programme channel="tv.9" start="20171022073000 +0000" stop="20171022083500 +0000">
@@ -44456,7 +44484,7 @@
   </programme>
   <programme channel="tv.9" start="20171022200000 +0000" stop="20171022210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Andrew Garfield and Snoop Dogg.</desc>
     <episode-num system="dd_progid">10491718</episode-num>
   </programme>
   <programme channel="tv.9" start="20171022210000 +0000" stop="20171022213000 +0000">
@@ -44640,7 +44668,7 @@
   </programme>
   <programme channel="tv.9" start="20171023200000 +0000" stop="20171023210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Laura Dern and Arcade Fire.</desc>
     <episode-num system="dd_progid">10491719</episode-num>
   </programme>
   <programme channel="tv.9" start="20171023210000 +0000" stop="20171023213000 +0000">
