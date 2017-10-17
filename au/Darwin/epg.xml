@@ -6901,7 +6901,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093100 +0000">
+  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093000 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0236A016S00</episode-num>
     <subtitles type="teletext"/>
@@ -6909,7 +6909,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093000 +0000">
+  <programme channel="tv.101002210224" start="20171017090800 +0000" stop="20171017093100 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0236A016S00</episode-num>
     <subtitles type="teletext"/>
@@ -12010,7 +12010,6 @@
   <programme channel="tv.101204200421" start="20171018025700 +0000" stop="20171018040000 +0000">
     <title>The Block</title>
     <episode-num system="dd_progid">BLOC_13_47</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -16013,6 +16012,7 @@
   <programme channel="tv.101204200427" start="20171020093000 +0000" stop="20171020121500 +0000">
     <title>Gosford Park</title>
     <episode-num system="dd_progid">GOPA__1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16874,6 +16874,7 @@
   <programme channel="tv.101204200428" start="20171016210000 +0000" stop="20171016213000 +0000">
     <title>Crunch Time</title>
     <episode-num system="dd_progid">CRTI01_2_42</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -21844,7 +21845,7 @@
   </programme>
   <programme channel="tv.101305050550" start="20171021065700 +0000" stop="20171021072900 +0000">
     <title>Border Security: Australia's Front Line</title>
-    <episode-num system="dd_progid">q2CsrcLPmdaPnPxx</episode-num>
+    <episode-num system="dd_progid">q2CsrcLPmdeOn6xx</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -23219,14 +23220,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171020173200 +0000" stop="20171020182900 +0000">
+  <programme channel="tv.101305050552" start="20171020173200 +0000" stop="20171020183000 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">rvruqMeMltaPmdeJ</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171020182900 +0000" stop="20171020193000 +0000">
+  <programme channel="tv.101305050552" start="20171020183000 +0000" stop="20171020193000 +0000">
     <title>Auction Squad</title>
     <episode-num system="dd_progid">qvvduMiSmdaPmd2x</episode-num>
     <subtitles type="teletext"/>
@@ -23400,35 +23401,35 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171021090100 +0000" stop="20171021100100 +0000">
+  <programme channel="tv.101305050552" start="20171021090100 +0000" stop="20171021100200 +0000">
     <title>The Yorkshire Vet</title>
     <episode-num system="dd_progid">wuCssMaLltaPmdaO</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171021100100 +0000" stop="20171021110500 +0000">
+  <programme channel="tv.101305050552" start="20171021100200 +0000" stop="20171021110400 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">rvruqMiNltaPmdiH</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171021110500 +0000" stop="20171021120700 +0000">
+  <programme channel="tv.101305050552" start="20171021110400 +0000" stop="20171021120500 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">rvruqMiOltaPmduM</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171021120700 +0000" stop="20171021132500 +0000">
+  <programme channel="tv.101305050552" start="20171021120500 +0000" stop="20171021132300 +0000">
     <title>Escape to the Continent</title>
     <episode-num system="dd_progid">rvrdtNLPmdaOmqxx</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050552" start="20171021132500 +0000" stop="20171021143000 +0000">
+  <programme channel="tv.101305050552" start="20171021132300 +0000" stop="20171021143000 +0000">
     <title>Mighty Ships</title>
     <episode-num system="dd_progid">tvrzuMaLltaPmdaJ</episode-num>
     <rating system="Freeview">
@@ -26712,7 +26713,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021024100 +0000" stop="20171021035900 +0000">
+  <programme channel="tv.101305050555" start="20171021024100 +0000" stop="20171021035800 +0000">
     <title>Bringing Sexy Back</title>
     <episode-num system="dd_progid">q1jtq4LPmdaPn6xx</episode-num>
     <subtitles type="teletext"/>
@@ -26720,7 +26721,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021035900 +0000" stop="20171021050500 +0000">
+  <programme channel="tv.101305050555" start="20171021035800 +0000" stop="20171021050900 +0000">
     <title>Katherine Mills: Mind Games</title>
     <episode-num system="dd_progid">sLKnrNLPmdaPmqxx</episode-num>
     <subtitles type="teletext"/>
@@ -26728,7 +26729,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021050500 +0000" stop="20171021065500 +0000">
+  <programme channel="tv.101305050555" start="20171021050900 +0000" stop="20171021070000 +0000">
     <title>Beverly Hills Chihuahua 3: Viva La Fiesta!</title>
     <episode-num system="dd_progid">vLrgnteSmdaPmtmx</episode-num>
     <subtitles type="teletext"/>
@@ -26736,7 +26737,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021065500 +0000" stop="20171021075300 +0000">
+  <programme channel="tv.101305050555" start="20171021070000 +0000" stop="20171021080000 +0000">
     <title>Little Big Shots</title>
     <episode-num system="dd_progid">te1cuMaOltaPmdaH</episode-num>
     <subtitles type="teletext"/>
@@ -26744,7 +26745,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021075300 +0000" stop="20171021100000 +0000">
+  <programme channel="tv.101305050555" start="20171021080000 +0000" stop="20171021100200 +0000">
     <title>Herbie Fully Loaded</title>
     <episode-num system="dd_progid">vLrgu3eKltaPmdeO</episode-num>
     <subtitles type="teletext"/>
@@ -26752,14 +26753,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021100000 +0000" stop="20171021120000 +0000">
+  <programme channel="tv.101305050555" start="20171021100200 +0000" stop="20171021120300 +0000">
     <title>Just Married</title>
     <episode-num system="dd_progid">r2Cyr3aOltaPmdeL</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050555" start="20171021120000 +0000" stop="20171021140000 +0000">
+  <programme channel="tv.101305050555" start="20171021120300 +0000" stop="20171021140000 +0000">
     <title>So I Married an Axe Murderer</title>
     <episode-num system="dd_progid">uKbdr3aJltaPmdeP</episode-num>
     <rating system="Freeview">
