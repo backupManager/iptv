@@ -12749,7 +12749,6 @@
   <programme channel="tv.101204200421" start="20171022040000 +0000" stop="20171022050000 +0000">
     <title>The Block</title>
     <episode-num system="dd_progid">BLOC_13_47</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -16287,17 +16286,17 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171022080000 +0000" stop="20171022090000 +0000">
-    <title>Cosmos: A Spacetime Odyssey</title>
-    <episode-num system="dd_progid">COSM_1_6</episode-num>
+  <programme channel="tv.101204200427" start="20171022080000 +0000" stop="20171022091000 +0000">
+    <title>Planet Earth II</title>
+    <episode-num system="dd_progid">PLEA1_2_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171022090000 +0000" stop="20171022101000 +0000">
-    <title>Planet Earth II</title>
-    <episode-num system="dd_progid">PLEA1_2_2</episode-num>
+  <programme channel="tv.101204200427" start="20171022091000 +0000" stop="20171022101000 +0000">
+    <title>Cosmos: A Spacetime Odyssey</title>
+    <episode-num system="dd_progid">COSM_1_6</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -16388,11 +16387,11 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171022190000 +0000" stop="20171022193000 +0000">
-    <title>Friends</title>
-    <episode-num system="dd_progid">FRIE_8_227409</episode-num>
+    <title>In the Garden</title>
+    <episode-num system="dd_progid">ITGA__1</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171022193000 +0000" stop="20171022200000 +0000">
@@ -16515,6 +16514,7 @@
   <programme channel="tv.101204200427" start="20171023083000 +0000" stop="20171023094000 +0000">
     <title>David Attenborough's Secrets of Wild India</title>
     <episode-num system="dd_progid">SEWI__2</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16586,11 +16586,11 @@
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171023190000 +0000" stop="20171023193000 +0000">
-    <title>Friends</title>
-    <episode-num system="dd_progid">FRIE_8_227412</episode-num>
+    <title>In the Garden</title>
+    <episode-num system="dd_progid">ITGA__2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171023193000 +0000" stop="20171023200000 +0000">
@@ -16661,6 +16661,7 @@
   <programme channel="tv.101204200427" start="20171024030000 +0000" stop="20171024041000 +0000">
     <title>David Attenborough's Secrets of Wild India</title>
     <episode-num system="dd_progid">SEWI__2</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -18379,89 +18380,73 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022063000 +0000" stop="20171022065000 +0000">
-    <title>Megamind: The Button of Doom</title>
-    <episode-num system="dd_progid">MEMI__1</episode-num>
+  <programme channel="tv.101204200428" start="20171022063000 +0000" stop="20171022070000 +0000">
+    <title>Batman: The Brave and the Bold</title>
+    <episode-num system="dd_progid">Batman_1_18</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022065000 +0000" stop="20171022083000 +0000">
-    <title>National Lampoon's Loaded Weapon 1</title>
-    <episode-num system="dd_progid">NALA__1</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171022083000 +0000" stop="20171022090000 +0000">
-    <title>The Big Bang Theory</title>
-    <episode-num system="dd_progid">BIBA_10_T12.15312</episode-num>
+  <programme channel="tv.101204200428" start="20171022070000 +0000" stop="20171022073000 +0000">
+    <title>Two and a Half Men</title>
+    <episode-num system="dd_progid">TWHA_1_475215</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022090000 +0000" stop="20171022093000 +0000">
-    <title>The Big Bang Theory</title>
-    <episode-num system="dd_progid">BIBA_10_T12.15313</episode-num>
+  <programme channel="tv.101204200428" start="20171022073000 +0000" stop="20171022080000 +0000">
+    <title>Two and a Half Men</title>
+    <episode-num system="dd_progid">TWHA_1_176802</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022093000 +0000" stop="20171022120000 +0000">
-    <title>The Peacemaker</title>
-    <episode-num system="dd_progid">PEAC1__1</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171022120000 +0000" stop="20171022123000 +0000">
-    <title>The Big Bang Theory</title>
-    <episode-num system="dd_progid">BIBA_10_T12.15312</episode-num>
+  <programme channel="tv.101204200428" start="20171022080000 +0000" stop="20171022104000 +0000">
+    <title>We Are Marshall</title>
+    <episode-num system="dd_progid">WEAR__1</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022123000 +0000" stop="20171022130000 +0000">
-    <title>The Big Bang Theory</title>
-    <episode-num system="dd_progid">BIBA_10_T12.15313</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20171022104000 +0000" stop="20171022131000 +0000">
+    <title>Southpaw</title>
+    <episode-num system="dd_progid">SOUT_2015_1</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022130000 +0000" stop="20171022130500 +0000">
+  <programme channel="tv.101204200428" start="20171022131000 +0000" stop="20171022131500 +0000">
     <title>[adult swim]</title>
     <episode-num system="dd_progid">ADSW_1_7</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022130500 +0000" stop="20171022131500 +0000">
+  <programme channel="tv.101204200428" start="20171022131500 +0000" stop="20171022132500 +0000">
     <title>Aqua Teen Hunger Force</title>
     <episode-num system="dd_progid">AQTE_2_25</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022131500 +0000" stop="20171022133000 +0000">
+  <programme channel="tv.101204200428" start="20171022132500 +0000" stop="20171022134000 +0000">
     <title>Robot Chicken</title>
     <episode-num system="dd_progid">ROCH_1_18</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022133000 +0000" stop="20171022140000 +0000">
+  <programme channel="tv.101204200428" start="20171022134000 +0000" stop="20171022141000 +0000">
     <title>The Venture Bros.</title>
     <episode-num system="dd_progid">VEBR_2_120</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171022140000 +0000" stop="20171022150000 +0000">
+  <programme channel="tv.101204200428" start="20171022141000 +0000" stop="20171022150000 +0000">
     <title>Step Dave</title>
     <episode-num system="dd_progid">STDA_2_1</episode-num>
     <subtitles type="teletext"/>
@@ -18716,6 +18701,7 @@
   <programme channel="tv.101204200428" start="20171023083000 +0000" stop="20171023090000 +0000">
     <title>Science of Stupid</title>
     <episode-num system="dd_progid">SCST_2_34</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -18743,10 +18729,17 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171023124000 +0000" stop="20171023133000 +0000">
+  <programme channel="tv.101204200428" start="20171023124000 +0000" stop="20171023131000 +0000">
     <title>Mad About You</title>
     <episode-num system="dd_progid">MAAB101_5_5-16</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200428" start="20171023131000 +0000" stop="20171023133000 +0000">
+    <title>Megamind: The Button of Doom</title>
+    <episode-num system="dd_progid">MEMI__1</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18926,6 +18919,7 @@
   <programme channel="tv.101204200428" start="20171024010000 +0000" stop="20171024020000 +0000">
     <title>Dawson's Creek</title>
     <episode-num system="dd_progid">DACR_6_622</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
