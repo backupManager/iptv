@@ -54,8 +54,5 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\
 #EXTINF:-1 tvg-name="018" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.320203000302 -vcodec copy -acodec copy -metadata service_name=tv.320203000302 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-name="019" tvg-id="tv.101305040540" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040540.png",Seven
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101305040540 -vcodec copy -acodec copy -metadata service_name=tv.101305040540 -f mpegts pipe:1
-
-#EXTINF:-1 tvg-name="020" tvg-id="tv.101406040645" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040645.png",TEN
+#EXTINF:-1 tvg-name="019" tvg-id="tv.101406040645" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040645.png",TEN
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Brisbane/tv.101406040645 -vcodec copy -acodec copy -metadata service_name=tv.101406040645 -f mpegts pipe:1

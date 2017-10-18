@@ -1,20 +1,4 @@
 {
-    "tv.101305020522": {
-        "channel": "101305020522",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",
-        "name": "7TWO",
-        "url": "http://iptv.matthuisman.nz/au/Sydney/tv.101305020522|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 896,
-            "height": 504
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
     "tv.101305020525": {
         "channel": "101305020525",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png",
