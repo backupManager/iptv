@@ -96,11 +96,11 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\
 #EXTINF:-1 tvg-name="012" tvg-id="radio.ih.6178" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png" radio="true",CW Remix
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/radio.ih.6178 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6178 -f mpegts pipe:1
 
-#EXTINF:-1 tvg-name="013" tvg-id="radio.ih.7442" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png" radio="true",Dua Lipa Guest DJ
-pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/radio.ih.7442 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7442 -f mpegts pipe:1
-
-#EXTINF:-1 tvg-name="014" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Fox Sports News
+#EXTINF:-1 tvg-name="013" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Double J
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/radio.double.j -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.double.j -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="014" tvg-id="radio.ih.7442" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png" radio="true",Dua Lipa Guest DJ
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/radio.ih.7442 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7442 -f mpegts pipe:1
 
 #EXTINF:-1 tvg-name="015" tvg-id="radio.ih.7260" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Hobart/radio.ih.7260 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.7260 -f mpegts pipe:1

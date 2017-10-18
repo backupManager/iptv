@@ -135,11 +135,11 @@ http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7308|X-Forwarded-For=52.62.247.
 #EXTINF:-1 tvg-name="025" tvg-id="radio.ih.6178" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6178.png" radio="true",CW Remix
 http://iptv.matthuisman.nz/au/Melbourne/radio.ih.6178|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1 tvg-name="026" tvg-id="radio.ih.7442" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png" radio="true",Dua Lipa Guest DJ
-http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7442|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
-
-#EXTINF:-1 tvg-name="027" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Fox Sports News
+#EXTINF:-1 tvg-name="026" tvg-id="radio.double.j" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.double.j.png" radio="true",Double J
 http://iptv.matthuisman.nz/au/Melbourne/radio.double.j|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="027" tvg-id="radio.ih.7442" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7442.png" radio="true",Dua Lipa Guest DJ
+http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7442|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="028" tvg-id="radio.ih.7181" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7181.png" radio="true",Gippsland’s 1242
 http://iptv.matthuisman.nz/au/Melbourne/radio.ih.7181|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
