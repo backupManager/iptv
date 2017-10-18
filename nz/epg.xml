@@ -2802,7 +2802,7 @@
   </programme>
   <programme channel="tv.11" start="20171018060000 +0000" stop="20171018063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and fourth host Mary Lambie talk to Australian comedy duo Hamish and Andy. Plus, how the sing-a-long version of Moana forget its roots, and the Jim Donnelly case.</desc>
     <episode-num system="dd_progid">T751803</episode-num>
   </programme>
   <programme channel="tv.11" start="20171018063000 +0000" stop="20171018073000 +0000">
@@ -2853,7 +2853,7 @@
   </programme>
   <programme channel="tv.11" start="20171018105500 +0000" stop="20171018112000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and fourth host Mary Lambie talk to Australian comedy duo Hamish and Andy. Plus, how the sing-a-long version of Moana forget its roots, and the Jim Donnelly case.</desc>
     <episode-num system="dd_progid">T751803</episode-num>
   </programme>
   <programme channel="tv.11" start="20171018112000 +0000" stop="20171018160000 +0000">
@@ -3179,6 +3179,9 @@
     <title>The Graham Norton Show</title>
     <desc>New Episode. Graham Norton is joined by celebrity guests Jane Fonda, Nicole Kidman, Colin Farrell, Bryan Cranston, Matt Lucas and Niall Horan. S22 Ep3</desc>
     <episode-num system="dd_progid">T784929</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171020080000 +0000" stop="20171020084500 +0000">
     <title>7 Days</title>
@@ -3210,7 +3213,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171020101500 +0000" stop="20171020111500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751805</episode-num>
   </programme>
@@ -3552,6 +3555,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171022210000 +0000" stop="20171022222000 +0000">
     <title>Infomercials</title>
@@ -3695,6 +3701,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171023103000 +0000" stop="20171023110000 +0000">
     <title>The Project (Encore)</title>
@@ -3938,6 +3947,9 @@
     <title>The Right Girl</title>
     <desc>A spoilt young woman loses her fortune and is forced to take a job she doesn't want. But when she meets her boss, a down to earth single father, she learns what it means to be grounded.</desc>
     <episode-num system="dd_progid">T788648</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171025015500 +0000" stop="20171025022000 +0000">
     <title>Celebrity Name Game</title>
@@ -4416,6 +4428,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171020053000 +0000" stop="20171020063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -4609,6 +4624,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171021174500 +0000" stop="20171021183000 +0000">
     <title>I'm Having Their Baby</title>
@@ -4634,7 +4652,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171021200000 +0000" stop="20171021204000 +0000">
+  <programme channel="tv.12" start="20171021200000 +0000" stop="20171021204500 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha breezes into the Windy City to rescue a sinking salon. But gale-force dramas crop up when she contends with an absentee owner, an inefficient manager and unprofessional staffers. S2 Ep2</desc>
     <episode-num system="dd_progid">T278918</episode-num>
@@ -4642,7 +4660,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171021204000 +0000" stop="20171021212500 +0000">
+  <programme channel="tv.12" start="20171021204500 +0000" stop="20171021213000 +0000">
     <title>Catfish</title>
     <desc>Lauren and Derek have never met in real life. Derek is caring, supporting Lauren after she had a baby with an ex-boyfriend. Lauren thinks he is the one, so why has he avoided meeting her? S2 Ep4</desc>
     <episode-num system="dd_progid">T749438</episode-num>
@@ -4650,7 +4668,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171021212500 +0000" stop="20171021221500 +0000">
+  <programme channel="tv.12" start="20171021213000 +0000" stop="20171021222000 +0000">
     <title>Millionaire Matchmaker</title>
     <desc>Patti tries to find a young man for a millionaire woman named Shauna, but catty friction flares up between the two ladies.</desc>
     <episode-num system="dd_progid">T279699</episode-num>
@@ -4658,7 +4676,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171021221500 +0000" stop="20171021230000 +0000">
+  <programme channel="tv.12" start="20171021222000 +0000" stop="20171021230000 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
@@ -4766,6 +4784,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171022111500 +0000" stop="20171022160000 +0000">
     <title>Infomercials</title>
@@ -4855,6 +4876,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Season 3 opens with Tabatha trying to revamp a salon in California. An intervention is needed when battles involving the managers and their sisters threaten the future of their establishment. S3 Ep1</desc>
     <episode-num system="dd_progid">T380077</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171023063000 +0000" stop="20171023073000 +0000">
     <title>Flipping Out</title>
@@ -4876,6 +4900,9 @@
     <title>Killer Couples</title>
     <desc>A white supremacist couple's vigilantism ends in a double murder. S8 Ep1</desc>
     <episode-num system="dd_progid">T774684</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171023093000 +0000" stop="20171023102500 +0000">
     <title>Intervention</title>
@@ -4920,6 +4947,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Season 3 opens with Tabatha trying to revamp a salon in California. An intervention is needed when battles involving the managers and their sisters threaten the future of their establishment. S3 Ep1</desc>
     <episode-num system="dd_progid">T380077</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171023225000 +0000" stop="20171023234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -4949,6 +4979,9 @@
     <title>Killer Couples</title>
     <desc>A white supremacist couple's vigilantism ends in a double murder. S8 Ep1</desc>
     <episode-num system="dd_progid">T774684</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171024023500 +0000" stop="20171024033000 +0000">
     <title>Catfish</title>
@@ -4975,6 +5008,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171024063000 +0000" stop="20171024073000 +0000">
     <title>Botched</title>
@@ -5040,6 +5076,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171024225000 +0000" stop="20171024234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5095,6 +5134,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to save a mismanaged Houston hair salon. Among the establishment's problems: the five owners are feuding, their customer service is dreadful and the salon is behind in rent. S3 Ep3</desc>
     <episode-num system="dd_progid">T380079</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171025063000 +0000" stop="20171025073000 +0000">
     <title>Catfish</title>
@@ -13287,7 +13329,7 @@
   </programme>
   <programme channel="tv.27" start="20171018070000 +0000" stop="20171018073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and fourth host Mary Lambie talk to Australian comedy duo Hamish and Andy. Plus, how the sing-a-long version of Moana forget its roots, and the Jim Donnelly case.</desc>
     <episode-num system="dd_progid">T751803</episode-num>
   </programme>
   <programme channel="tv.27" start="20171018073000 +0000" stop="20171018083000 +0000">
@@ -13329,7 +13371,7 @@
   </programme>
   <programme channel="tv.27" start="20171018115500 +0000" stop="20171018122000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and fourth host Mary Lambie talk to Australian comedy duo Hamish and Andy. Plus, how the sing-a-long version of Moana forget its roots, and the Jim Donnelly case.</desc>
     <episode-num system="dd_progid">T751803</episode-num>
   </programme>
   <programme channel="tv.27" start="20171018122000 +0000" stop="20171018170000 +0000">
@@ -13646,6 +13688,9 @@
     <title>The Graham Norton Show</title>
     <desc>New Episode. Graham Norton is joined by celebrity guests Jane Fonda, Nicole Kidman, Colin Farrell, Bryan Cranston, Matt Lucas and Niall Horan. S22 Ep3</desc>
     <episode-num system="dd_progid">T784929</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171020090000 +0000" stop="20171020094500 +0000">
     <title>7 Days</title>
@@ -13674,7 +13719,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171020111500 +0000" stop="20171020121500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751805</episode-num>
   </programme>
@@ -13992,6 +14037,9 @@
     <title>Dance-Off</title>
     <desc>In order to try and save his studio, a dancer must attempt to win a dance competition against a rival studio which is being represented by his former partner.</desc>
     <episode-num system="dd_progid">T739342</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171022220000 +0000" stop="20171022232000 +0000">
     <title>Infomercials</title>
@@ -14126,6 +14174,9 @@
     <title>Satisfaction</title>
     <desc>New Episode. Simon is faced with a family mystery and enlists the help of Neil. And Adriana and Grace must work together against a threatening enemy. S2 Ep9</desc>
     <episode-num system="dd_progid">T694275</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171023113000 +0000" stop="20171023120000 +0000">
     <title>The Project (Encore)</title>
@@ -14366,6 +14417,9 @@
     <title>The Right Girl</title>
     <desc>A spoilt young woman loses her fortune and is forced to take a job she doesn't want. But when she meets her boss, a down to earth single father, she learns what it means to be grounded.</desc>
     <episode-num system="dd_progid">T788648</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171025025500 +0000" stop="20171025032000 +0000">
     <title>Celebrity Name Game</title>
@@ -16491,6 +16545,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171020063000 +0000" stop="20171020073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -16684,6 +16741,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171021184500 +0000" stop="20171021193000 +0000">
     <title>I'm Having Their Baby</title>
@@ -16709,7 +16769,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171021210000 +0000" stop="20171021214000 +0000">
+  <programme channel="tv.30" start="20171021210000 +0000" stop="20171021214500 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha breezes into the Windy City to rescue a sinking salon. But gale-force dramas crop up when she contends with an absentee owner, an inefficient manager and unprofessional staffers. S2 Ep2</desc>
     <episode-num system="dd_progid">T278918</episode-num>
@@ -16717,7 +16777,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171021214000 +0000" stop="20171021222500 +0000">
+  <programme channel="tv.30" start="20171021214500 +0000" stop="20171021223000 +0000">
     <title>Catfish</title>
     <desc>Lauren and Derek have never met in real life. Derek is caring, supporting Lauren after she had a baby with an ex-boyfriend. Lauren thinks he is the one, so why has he avoided meeting her? S2 Ep4</desc>
     <episode-num system="dd_progid">T749438</episode-num>
@@ -16725,7 +16785,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171021222500 +0000" stop="20171021231500 +0000">
+  <programme channel="tv.30" start="20171021223000 +0000" stop="20171021232000 +0000">
     <title>Millionaire Matchmaker</title>
     <desc>Patti tries to find a young man for a millionaire woman named Shauna, but catty friction flares up between the two ladies.</desc>
     <episode-num system="dd_progid">T279699</episode-num>
@@ -16733,7 +16793,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171021231500 +0000" stop="20171022000000 +0000">
+  <programme channel="tv.30" start="20171021232000 +0000" stop="20171022000000 +0000">
     <title>The Real Housewives Of New York City</title>
     <desc>The reunion concludes when the housewives look back on their fun-filled trip to Mexico, Tinsley and Sonja attempt to clear the air, and Bethenny questions the sincerity of Ramona's apology. S9 Ep22</desc>
     <episode-num system="dd_progid">T781535</episode-num>
@@ -16841,6 +16901,9 @@
     <title>Four Weddings UK</title>
     <desc>For the first time ever on Four Weddings, it's Britain Vs the World. English Rose Lynsey does battle with Spanish Seniorita Cristina, German stove seller Anna and Texan paramedic Misty.</desc>
     <episode-num system="dd_progid">T784365</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171022121500 +0000" stop="20171022170000 +0000">
     <title>Infomercials</title>
@@ -16930,6 +16993,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Season 3 opens with Tabatha trying to revamp a salon in California. An intervention is needed when battles involving the managers and their sisters threaten the future of their establishment. S3 Ep1</desc>
     <episode-num system="dd_progid">T380077</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171023073000 +0000" stop="20171023083000 +0000">
     <title>Flipping Out</title>
@@ -16951,6 +17017,9 @@
     <title>Killer Couples</title>
     <desc>A white supremacist couple's vigilantism ends in a double murder. S8 Ep1</desc>
     <episode-num system="dd_progid">T774684</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171023103000 +0000" stop="20171023112500 +0000">
     <title>Intervention</title>
@@ -16995,6 +17064,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Season 3 opens with Tabatha trying to revamp a salon in California. An intervention is needed when battles involving the managers and their sisters threaten the future of their establishment. S3 Ep1</desc>
     <episode-num system="dd_progid">T380077</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171023235000 +0000" stop="20171024004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17024,6 +17096,9 @@
     <title>Killer Couples</title>
     <desc>A white supremacist couple's vigilantism ends in a double murder. S8 Ep1</desc>
     <episode-num system="dd_progid">T774684</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171024033500 +0000" stop="20171024043000 +0000">
     <title>Catfish</title>
@@ -17050,6 +17125,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171024073000 +0000" stop="20171024083000 +0000">
     <title>Botched</title>
@@ -17115,6 +17193,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171024235000 +0000" stop="20171025004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17170,6 +17251,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to save a mismanaged Houston hair salon. Among the establishment's problems: the five owners are feuding, their customer service is dreadful and the salon is behind in rent. S3 Ep3</desc>
     <episode-num system="dd_progid">T380079</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171025073000 +0000" stop="20171025083000 +0000">
     <title>Catfish</title>
@@ -29973,14 +30057,20 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171023020000 +0000" stop="20171023030000 +0000">
-    <title>What You Want</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T767899</episode-num>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <episode-num system="dd_progid">T495246</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20171023030000 +0000" stop="20171023040000 +0000">
-    <title>Daily Feed</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T760817</episode-num>
+    <title>All The Hits</title>
+    <desc>The hottest music videos in the world! Watch The Edge TV here, or stream it 24/7 at www.theedge.co.nz #theedgetv</desc>
+    <episode-num system="dd_progid">T495244</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.51" start="20171023040000 +0000" stop="20171023043000 +0000">
     <title>The Edge 30 Frontrunners</title>
@@ -30055,8 +30145,8 @@
   </programme>
   <programme channel="tv.51" start="20171023200000 +0000" stop="20171023210000 +0000">
     <title>Top 10</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Our Top 10 favourite videos by producers</desc>
+    <episode-num system="dd_progid">T576214</episode-num>
   </programme>
   <programme channel="tv.51" start="20171023210000 +0000" stop="20171023230000 +0000">
     <title>All The Hits</title>
@@ -30112,13 +30202,13 @@
   </programme>
   <programme channel="tv.51" start="20171024063000 +0000" stop="20171024070000 +0000">
     <title>This vs That</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Demi Vs Ariana</desc>
+    <episode-num system="dd_progid">T575886</episode-num>
   </programme>
   <programme channel="tv.51" start="20171024070000 +0000" stop="20171024080000 +0000">
     <title>Top 10</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>Our Top 10 favourite videos by producers</desc>
+    <episode-num system="dd_progid">T576214</episode-num>
   </programme>
   <programme channel="tv.51" start="20171024080000 +0000" stop="20171024093000 +0000">
     <title>All The Hits</title>
