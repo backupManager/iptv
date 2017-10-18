@@ -1819,12 +1819,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20171018125700 +0000" stop="20171018131300 +0000">
-    <title>Media Watch</title>
-    <episode-num system="dd_progid">FA1635H036S00</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20171026130000 +0000" stop="20171026133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H214S00</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210221" start="20171018131300 +0000" stop="20171018141200 +0000">
@@ -8195,13 +8194,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171018113900 +0000" stop="20171018180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20171018180000 +0000" stop="20171018182300 +0000">
     <title>Arthur</title>
     <episode-num system="dd_progid">ZX8973A055S00</episode-num>
@@ -11724,14 +11716,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20171018124000 +0000" stop="20171018133300 +0000">
-    <title>The Closer</title>
-    <episode-num system="dd_progid">CLOS_2_2T7652</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20171018133300 +0000" stop="20171018142700 +0000">
     <title>20/20</title>
     <episode-num system="dd_progid">TWTW17A__1</episode-num>
@@ -13201,13 +13185,6 @@
     <title>Conspiracy</title>
     <episode-num system="dd_progid">CONS101_1_8</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200424" start="20171018123000 +0000" stop="20171018130000 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_6_5DU13</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -15207,11 +15184,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171018115400 +0000" stop="20171018130100 +0000">
-    <title>Silent Witness</title>
-    <episode-num system="dd_progid">SIWI_11_1</episode-num>
+  <programme channel="tv.101204200424" start="20171026130000 +0000" stop="20171026133000 +0000">
+    <title>House Hunters</title>
+    <episode-num system="dd_progid">HOHU_84_8407H</episode-num>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204200427" start="20171018130100 +0000" stop="20171018134100 +0000">
@@ -16718,14 +16695,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171018124000 +0000" stop="20171018131000 +0000">
-    <title>Mad About You</title>
-    <episode-num system="dd_progid">MAAB101_5_5-17</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20171018131000 +0000" stop="20171018133700 +0000">
@@ -20276,6 +20245,14 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020520" start="20171026130000 +0000" stop="20171026132900 +0000">
+    <title>It's Always Sunny in Philadelphia</title>
+    <episode-num system="dd_progid">suftudeNltaPmdeP</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20171018112900 +0000" stop="20171018132900 +0000">
@@ -27387,11 +27364,12 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20171018123500 +0000" stop="20171018130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59620E1032334</episode-num>
+  <programme channel="tv.101305020528" start="20171026130000 +0000" stop="20171026133000 +0000">
+    <title>Raceday Review - Ballarat</title>
+    <episode-num system="dd_progid">RV26101A</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406020621" start="20171018130000 +0000" stop="20171018133000 +0000">
@@ -29129,12 +29107,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171018123500 +0000" stop="20171018133400 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500799</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406020621" start="20171026130000 +0000" stop="20171026133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476471</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171018133400 +0000" stop="20171018143000 +0000">
@@ -30879,11 +30856,12 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171018123700 +0000" stop="20171018130400 +0000">
-    <title>The King of Queens</title>
-    <episode-num system="dd_progid">59560E1111307</episode-num>
+  <programme channel="tv.101406020625" start="20171026130000 +0000" stop="20171026140000 +0000">
+    <title>The Project</title>
+    <episode-num system="dd_progid">59797E1500805</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20171018130400 +0000" stop="20171018133200 +0000">
@@ -37281,13 +37259,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20171018125500 +0000" stop="20171018130000 +0000">
-    <title>Small Business Secrets Bitesize</title>
-    <episode-num system="dd_progid">876500</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20171018130000 +0000" stop="20171018133000 +0000">
     <title>Man Fire Food</title>
     <episode-num system="dd_progid">774062</episode-num>
@@ -40109,6 +40080,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171026130000 +0000" stop="20171026133000 +0000">
+    <title>Man Fire Food</title>
+    <episode-num system="dd_progid">774068</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171018120000 +0000" stop="20171018130000 +0000">
     <title>Express Yourself</title>
     <episode-num system="dd_progid">732053</episode-num>
@@ -42459,6 +42437,13 @@
     <episode-num system="dd_progid">753848</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171026130000 +0000" stop="20171026140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">647606</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
