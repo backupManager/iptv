@@ -2867,7 +2867,7 @@
   </programme>
   <programme channel="tv.11" start="20171019060000 +0000" stop="20171019063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Rhys Mathewson and Marama Fox who discuss new governments, Winston, and what it means for New Zealand. Plus, actor John Barrowman.</desc>
     <episode-num system="dd_progid">T751804</episode-num>
   </programme>
   <programme channel="tv.11" start="20171019063000 +0000" stop="20171019070000 +0000">
@@ -2926,7 +2926,7 @@
   </programme>
   <programme channel="tv.11" start="20171019115500 +0000" stop="20171019122000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Rhys Mathewson and Marama Fox who discuss new governments, Winston, and what it means for New Zealand. Plus, actor John Barrowman.</desc>
     <episode-num system="dd_progid">T751804</episode-num>
   </programme>
   <programme channel="tv.11" start="20171019122000 +0000" stop="20171019160000 +0000">
@@ -3181,6 +3181,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. Beverly attends night school in the hope of one day owning her own business, but Murray convinces her to get a perm instead. Erica enlists Adam's help as she struggles at college. S5 Ep4</desc>
     <episode-num system="dd_progid">T785701</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3236,7 +3239,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171021100500 +0000" stop="20171021115000 +0000">
+  <programme channel="tv.11" start="20171021100500 +0000" stop="20171021115500 +0000">
     <title>For A Good Time, Call...</title>
     <desc>This raucous comedy features two polar opposite young women, short on the funds needed to live in New York City, who agree to room together and start working as phone-sex operators.</desc>
     <episode-num system="dd_progid">T505001</episode-num>
@@ -3247,12 +3250,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171021115000 +0000" stop="20171021125000 +0000">
+  <programme channel="tv.11" start="20171021115500 +0000" stop="20171021125500 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753379</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171021125000 +0000" stop="20171021150000 +0000">
+  <programme channel="tv.11" start="20171021125500 +0000" stop="20171021150000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3276,29 +3279,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20171021170000 +0000" stop="20171021173000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 141</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730243</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171021173000 +0000" stop="20171021180000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1073</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770345</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171021180000 +0000" stop="20171021190000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1743</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758520</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171021190000 +0000" stop="20171021193000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756539</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171021193000 +0000" stop="20171021200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780941</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171021200000 +0000" stop="20171021203000 +0000">
     <title>R &amp; R</title>
@@ -3374,12 +3392,15 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746264</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171022060000 +0000" stop="20171022073500 +0000">
+  <programme channel="tv.11" start="20171022060000 +0000" stop="20171022073000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The cocktail party is turned on its head as revealing secrets see couples reach breaking point. Later, the couples attend their first therapy session with the experts. S1 Ep7</desc>
     <episode-num system="dd_progid">T785434</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.11" start="20171022073500 +0000" stop="20171022093500 +0000">
+  <programme channel="tv.11" start="20171022073000 +0000" stop="20171022093000 +0000">
     <title>Bad Neighbours</title>
     <desc>Seth Rogen, Zac Efron and Rose Byrne star in this hilarious comedy about a young couple who are forced to live next to a fraternity house with their new-born baby.</desc>
     <episode-num system="dd_progid">T684090</episode-num>
@@ -3390,7 +3411,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171022093500 +0000" stop="20171022114000 +0000">
+  <programme channel="tv.11" start="20171022093000 +0000" stop="20171022114000 +0000">
     <title>Under New Management</title>
     <desc>Robert, a young Wall Street worker, tries to turn his uncle's Brooklyn mob crew legitimate as a beautiful FBI agent builds up indictments to make a case against them.</desc>
     <episode-num system="dd_progid">T739307</episode-num>
@@ -3468,6 +3489,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The cocktail party is turned on its head as revealing secrets see couples reach breaking point. Later, the couples attend their first therapy session with the experts. S1 Ep7</desc>
     <episode-num system="dd_progid">T785434</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171023012000 +0000" stop="20171023015000 +0000">
     <title>Now That's Funny!</title>
@@ -3555,6 +3579,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. It's the beginning of a new chapter as the couples move in together. But with outside influences close by, will this bring the couples together or tear them further apart? S1 Ep8</desc>
     <episode-num system="dd_progid">T785435</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171023073000 +0000" stop="20171023083500 +0000">
     <title>Tin Star</title>
@@ -3654,6 +3681,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the beginning of a new chapter as the couples move in together. But with outside influences close by, will this bring the couples together or tear them further apart? S1 Ep8</desc>
     <episode-num system="dd_progid">T785435</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171024005500 +0000" stop="20171024015500 +0000">
     <title>Minute To Win It</title>
@@ -3746,6 +3776,9 @@
     <title>Lost &amp; Found</title>
     <desc>New Episode. Amanda is looking for her dad who doesn't even know she exists. And Bill left England 30 years ago - while also leaving behind his daughter who was adopted out. S3 Ep6</desc>
     <episode-num system="dd_progid">T727006</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171024083000 +0000" stop="20171024095000 +0000">
     <title>Employable Me</title>
@@ -3767,6 +3800,9 @@
     <title>The Blacklist</title>
     <desc>New Episode. Liz and the team hunt for an elusive criminal who destroys valuable possessions. Red has a potential business opportunity and Tom investigates the bones in the suitcase. S5 Ep4</desc>
     <episode-num system="dd_progid">T785678</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -4006,6 +4042,9 @@
     <title>Off The Rails</title>
     <desc>A married woman loses her memory after a severe train accident. As she begins to recover, she finds herself entangled in a web of mysteries.</desc>
     <episode-num system="dd_progid">T783870</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171026015500 +0000" stop="20171026022000 +0000">
     <title>Celebrity Name Game</title>
@@ -4790,6 +4829,9 @@
     <title>Four Weddings UK</title>
     <desc>Control freak Julia ties the knot twice in Slovenia while Monique brings Nigeria to Hackney with the help of 500 guests and her own cooking.</desc>
     <episode-num system="dd_progid">T784366</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171023053000 +0000" stop="20171023063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -4922,13 +4964,16 @@
     <title>Four Weddings UK</title>
     <desc>It's Battle of the Sexes. In the girls' corner we have a traditional Scottish shindig and a wedding in the sky. Doing it for the boys is wedding with a festival vibe and a nightclub civil partnership.</desc>
     <episode-num system="dd_progid">T784367</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171024053000 +0000" stop="20171024063000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171024063000 +0000" stop="20171024073000 +0000">
@@ -4943,6 +4988,9 @@
     <title>Leah Renini: Scientology &amp; The Aftermath</title>
     <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
     <episode-num system="dd_progid">T773857</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171024083000 +0000" stop="20171024093000 +0000">
     <title>Below Deck: Mediterranean</title>
@@ -5024,9 +5072,12 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171025013500 +0000" stop="20171025023500 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
+    <title>Leah Remini: Scientology &amp; The Aftermath</title>
     <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
     <episode-num system="dd_progid">T773857</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171025023500 +0000" stop="20171025033000 +0000">
     <title>Catfish</title>
@@ -5176,6 +5227,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to give a permanent makeover to a salon in a Cape Cod resort town mismanaged by an owner who believes his outrageous antics bring in customers. S3 Ep4</desc>
     <episode-num system="dd_progid">T380080</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171026063000 +0000" stop="20171026073000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5189,6 +5243,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775508</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171026083000 +0000" stop="20171026093000 +0000">
     <title>Escaping Polygamy</title>
@@ -13358,7 +13415,7 @@
   </programme>
   <programme channel="tv.27" start="20171019070000 +0000" stop="20171019073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Rhys Mathewson and Marama Fox who discuss new governments, Winston, and what it means for New Zealand. Plus, actor John Barrowman.</desc>
     <episode-num system="dd_progid">T751804</episode-num>
   </programme>
   <programme channel="tv.27" start="20171019073000 +0000" stop="20171019080000 +0000">
@@ -13408,7 +13465,7 @@
   </programme>
   <programme channel="tv.27" start="20171019125500 +0000" stop="20171019132000 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa and Jesse are joined by guest hosts Rhys Mathewson and Marama Fox who discuss new governments, Winston, and what it means for New Zealand. Plus, actor John Barrowman.</desc>
     <episode-num system="dd_progid">T751804</episode-num>
   </programme>
   <programme channel="tv.27" start="20171019132000 +0000" stop="20171019170000 +0000">
@@ -13706,7 +13763,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171021110500 +0000" stop="20171021125000 +0000">
+  <programme channel="tv.27" start="20171021110500 +0000" stop="20171021125500 +0000">
     <title>For A Good Time, Call...</title>
     <desc>This raucous comedy features two polar opposite young women, short on the funds needed to live in New York City, who agree to room together and start working as phone-sex operators.</desc>
     <episode-num system="dd_progid">T505001</episode-num>
@@ -13714,12 +13771,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171021125000 +0000" stop="20171021135000 +0000">
+  <programme channel="tv.27" start="20171021125500 +0000" stop="20171021135500 +0000">
     <title>The Nation</title>
     <desc>Hosted by Lisa Owen, The Nation is an in-depth weekly current affairs show focusing on the major players and forces that shape New Zealand.</desc>
     <episode-num system="dd_progid">T753379</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171021135000 +0000" stop="20171021160000 +0000">
+  <programme channel="tv.27" start="20171021135500 +0000" stop="20171021160000 +0000">
     <title>Infomercials</title>
     <desc/>
     <episode-num system="dd_progid">T1</episode-num>
@@ -13743,29 +13800,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20171021180000 +0000" stop="20171021183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 141</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T730243</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171021183000 +0000" stop="20171021190000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1073</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770345</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171021190000 +0000" stop="20171021200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1743</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758520</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171021200000 +0000" stop="20171021203000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756539</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171021203000 +0000" stop="20171021210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780941</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171021210000 +0000" stop="20171021213000 +0000">
     <title>R &amp; R</title>
@@ -13841,12 +13913,15 @@
     <desc>Newshub Live At 6pm presents comprehensive coverage of global and local news.</desc>
     <episode-num system="dd_progid">T746264</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171022070000 +0000" stop="20171022083500 +0000">
+  <programme channel="tv.27" start="20171022070000 +0000" stop="20171022083000 +0000">
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The cocktail party is turned on its head as revealing secrets see couples reach breaking point. Later, the couples attend their first therapy session with the experts. S1 Ep7</desc>
     <episode-num system="dd_progid">T785434</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
-  <programme channel="tv.27" start="20171022083500 +0000" stop="20171022103500 +0000">
+  <programme channel="tv.27" start="20171022083000 +0000" stop="20171022103000 +0000">
     <title>Bad Neighbours</title>
     <desc>Seth Rogen, Zac Efron and Rose Byrne star in this hilarious comedy about a young couple who are forced to live next to a fraternity house with their new-born baby.</desc>
     <episode-num system="dd_progid">T684090</episode-num>
@@ -13854,7 +13929,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171022103500 +0000" stop="20171022124000 +0000">
+  <programme channel="tv.27" start="20171022103000 +0000" stop="20171022124000 +0000">
     <title>Under New Management</title>
     <desc>Robert, a young Wall Street worker, tries to turn his uncle's Brooklyn mob crew legitimate as a beautiful FBI agent builds up indictments to make a case against them.</desc>
     <episode-num system="dd_progid">T739307</episode-num>
@@ -13923,6 +13998,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The cocktail party is turned on its head as revealing secrets see couples reach breaking point. Later, the couples attend their first therapy session with the experts. S1 Ep7</desc>
     <episode-num system="dd_progid">T785434</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171023022000 +0000" stop="20171023025000 +0000">
     <title>Now That's Funny!</title>
@@ -14010,6 +14088,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. It's the beginning of a new chapter as the couples move in together. But with outside influences close by, will this bring the couples together or tear them further apart? S1 Ep8</desc>
     <episode-num system="dd_progid">T785435</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171023083000 +0000" stop="20171023093500 +0000">
     <title>Tin Star</title>
@@ -14100,6 +14181,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the beginning of a new chapter as the couples move in together. But with outside influences close by, will this bring the couples together or tear them further apart? S1 Ep8</desc>
     <episode-num system="dd_progid">T785435</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171024015500 +0000" stop="20171024025500 +0000">
     <title>Minute To Win It</title>
@@ -14192,6 +14276,9 @@
     <title>Lost &amp; Found</title>
     <desc>New Episode. Amanda is looking for her dad who doesn't even know she exists. And Bill left England 30 years ago - while also leaving behind his daughter who was adopted out. S3 Ep6</desc>
     <episode-num system="dd_progid">T727006</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171024093000 +0000" stop="20171024105000 +0000">
     <title>Employable Me</title>
@@ -14443,6 +14530,9 @@
     <title>Off The Rails</title>
     <desc>A married woman loses her memory after a severe train accident. As she begins to recover, she finds herself entangled in a web of mysteries.</desc>
     <episode-num system="dd_progid">T783870</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171026025500 +0000" stop="20171026032000 +0000">
     <title>Celebrity Name Game</title>
@@ -16860,6 +16950,9 @@
     <title>Four Weddings UK</title>
     <desc>Control freak Julia ties the knot twice in Slovenia while Monique brings Nigeria to Hackney with the help of 500 guests and her own cooking.</desc>
     <episode-num system="dd_progid">T784366</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171023063000 +0000" stop="20171023073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -16992,13 +17085,16 @@
     <title>Four Weddings UK</title>
     <desc>It's Battle of the Sexes. In the girls' corner we have a traditional Scottish shindig and a wedding in the sky. Doing it for the boys is wedding with a festival vibe and a nightclub civil partnership.</desc>
     <episode-num system="dd_progid">T784367</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171024063000 +0000" stop="20171024073000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha springs into action to save a California salon owned by an elitist couple holding college degrees and corporate backgrounds - but no real-world salon experience. S3 Ep2</desc>
     <episode-num system="dd_progid">T380078</episode-num>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171024073000 +0000" stop="20171024083000 +0000">
@@ -17013,6 +17109,9 @@
     <title>Leah Renini: Scientology &amp; The Aftermath</title>
     <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
     <episode-num system="dd_progid">T773857</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171024093000 +0000" stop="20171024103000 +0000">
     <title>Below Deck: Mediterranean</title>
@@ -17094,9 +17193,12 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171025023500 +0000" stop="20171025033500 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
+    <title>Leah Remini: Scientology &amp; The Aftermath</title>
     <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
     <episode-num system="dd_progid">T773857</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171025033500 +0000" stop="20171025043000 +0000">
     <title>Catfish</title>
@@ -17246,6 +17348,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to give a permanent makeover to a salon in a Cape Cod resort town mismanaged by an owner who believes his outrageous antics bring in customers. S3 Ep4</desc>
     <episode-num system="dd_progid">T380080</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171026073000 +0000" stop="20171026083000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17259,6 +17364,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775508</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171026093000 +0000" stop="20171026103000 +0000">
     <title>Escaping Polygamy</title>
