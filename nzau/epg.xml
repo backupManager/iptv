@@ -569,6 +569,9 @@
     <title>The Russell Howard Hour</title>
     <desc>Join Russell for his take on current affairs as he mocks the madness of the news and talks with entrepreneur Sir Richard Branson. Stand-up from Phil Ellis.</desc>
     <episode-num system="dd_progid">10498148</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171019093000 +0000" stop="20171019100000 +0000">
     <title>2 Broke Girls</title>
@@ -1306,6 +1309,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469480</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171021175500 +0000" stop="20171021180000 +0000">
     <title>Little Monstar</title>
@@ -1652,6 +1658,9 @@
     <title>Home And Away</title>
     <desc>Irene struggles to decide if she'll go to Mick’s parole hearing, and are things over between Justin and Scarlett?</desc>
     <episode-num system="dd_progid">10487063</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171023050000 +0000" stop="20171023053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1705,12 +1714,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023083000 +0000" stop="20171023095000 +0000">
+  <programme channel="tv.10" start="20171023083000 +0000" stop="20171023093000 +0000">
     <title>The Walking Dead</title>
     <desc>New Season: Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495963</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.10" start="20171023095000 +0000" stop="20171023102000 +0000">
+  <programme channel="tv.10" start="20171023093000 +0000" stop="20171023100000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E15 After discovering that Candy Andy closed up his shop following their breakup, Caroline visits a psychic for a reading about her future love life.</desc>
     <episode-num system="dd_progid">10312227</episode-num>
@@ -1721,7 +1736,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023102000 +0000" stop="20171023105000 +0000">
+  <programme channel="tv.10" start="20171023100000 +0000" stop="20171023103000 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S1 E24 Mike is put in an uncomfortable position when Peggy's new boyfriend questions him about marrying Molly.</desc>
     <episode-num system="dd_progid">10230954</episode-num>
@@ -1729,7 +1744,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023105000 +0000" stop="20171023114000 +0000">
+  <programme channel="tv.10" start="20171023103000 +0000" stop="20171023112000 +0000">
     <title>The Mysteries Of Laura</title>
     <desc>S2 E9 A perfume mogul is killed in a savage manner and the investigation yields no prime suspect.</desc>
     <episode-num system="dd_progid">10421645</episode-num>
@@ -1740,7 +1755,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023114000 +0000" stop="20171023122500 +0000">
+  <programme channel="tv.10" start="20171023112000 +0000" stop="20171023120500 +0000">
     <title>Desperate Housewives</title>
     <desc>Season finale. Several residents of Wisteria Lane are faced with deadly threats, Susan realises she will soon lose someone she loves, and Katherine Mayfair's secrets are finally revealed.</desc>
     <episode-num system="dd_progid">10077137</episode-num>
@@ -1751,7 +1766,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023122500 +0000" stop="20171023125000 +0000">
+  <programme channel="tv.10" start="20171023120500 +0000" stop="20171023123000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis gets on the wrong side of the law. Boyd stitches himself up. Vinnie angrily defends his new friend.</desc>
     <episode-num system="dd_progid">10469670</episode-num>
@@ -1763,12 +1778,12 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023125000 +0000" stop="20171023135500 +0000">
+  <programme channel="tv.10" start="20171023123000 +0000" stop="20171023133500 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
   </programme>
-  <programme channel="tv.10" start="20171023135500 +0000" stop="20171023152000 +0000">
+  <programme channel="tv.10" start="20171023133500 +0000" stop="20171023150000 +0000">
     <title>Mistresses</title>
     <desc>S3 E11, E12 Karen shares her baby news with Alec and Vivian, and Vivian has news of her own. Meanwhile, April and Blair's romance hits a rough patch.</desc>
     <episode-num system="dd_progid">10398157</episode-num>
@@ -1777,6 +1792,14 @@
     </audio>
     <rating system="Freeview">
       <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.10" start="20171023150000 +0000" stop="20171023152000 +0000">
+    <title>Regular Show</title>
+    <desc>When Skips realises that he is lonely, he starts to date again. But after Mordecai and Rigby make him a fake online dating profile, Skips becomes a contestant on a dating game show.</desc>
+    <episode-num system="dd_progid">10367554</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171023152000 +0000" stop="20171023154500 +0000">
@@ -1919,6 +1942,9 @@
     <title>Home And Away</title>
     <desc>Irene struggles to decide if she'll go to Mick’s parole hearing, and are things over between Justin and Scarlett?</desc>
     <episode-num system="dd_progid">10487063</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171024020000 +0000" stop="20171024023000 +0000">
     <title>Shortland Street</title>
@@ -2096,7 +2122,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171024142000 +0000" stop="20171024150500 +0000">
+  <programme channel="tv.10" start="20171024142000 +0000" stop="20171024151000 +0000">
     <title>Mistresses</title>
     <desc>New Season: S4 E1 Joss testifies in Wilson's murder trial; April worries Lucy is growing up too fast; and Karen adjusts to motherhood.</desc>
     <episode-num system="dd_progid">10425106</episode-num>
@@ -2104,7 +2130,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171024150500 +0000" stop="20171024153500 +0000">
+  <programme channel="tv.10" start="20171024151000 +0000" stop="20171024153500 +0000">
     <title>Full House</title>
     <desc>S5 E24 Michelle feels that her gender is to blame when her male friends exclude her.</desc>
     <episode-num system="dd_progid">64148</episode-num>
@@ -7551,6 +7577,9 @@
     <title>The Russell Howard Hour</title>
     <desc>Join Russell for his take on current affairs as he mocks the madness of the news and talks with entrepreneur Sir Richard Branson. Stand-up from Phil Ellis.</desc>
     <episode-num system="dd_progid">10498148</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171019103000 +0000" stop="20171019110000 +0000">
     <title>2 Broke Girls</title>
@@ -8207,6 +8236,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469480</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171021185500 +0000" stop="20171021190000 +0000">
     <title>Little Monstar</title>
@@ -8514,6 +8546,9 @@
     <title>Home And Away</title>
     <desc>Irene struggles to decide if she'll go to Mick’s parole hearing, and are things over between Justin and Scarlett?</desc>
     <episode-num system="dd_progid">10487063</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171023060000 +0000" stop="20171023063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8561,12 +8596,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023093000 +0000" stop="20171023105000 +0000">
+  <programme channel="tv.14" start="20171023093000 +0000" stop="20171023103000 +0000">
     <title>The Walking Dead</title>
     <desc>New Season: Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495963</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
-  <programme channel="tv.14" start="20171023105000 +0000" stop="20171023112000 +0000">
+  <programme channel="tv.14" start="20171023103000 +0000" stop="20171023110000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E15 After discovering that Candy Andy closed up his shop following their breakup, Caroline visits a psychic for a reading about her future love life.</desc>
     <episode-num system="dd_progid">10312227</episode-num>
@@ -8574,7 +8612,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023112000 +0000" stop="20171023115000 +0000">
+  <programme channel="tv.14" start="20171023110000 +0000" stop="20171023113000 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S1 E24 Mike is put in an uncomfortable position when Peggy's new boyfriend questions him about marrying Molly.</desc>
     <episode-num system="dd_progid">10230954</episode-num>
@@ -8582,7 +8620,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023115000 +0000" stop="20171023124000 +0000">
+  <programme channel="tv.14" start="20171023113000 +0000" stop="20171023122000 +0000">
     <title>The Mysteries Of Laura</title>
     <desc>S2 E9 A perfume mogul is killed in a savage manner and the investigation yields no prime suspect.</desc>
     <episode-num system="dd_progid">10421645</episode-num>
@@ -8590,7 +8628,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023124000 +0000" stop="20171023132500 +0000">
+  <programme channel="tv.14" start="20171023122000 +0000" stop="20171023130500 +0000">
     <title>Desperate Housewives</title>
     <desc>Season finale. Several residents of Wisteria Lane are faced with deadly threats, Susan realises she will soon lose someone she loves, and Katherine Mayfair's secrets are finally revealed.</desc>
     <episode-num system="dd_progid">10077137</episode-num>
@@ -8598,7 +8636,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023132500 +0000" stop="20171023135000 +0000">
+  <programme channel="tv.14" start="20171023130500 +0000" stop="20171023133000 +0000">
     <title>Shortland Street</title>
     <desc>Curtis gets on the wrong side of the law. Boyd stitches himself up. Vinnie angrily defends his new friend.</desc>
     <episode-num system="dd_progid">10469670</episode-num>
@@ -8607,17 +8645,25 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023135000 +0000" stop="20171023145500 +0000">
+  <programme channel="tv.14" start="20171023133000 +0000" stop="20171023143500 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
   </programme>
-  <programme channel="tv.14" start="20171023145500 +0000" stop="20171023162000 +0000">
+  <programme channel="tv.14" start="20171023143500 +0000" stop="20171023160000 +0000">
     <title>Mistresses</title>
     <desc>S3 E11, E12 Karen shares her baby news with Alec and Vivian, and Vivian has news of her own. Meanwhile, April and Blair's romance hits a rough patch.</desc>
     <episode-num system="dd_progid">10398157</episode-num>
     <rating system="Freeview">
       <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.14" start="20171023160000 +0000" stop="20171023162000 +0000">
+    <title>Regular Show</title>
+    <desc>When Skips realises that he is lonely, he starts to date again. But after Mordecai and Rigby make him a fake online dating profile, Skips becomes a contestant on a dating game show.</desc>
+    <episode-num system="dd_progid">10367554</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.14" start="20171023162000 +0000" stop="20171023164500 +0000">
@@ -8754,6 +8800,9 @@
     <title>Home And Away</title>
     <desc>Irene struggles to decide if she'll go to Mick’s parole hearing, and are things over between Justin and Scarlett?</desc>
     <episode-num system="dd_progid">10487063</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171024030000 +0000" stop="20171024033000 +0000">
     <title>Shortland Street</title>
@@ -8904,7 +8953,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171024152000 +0000" stop="20171024160500 +0000">
+  <programme channel="tv.14" start="20171024152000 +0000" stop="20171024161000 +0000">
     <title>Mistresses</title>
     <desc>New Season: S4 E1 Joss testifies in Wilson's murder trial; April worries Lucy is growing up too fast; and Karen adjusts to motherhood.</desc>
     <episode-num system="dd_progid">10425106</episode-num>
@@ -8912,7 +8961,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171024160500 +0000" stop="20171024163500 +0000">
+  <programme channel="tv.14" start="20171024161000 +0000" stop="20171024163500 +0000">
     <title>Full House</title>
     <desc>S5 E24 Michelle feels that her gender is to blame when her male friends exclude her.</desc>
     <episode-num system="dd_progid">64148</episode-num>
@@ -21524,6 +21573,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Laura Dern and Arcade Fire.</desc>
     <episode-num system="dd_progid">10491719</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171023220000 +0000" stop="20171023223000 +0000">
     <title>Morena</title>
@@ -30457,7 +30509,7 @@
   </programme>
   <programme channel="tv.55" start="20171019090000 +0000" stop="20171019093000 +0000">
     <title>New: Brooklyn Nine-Nine</title>
-    <desc>Catch the brand new season of Brooklyn Nine Nine, straight after the U.S!</desc>
+    <desc>The Nine-Nine embarks on its fifth annual Halloween Heist and, as usual, everybody has a plan and no one is safe!</desc>
     <episode-num system="dd_progid">10493654</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -43643,6 +43695,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Laura Dern and Arcade Fire.</desc>
     <episode-num system="dd_progid">10491719</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171023210000 +0000" stop="20171023213000 +0000">
     <title>Morena</title>
