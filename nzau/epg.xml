@@ -1355,8 +1355,14 @@
   </programme>
   <programme channel="tv.10" start="20171023073000 +0000" stop="20171023080000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>Comedy’s most fabulous foursome is back! See what 2017 holds for these comedy icons!</desc>
+    <desc>Jack is stunned to learn that his estranged son has also a son of his own, and he needs the kind of help only Will and Jack can provide. Grace and Karen behave badly with the hot new guy at work.</desc>
     <episode-num system="dd_progid">10491208</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171023080000 +0000" stop="20171023083000 +0000">
     <title>The Mick</title>
@@ -1663,6 +1669,9 @@
     <title>Home And Away</title>
     <desc>Mason takes action to save Beth, but runs the risk of crossing a line that could have serious consequences.</desc>
     <episode-num system="dd_progid">10487064</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171024050000 +0000" stop="20171024053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1917,6 +1926,9 @@
     <title>Home And Away</title>
     <desc>Mason takes action to save Beth, but runs the risk of crossing a line that could have serious consequences.</desc>
     <episode-num system="dd_progid">10487064</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171025020000 +0000" stop="20171025023000 +0000">
     <title>Shortland Street</title>
@@ -8251,8 +8263,11 @@
   </programme>
   <programme channel="tv.14" start="20171023083000 +0000" stop="20171023090000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>Comedy’s most fabulous foursome is back! See what 2017 holds for these comedy icons!</desc>
+    <desc>Jack is stunned to learn that his estranged son has also a son of his own, and he needs the kind of help only Will and Jack can provide. Grace and Karen behave badly with the hot new guy at work.</desc>
     <episode-num system="dd_progid">10491208</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171023090000 +0000" stop="20171023093000 +0000">
     <title>The Mick</title>
@@ -8523,6 +8538,9 @@
     <title>Home And Away</title>
     <desc>Mason takes action to save Beth, but runs the risk of crossing a line that could have serious consequences.</desc>
     <episode-num system="dd_progid">10487064</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171024060000 +0000" stop="20171024063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8753,6 +8771,9 @@
     <title>Home And Away</title>
     <desc>Mason takes action to save Beth, but runs the risk of crossing a line that could have serious consequences.</desc>
     <episode-num system="dd_progid">10487064</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171025030000 +0000" stop="20171025033000 +0000">
     <title>Shortland Street</title>
@@ -8775,6 +8796,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to young entrepreneur Jake Millar, the Inner Ivy grand finale kicks off when Ivy collides with a mean girl, and you can test your pop music knowledge on "Bangers &amp; Mash"!</desc>
     <episode-num system="dd_progid">10471391</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171025040500 +0000" stop="20171025043000 +0000">
     <title>Bunk'd</title>
@@ -8933,6 +8957,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve chat to young entrepreneur Jake Millar, the Inner Ivy grand finale kicks off when Ivy collides with a mean girl, and you can test your pop music knowledge on "Bangers &amp; Mash"!</desc>
     <episode-num system="dd_progid">10471391</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171025170500 +0000" stop="20171025173000 +0000">
     <title>Neighbours</title>
@@ -20649,9 +20676,12 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171019233000 +0000" stop="20171020000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460534</episode-num>
+    <title>Gino's Italian Escape</title>
+    <desc>This week Gino D’Acampo returns to his native Campania – the Italian region where he grew up. As a chef, he is eager to visit the town of Gragnano, which is world-famous for its pasta.</desc>
+    <episode-num system="dd_progid">10413477</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171020000000 +0000" stop="20171020003000 +0000">
     <title>1 News At Midday</title>
@@ -21008,6 +21038,9 @@
     <desc>Lifelong best mates Matetu and Whare have both experienced depression, addiction and attempted suicide. The Rotorua fathers are supporting one another to rebuild their lives.</desc>
     <episode-num system="dd_progid">10467584</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171021210000 +0000" stop="20171021220000 +0000">
     <title>Q+A</title>
@@ -21170,6 +21203,9 @@
     <desc>Lifelong best mates Matetu and Whare have both experienced depression, addiction and attempted suicide. The Rotorua fathers are supporting one another to rebuild their lives.</desc>
     <episode-num system="dd_progid">10467584</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171022131500 +0000" stop="20171022151500 +0000">
     <title>Red Rock</title>
@@ -21791,8 +21827,8 @@
   </programme>
   <programme channel="tv.38" start="20171026073000 +0000" stop="20171026080000 +0000">
     <title>HOMEmade</title>
-    <desc>Each week we surprise New Zealand homeowners with a home and garden makeover. This week Goran and the team are in Massey at the home of a family of four.</desc>
-    <episode-num system="dd_progid">10482343</episode-num>
+    <desc>Each week we surprise New Zealand homeowners with a home and garden makeover. This week the HOMEmade team are at the bachelor pad of firefighter Atlas Christie and his ten year old son Matthias.</desc>
+    <episode-num system="dd_progid">10482342</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -21800,8 +21836,8 @@
   </programme>
   <programme channel="tv.38" start="20171026080000 +0000" stop="20171026083000 +0000">
     <title>Rachel Hunter's Tour Of Beauty</title>
-    <desc>On her Tour of Beauty in Canada, Rachel visits Vancouver. Here she finds that being green, healthy, and fit is a way of life. Rachel also faces the ultimate challenge; a digital detox!</desc>
-    <episode-num system="dd_progid">10445656</episode-num>
+    <desc>On her Tour of Beauty in Argentina, Rachel finds that beauty is a priority for the local women, and men, of Buenos Aires. She also tries a rather unique local remedy for stress.</desc>
+    <episode-num system="dd_progid">10445655</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -31011,6 +31047,9 @@
     <title>New: Gotham</title>
     <desc>In an attempt to regain power and identity, Nygma decides to put his former partner's skills to the test; Sofia Falcone appeals to Penguin's vulnerable side; Bruce surprises all with his bold actions.</desc>
     <episode-num system="dd_progid">10494586</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171025102500 +0000" stop="20171025111500 +0000">
     <title>Behind Bars: Rookie Year</title>
@@ -44121,9 +44160,12 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171019223000 +0000" stop="20171019230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460534</episode-num>
+    <title>Gino's Italian Escape</title>
+    <desc>This week Gino D’Acampo returns to his native Campania – the Italian region where he grew up. As a chef, he is eager to visit the town of Gragnano, which is world-famous for its pasta.</desc>
+    <episode-num system="dd_progid">10413477</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171019230000 +0000" stop="20171019233000 +0000">
     <title>1 News At Midday</title>
@@ -44480,6 +44522,9 @@
     <desc>Lifelong best mates Matetu and Whare have both experienced depression, addiction and attempted suicide. The Rotorua fathers are supporting one another to rebuild their lives.</desc>
     <episode-num system="dd_progid">10467584</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171021200000 +0000" stop="20171021210000 +0000">
     <title>Q+A</title>
@@ -44642,6 +44687,9 @@
     <desc>Lifelong best mates Matetu and Whare have both experienced depression, addiction and attempted suicide. The Rotorua fathers are supporting one another to rebuild their lives.</desc>
     <episode-num system="dd_progid">10467584</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171022121500 +0000" stop="20171022141500 +0000">
     <title>Red Rock</title>
@@ -45263,8 +45311,8 @@
   </programme>
   <programme channel="tv.9" start="20171026063000 +0000" stop="20171026070000 +0000">
     <title>HOMEmade</title>
-    <desc>Each week we surprise New Zealand homeowners with a home and garden makeover. This week Goran and the team are in Massey at the home of a family of four.</desc>
-    <episode-num system="dd_progid">10482343</episode-num>
+    <desc>Each week we surprise New Zealand homeowners with a home and garden makeover. This week the HOMEmade team are at the bachelor pad of firefighter Atlas Christie and his ten year old son Matthias.</desc>
+    <episode-num system="dd_progid">10482342</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -45272,8 +45320,8 @@
   </programme>
   <programme channel="tv.9" start="20171026070000 +0000" stop="20171026073000 +0000">
     <title>Rachel Hunter's Tour Of Beauty</title>
-    <desc>On her Tour of Beauty in Canada, Rachel visits Vancouver. Here she finds that being green, healthy, and fit is a way of life. Rachel also faces the ultimate challenge; a digital detox!</desc>
-    <episode-num system="dd_progid">10445656</episode-num>
+    <desc>On her Tour of Beauty in Argentina, Rachel finds that beauty is a priority for the local women, and men, of Buenos Aires. She also tries a rather unique local remedy for stress.</desc>
+    <episode-num system="dd_progid">10445655</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
