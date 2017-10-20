@@ -24495,9 +24495,12 @@
     <episode-num system="dd_progid">FocusonEurope-FocusonEurope</episode-num>
   </programme>
   <programme channel="tv.41" start="20171023043000 +0000" stop="20171023050000 +0000">
-    <title>The South Today</title>
-    <desc>News from around the southern regions news presented by Melissa Barton.</desc>
-    <episode-num system="dd_progid">TheSouthToday-Mon23Oct2017</episode-num>
+    <title>Southern Newsweek</title>
+    <desc>A round up of last week's news.</desc>
+    <episode-num system="dd_progid">SouthernNewsweek-Week43</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.41" start="20171023050000 +0000" stop="20171023060000 +0000">
     <title>Southern Attractions</title>
