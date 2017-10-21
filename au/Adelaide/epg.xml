@@ -2041,6 +2041,21 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20171029130000 +0000" stop="20171029130100 +0000">
+    <title>ABC News Update</title>
+    <episode-num system="dd_progid">NU1732H087S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20171029130100 +0000" stop="20171029140000 +0000">
+    <title>Landline</title>
+    <episode-num system="dd_progid">RA1701Q038S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210222" start="20171021131200 +0000" stop="20171021133500 +0000">
     <title>That '70s Show</title>
     <episode-num system="dd_progid">ZW0137A013S00</episode-num>
@@ -6717,13 +6732,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101002210224" start="20171021104000 +0000" stop="20171021180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210224" start="20171021180000 +0000" stop="20171021182300 +0000">
@@ -11794,13 +11802,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500451" start="20171021123600 +0000" stop="20171021143200 +0000">
-    <title>Fletch</title>
-    <episode-num system="dd_progid">FLET__1</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204500451" start="20171021143200 +0000" stop="20171021153000 +0000">
     <title>Westside</title>
     <episode-num system="dd_progid">WESI101_1_3</episode-num>
@@ -13332,13 +13333,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500454" start="20171021130000 +0000" stop="20171021133000 +0000">
-    <title>House Hunters International</title>
-    <episode-num system="dd_progid">HOHUIN_87_8706H</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101204500454" start="20171021133000 +0000" stop="20171021143300 +0000">
@@ -15282,12 +15276,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204500457" start="20171021123900 +0000" stop="20171021133300 +0000">
-    <title>Murder in the First</title>
-    <episode-num system="dd_progid">MUIN_2_12</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204500454" start="20171029133000 +0000" stop="20171029143000 +0000">
+    <title>Zombie House Flipping</title>
+    <episode-num system="dd_progid">ZOHO1_2_8</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204500457" start="20171021133300 +0000" stop="20171021143000 +0000">
@@ -16770,13 +16763,6 @@
     <title>The Closer</title>
     <episode-num system="dd_progid">CLOS_5_3X5003</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204500458" start="20171021132800 +0000" stop="20171021133000 +0000">
-    <title>[adult swim]</title>
-    <episode-num system="dd_progid">ADSW_1_6</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -20848,6 +20834,22 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101305020528" start="20171029130000 +0000" stop="20171029133000 +0000">
+    <title>Raceday Review - Hamilton</title>
+    <episode-num system="dd_progid">RV29101A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171029133000 +0000" stop="20171029140000 +0000">
+    <title>Raceday Review - Sale</title>
+    <episode-num system="dd_progid">RV29102A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305050550" start="20171021123800 +0000" stop="20171021133900 +0000">
     <title>Heists That Shook The World</title>
     <episode-num system="dd_progid">sevjuMaOltaPmdaO</episode-num>
@@ -22193,13 +22195,6 @@
     <title>The Goldbergs</title>
     <episode-num system="dd_progid">rLCmq3aLltaPmdeI</episode-num>
     <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050552" start="20171021132200 +0000" stop="20171021142800 +0000">
-    <title>Mighty Ships</title>
-    <episode-num system="dd_progid">tvrzuMaLltaPmdaJ</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -23941,14 +23936,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305050553" start="20171021114900 +0000" stop="20171021140200 +0000">
-    <title>The Kingdom</title>
-    <episode-num system="dd_progid">t2jdu3uSmdaPm3mx</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305050553" start="20171021140200 +0000" stop="20171021143300 +0000">
     <title>Hardcore Pawn</title>
     <episode-num system="dd_progid">sfbxt3ySmdaPmdix</episode-num>
@@ -25506,13 +25493,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305050555" start="20171021120400 +0000" stop="20171021140100 +0000">
-    <title>So I Married an Axe Murderer</title>
-    <episode-num system="dd_progid">uKbdr3aJltaPmdeP</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101305050555" start="20171021140100 +0000" stop="20171021160400 +0000">
@@ -27275,13 +27255,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406050651" start="20171021125700 +0000" stop="20171021135600 +0000">
-    <title>Car Crash Global: Caught on Camera</title>
-    <episode-num system="dd_progid">58276E1457339</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406050651" start="20171021135600 +0000" stop="20171021145900 +0000">
     <title>Undercover Boss</title>
     <episode-num system="dd_progid">58376E1459637</episode-num>
@@ -29008,14 +28981,6 @@
   <programme channel="tv.101406050651" start="20171029132000 +0000" stop="20171029142000 +0000">
     <title>Undercover Boss</title>
     <episode-num system="dd_progid">58376E1459638</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050655" start="20171021121600 +0000" stop="20171021140400 +0000">
-    <title>Wake In Fright</title>
-    <episode-num system="dd_progid">0E1488728</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -30817,13 +30782,6 @@
     <episode-num system="dd_progid">364294E8022140</episode-num>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406050658" start="20171021110200 +0000" stop="20171021133400 +0000">
-    <title>The Loop</title>
-    <episode-num system="dd_progid">58464E1464427</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406050658" start="20171021133400 +0000" stop="20171021140500 +0000">
@@ -33344,6 +33302,14 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101406050658" start="20171029133000 +0000" stop="20171029140000 +0000">
+    <title>Becker</title>
+    <episode-num system="dd_progid">59567E22229</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20171021130000 +0000" stop="20171021133000 +0000">
     <title>Gadget Man</title>
     <episode-num system="dd_progid">888562</episode-num>
@@ -35042,6 +35008,13 @@
   <programme channel="tv.320203000301" start="20171029124000 +0000" stop="20171029131000 +0000">
     <title>Full Frontal with Samantha Bee</title>
     <episode-num system="dd_progid">871789</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20171029131000 +0000" stop="20171029150000 +0000">
+    <title>Don't Think About It</title>
+    <episode-num system="dd_progid">669099</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -39877,6 +39850,13 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171029133000 +0000" stop="20171029142500 +0000">
+    <title>Halloween Baking Championship</title>
+    <episode-num system="dd_progid">872972</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171021130000 +0000" stop="20171021140000 +0000">
     <title>Volumz</title>
     <episode-num system="dd_progid">641909</episode-num>
@@ -42166,6 +42146,13 @@
     <episode-num system="dd_progid">738905</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171029130000 +0000" stop="20171029140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">648966</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
 </tv>
