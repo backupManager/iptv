@@ -47,54 +47,6 @@
             "sample_rate": "48000"
         }
     },
-    "tv.101204300436": {
-        "channel": "101204300436",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300436.png",
-        "name": "9Gem",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300436|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
-    "tv.101204300437": {
-        "channel": "101204300437",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300437.png",
-        "name": "9Go!",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300437|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
-    "tv.101204300433": {
-        "channel": "101204300433",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300433.png",
-        "name": "9Life",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300433|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
     "tv.101002310231": {
         "channel": "101002310231",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002310231.png",
@@ -157,22 +109,6 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
-        }
-    },
-    "tv.101204300430": {
-        "channel": "101204300430",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204300430.png",
-        "name": "Channel 9",
-        "url": "http://iptv.matthuisman.nz/au/Melbourne/tv.101204300430|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
         }
     },
     "tv.320203000304": {

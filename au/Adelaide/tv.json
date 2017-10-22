@@ -47,54 +47,6 @@
             "sample_rate": "48000"
         }
     },
-    "tv.101204500457": {
-        "channel": "101204500457",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204500457.png",
-        "name": "9Gem",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
-    "tv.101204500458": {
-        "channel": "101204500458",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204500458.png",
-        "name": "9Go!",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
-    "tv.101204500454": {
-        "channel": "101204500454",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204500454.png",
-        "name": "9Life",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        }
-    },
     "tv.101002510251": {
         "channel": "101002510251",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002510251.png",
@@ -157,22 +109,6 @@
             "codec": "aac",
             "channels": 2,
             "sample_rate": "44100"
-        }
-    },
-    "tv.101204500451": {
-        "channel": "101204500451",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204500451.png",
-        "name": "Channel 9",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
         }
     },
     "tv.320203000304": {
