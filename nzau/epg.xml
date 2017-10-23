@@ -318,10 +318,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171022163000 +0000" stop="20171022173000 +0000">
+  <programme channel="tv.10" start="20171022163000 +0000" stop="20171022170000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473166</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171022170000 +0000" stop="20171022173000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.10" start="20171022173000 +0000" stop="20171022175500 +0000">
     <title>Sesame Street</title>
@@ -7354,10 +7359,15 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171022173000 +0000" stop="20171022183000 +0000">
+  <programme channel="tv.14" start="20171022173000 +0000" stop="20171022180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473166</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171022180000 +0000" stop="20171022183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.14" start="20171022183000 +0000" stop="20171022185500 +0000">
     <title>Sesame Street</title>
