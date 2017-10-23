@@ -19265,7 +19265,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171026083000 +0000" stop="20171026090000 +0000">
+  <programme channel="tv.37" start="20171026083000 +0000" stop="20171026090500 +0000">
     <title>Can I Catch It?</title>
     <desc>Can eating food off the floor be good for us? Can reading in the dark turn you blind? The team of Doctors put these well-known adages to the test.</desc>
     <episode-num system="dd_progid">CNICI01Ep3</episode-num>
@@ -19273,7 +19273,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171026090000 +0000" stop="20171026093000 +0000">
+  <programme channel="tv.37" start="20171026090500 +0000" stop="20171026093500 +0000">
     <title>Can I Catch It?</title>
     <desc>Can expired make-up make us ill? Can you catch a cold from being cold? The Doctors look into the latest cutting-edge research to teach us how to stay well.</desc>
     <episode-num system="dd_progid">CNICI01Ep4</episode-num>
@@ -19281,7 +19281,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171026093000 +0000" stop="20171026103000 +0000">
+  <programme channel="tv.37" start="20171026093500 +0000" stop="20171026103000 +0000">
     <title>Collectaholics</title>
     <desc>Meet engaging collectors with fascinating collections, discover the history surrounding them and find out if they're sitting on a gold mine.</desc>
     <episode-num system="dd_progid">COLOH01Ep4</episode-num>
@@ -42025,9 +42025,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171023223000 +0000" stop="20171023224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc/>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171023224500 +0000" stop="20171023230000 +0000">
     <title>Weather Forecast</title>
@@ -42105,9 +42105,9 @@
     <episode-num system="dd_progid">TV33s0115</episode-num>
   </programme>
   <programme channel="tv.8" start="20171024072000 +0000" stop="20171024073000 +0000">
-    <title>Finance Time</title>
+    <title>IRD Workshop</title>
     <desc/>
-    <episode-num system="dd_progid">TV33S012</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171024073000 +0000" stop="20171024080000 +0000">
     <title>HuNan Impression</title>
@@ -42205,9 +42205,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171024223000 +0000" stop="20171024224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc/>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171024224500 +0000" stop="20171024230000 +0000">
     <title>Weather Forecast</title>
@@ -42230,9 +42230,9 @@
     <episode-num system="dd_progid">TV33Et011</episode-num>
   </programme>
   <programme channel="tv.8" start="20171025004500 +0000" stop="20171025010000 +0000">
-    <title>Guangxi's Story</title>
+    <title>IRD Workshop</title>
     <desc/>
-    <episode-num system="dd_progid">TV33D044</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171025010000 +0000" stop="20171025030000 +0000">
     <title>Chinese Drama Series</title>
@@ -42953,6 +42953,366 @@
     <title>Featured Museums</title>
     <desc/>
     <episode-num system="dd_progid">TV33D045</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029101500 +0000" stop="20171029110000 +0000">
+    <title>General Discussion Forum</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33G003</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029110000 +0000" stop="20171029113000 +0000">
+    <title>News Highlights</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0066</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029113000 +0000" stop="20171029130000 +0000">
+    <title>Open Home(sponsored by Porpular Kitchens)</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S0024</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029130000 +0000" stop="20171029133000 +0000">
+    <title>Sports Online</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33Et001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029133000 +0000" stop="20171029140000 +0000">
+    <title>Journey of Discovery</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33E001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029140000 +0000" stop="20171029150000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029150000 +0000" stop="20171029160000 +0000">
+    <title>The Series Programs of Information Office of the State Council</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0111</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029160000 +0000" stop="20171029170000 +0000">
+    <title>Treasures of china</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029170000 +0000" stop="20171029173000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33P001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029173000 +0000" stop="20171029174500 +0000">
+    <title>Treasures of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029174500 +0000" stop="20171029180000 +0000">
+    <title>China News</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N002</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029180000 +0000" stop="20171029210000 +0000">
+    <title>CCTV 4 LIVE</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029210000 +0000" stop="20171029213000 +0000">
+    <title>Iris on the Way</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S017</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029213000 +0000" stop="20171029220000 +0000">
+    <title>HuNan Impression</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0117</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029220000 +0000" stop="20171029223000 +0000">
+    <title>Country's Memory</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D040</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029223000 +0000" stop="20171029224500 +0000">
+    <title>Guangxi TV Series Week</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0118</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029224500 +0000" stop="20171029230000 +0000">
+    <title>Weather Forecast</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0071</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171029230000 +0000" stop="20171030000000 +0000">
+    <title>CCTV 4 LIVE</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030000000 +0000" stop="20171030003000 +0000">
+    <title>Relations Across Taiwan Straits</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33G001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030003000 +0000" stop="20171030004500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33Et011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030004500 +0000" stop="20171030010000 +0000">
+    <title>Guangxi's Story</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D044</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030010000 +0000" stop="20171030030000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030030000 +0000" stop="20171030033500 +0000">
+    <title>Chinese World</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0055</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030033500 +0000" stop="20171030040000 +0000">
+    <title>HuNan Impression</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0117</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030040000 +0000" stop="20171030050000 +0000">
+    <title>Hometown in the Distance</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0053</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030050000 +0000" stop="20171030053000 +0000">
+    <title>News Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N008</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030053000 +0000" stop="20171030054000 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33Et011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030054000 +0000" stop="20171030060000 +0000">
+    <title>Treasures of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030060000 +0000" stop="20171030070000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030070000 +0000" stop="20171030071500 +0000">
+    <title>News33</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N002</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030071500 +0000" stop="20171030072000 +0000">
+    <title>Weather Forecast</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0115</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030072000 +0000" stop="20171030073000 +0000">
+    <title>Lounge33</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0071</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030073000 +0000" stop="20171030080000 +0000">
+    <title>My Story</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S016</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030080000 +0000" stop="20171030090000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030090000 +0000" stop="20171030100000 +0000">
+    <title>New Maritime Silk Road</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D042</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030100000 +0000" stop="20171030101500 +0000">
+    <title>Featured Museums</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D045</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030101500 +0000" stop="20171030110000 +0000">
+    <title>Focus Today</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D008</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030110000 +0000" stop="20171030113000 +0000">
+    <title>News Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N008</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030113000 +0000" stop="20171030130000 +0000">
+    <title>Treasures of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030130000 +0000" stop="20171030133000 +0000">
+    <title>News33&amp;Lounge33</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S0022&amp;TV33S0071</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030133000 +0000" stop="20171030140000 +0000">
+    <title>Performing Arts of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33P001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030140000 +0000" stop="20171030150000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030150000 +0000" stop="20171030160000 +0000">
+    <title>Around China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D002</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030160000 +0000" stop="20171030170000 +0000">
+    <title>Treasures of china</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030170000 +0000" stop="20171030173000 +0000">
+    <title>Focus Today</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D008</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030173000 +0000" stop="20171030174500 +0000">
+    <title>Treasures of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030174500 +0000" stop="20171030180000 +0000">
+    <title>China News</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N002</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030180000 +0000" stop="20171030210000 +0000">
+    <title>CCTV 4 LIVE</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030210000 +0000" stop="20171030220000 +0000">
+    <title>China's Public Opinion Field</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N014</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030220000 +0000" stop="20171030223000 +0000">
+    <title>Country's Memory</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D040</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030223000 +0000" stop="20171030224500 +0000">
+    <title>Guangxi TV Series Week</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0118</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030224500 +0000" stop="20171030230000 +0000">
+    <title>Weather Forecast</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0071</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171030230000 +0000" stop="20171031000000 +0000">
+    <title>CCTV 4 LIVE</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031000000 +0000" stop="20171031003000 +0000">
+    <title>Relations Across Taiwan Straits</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33G001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031003000 +0000" stop="20171031004500 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33Et011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031004500 +0000" stop="20171031010000 +0000">
+    <title>Guangxi's Story</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D044</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031010000 +0000" stop="20171031030000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031030000 +0000" stop="20171031033500 +0000">
+    <title>Hunan TV's News</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33N015</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031033500 +0000" stop="20171031040000 +0000">
+    <title>Chinese World</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0055</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031040000 +0000" stop="20171031050000 +0000">
+    <title>Hometown in the Distance</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0053</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031050000 +0000" stop="20171031053000 +0000">
+    <title>Guangxi's Time</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0119</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031053000 +0000" stop="20171031054000 +0000">
+    <title>East Movie Report</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33Et011</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031054000 +0000" stop="20171031060000 +0000">
+    <title>Treasures of China</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0052</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031060000 +0000" stop="20171031070000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031070000 +0000" stop="20171031071500 +0000">
+    <title>News33</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031071500 +0000" stop="20171031072000 +0000">
+    <title>Weather Forecast</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0115</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031072000 +0000" stop="20171031073000 +0000">
+    <title>Finance Time</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33S012</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031073000 +0000" stop="20171031080000 +0000">
+    <title>HuNan Impression</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33s0117</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031080000 +0000" stop="20171031090000 +0000">
+    <title>Chinese Drama Series</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33X001</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031090000 +0000" stop="20171031100000 +0000">
+    <title>New Maritime Silk Road</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D042</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031100000 +0000" stop="20171031101500 +0000">
+    <title>Featured Museums</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D045</episode-num>
+  </programme>
+  <programme channel="tv.8" start="20171031101500 +0000" stop="20171031110000 +0000">
+    <title>Focus Today</title>
+    <desc/>
+    <episode-num system="dd_progid">TV33D008</episode-num>
   </programme>
   <programme channel="tv.9" start="20171023102500 +0000" stop="20171023112000 +0000">
     <title>Lucifer</title>
