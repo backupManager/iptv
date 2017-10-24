@@ -2930,7 +2930,7 @@
   </programme>
   <programme channel="tv.11" start="20171024060000 +0000" stop="20171024063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury talk to Luke from Married at First Sight. Plus, the upcoming Labour/NZ First/Green government, and are police chases worth the risk?</desc>
     <episode-num system="dd_progid">T751808</episode-num>
   </programme>
   <programme channel="tv.11" start="20171024063000 +0000" stop="20171024073000 +0000">
@@ -2977,8 +2977,8 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171024111500 +0000" stop="20171024114500 +0000">
-    <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <title>The Project (Encore)</title>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury talk to Luke from Married at First Sight. Plus, the upcoming Labour/NZ First/Green government, and are police chases worth the risk?</desc>
     <episode-num system="dd_progid">T751808</episode-num>
   </programme>
   <programme channel="tv.11" start="20171024114500 +0000" stop="20171024160000 +0000">
@@ -3155,7 +3155,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171025105500 +0000" stop="20171025112500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751809</episode-num>
   </programme>
@@ -3304,6 +3304,9 @@
     <title>True Story With Hamish &amp; Andy</title>
     <desc>New Episode. Stubby tells Hamish and Andy about his embarrassing lifesaving competition experience. Featuring Craig McLachlan from The Wrong Girl. S1 Ep2</desc>
     <episode-num system="dd_progid">T746528</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171026073000 +0000" stop="20171026094500 +0000">
     <title>RoboCop</title>
@@ -3403,6 +3406,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171027022000 +0000" stop="20171027022500 +0000">
     <title>Sticky TV</title>
@@ -3471,10 +3477,13 @@
     <title>The Graham Norton Show</title>
     <desc>New Episode. Graham Norton is joined by guests Hillary Clinton, Jeff Goldblum, Gerard Butler, Jack Whitehall and Gregory Porter. S22 Ep4</desc>
     <episode-num system="dd_progid">T784930</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171027080000 +0000" stop="20171027084500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Melanie Bracewell, Jeremy Elwood, Guy Williams and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T791356</episode-num>
   </programme>
   <programme channel="tv.11" start="20171027084500 +0000" stop="20171027091500 +0000">
@@ -3503,7 +3512,7 @@
   </programme>
   <programme channel="tv.11" start="20171027101500 +0000" stop="20171027104000 +0000">
     <title>American Dad</title>
-    <desc>New Episode. Screening the same week as the US, American Dad continues its latest season. S14 Ep8</desc>
+    <desc>Francine is jealous when she thinks Stan is having an affair with a CIA co-worker. And Roger takes a job as a stewardess for the chance to perform comedy in front of an audience. S13 Ep8</desc>
     <episode-num system="dd_progid">T728465</episode-num>
     <audio>
       <stereo>dolby</stereo>
@@ -3722,6 +3731,9 @@
     <title>The 9th Floor</title>
     <desc>Final. New Episode. Guyon meets with Helen Clark about her three terms in power. They discuss how she sought to unleash new social reforms and rethought NZ's place in the world. S1 Ep5</desc>
     <episode-num system="dd_progid">T788672</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028230000 +0000" stop="20171028230100 +0000">
     <title>CRC Motorsport</title>
@@ -3755,6 +3767,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171029094500 +0000" stop="20171029114000 +0000">
     <title>Abducted</title>
@@ -4232,9 +4247,9 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171024073000 +0000" stop="20171024083000 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4319,9 +4334,9 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171025013500 +0000" stop="20171025023500 +0000">
-    <title>Leah Remini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4370,6 +4385,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>While Vicki visits her cardiologist to check up on her broken heart, Shanon and Peggy are still simmering about the cancer questioning that took place with their husbands. S12 Ep15</desc>
     <episode-num system="dd_progid">T774574</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171025083000 +0000" stop="20171025092500 +0000">
     <title>Little Women: LA</title>
@@ -4438,6 +4456,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Andy Cohen mediates a reunion instalment featuring the Orange County ladies. S6 Ep14</desc>
     <episode-num system="dd_progid">T343272</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171026004000 +0000" stop="20171026013500 +0000">
     <title>Little Women: LA</title>
@@ -4451,6 +4472,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>While Vicki visits her cardiologist to check up on her broken heart, Shanon and Peggy are still simmering about the cancer questioning that took place with their husbands. S12 Ep15</desc>
     <episode-num system="dd_progid">T774574</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171026023500 +0000" stop="20171026033000 +0000">
     <title>Catfish</title>
@@ -4472,6 +4496,9 @@
     <title>Four Weddings UK</title>
     <desc>Heather and Sarah go head to head in a Battle of the Scots, pitching a high class castle wedding against a wannabe celeb affair with designs on something from Hello magazine.</desc>
     <episode-num system="dd_progid">T784369</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171026053000 +0000" stop="20171026063000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -4609,6 +4636,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171027063000 +0000" stop="20171027073000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -4622,6 +4652,9 @@
     <title>Sister Cities</title>
     <desc>Four sisters, as different as the cities they were named after, return home to mourn their mother's alleged suicide and discover a secret that could tear them apart.</desc>
     <episode-num system="dd_progid">T779387</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171027092500 +0000" stop="20171027102000 +0000">
     <title>Intervention</title>
@@ -4841,9 +4874,9 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171028221500 +0000" stop="20171028230000 +0000">
-    <title>Leah Remini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -4876,6 +4909,9 @@
     <title>Four Weddings UK</title>
     <desc>Heather and Sarah go head to head in a Battle of the Scots, pitching a high class castle wedding against a wannabe celeb affair with designs on something from Hello magazine.</desc>
     <episode-num system="dd_progid">T784369</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171029025000 +0000" stop="20171029034000 +0000">
     <title>Catfish</title>
@@ -4897,6 +4933,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171029053500 +0000" stop="20171029063000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -4926,6 +4965,9 @@
     <title>Little Weddings</title>
     <desc>Kelly, Kacy, TJ and Kensey call a much needed meeting. Kelly has been having a hard time delegating tasks because she doesn't trust the team to do things they way she would like them done. S1 Ep2</desc>
     <episode-num system="dd_progid">T788069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171029092500 +0000" stop="20171029102500 +0000">
     <title>Ladies Of London</title>
@@ -4967,6 +5009,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171029225000 +0000" stop="20171029234500 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -5111,6 +5156,9 @@
     <title>Little Weddings</title>
     <desc>Kelly, Kacy, TJ and Kensey call a much needed meeting. Kelly has been having a hard time delegating tasks because she doesn't trust the team to do things they way she would like them done. S1 Ep2</desc>
     <episode-num system="dd_progid">T788069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031013500 +0000" stop="20171031023500 +0000">
     <title>Killer Couples</title>
@@ -5152,9 +5200,9 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171031073000 +0000" stop="20171031083000 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
-    <desc>Leah visits the spiritual headquarters of Scientology - Clearwater, Florida, to hear Mike Rinder's personal story. S1 Ep2</desc>
-    <episode-num system="dd_progid">T773858</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
+    <episode-num system="dd_progid">T774003</episode-num>
   </programme>
   <programme channel="tv.12" start="20171031083000 +0000" stop="20171031094000 +0000">
     <title>The Real Housewives Of New Jersey</title>
@@ -13383,7 +13431,7 @@
   </programme>
   <programme channel="tv.27" start="20171024070000 +0000" stop="20171024073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury talk to Luke from Married at First Sight. Plus, the upcoming Labour/NZ First/Green government, and are police chases worth the risk?</desc>
     <episode-num system="dd_progid">T751808</episode-num>
   </programme>
   <programme channel="tv.27" start="20171024073000 +0000" stop="20171024083000 +0000">
@@ -13424,8 +13472,8 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171024121500 +0000" stop="20171024124500 +0000">
-    <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <title>The Project (Encore)</title>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Mark Sainsbury talk to Luke from Married at First Sight. Plus, the upcoming Labour/NZ First/Green government, and are police chases worth the risk?</desc>
     <episode-num system="dd_progid">T751808</episode-num>
   </programme>
   <programme channel="tv.27" start="20171024124500 +0000" stop="20171024170000 +0000">
@@ -13596,7 +13644,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171025115500 +0000" stop="20171025122500 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751809</episode-num>
   </programme>
@@ -13742,6 +13790,9 @@
     <title>True Story With Hamish &amp; Andy</title>
     <desc>New Episode. Stubby tells Hamish and Andy about his embarrassing lifesaving competition experience. Featuring Craig McLachlan from The Wrong Girl. S1 Ep2</desc>
     <episode-num system="dd_progid">T746528</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171026083000 +0000" stop="20171026104500 +0000">
     <title>RoboCop</title>
@@ -13832,6 +13883,9 @@
     <title>Far From the Madding Crowd</title>
     <desc>A beautiful and headstrong Victorian woman is given the choice of three different suitors; a sheep farmer, a dashing but reckless soldier, and a mature bachelor.</desc>
     <episode-num system="dd_progid">T733494</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171027032000 +0000" stop="20171027032500 +0000">
     <title>Sticky TV</title>
@@ -13900,10 +13954,13 @@
     <title>The Graham Norton Show</title>
     <desc>New Episode. Graham Norton is joined by guests Hillary Clinton, Jeff Goldblum, Gerard Butler, Jack Whitehall and Gregory Porter. S22 Ep4</desc>
     <episode-num system="dd_progid">T784930</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171027090000 +0000" stop="20171027094500 +0000">
     <title>7 Days</title>
-    <desc>Hosted by Jeremy Corbett, with team captains Dai Henwood and Paul Ego, 7 Days sees New Zealand's top comedians pit their wits against the week's news and each other.</desc>
+    <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Melanie Bracewell, Jeremy Elwood, Guy Williams and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T791356</episode-num>
   </programme>
   <programme channel="tv.27" start="20171027094500 +0000" stop="20171027101500 +0000">
@@ -13929,7 +13986,7 @@
   </programme>
   <programme channel="tv.27" start="20171027111500 +0000" stop="20171027114000 +0000">
     <title>American Dad</title>
-    <desc>New Episode. Screening the same week as the US, American Dad continues its latest season. S14 Ep8</desc>
+    <desc>Francine is jealous when she thinks Stan is having an affair with a CIA co-worker. And Roger takes a job as a stewardess for the chance to perform comedy in front of an audience. S13 Ep8</desc>
     <episode-num system="dd_progid">T728465</episode-num>
     <rating system="Freeview">
       <value>AO</value>
@@ -14139,6 +14196,9 @@
     <title>The 9th Floor</title>
     <desc>Final. New Episode. Guyon meets with Helen Clark about her three terms in power. They discuss how she sought to unleash new social reforms and rethought NZ's place in the world. S1 Ep5</desc>
     <episode-num system="dd_progid">T788672</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171029000000 +0000" stop="20171029000100 +0000">
     <title>CRC Motorsport</title>
@@ -14169,6 +14229,9 @@
     <title>The Bounty Hunter</title>
     <desc>A down-on-his-luck bounty hunter thinks his fortune is finally looking up when he gets a call requesting him to bring in his bail-jumping ex-wife. But they soon find themselves on the run.</desc>
     <episode-num system="dd_progid">T761827</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171029104500 +0000" stop="20171029124000 +0000">
     <title>Abducted</title>
@@ -16277,9 +16340,9 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171024083000 +0000" stop="20171024093000 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16364,9 +16427,9 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171025023500 +0000" stop="20171025033500 +0000">
-    <title>Leah Remini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16415,6 +16478,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>While Vicki visits her cardiologist to check up on her broken heart, Shanon and Peggy are still simmering about the cancer questioning that took place with their husbands. S12 Ep15</desc>
     <episode-num system="dd_progid">T774574</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171025093000 +0000" stop="20171025102500 +0000">
     <title>Little Women: LA</title>
@@ -16483,6 +16549,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Andy Cohen mediates a reunion instalment featuring the Orange County ladies. S6 Ep14</desc>
     <episode-num system="dd_progid">T343272</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171026014000 +0000" stop="20171026023500 +0000">
     <title>Little Women: LA</title>
@@ -16496,6 +16565,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>While Vicki visits her cardiologist to check up on her broken heart, Shanon and Peggy are still simmering about the cancer questioning that took place with their husbands. S12 Ep15</desc>
     <episode-num system="dd_progid">T774574</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171026033500 +0000" stop="20171026043000 +0000">
     <title>Catfish</title>
@@ -16517,6 +16589,9 @@
     <title>Four Weddings UK</title>
     <desc>Heather and Sarah go head to head in a Battle of the Scots, pitching a high class castle wedding against a wannabe celeb affair with designs on something from Hello magazine.</desc>
     <episode-num system="dd_progid">T784369</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171026063000 +0000" stop="20171026073000 +0000">
     <title>Tabatha's Salon Takeover</title>
@@ -16654,6 +16729,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171027073000 +0000" stop="20171027083000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -16667,6 +16745,9 @@
     <title>Sister Cities</title>
     <desc>Four sisters, as different as the cities they were named after, return home to mourn their mother's alleged suicide and discover a secret that could tear them apart.</desc>
     <episode-num system="dd_progid">T779387</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171027102500 +0000" stop="20171027112000 +0000">
     <title>Intervention</title>
@@ -16886,9 +16967,9 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171028231500 +0000" stop="20171029000000 +0000">
-    <title>Leah Remini: Scientology &amp; The Aftermath</title>
-    <desc>Actress and Ex-Scientologist Leah Remini begins her journey to explore what's really going on inside the religion she spent much of her life promoting and defending. S1 Ep1</desc>
-    <episode-num system="dd_progid">T773857</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Parents all over the world believe their parenting style is best and everyone else is doing it wrong. In this episode, two couple's parenting choices are challenged.</desc>
+    <episode-num system="dd_progid">T774002</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -16921,6 +17002,9 @@
     <title>Four Weddings UK</title>
     <desc>Heather and Sarah go head to head in a Battle of the Scots, pitching a high class castle wedding against a wannabe celeb affair with designs on something from Hello magazine.</desc>
     <episode-num system="dd_progid">T784369</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171029035000 +0000" stop="20171029044000 +0000">
     <title>Catfish</title>
@@ -16942,6 +17026,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171029063500 +0000" stop="20171029073000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -16971,6 +17058,9 @@
     <title>Little Weddings</title>
     <desc>Kelly, Kacy, TJ and Kensey call a much needed meeting. Kelly has been having a hard time delegating tasks because she doesn't trust the team to do things they way she would like them done. S1 Ep2</desc>
     <episode-num system="dd_progid">T788069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171029102500 +0000" stop="20171029112500 +0000">
     <title>Ladies Of London</title>
@@ -17012,6 +17102,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha journeys to Boston to transform a mismanaged salon marked by an unprofessional staff and an owner who allows his stylists to walk all over him. S3 Ep5</desc>
     <episode-num system="dd_progid">T380081</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171029235000 +0000" stop="20171030004500 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -17156,6 +17249,9 @@
     <title>Little Weddings</title>
     <desc>Kelly, Kacy, TJ and Kensey call a much needed meeting. Kelly has been having a hard time delegating tasks because she doesn't trust the team to do things they way she would like them done. S1 Ep2</desc>
     <episode-num system="dd_progid">T788069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031023500 +0000" stop="20171031033500 +0000">
     <title>Killer Couples</title>
@@ -17197,9 +17293,9 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171031083000 +0000" stop="20171031093000 +0000">
-    <title>Leah Renini: Scientology &amp; The Aftermath</title>
-    <desc>Leah visits the spiritual headquarters of Scientology - Clearwater, Florida, to hear Mike Rinder's personal story. S1 Ep2</desc>
-    <episode-num system="dd_progid">T773858</episode-num>
+    <title>Extreme Guide To Parenting</title>
+    <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
+    <episode-num system="dd_progid">T774003</episode-num>
   </programme>
   <programme channel="tv.30" start="20171031093000 +0000" stop="20171031104000 +0000">
     <title>The Real Housewives Of New Jersey</title>
@@ -29615,9 +29711,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171024200000 +0000" stop="20171024210000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171024210000 +0000" stop="20171024230000 +0000">
     <title>All The Hits</title>
@@ -29673,13 +29769,13 @@
   </programme>
   <programme channel="tv.51" start="20171025063000 +0000" stop="20171025070000 +0000">
     <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Bey vs Jay</desc>
+    <episode-num system="dd_progid">T575949</episode-num>
   </programme>
   <programme channel="tv.51" start="20171025070000 +0000" stop="20171025080000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171025080000 +0000" stop="20171025093000 +0000">
     <title>All The Hits</title>
@@ -29723,8 +29819,8 @@
   </programme>
   <programme channel="tv.51" start="20171025200000 +0000" stop="20171025210000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Summer's Coming!</desc>
+    <episode-num system="dd_progid">T576080</episode-num>
   </programme>
   <programme channel="tv.51" start="20171025210000 +0000" stop="20171025230000 +0000">
     <title>All The Hits</title>
@@ -29779,14 +29875,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171026063000 +0000" stop="20171026070000 +0000">
-    <title>This vs That</title>
+    <title>Jason Derulo vs Jonas Blue</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T575967</episode-num>
   </programme>
   <programme channel="tv.51" start="20171026070000 +0000" stop="20171026080000 +0000">
     <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <desc>We count down the 10 biggest, best and most entertaining videos across a wide spectrum of topical themes. Today - Summer's Coming!</desc>
+    <episode-num system="dd_progid">T576080</episode-num>
   </programme>
   <programme channel="tv.51" start="20171026080000 +0000" stop="20171026093000 +0000">
     <title>All The Hits</title>
@@ -29829,9 +29925,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171026200000 +0000" stop="20171026210000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171026210000 +0000" stop="20171026230000 +0000">
     <title>All The Hits</title>
@@ -29886,14 +29982,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171027063000 +0000" stop="20171027070000 +0000">
-    <title>This vs That</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Calvin Harris vs Avicii</title>
+    <desc>This vs That - Our choice of themed music vids, battling it out against each other, for your entertainment. Today's episode - Calvin Harris vs Avicii</desc>
+    <episode-num system="dd_progid">T575965</episode-num>
   </programme>
   <programme channel="tv.51" start="20171027070000 +0000" stop="20171027080000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171027080000 +0000" stop="20171027093000 +0000">
     <title>Edge Mix</title>
@@ -30111,9 +30207,9 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171029200000 +0000" stop="20171029210000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171029210000 +0000" stop="20171029230000 +0000">
     <title>All The Hits</title>
@@ -30168,14 +30264,14 @@
     </rating>
   </programme>
   <programme channel="tv.51" start="20171030063000 +0000" stop="20171030070000 +0000">
-    <title>This vs That</title>
+    <title>Jason Derulo vs Jonas Blue</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T575967</episode-num>
   </programme>
   <programme channel="tv.51" start="20171030070000 +0000" stop="20171030080000 +0000">
-    <title>Top 10</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>KFC Edgefest</title>
+    <desc>See all these artists at KFC Edgefest 2017! Jason Derulo, Jonas Blue, Astrid S, P-Money, Savage, Openside, Mitch James!</desc>
+    <episode-num system="dd_progid">T576204</episode-num>
   </programme>
   <programme channel="tv.51" start="20171030080000 +0000" stop="20171030093000 +0000">
     <title>All The Hits</title>
