@@ -12569,7 +12569,6 @@
   <programme channel="tv.101204500451" start="20171029060000 +0000" stop="20171029063000 +0000">
     <title>Outdoors Indoors</title>
     <episode-num system="dd_progid">OUIN17_1_6</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12585,7 +12584,6 @@
   <programme channel="tv.101204500451" start="20171029070000 +0000" stop="20171029073000 +0000">
     <title>South Aussie with Cosi</title>
     <episode-num system="dd_progid">SAWC7_7_4</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13047,7 +13045,6 @@
   <programme channel="tv.101204500451" start="20171031150000 +0000" stop="20171031153000 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_10</episode-num>
-    <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101204500451" start="20171031153000 +0000" stop="20171031160000 +0000">
     <title>Extra</title>
@@ -14288,7 +14285,6 @@
   <programme channel="tv.101204500454" start="20171028233000 +0000" stop="20171029000000 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_10</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15028,7 +15024,6 @@
   <programme channel="tv.101204500454" start="20171101020000 +0000" stop="20171101023000 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_10</episode-num>
-    <subtitles type="teletext"/>
   </programme>
   <programme channel="tv.101204500454" start="20171101023000 +0000" stop="20171101030000 +0000">
     <title>House Hunters Asia</title>
@@ -16061,7 +16056,6 @@
   <programme channel="tv.101204500457" start="20171029134500 +0000" stop="20171029141500 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_10</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -17877,6 +17871,7 @@
   <programme channel="tv.101204500458" start="20171028203000 +0000" stop="20171028230000 +0000">
     <title>Kids' WB Sunday</title>
     <episode-num system="dd_progid">KIDSWB_2017_38</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
