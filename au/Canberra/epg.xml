@@ -1923,10 +1923,9 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20171024121900 +0000" stop="20171024133100 +0000">
-    <title>Q&amp;A</title>
-    <episode-num system="dd_progid">NC1703H036S00</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20171101130000 +0000" stop="20171101133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H218S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -8258,13 +8257,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171024114200 +0000" stop="20171024180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20171024180000 +0000" stop="20171024182300 +0000">
     <title>Arthur</title>
     <episode-num system="dd_progid">ZX9903A021S00</episode-num>
@@ -13221,13 +13213,6 @@
     <episode-num system="dd_progid">MOJU_1_2</episode-num>
     <subtitles type="teletext"/>
   </programme>
-  <programme channel="tv.101204200424" start="20171024123000 +0000" stop="20171024133100 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_7_5JY01</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200424" start="20171024133100 +0000" stop="20171024140300 +0000">
     <title>Tiny House, Big Living</title>
     <episode-num system="dd_progid">TIHOBI_5_8</episode-num>
@@ -15165,13 +15150,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171024124500 +0000" stop="20171024134800 +0000">
-    <title>Heartbeat</title>
-    <episode-num system="dd_progid">I</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20171024134800 +0000" stop="20171024135500 +0000">
     <title>9honey Presents</title>
     <episode-num system="dd_progid">9HON_1_31</episode-num>
@@ -16619,14 +16597,6 @@
     <episode-num system="dd_progid">SIWI_11_3</episode-num>
     <rating system="Freeview">
       <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171024125300 +0000" stop="20171024132000 +0000">
-    <title>Mad About You</title>
-    <episode-num system="dd_progid">MAAB101_5_5-18</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20171024132000 +0000" stop="20171024134800 +0000">
@@ -18858,10 +18828,9 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171024124300 +0000" stop="20171024133900 +0000">
-    <title>Mistresses</title>
-    <episode-num system="dd_progid">tvnuu3aLltaPmdaN</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20171101130000 +0000" stop="20171101133000 +0000">
+    <title>Rick and Morty</title>
+    <episode-num system="dd_progid">RIMO_1_10</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -20132,13 +20101,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20171024123000 +0000" stop="20171024133000 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3qPltaPmdaK</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20171024133000 +0000" stop="20171024150100 +0000">
@@ -27099,13 +27061,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20171024123100 +0000" stop="20171024130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59620E1032339</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020621" start="20171024130000 +0000" stop="20171024133000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57596E1476469</episode-num>
@@ -28883,12 +28838,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171024122600 +0000" stop="20171024133200 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500803</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406020621" start="20171101130000 +0000" stop="20171101133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476471</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171024133200 +0000" stop="20171024143000 +0000">
@@ -33181,11 +33135,11 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000301" start="20171024113000 +0000" stop="20171024131500 +0000">
-    <title>The Girl Who Kicked the Hornet's Nest p2</title>
-    <episode-num system="dd_progid">788297</episode-num>
+  <programme channel="tv.101406020628" start="20171101130000 +0000" stop="20171101133000 +0000">
+    <title>The King of Queens</title>
+    <episode-num system="dd_progid">59955E1115566</episode-num>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20171024131500 +0000" stop="20171024150000 +0000">
@@ -34899,6 +34853,13 @@
     <episode-num system="dd_progid">S84484920171101</episode-num>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20171101130000 +0000" stop="20171101145000 +0000">
+    <title>Bleak Street</title>
+    <episode-num system="dd_progid">844079</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171024124500 +0000" stop="20171024131500 +0000">
@@ -39758,6 +39719,13 @@
     <episode-num system="dd_progid">776399</episode-num>
     <rating system="Freeview">
       <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000304" start="20171101130000 +0000" stop="20171101133000 +0000">
+    <title>Diners, Drive-Ins and Dives</title>
+    <episode-num system="dd_progid">873022</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171024123000 +0000" stop="20171024130000 +0000">
