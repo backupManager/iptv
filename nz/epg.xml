@@ -239,10 +239,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171023163000 +0000" stop="20171023173000 +0000">
+  <programme channel="tv.10" start="20171023163000 +0000" stop="20171023170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473193</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171023170000 +0000" stop="20171023173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.10" start="20171023173000 +0000" stop="20171023175500 +0000">
     <title>Sesame Street</title>
@@ -744,6 +749,9 @@
     <title>Home And Away</title>
     <desc>Have Mason’s efforts convinced Brendan to donate his wife’s heart to Beth or will it be too late?</desc>
     <episode-num system="dd_progid">10487065</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171025050000 +0000" stop="20171025053000 +0000">
     <title>The Big Bang Theory</title>
@@ -785,6 +793,12 @@
     <title>All New The Big Bang Theory</title>
     <desc>Geek out with a brand new episode of Big Bang, straight after the U.S!</desc>
     <episode-num system="dd_progid">10494562</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171025080500 +0000" stop="20171025083500 +0000">
     <title>All New 2 Broke Girls</title>
@@ -1020,6 +1034,9 @@
     <title>Home And Away</title>
     <desc>Have Mason’s efforts convinced Brendan to donate his wife’s heart to Beth or will it be too late?</desc>
     <episode-num system="dd_progid">10487065</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171026020000 +0000" stop="20171026023000 +0000">
     <title>Shortland Street</title>
@@ -1080,6 +1097,9 @@
     <title>Home And Away</title>
     <desc>Now that Coco’s secret is out she can finally focus on recovery, and who is the stranger watching Robbo?</desc>
     <episode-num system="dd_progid">10487066</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171026050000 +0000" stop="20171026053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1325,6 +1345,9 @@
     <title>Home And Away</title>
     <desc>Now that Coco’s secret is out she can finally focus on recovery, and who is the stranger watching Robbo?</desc>
     <episode-num system="dd_progid">10487066</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171027020000 +0000" stop="20171027023000 +0000">
     <title>Shortland Street</title>
@@ -1350,6 +1373,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve face their fears and swim with sharks, Chase has all the advice you need for dealing with career anxiety, and Nakita walks us through her newest music video!</desc>
     <episode-num system="dd_progid">10471393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171027030500 +0000" stop="20171027033000 +0000">
     <title>Bunk'd</title>
@@ -1385,6 +1411,9 @@
     <title>Home And Away</title>
     <desc>Find out if the foursome are safe on their weekend away; secrets from his past are about to surface; and will Brody cooking at the Pier Diner be a trigger or a great first step?</desc>
     <episode-num system="dd_progid">10487067</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171027050000 +0000" stop="20171027053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1544,6 +1573,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve face their fears and swim with sharks, Chase has all the advice you need for dealing with career anxiety, and Nakita walks us through her newest music video!</desc>
     <episode-num system="dd_progid">10471393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171027161000 +0000" stop="20171027163500 +0000">
     <title>Neighbours</title>
@@ -2199,6 +2231,9 @@
     <title>Home And Away</title>
     <desc>Find out if the foursome are safe on their weekend away; secrets from his past are about to surface; and will Brody cooking at the Pier Diner be a trigger or a great first step?</desc>
     <episode-num system="dd_progid">10487067</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030020000 +0000" stop="20171030023000 +0000">
     <title>Shortland Street</title>
@@ -7212,10 +7247,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171023173000 +0000" stop="20171023183000 +0000">
+  <programme channel="tv.14" start="20171023173000 +0000" stop="20171023180000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473193</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171023180000 +0000" stop="20171023183000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.14" start="20171023183000 +0000" stop="20171023185500 +0000">
     <title>Sesame Street</title>
@@ -7669,6 +7709,9 @@
     <title>Home And Away</title>
     <desc>Have Mason’s efforts convinced Brendan to donate his wife’s heart to Beth or will it be too late?</desc>
     <episode-num system="dd_progid">10487065</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171025060000 +0000" stop="20171025063000 +0000">
     <title>The Big Bang Theory</title>
@@ -7707,6 +7750,9 @@
     <title>All New The Big Bang Theory</title>
     <desc>Geek out with a brand new episode of Big Bang, straight after the U.S!</desc>
     <episode-num system="dd_progid">10494562</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171025090500 +0000" stop="20171025093500 +0000">
     <title>All New 2 Broke Girls</title>
@@ -7912,6 +7958,9 @@
     <title>Home And Away</title>
     <desc>Have Mason’s efforts convinced Brendan to donate his wife’s heart to Beth or will it be too late?</desc>
     <episode-num system="dd_progid">10487065</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171026030000 +0000" stop="20171026033000 +0000">
     <title>Shortland Street</title>
@@ -7963,6 +8012,9 @@
     <title>Home And Away</title>
     <desc>Now that Coco’s secret is out she can finally focus on recovery, and who is the stranger watching Robbo?</desc>
     <episode-num system="dd_progid">10487066</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171026060000 +0000" stop="20171026063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8015,6 +8067,9 @@
     <title>The Russell Howard Hour</title>
     <desc>Join British comedian Russell Howard as he offers his fresh take on the week's biggest headlines and stories. He welcomes a celebrity guest, as well as an upcoming stand-up star.</desc>
     <episode-num system="dd_progid">10498149</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171026103000 +0000" stop="20171026110000 +0000">
     <title>2 Broke Girls</title>
@@ -8190,6 +8245,9 @@
     <title>Home And Away</title>
     <desc>Now that Coco’s secret is out she can finally focus on recovery, and who is the stranger watching Robbo?</desc>
     <episode-num system="dd_progid">10487066</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171027030000 +0000" stop="20171027033000 +0000">
     <title>Shortland Street</title>
@@ -8212,6 +8270,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve face their fears and swim with sharks, Chase has all the advice you need for dealing with career anxiety, and Nakita walks us through her newest music video!</desc>
     <episode-num system="dd_progid">10471393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171027040500 +0000" stop="20171027043000 +0000">
     <title>Bunk'd</title>
@@ -8241,6 +8302,9 @@
     <title>Home And Away</title>
     <desc>Find out if the foursome are safe on their weekend away; secrets from his past are about to surface; and will Brody cooking at the Pier Diner be a trigger or a great first step?</desc>
     <episode-num system="dd_progid">10487067</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171027060000 +0000" stop="20171027063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8373,6 +8437,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve face their fears and swim with sharks, Chase has all the advice you need for dealing with career anxiety, and Nakita walks us through her newest music video!</desc>
     <episode-num system="dd_progid">10471393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171027171000 +0000" stop="20171027173500 +0000">
     <title>Neighbours</title>
@@ -8743,9 +8810,6 @@
     <title>Home And Away</title>
     <desc>Irene struggles to decide if she'll go to Mick’s parole hearing, and are things over between Justin and Scarlett?</desc>
     <episode-num system="dd_progid">10487063</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
   </programme>
   <programme channel="tv.14" start="20171029050000 +0000" stop="20171029070000 +0000">
     <title>The Odd Life Of Timothy Green</title>
@@ -8947,6 +9011,9 @@
     <title>Home And Away</title>
     <desc>Find out if the foursome are safe on their weekend away; secrets from his past are about to surface; and will Brody cooking at the Pier Diner be a trigger or a great first step?</desc>
     <episode-num system="dd_progid">10487067</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030030000 +0000" stop="20171030033000 +0000">
     <title>Shortland Street</title>
@@ -20587,8 +20654,11 @@
   </programme>
   <programme channel="tv.38" start="20171024210000 +0000" stop="20171024220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Jeremy Renner and Haim.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dax Shepard and Haim.</desc>
     <episode-num system="dd_progid">10491720</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171024220000 +0000" stop="20171024223000 +0000">
     <title>Morena</title>
@@ -20743,7 +20813,7 @@
   </programme>
   <programme channel="tv.38" start="20171025210000 +0000" stop="20171025220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Paris Jackson and Niall Horan.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kunal Nayyar and Niall Horan.</desc>
     <episode-num system="dd_progid">10491721</episode-num>
   </programme>
   <programme channel="tv.38" start="20171025220000 +0000" stop="20171025223000 +0000">
@@ -20915,7 +20985,7 @@
   </programme>
   <programme channel="tv.38" start="20171026210000 +0000" stop="20171026220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Justin Hartley and Bobby Moynihan.</desc>
     <episode-num system="dd_progid">10491722</episode-num>
   </programme>
   <programme channel="tv.38" start="20171026220000 +0000" stop="20171026223000 +0000">
@@ -21493,7 +21563,7 @@
   </programme>
   <programme channel="tv.38" start="20171029210000 +0000" stop="20171029220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Michael Strahan and Sam Smith.</desc>
     <episode-num system="dd_progid">10491723</episode-num>
   </programme>
   <programme channel="tv.38" start="20171029220000 +0000" stop="20171029223000 +0000">
@@ -21692,7 +21762,7 @@
   </programme>
   <programme channel="tv.38" start="20171030210000 +0000" stop="20171030220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean Hayes and Sheryl Crow.</desc>
     <episode-num system="dd_progid">10491724</episode-num>
   </programme>
   <programme channel="tv.38" start="20171030220000 +0000" stop="20171030223000 +0000">
@@ -30397,32 +30467,22 @@
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171025170000 +0000" stop="20171025180000 +0000">
+  <programme channel="tv.55" start="20171025170000 +0000" stop="20171025185500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
+    <episode-num system="dd_progid">10432293</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171025180000 +0000" stop="20171025200000 +0000">
-    <title>Live: MLS Soccer TBC</title>
-    <desc></desc>
-    <episode-num system="dd_progid">10480161</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171025200000 +0000" stop="20171025204500 +0000">
-    <title>On DUKE today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171025204500 +0000" stop="20171025232000 +0000">
+  <programme channel="tv.55" start="20171025185500 +0000" stop="20171025211000 +0000">
     <title>NFL - Falcons v Patriots</title>
     <desc>Replay of the New England Patriots hosting the Atlanta Falcons from Gillette Stadium in Foxborough, Massachusetts.</desc>
     <episode-num system="dd_progid">10490818</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171025232000 +0000" stop="20171026001500 +0000">
+  <programme channel="tv.55" start="20171025211000 +0000" stop="20171025220500 +0000">
     <title>NFL Replay Show</title>
     <desc>A condensed replay of the best game from Sunday with unique camera angles and sound from players and coaches before, during, and after the game.</desc>
     <episode-num system="dd_progid">10491048</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171026001500 +0000" stop="20171026004500 +0000">
+  <programme channel="tv.55" start="20171025220500 +0000" stop="20171025223500 +0000">
     <title>Asia Pacific Rally Champs</title>
     <desc>Highlights of the Malaysia and Japan rounds of this year’s Asia Pacific Rally Champs.</desc>
     <episode-num system="dd_progid">10491675</episode-num>
@@ -30430,10 +30490,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20171026004500 +0000" stop="20171026024500 +0000">
+  <programme channel="tv.55" start="20171025223500 +0000" stop="20171026003000 +0000">
     <title>NBA - Grizzlies v Warriors</title>
     <desc>Replay of the Memphis Grizzlies hosting the Golden State Warriors Philadelphia 76ers hosting the Boston Celtics from the FedExForum in Memphis, Tennessee.</desc>
     <episode-num system="dd_progid">10462402</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20171026003000 +0000" stop="20171026024500 +0000">
+    <title>Live: MLS - Chicago v NY</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10480161</episode-num>
   </programme>
   <programme channel="tv.55" start="20171026024500 +0000" stop="20171026034000 +0000">
     <title>Mythbusters</title>
@@ -30528,17 +30593,7 @@
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171026170000 +0000" stop="20171026180000 +0000">
-    <title>On DUKE today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171026180000 +0000" stop="20171026200000 +0000">
-    <title>Live: MLS Soccer TBC</title>
-    <desc></desc>
-    <episode-num system="dd_progid">10480162</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171026200000 +0000" stop="20171026233500 +0000">
+  <programme channel="tv.55" start="20171026170000 +0000" stop="20171026233500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
     <episode-num system="dd_progid">10432293#1</episode-num>
@@ -30617,7 +30672,12 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20171027105000 +0000" stop="20171027114500 +0000">
+  <programme channel="tv.55" start="20171027105000 +0000" stop="20171027124000 +0000">
+    <title>MLS - Houston v Kansas City</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10480212</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20171027124000 +0000" stop="20171027133500 +0000">
     <title>Duck Quacks Don't Echo</title>
     <desc>Entertainment and science panel show. Tonight, our host Lee Mack is joined by Heston Blumenthal, Aisling Bea and Bob Mortimer.</desc>
     <episode-num system="dd_progid">10480784</episode-num>
@@ -30625,7 +30685,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.55" start="20171027114500 +0000" stop="20171027170000 +0000">
+  <programme channel="tv.55" start="20171027133500 +0000" stop="20171027170000 +0000">
     <title>DUKE Back in the Future</title>
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
@@ -30646,9 +30706,9 @@
     <episode-num system="dd_progid">10432293#1</episode-num>
   </programme>
   <programme channel="tv.55" start="20171027211000 +0000" stop="20171027230000 +0000">
-    <title>MLS Replay</title>
-    <desc>Replay of Thursday’s playoff match – teams TBC.</desc>
-    <episode-num system="dd_progid">10480261</episode-num>
+    <title>MLS - Houston v Kansas City</title>
+    <desc>Replay of Friday’s playoff match – teams TBC.</desc>
+    <episode-num system="dd_progid">10480262</episode-num>
   </programme>
   <programme channel="tv.55" start="20171027230000 +0000" stop="20171027232500 +0000">
     <title>MLS Soccer Highlights</title>
@@ -30745,9 +30805,9 @@
     <episode-num system="dd_progid">10432293</episode-num>
   </programme>
   <programme channel="tv.55" start="20171028190000 +0000" stop="20171028204500 +0000">
-    <title>MLS Replay</title>
-    <desc>Replay of Friday’s playoff match – teams TBC.</desc>
-    <episode-num system="dd_progid">10480262</episode-num>
+    <title>MLS - Chicago v NY</title>
+    <desc>Replay of Thursday’s playoff match – teams TBC.</desc>
+    <episode-num system="dd_progid">10480261</episode-num>
   </programme>
   <programme channel="tv.55" start="20171028204500 +0000" stop="20171028211000 +0000">
     <title>MLS Soccer Highlights</title>
@@ -43443,8 +43503,11 @@
   </programme>
   <programme channel="tv.9" start="20171024200000 +0000" stop="20171024210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Jeremy Renner and Haim.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Dax Shepard and Haim.</desc>
     <episode-num system="dd_progid">10491720</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171024210000 +0000" stop="20171024213000 +0000">
     <title>Morena</title>
@@ -43599,7 +43662,7 @@
   </programme>
   <programme channel="tv.9" start="20171025200000 +0000" stop="20171025210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Paris Jackson and Niall Horan.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kunal Nayyar and Niall Horan.</desc>
     <episode-num system="dd_progid">10491721</episode-num>
   </programme>
   <programme channel="tv.9" start="20171025210000 +0000" stop="20171025213000 +0000">
@@ -43771,7 +43834,7 @@
   </programme>
   <programme channel="tv.9" start="20171026200000 +0000" stop="20171026210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Justin Hartley and Bobby Moynihan.</desc>
     <episode-num system="dd_progid">10491722</episode-num>
   </programme>
   <programme channel="tv.9" start="20171026210000 +0000" stop="20171026213000 +0000">
@@ -44349,7 +44412,7 @@
   </programme>
   <programme channel="tv.9" start="20171029200000 +0000" stop="20171029210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Michael Strahan and Sam Smith.</desc>
     <episode-num system="dd_progid">10491723</episode-num>
   </programme>
   <programme channel="tv.9" start="20171029210000 +0000" stop="20171029213000 +0000">
@@ -44548,7 +44611,7 @@
   </programme>
   <programme channel="tv.9" start="20171030200000 +0000" stop="20171030210000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean Hayes and Sheryl Crow.</desc>
     <episode-num system="dd_progid">10491724</episode-num>
   </programme>
   <programme channel="tv.9" start="20171030210000 +0000" stop="20171030213000 +0000">
