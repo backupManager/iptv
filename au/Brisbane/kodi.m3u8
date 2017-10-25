@@ -54,7 +54,10 @@ http://iptv.matthuisman.nz/au/Brisbane/tv.320203000301|X-Forwarded-For=52.62.247
 #EXTINF:-1 tvg-name="018" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
 http://iptv.matthuisman.nz/au/Brisbane/tv.320203000302|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
-#EXTINF:-1 tvg-name="019" tvg-id="tv.101406040645" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040645.png",TEN
+#EXTINF:-1 tvg-name="019" tvg-id="tv.101305040540" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305040540.png",Seven
+http://iptv.matthuisman.nz/au/Brisbane/tv.101305040540|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+
+#EXTINF:-1 tvg-name="020" tvg-id="tv.101406040645" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406040645.png",TEN
 http://iptv.matthuisman.nz/au/Brisbane/tv.101406040645|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.6711" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6711.png" radio="true",4BC Brisbane
