@@ -4,7 +4,7 @@
         "channel": 1,
         "name": "TVNZ 1",
         "description": "New Zealand's leading producer of local entertainment programmes, news and current affairs, and national television events",
-        "url": "http://iptv.matthuisman.nz/nz/tv.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1280,
@@ -21,7 +21,7 @@
         "channel": 2,
         "name": "TVNZ 2",
         "description": "TVNZ 2 brings you the best entertainment from New Zealand and the rest of the world, with a strong line up of the world's most engaging dramas, comedy and reality programmes",
-        "url": "http://iptv.matthuisman.nz/nz/tv.10|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1280,
@@ -38,7 +38,7 @@
         "channel": 3,
         "name": "Three",
         "description": "Three is the one-stop shop for entertainment, broadcasting some of the most-loved international and New Zealand drama, top-rating news and current affairs and has firmly established itself as the home of local comedy",
-        "url": "http://iptv.matthuisman.nz/nz/tv.11|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 854,
@@ -55,21 +55,21 @@
         "channel": 4,
         "name": "Bravo",
         "description": "Bravo is Life. Lived Large! New Zealand's newest TV channel delivering high-quality original unscripted programming",
-        "url": "http://iptv.matthuisman.nz/nz/tv.12|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.51": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",
         "channel": 11,
         "name": "The Edge TV",
         "description": "The Edge TV plays the hottest music videos in the world right now",
-        "url": "http://iptv.matthuisman.nz/nz/tv.51|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.55": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",
         "channel": 13,
         "name": "DUKE",
         "description": "Get game, laugh it up, watch real life, get hooked on a top drama or go big with a movie",
-        "url": "http://iptv.matthuisman.nz/nz/tv.55|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1280,
@@ -86,7 +86,7 @@
         "channel": 16,
         "name": "Al Jazeera",
         "description": "Al Jazeera English is international 24hour news and current affairs that takes viewers inside the stories surrounding global news",
-        "url": "http://iptv.matthuisman.nz/nz/tv.46|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1920,
@@ -103,7 +103,7 @@
         "channel": 20,
         "name": "TVSN Shopping",
         "description": "It's your department store, right in the comfort of your own home",
-        "url": "http://iptv.matthuisman.nz/nz/tv.45|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -120,7 +120,7 @@
         "channel": 25,
         "name": "Shine TV",
         "description": "New Zealand's very own Christian television network, catering for all ages and stages of life",
-        "url": "http://iptv.matthuisman.nz/nz/tv.7|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.7.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -154,7 +154,7 @@
         "channel": 28,
         "name": "CTV 8",
         "description": "A channel dedicated to local Chinese people",
-        "url": "http://iptv.matthuisman.nz/nz/tv.21|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.21.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 504,
@@ -171,7 +171,7 @@
         "channel": 31,
         "name": "Parliament TV",
         "description": "Broadcasts the full unedited proceedings of Parliament",
-        "url": "http://iptv.matthuisman.nz/nz/tv.18|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -188,7 +188,7 @@
         "channel": 41,
         "name": "Wairarapa TV",
         "description": "Promoting local tourism attractions, local content including amazing international and sporting events held in the Wairarapa Valley region",
-        "url": "http://iptv.matthuisman.nz/nz/tv.60|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -202,7 +202,7 @@
     },
     "tv.redbull.tv": {
         "name": "Redbull TV",
-        "url": "http://iptv.matthuisman.nz/nz/tv.redbull.tv|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1280,

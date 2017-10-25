@@ -3,7 +3,7 @@
         "channel": "101305050552",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305050552.png",
         "name": "7TWO",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050552.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 896,
@@ -19,7 +19,7 @@
         "channel": "101305050555",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305050555.png",
         "name": "7flix",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050555.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -35,7 +35,7 @@
         "channel": "101305050553",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305050553.png",
         "name": "7mate",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050553.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 896,
@@ -61,7 +61,7 @@
             "channels": 2,
             "sample_rate": "48000"
         },
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500457.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.101204500458": {
         "channel": "101204500458",
@@ -77,7 +77,7 @@
             "channels": 2,
             "sample_rate": "48000"
         },
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500458.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.101204500454": {
         "channel": "101204500454",
@@ -93,13 +93,13 @@
             "channels": 2,
             "sample_rate": "48000"
         },
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500454.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.101002510251": {
         "channel": "101002510251",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002510251.png",
         "name": "ABC",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002510251|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002510251.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -115,7 +115,7 @@
         "channel": "101002210224",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",
         "name": "ABC ME",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210224|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -131,7 +131,7 @@
         "channel": "101002210220",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",
         "name": "ABC NEWS",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210220|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -147,7 +147,7 @@
         "channel": "101002210222",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210222.png",
         "name": "ABC2 / KIDS",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -173,13 +173,13 @@
             "channels": 2,
             "sample_rate": "48000"
         },
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101204500451.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.320203000304": {
         "channel": "320203000304",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",
         "name": "Food Network",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000304|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -194,7 +194,7 @@
     "tv.fox.sports.news": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",
         "name": "Fox Sports News",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.fox.sports.news|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1920,
@@ -210,7 +210,7 @@
         "channel": "320203000305",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",
         "name": "NITV",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000305|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -226,7 +226,7 @@
         "channel": "101305020528",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",
         "name": "RACING.COM",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305020528|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 640,
@@ -241,7 +241,7 @@
     "tv.redbull.tv": {
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png",
         "name": "Redbull TV",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.redbull.tv|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.redbull.tv.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1280,
@@ -257,7 +257,7 @@
         "channel": "320203000301",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",
         "name": "SBS",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000301|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -273,7 +273,7 @@
         "channel": "320203000302",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",
         "name": "SBS VICELAND",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000302|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,
@@ -289,7 +289,7 @@
         "channel": "101305050550",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305050550.png",
         "name": "Seven",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101305050550.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 896,
@@ -305,7 +305,7 @@
         "channel": "101406050655",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406050655.png",
         "name": "TEN",
-        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050655|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "url": "http://iptv.matthuisman.nz/au/Adelaide/tv.101406050655.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
             "width": 1024,

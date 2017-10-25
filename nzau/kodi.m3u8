@@ -1,70 +1,70 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.9.png",TVNZ 1
-http://iptv.matthuisman.nz/nz/tv.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.10" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.10.png",TVNZ 2
-http://iptv.matthuisman.nz/nz/tv.10|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="003" tvg-id="tv.11" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.11.png",Three
-http://iptv.matthuisman.nz/nz/tv.11|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="004" tvg-id="tv.12" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.12.png",Bravo
-http://iptv.matthuisman.nz/nz/tv.12|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="005" tvg-id="tv.51" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.51.png",The Edge TV
-http://iptv.matthuisman.nz/nz/tv.51|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="006" tvg-id="tv.55" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.55.png",DUKE
-http://iptv.matthuisman.nz/nz/tv.55|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.55.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.46" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.46.png",Al Jazeera
-http://iptv.matthuisman.nz/nz/tv.46|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.46.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.45" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.45.png",TVSN Shopping
-http://iptv.matthuisman.nz/nz/tv.45|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.45.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="009" tvg-id="tv.7" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.7.png",Shine TV
-http://iptv.matthuisman.nz/nz/tv.7|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.7.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.39" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.39.png",Firstlight
 rtmp://streamer1.streamhost.org/salive/GMIFLNL
 
 #EXTINF:-1 tvg-name="011" tvg-id="tv.21" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.21.png",CTV 8
-http://iptv.matthuisman.nz/nz/tv.21|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.21.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="012" tvg-id="tv.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.18.png",Parliament TV
-http://iptv.matthuisman.nz/nz/tv.18|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.18.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="013" tvg-id="tv.60" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.60.png",Wairarapa TV
-http://iptv.matthuisman.nz/nz/tv.60|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="014" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.redbull.tv.png",Redbull TV
-http://iptv.matthuisman.nz/nz/tv.redbull.tv|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.or.1" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.1.png" radio="true",The Rock
-http://iptv.matthuisman.nz/nz/radio.or.1|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.1.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="002" tvg-id="radio.or.2" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.2.png" radio="true",More FM
-http://iptv.matthuisman.nz/nz/radio.or.2|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.2.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="003" tvg-id="radio.or.3" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.3.png" radio="true",Mai FM
-http://iptv.matthuisman.nz/nz/radio.or.3|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.3.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="004" tvg-id="radio.or.4" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.4.png" radio="true",The Breeze
-http://iptv.matthuisman.nz/nz/radio.or.4|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.4.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="005" tvg-id="radio.or.5" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.5.png" radio="true",The Sound
-http://iptv.matthuisman.nz/nz/radio.or.5|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.5.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="006" tvg-id="radio.or.6" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.6.png" radio="true",George FM
-http://iptv.matthuisman.nz/nz/radio.or.6|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.6.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="007" tvg-id="radio.or.7" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.7.png" radio="true",Radio Live
-http://iptv.matthuisman.nz/nz/radio.or.7|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.7.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="008" tvg-id="radio.or.8" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.8.png" radio="true",The Edge
-http://iptv.matthuisman.nz/nz/radio.or.8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.8.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="009" tvg-id="radio.or.9" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.9.png" radio="true",RDU
 http://iptv.matthuisman.nz/nz/radio.or.9|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -82,112 +82,112 @@ http://iptv.matthuisman.nz/nz/radio.or.12|X-Forwarded-For=202.89.4.222&User-Agen
 http://iptv.matthuisman.nz/nz/radio.or.13|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="014" tvg-id="radio.or.14" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.14.png" radio="true",Magic
-http://iptv.matthuisman.nz/nz/radio.or.14|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.14.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="015" tvg-id="radio.or.15" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.15.png" radio="true",Radio Waatea
-http://iptv.matthuisman.nz/nz/radio.or.15|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.or.15.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="016" tvg-id="radio.ih.6897" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6897.png" radio="true",The Hits Southern Lakes
-http://iptv.matthuisman.nz/nz/radio.ih.6897|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6897.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="017" tvg-id="radio.ih.6203" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6203.png" radio="true",The Hits Dunedin
-http://iptv.matthuisman.nz/nz/radio.ih.6203|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6203.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="018" tvg-id="radio.ih.6205" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6205.png" radio="true",The Hits Manawatu
-http://iptv.matthuisman.nz/nz/radio.ih.6205|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6205.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="019" tvg-id="radio.ih.6204" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6204.png" radio="true",The Hits Hawkes Bay
-http://iptv.matthuisman.nz/nz/radio.ih.6204|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6204.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="020" tvg-id="radio.ih.6202" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6202.png" radio="true",The Hits Bay of Plenty
-http://iptv.matthuisman.nz/nz/radio.ih.6202|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6202.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="021" tvg-id="radio.ih.6206" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6206.png" radio="true",The Hits Nelson
-http://iptv.matthuisman.nz/nz/radio.ih.6206|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6206.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="022" tvg-id="radio.ih.6207" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6207.png" radio="true",The Hits Northland
-http://iptv.matthuisman.nz/nz/radio.ih.6207|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6207.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="023" tvg-id="radio.ih.6212" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6212.png" radio="true",The Hits Gisborne
-http://iptv.matthuisman.nz/nz/radio.ih.6212|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6212.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="024" tvg-id="radio.ih.6210" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6210.png" radio="true",The Hits Taranaki
-http://iptv.matthuisman.nz/nz/radio.ih.6210|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6210.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="025" tvg-id="radio.ih.6209" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6209.png" radio="true",The Hits Southland
-http://iptv.matthuisman.nz/nz/radio.ih.6209|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6209.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="026" tvg-id="radio.ih.6213" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6213.png" radio="true",The Hits Wanganui
-http://iptv.matthuisman.nz/nz/radio.ih.6213|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6213.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="027" tvg-id="radio.ih.6217" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6217.png" radio="true",The Hits West Coast
-http://iptv.matthuisman.nz/nz/radio.ih.6217|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6217.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="028" tvg-id="radio.ih.6216" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6216.png" radio="true",The Hits Timaru
-http://iptv.matthuisman.nz/nz/radio.ih.6216|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6216.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="029" tvg-id="radio.ih.7265" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7265.png" radio="true",The Lounge
-http://iptv.matthuisman.nz/nz/radio.ih.7265|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7265.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="030" tvg-id="radio.ih.7401" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7401.png" radio="true",Lyall Bay School's Maranui FM
-http://iptv.matthuisman.nz/nz/radio.ih.7401|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7401.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="031" tvg-id="radio.ih.6197" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6197.png" radio="true",The Hits Auckland
-http://iptv.matthuisman.nz/nz/radio.ih.6197|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6197.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="032" tvg-id="radio.ih.6211" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6211.png" radio="true",The Hits Waikato
-http://iptv.matthuisman.nz/nz/radio.ih.6211|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6211.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="033" tvg-id="radio.ih.6208" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6208.png" radio="true",The Hits Rotorua
-http://iptv.matthuisman.nz/nz/radio.ih.6208|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6208.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="034" tvg-id="radio.ih.6198" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6198.png" radio="true",The Hits Wellington
-http://iptv.matthuisman.nz/nz/radio.ih.6198|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6198.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="035" tvg-id="radio.ih.6159" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6159.png" radio="true",Flava
-http://iptv.matthuisman.nz/nz/radio.ih.6159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6159.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="036" tvg-id="radio.ih.6190" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6190.png" radio="true",ZM
-http://iptv.matthuisman.nz/nz/radio.ih.6190|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6190.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="037" tvg-id="radio.ih.6191" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6191.png" radio="true",Radio Hauraki
-http://iptv.matthuisman.nz/nz/radio.ih.6191|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6191.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="038" tvg-id="radio.ih.6193" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6193.png" radio="true",Coast
-http://iptv.matthuisman.nz/nz/radio.ih.6193|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6193.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="039" tvg-id="radio.ih.6194" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6194.png" radio="true",Radio Sport
-http://iptv.matthuisman.nz/nz/radio.ih.6194|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6194.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="040" tvg-id="radio.ih.6939" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6939.png" radio="true",Southern Star
 http://iptv.matthuisman.nz/nz/radio.ih.6939|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="041" tvg-id="radio.ih.6848" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6848.png" radio="true",The Axe Attack
-http://iptv.matthuisman.nz/nz/radio.ih.6848|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6848.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="042" tvg-id="radio.ih.7105" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7105.png" radio="true",Coast Soul
-http://iptv.matthuisman.nz/nz/radio.ih.7105|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7105.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="043" tvg-id="radio.ih.7299" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7299.png" radio="true",Ed Sheeran Divide World Tour
-http://iptv.matthuisman.nz/nz/radio.ih.7299|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7299.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="044" tvg-id="radio.ih.6218" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6218.png" radio="true",Radio Sport Extra
-http://iptv.matthuisman.nz/nz/radio.ih.6218|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6218.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="045" tvg-id="radio.ih.7317" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7317.png" radio="true",1 Double X
-http://iptv.matthuisman.nz/nz/radio.ih.7317|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7317.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="046" tvg-id="radio.ih.6676" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6676.png" radio="true",Radio Tarana
-http://iptv.matthuisman.nz/nz/radio.ih.6676|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6676.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="047" tvg-id="radio.ih.6373" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6373.png" radio="true",Official NZ Top 20
-http://iptv.matthuisman.nz/nz/radio.ih.6373|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6373.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="048" tvg-id="radio.ih.6799" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6799.png" radio="true",Radio Sport Extra 2
-http://iptv.matthuisman.nz/nz/radio.ih.6799|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6799.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="049" tvg-id="radio.ih.6826" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6826.png" radio="true",Chinese Hits
-http://iptv.matthuisman.nz/nz/radio.ih.6826|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6826.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="050" tvg-id="radio.ih.6867" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6867.png" radio="true",Radio New Zealand Concert
 http://iptv.matthuisman.nz/nz/radio.ih.6867|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -199,70 +199,70 @@ http://iptv.matthuisman.nz/nz/radio.ih.6937|X-Forwarded-For=202.89.4.222&User-Ag
 http://iptv.matthuisman.nz/nz/radio.ih.6938|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="053" tvg-id="radio.ih.6196" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6196.png" radio="true",Hokonui
-http://iptv.matthuisman.nz/nz/radio.ih.6196|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6196.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="054" tvg-id="radio.ih.6199" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6199.png" radio="true",The Hits Christchurch
-http://iptv.matthuisman.nz/nz/radio.ih.6199|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6199.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="055" tvg-id="radio.ih.6374" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6374.png" radio="true",Hauraki Classic Rock
-http://iptv.matthuisman.nz/nz/radio.ih.6374|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6374.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="056" tvg-id="radio.ih.6491" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6491.png" radio="true",NZ Top 40
-http://iptv.matthuisman.nz/nz/radio.ih.6491|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6491.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="057" tvg-id="radio.ih.6632" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6632.png" radio="true",Flava Old School
-http://iptv.matthuisman.nz/nz/radio.ih.6632|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6632.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="058" tvg-id="radio.ih.6693" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6693.png" radio="true",Alternative Comntry Collective
-http://iptv.matthuisman.nz/nz/radio.ih.6693|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6693.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="059" tvg-id="radio.ih.7156" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7156.png" radio="true",Ski FM Network
 http://iptv.matthuisman.nz/nz/radio.ih.7156|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="060" tvg-id="radio.ih.7168" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7168.png" radio="true",Mix
-http://iptv.matthuisman.nz/nz/radio.ih.7168|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7168.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="061" tvg-id="radio.ih.7301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7301.png" radio="true",Roy FM
-http://iptv.matthuisman.nz/nz/radio.ih.7301|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7301.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="062" tvg-id="radio.ih.7302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7302.png" radio="true",Pride
-http://iptv.matthuisman.nz/nz/radio.ih.7302|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7302.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="063" tvg-id="radio.ih.7303" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7303.png" radio="true",Super Boom Boom Radio
-http://iptv.matthuisman.nz/nz/radio.ih.7303|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7303.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="064" tvg-id="radio.ih.7383" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7383.png" radio="true",Coast Classic
-http://iptv.matthuisman.nz/nz/radio.ih.7383|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7383.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="065" tvg-id="radio.ih.7391" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7391.png" radio="true",Central FM
-http://iptv.matthuisman.nz/nz/radio.ih.7391|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7391.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="066" tvg-id="radio.ih.7213" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7213.png" radio="true",The Hits 90s Bus
-http://iptv.matthuisman.nz/nz/radio.ih.7213|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7213.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="067" tvg-id="radio.ih.7300" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7300.png" radio="true",Radio Wanaka
-http://iptv.matthuisman.nz/nz/radio.ih.7300|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7300.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="068" tvg-id="radio.ih.7316" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7316.png" radio="true",ZM Friday Jams
-http://iptv.matthuisman.nz/nz/radio.ih.7316|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7316.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="069" tvg-id="radio.ih.6465" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6465.png" radio="true",Country Nation
-http://iptv.matthuisman.nz/nz/radio.ih.6465|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6465.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="070" tvg-id="radio.ih.6718" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6718.png" radio="true",The Pulse
 http://iptv.matthuisman.nz/nz/radio.ih.6718|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="071" tvg-id="radio.ih.6776" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6776.png" radio="true",ZM DMA
-http://iptv.matthuisman.nz/nz/radio.ih.6776|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6776.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="072" tvg-id="radio.ih.6987" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6987.png" radio="true",80s Radio
-http://iptv.matthuisman.nz/nz/radio.ih.6987|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6987.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="073" tvg-id="radio.ih.7113" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7113.png" radio="true",Heads 106.4FM Mangawhai
-http://iptv.matthuisman.nz/nz/radio.ih.7113|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7113.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="074" tvg-id="radio.ih.7114" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7114.png" radio="true",The Wireless 90.4FM
-http://iptv.matthuisman.nz/nz/radio.ih.7114|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7114.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="075" tvg-id="radio.ih.6868" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6868.png" radio="true",Radio NZ International
 http://iptv.matthuisman.nz/nz/radio.ih.6868|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -277,7 +277,7 @@ http://iptv.matthuisman.nz/nz/radio.ih.6965|X-Forwarded-For=202.89.4.222&User-Ag
 http://iptv.matthuisman.nz/nz/radio.ih.7072|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="079" tvg-id="radio.ih.6187" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6187.png" radio="true",Newstalk ZB
-http://iptv.matthuisman.nz/nz/radio.ih.6187|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6187.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="080" tvg-id="radio.ih.7073" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7073.png" radio="true",Chinese Radio
 http://iptv.matthuisman.nz/nz/radio.ih.7073|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -286,19 +286,19 @@ http://iptv.matthuisman.nz/nz/radio.ih.7073|X-Forwarded-For=202.89.4.222&User-Ag
 http://iptv.matthuisman.nz/nz/radio.ih.7074|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="082" tvg-id="radio.ih.7159" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7159.png" radio="true",The Country
-http://iptv.matthuisman.nz/nz/radio.ih.7159|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7159.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="083" tvg-id="radio.ih.6188" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6188.png" radio="true",Newstalk ZB Wellington
-http://iptv.matthuisman.nz/nz/radio.ih.6188|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6188.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="084" tvg-id="radio.ih.6189" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6189.png" radio="true",Newstalk ZB Christchurch
-http://iptv.matthuisman.nz/nz/radio.ih.6189|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6189.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="085" tvg-id="radio.ih.7429" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7429.png" radio="true",The Station
-http://iptv.matthuisman.nz/nz/radio.ih.7429|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7429.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="086" tvg-id="radio.ih.7438" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.7438.png" radio="true",Live Well Festival Radio
-http://iptv.matthuisman.nz/nz/radio.ih.7438|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.7438.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="087" tvg-id="radio.or.16" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.16.png" radio="true",Triple X FM
 http://iptv.matthuisman.nz/nz/radio.or.16|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -307,64 +307,64 @@ http://iptv.matthuisman.nz/nz/radio.or.16|X-Forwarded-For=202.89.4.222&User-Agen
 http://iptv.matthuisman.nz/nz/radio.or.17|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="089" tvg-id="radio.ih.6720" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6720.png" radio="true",Sounds Like Christmas
-http://iptv.matthuisman.nz/nz/radio.ih.6720|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/nz/radio.ih.6720.aac|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
-http://iptv.matthuisman.nz/au/Sydney/tv.101305020522|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="002" tvg-id="tv.101305020525" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020525.png",7flix
-http://iptv.matthuisman.nz/au/Sydney/tv.101305020525|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020525.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="003" tvg-id="tv.101305020523" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020523.png",7mate
-http://iptv.matthuisman.nz/au/Sydney/tv.101305020523|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020523.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="004" tvg-id="tv.101204200427" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200427.png",9Gem
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200427|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200427.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="005" tvg-id="tv.101204200428" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200428.png",9Go!
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200428|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200428.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="006" tvg-id="tv.101204200424" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200424.png",9Life
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200424|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.101002210221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210221.png",ABC
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210221|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png",ABC ME
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210224|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="009" tvg-id="tv.101002210220" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png",ABC NEWS
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210220|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210222.png",ABC2 / KIDS
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210222|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="011" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png",Channel 9
-http://iptv.matthuisman.nz/au/Sydney/tv.101204200421|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="012" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png",Food Network
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000304|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="013" tvg-id="tv.fox.sports.news" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png",Fox Sports News
-http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="014" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png",NITV
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000305|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="015" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png",RACING.COM
-http://iptv.matthuisman.nz/au/Sydney/tv.101305020528|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020528.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="017" tvg-id="tv.320203000301" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png",SBS
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000301|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="018" tvg-id="tv.320203000302" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000302.png",SBS VICELAND
-http://iptv.matthuisman.nz/au/Sydney/tv.320203000302|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.320203000302.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="019" tvg-id="tv.101305020520" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png",Seven
-http://iptv.matthuisman.nz/au/Sydney/tv.101305020520|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101305020520.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="020" tvg-id="tv.101406020625" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png",TEN
-http://iptv.matthuisman.nz/au/Sydney/tv.101406020625|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="001" tvg-id="radio.ih.7133" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7133.png" radio="true",1233 ABC Newcastle
 http://iptv.matthuisman.nz/au/Sydney/radio.ih.7133|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -418,7 +418,7 @@ http://iptv.matthuisman.nz/au/Sydney/radio.ih.7442|X-Forwarded-For=52.62.247.239
 http://iptv.matthuisman.nz/au/Sydney/radio.ih.6440|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="018" tvg-id="radio.ih.7260" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7260.png" radio="true",Guzman Y Gomez
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7260|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7260.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="019" tvg-id="radio.ih.6185" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.6185.png" radio="true",KIIS 1065
 http://iptv.matthuisman.nz/au/Sydney/radio.ih.6185|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
@@ -439,25 +439,25 @@ http://iptv.matthuisman.nz/au/Sydney/radio.ih.7111|X-Forwarded-For=52.62.247.239
 http://iptv.matthuisman.nz/au/Sydney/radio.ih.7415|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="025" tvg-id="radio.ih.7030" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7030.png" radio="true",SBS Arabic24
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7030|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7030.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="026" tvg-id="radio.ih.7029" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7029.png" radio="true",SBS Chill
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7029|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7029.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="027" tvg-id="radio.ih.7028" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7028.png" radio="true",SBS PopAsia
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7028|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7028.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="028" tvg-id="radio.ih.7031" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7031.png" radio="true",SBS PopDesi
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7031|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7031.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="029" tvg-id="radio.ih.7025" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7025.png" radio="true",SBS Radio 2
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7025|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7025.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="030" tvg-id="radio.ih.7026" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7026.png" radio="true",SBS Radio 3
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7026|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7026.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="031" tvg-id="radio.ih.7027" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7027.png" radio="true",SBS Radio 4
-http://iptv.matthuisman.nz/au/Sydney/radio.ih.7027|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
+http://iptv.matthuisman.nz/au/Sydney/radio.ih.7027.aac|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
 
 #EXTINF:-1 tvg-name="032" tvg-id="radio.ih.7354" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/radio.ih.7354.png" radio="true",SURG
 http://iptv.matthuisman.nz/au/Sydney/radio.ih.7354|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29
