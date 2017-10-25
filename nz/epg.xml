@@ -239,10 +239,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171024163000 +0000" stop="20171024173000 +0000">
+  <programme channel="tv.10" start="20171024163000 +0000" stop="20171024170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473178</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171024170000 +0000" stop="20171024173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.10" start="20171024173000 +0000" stop="20171024175500 +0000">
     <title>Sesame Street</title>
@@ -726,6 +731,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve hang out with makeup extraordinaire Caito Potatoe, ID Co teach you the final part of their incredible dance routine, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471392</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171026030500 +0000" stop="20171026033000 +0000">
     <title>Bunk'd</title>
@@ -817,8 +825,11 @@
   </programme>
   <programme channel="tv.10" start="20171026083000 +0000" stop="20171026093000 +0000">
     <title>The Russell Howard Hour</title>
-    <desc>Join British comedian Russell Howard as he offers his fresh take on the week's biggest headlines and stories. He welcomes a celebrity guest, as well as an upcoming stand-up star.</desc>
+    <desc>New Series: S1 E5. Join Russell for his take on current affairs as he mocks the madness of the news and talks with newsreader and presenter Fiona Bruce. Performance from Anna Mann.</desc>
     <episode-num system="dd_progid">10498149</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171026093000 +0000" stop="20171026100000 +0000">
     <title>2 Broke Girls</title>
@@ -900,6 +911,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve hang out with makeup extraordinaire Caito Potatoe, ID Co teach you the final part of their incredible dance routine, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471392</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171026160500 +0000" stop="20171026163000 +0000">
     <title>Neighbours</title>
@@ -968,7 +982,7 @@
   <programme channel="tv.10" start="20171026200000 +0000" stop="20171026213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-    <episode-num system="dd_progid">10473154</episode-num>
+    <episode-num system="dd_progid">10499712</episode-num>
   </programme>
   <programme channel="tv.10" start="20171026213000 +0000" stop="20171026220000 +0000">
     <title>Neighbours</title>
@@ -1285,6 +1299,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469481</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171027175500 +0000" stop="20171027182000 +0000">
     <title>Future-Worm!</title>
@@ -1470,6 +1487,9 @@
     <desc>The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
     <episode-num system="dd_progid">10423868</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171028053000 +0000" stop="20171028060000 +0000">
     <title>The Middle</title>
@@ -1580,6 +1600,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469482</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171028175500 +0000" stop="20171028180000 +0000">
     <title>Little Monstar</title>
@@ -1958,6 +1981,9 @@
     <title>Home And Away</title>
     <desc>Scarlett's life hangs in the balance, while others are in danger. Will Beth get her heart transplant in time? It appears John is ahead in his bet with Irene.</desc>
     <episode-num system="dd_progid">10487068</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030050000 +0000" stop="20171030053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2044,6 +2070,9 @@
     <title>Desperate Housewives</title>
     <desc>The ladies of Wisteria Lane return for an even juicier season of mysteries, laughs and drama, in an encore run of Desperate Housewives season five.</desc>
     <episode-num system="dd_progid">10129315</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -2215,6 +2244,9 @@
     <title>Home And Away</title>
     <desc>Scarlett's life hangs in the balance, while others are in danger. Will Beth get her heart transplant in time? It appears John is ahead in his bet with Irene.</desc>
     <episode-num system="dd_progid">10487068</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171031020000 +0000" stop="20171031023000 +0000">
     <title>Shortland Street</title>
