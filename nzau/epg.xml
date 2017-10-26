@@ -14562,6 +14562,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ10850661</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171027020000 +0000" stop="20171027030000 +0000">
     <title>Escape To The Country</title>
@@ -14818,6 +14821,9 @@
     <title>Music And The Spoken Word</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10846621</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171028173000 +0000" stop="20171028180000 +0000">
     <title>Peter Popoff Ministries</title>
@@ -14831,6 +14837,9 @@
     <title>Faith In Action</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10860412</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171028183000 +0000" stop="20171028193000 +0000">
     <title>Hour of Power</title>
@@ -14854,11 +14863,17 @@
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10887045</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171028210000 +0000" stop="20171028213000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886938</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171028213000 +0000" stop="20171028230000 +0000">
     <title>Sport Box</title>
@@ -15156,7 +15171,7 @@
     <desc>'After lengthy battles with concussion problems ended former Chiefs' prop Ben Afeaki's career, Matt reignited his passion for fishing. Now Ben wants to be hooked up with an even bigger buzz. G'</desc>
     <episode-num system="dd_progid">SNZ10970830</episode-num>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.28" start="20171030073000 +0000" stop="20171030083000 +0000">
@@ -25614,8 +25629,8 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20171026143000 +0000" stop="20171026153000 +0000">
-    <title>ECOPot Cook On The GO!</title>
-    <desc>Don't go bush without EcoPot! This trusty thermal cooker means you can whip up a hot, nourishing meal wherever you may venture. It's your new best buddy for camping and travel!</desc>
+    <title>Enjoy Lighting Christmas Glow</title>
+    <desc>Enjoy the warm atmosphere and ambiance of candlelight this Christmas with the Enjoy Lighting range of replica candles. Safe to use in all areas of your home!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25628,22 +25643,22 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20171026163000 +0000" stop="20171026173000 +0000">
+    <title>DermaWand</title>
+    <desc>DermaWand is an at home non-surgical device which helps with the signs of ageing, giving you toned, wrinkle free and younger looking skin.</desc>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.45" start="20171026173000 +0000" stop="20171026183000 +0000">
     <title>Carolyn Pollack Silver</title>
     <desc>American-made in solid Sterling Silver, the Carolyn Pollack jewellery collection boasts character, personality and fine quality, featuring elegant artistry and ethnic influence.</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.45" start="20171026173000 +0000" stop="20171026183000 +0000">
-    <title>Enjoy Lighting Christmas Glow</title>
-    <desc>Enjoy the warm atmosphere and ambiance of candlelight this Christmas with the Enjoy Lighting range of replica candles. Safe to use in all areas of your home!</desc>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.45" start="20171026183000 +0000" stop="20171026193000 +0000">
-    <title>African Colour Change Garnet</title>
-    <desc>Today?s jewellery is set with extraordinary garnets from East Africa, that naturally change colour in the light. These rare colour-change gems are said to bring prosperity.</desc>
+    <title>ECOPot Cook On The GO!</title>
+    <desc>Don't go bush without EcoPot! This trusty thermal cooker means you can whip up a hot, nourishing meal wherever you may venture. It's your new best buddy for camping and travel!</desc>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -25705,7 +25720,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20171027033000 +0000" stop="20171027043000 +0000">
-    <title>Gesund New Model Launch</title>
+    <title>GesundPlate Digitouch Cooktop</title>
     <desc>Free your food from cookware and cook directly on this plate! Japanese technology and a German Schott glass surface evenly distributes heat while the non-porous surface requires minimal oil.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -25768,7 +25783,7 @@
     </rating>
   </programme>
   <programme channel="tv.45" start="20171027123000 +0000" stop="20171027133000 +0000">
-    <title>Gesund New Model Launch</title>
+    <title>GesundPlate Digitouch Cooktop</title>
     <desc>Free your food from cookware and cook directly on this plate! Japanese technology and a German Schott glass surface evenly distributes heat while the non-porous surface requires minimal oil.</desc>
     <rating system="Freeview">
       <value>G</value>
@@ -27008,7 +27023,7 @@
   </programme>
   <programme channel="tv.46" start="20171026193000 +0000" stop="20171026200000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Coming up on The Stream... Matt Taibbi discusses the life and death of Eric Garner.</desc>
     <episode-num system="dd_progid">33948761</episode-num>
   </programme>
   <programme channel="tv.46" start="20171026200000 +0000" stop="20171026210000 +0000">
@@ -27073,7 +27088,7 @@
   </programme>
   <programme channel="tv.46" start="20171027043000 +0000" stop="20171027050000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Coming up on The Stream... Matt Taibbi discusses the life and death of Eric Garner.</desc>
     <episode-num system="dd_progid">33948761</episode-num>
   </programme>
   <programme channel="tv.46" start="20171027050000 +0000" stop="20171027053000 +0000">
@@ -27108,7 +27123,7 @@
   </programme>
   <programme channel="tv.46" start="20171027083000 +0000" stop="20171027090000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Coming up on The Stream... Matt Taibbi discusses the life and death of Eric Garner.</desc>
     <episode-num system="dd_progid">33948761</episode-num>
   </programme>
   <programme channel="tv.46" start="20171027090000 +0000" stop="20171027093000 +0000">
@@ -27153,7 +27168,7 @@
   </programme>
   <programme channel="tv.46" start="20171027143000 +0000" stop="20171027150000 +0000">
     <title>The Stream</title>
-    <desc>Online community using social media to seek out unheard voices and fresh insights on the most compelling stories on the internet today.</desc>
+    <desc>Coming up on The Stream... Matt Taibbi discusses the life and death of Eric Garner.</desc>
     <episode-num system="dd_progid">33948761</episode-num>
   </programme>
   <programme channel="tv.46" start="20171027150000 +0000" stop="20171027160000 +0000">
@@ -27193,7 +27208,7 @@
   </programme>
   <programme channel="tv.46" start="20171027193000 +0000" stop="20171027200000 +0000">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>100 yrs since the Balfour Declaration, the British document that led to the creation of Israel, what is the legacy for Palestine and Israel?</desc>
     <episode-num system="dd_progid">33948801</episode-num>
   </programme>
   <programme channel="tv.46" start="20171027200000 +0000" stop="20171027210000 +0000">
@@ -27213,7 +27228,7 @@
   </programme>
   <programme channel="tv.46" start="20171027223000 +0000" stop="20171027230000 +0000">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
+    <desc>As two of Italy's wealthy northern regions vote to break from Rome, we look at the latest example of centrifugal forces reshaping European politics.</desc>
     <episode-num system="dd_progid">33948802</episode-num>
   </programme>
   <programme channel="tv.46" start="20171027230000 +0000" stop="20171028000000 +0000">
@@ -27293,7 +27308,7 @@
   </programme>
   <programme channel="tv.46" start="20171028083000 +0000" stop="20171028090000 +0000">
     <title>Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>How media on different sides of the Syrian war portrayed the capture of Raqqa from ISIL. Plus, Lebanese media and the targeting of refugees.</desc>
     <episode-num system="dd_progid">33948815</episode-num>
   </programme>
   <programme channel="tv.46" start="20171028090000 +0000" stop="20171028093000 +0000">
@@ -27303,7 +27318,7 @@
   </programme>
   <programme channel="tv.46" start="20171028093000 +0000" stop="20171028100000 +0000">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
+    <desc>As two of Italy's wealthy northern regions vote to break from Rome, we look at the latest example of centrifugal forces reshaping European politics.</desc>
     <episode-num system="dd_progid">33948802</episode-num>
   </programme>
   <programme channel="tv.46" start="20171028100000 +0000" stop="20171028110000 +0000">
@@ -27338,7 +27353,7 @@
   </programme>
   <programme channel="tv.46" start="20171028143000 +0000" stop="20171028150000 +0000">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>100 yrs since the Balfour Declaration, the British document that led to the creation of Israel, what is the legacy for Palestine and Israel?</desc>
     <episode-num system="dd_progid">33948801</episode-num>
   </programme>
   <programme channel="tv.46" start="20171028150000 +0000" stop="20171028160000 +0000">
@@ -27378,7 +27393,7 @@
   </programme>
   <programme channel="tv.46" start="20171028193000 +0000" stop="20171028200000 +0000">
     <title>Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>How media on different sides of the Syrian war portrayed the capture of Raqqa from ISIL. Plus, Lebanese media and the targeting of refugees.</desc>
     <episode-num system="dd_progid">33948815</episode-num>
   </programme>
   <programme channel="tv.46" start="20171028200000 +0000" stop="20171028210000 +0000">
@@ -27433,7 +27448,7 @@
   </programme>
   <programme channel="tv.46" start="20171029033000 +0000" stop="20171029040000 +0000">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
+    <desc>As two of Italy's wealthy northern regions vote to break from Rome, we look at the latest example of centrifugal forces reshaping European politics.</desc>
     <episode-num system="dd_progid">33948802</episode-num>
   </programme>
   <programme channel="tv.46" start="20171029040000 +0000" stop="20171029043000 +0000">
@@ -27443,7 +27458,7 @@
   </programme>
   <programme channel="tv.46" start="20171029043000 +0000" stop="20171029050000 +0000">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>100 yrs since the Balfour Declaration, the British document that led to the creation of Israel, what is the legacy for Palestine and Israel?</desc>
     <episode-num system="dd_progid">33948801</episode-num>
   </programme>
   <programme channel="tv.46" start="20171029050000 +0000" stop="20171029053000 +0000">
@@ -27523,7 +27538,7 @@
   </programme>
   <programme channel="tv.46" start="20171029143000 +0000" stop="20171029150000 +0000">
     <title>Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>How media on different sides of the Syrian war portrayed the capture of Raqqa from ISIL. Plus, Lebanese media and the targeting of refugees.</desc>
     <episode-num system="dd_progid">33948815</episode-num>
   </programme>
   <programme channel="tv.46" start="20171029150000 +0000" stop="20171029160000 +0000">
@@ -27628,7 +27643,7 @@
   </programme>
   <programme channel="tv.46" start="20171030043000 +0000" stop="20171030050000 +0000">
     <title>Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>How media on different sides of the Syrian war portrayed the capture of Raqqa from ISIL. Plus, Lebanese media and the targeting of refugees.</desc>
     <episode-num system="dd_progid">33948815</episode-num>
   </programme>
   <programme channel="tv.46" start="20171030050000 +0000" stop="20171030053000 +0000">
@@ -27663,7 +27678,7 @@
   </programme>
   <programme channel="tv.46" start="20171030083000 +0000" stop="20171030090000 +0000">
     <title>UpFront</title>
-    <desc>Frank, blunt and UpFront, we cut through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc>100 yrs since the Balfour Declaration, the British document that led to the creation of Israel, what is the legacy for Palestine and Israel?</desc>
     <episode-num system="dd_progid">33948801</episode-num>
   </programme>
   <programme channel="tv.46" start="20171030090000 +0000" stop="20171030093000 +0000">
@@ -27723,7 +27738,7 @@
   </programme>
   <programme channel="tv.46" start="20171030163000 +0000" stop="20171030170000 +0000">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
+    <desc>As two of Italy's wealthy northern regions vote to break from Rome, we look at the latest example of centrifugal forces reshaping European politics.</desc>
     <episode-num system="dd_progid">33948802</episode-num>
   </programme>
   <programme channel="tv.46" start="20171030170000 +0000" stop="20171030173000 +0000">
@@ -27823,7 +27838,7 @@
   </programme>
   <programme channel="tv.46" start="20171031053000 +0000" stop="20171031060000 +0000">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact on the lives of ordinary people.</desc>
+    <desc>As two of Italy's wealthy northern regions vote to break from Rome, we look at the latest example of centrifugal forces reshaping European politics.</desc>
     <episode-num system="dd_progid">33948802</episode-num>
   </programme>
   <programme channel="tv.46" start="20171031060000 +0000" stop="20171031070000 +0000">
@@ -28008,7 +28023,7 @@
   </programme>
   <programme channel="tv.46" start="20171101053000 +0000" stop="20171101060000 +0000">
     <title>Listening Post</title>
-    <desc>What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc>How media on different sides of the Syrian war portrayed the capture of Raqqa from ISIL. Plus, Lebanese media and the targeting of refugees.</desc>
     <episode-num system="dd_progid">33948815</episode-num>
   </programme>
   <programme channel="tv.46" start="20171101060000 +0000" stop="20171101070000 +0000">
