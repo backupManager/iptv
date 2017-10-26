@@ -2877,7 +2877,7 @@
   </programme>
   <programme channel="tv.11" start="20171026060000 +0000" stop="20171026063000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Alison Mau talk to new Prime Minister Jacinda Ardern about how she plans to tackle child poverty. Plus, a sleep experts joins the team live.</desc>
     <episode-num system="dd_progid">T751810</episode-num>
   </programme>
   <programme channel="tv.11" start="20171026063000 +0000" stop="20171026070000 +0000">
@@ -2936,7 +2936,7 @@
   </programme>
   <programme channel="tv.11" start="20171026121000 +0000" stop="20171026123500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Alison Mau talk to new Prime Minister Jacinda Ardern about how she plans to tackle child poverty. Plus, a sleep experts joins the team live.</desc>
     <episode-num system="dd_progid">T751810</episode-num>
   </programme>
   <programme channel="tv.11" start="20171026123500 +0000" stop="20171026160000 +0000">
@@ -3188,6 +3188,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. The 100th episode! Adam and Jackie have a Halloween costume disagreement, leading Murray to try and help Adam keep Jackie happy. S5 Ep5</desc>
     <episode-num system="dd_progid">T785702</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3210,8 +3213,11 @@
   </programme>
   <programme channel="tv.11" start="20171028040000 +0000" stop="20171028050000 +0000">
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
-    <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity). Who w</desc>
+    <desc>New Episode. One castaway struggles to keep his head in the game at a tough reward challenge, and a physically difficult immunity challenge weighs heavily on the players. S35 Ep5</desc>
     <episode-num system="dd_progid">T784661</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -3239,6 +3245,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028100500 +0000" stop="20171028100600 +0000">
     <title>CRC Motorsport</title>
@@ -3279,29 +3288,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20171028170000 +0000" stop="20171028173000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 65</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T461392</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028173000 +0000" stop="20171028180000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1074</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770346</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028180000 +0000" stop="20171028190000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1744</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758521</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028190000 +0000" stop="20171028193000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756540</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028193000 +0000" stop="20171028200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780942</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171028200000 +0000" stop="20171028203000 +0000">
     <title>R &amp; R</title>
@@ -3350,6 +3374,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The moving-in phase sees some couples adjusting to day-to-day life with grace while others begin to break. Later, a surrender date sees one marriage face the ultimate test. S1 Ep9</desc>
     <episode-num system="dd_progid">T785436</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171029073000 +0000" stop="20171029094500 +0000">
     <title>The Bounty Hunter</title>
@@ -3369,6 +3396,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171029114000 +0000" stop="20171029160000 +0000">
     <title>Infomercials</title>
@@ -3430,6 +3460,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The moving-in phase sees some couples adjusting to day-to-day life with grace while others begin to break. Later, a surrender date sees one marriage face the ultimate test. S1 Ep9</desc>
     <episode-num system="dd_progid">T785436</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171030012500 +0000" stop="20171030015000 +0000">
     <title>Now That's Funny!</title>
@@ -3522,6 +3555,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171030083500 +0000" stop="20171030093000 +0000">
     <title>Blue Bloods</title>
@@ -3546,6 +3582,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171030105500 +0000" stop="20171030112000 +0000">
     <title>The Project (Encore)</title>
@@ -3707,11 +3746,17 @@
     <title>Lost &amp; Found</title>
     <desc>An Auckland man raised by his father's family searches for his mother. Then, a woman searches for her brother after her parents separated them 36 years ago.</desc>
     <episode-num system="dd_progid">T636016</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171031083000 +0000" stop="20171031095000 +0000">
     <title>Employable Me</title>
     <desc>New Episode. Tom has Tourette's syndrome and Ashley has autism. Both are desperate to find work and have super strengths that would really benefit employers. S1 Ep2</desc>
     <episode-num system="dd_progid">T728110</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171031095000 +0000" stop="20171031102000 +0000">
     <title>Newshub Late</title>
@@ -4877,11 +4922,17 @@
     <title>Four Weddings UK</title>
     <desc>Take one gypsy, a biker Goth and two pink princesses, throw them together and what have you got? The mother of all wedding showdowns.</desc>
     <episode-num system="dd_progid">T784372</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031053000 +0000" stop="20171031063000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a California salon owned by newlyweds who are new business partners. S3 Ep7</desc>
     <episode-num system="dd_progid">T380083</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031063000 +0000" stop="20171031073000 +0000">
     <title>Botched</title>
@@ -4895,11 +4946,17 @@
     <title>Extreme Guide To Parenting</title>
     <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
     <episode-num system="dd_progid">T774003</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031083000 +0000" stop="20171031094000 +0000">
     <title>The Real Housewives Of New Jersey</title>
     <desc>As Teresa struggles with the loss of her mum and the reality of being a single parent, her friends plan a getaway to Boca Raton. S8 Ep1</desc>
     <episode-num system="dd_progid">T774929</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031094000 +0000" stop="20171031103500 +0000">
     <title>Intervention</title>
@@ -4944,6 +5001,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a California salon owned by newlyweds who are new business partners. S3 Ep7</desc>
     <episode-num system="dd_progid">T380083</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171031225000 +0000" stop="20171031234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -4965,11 +5025,17 @@
     <title>The Real Housewives Of New Jersey</title>
     <desc>As Teresa struggles with the loss of her mum and the reality of being a single parent, her friends plan a getaway to Boca Raton. S8 Ep1</desc>
     <episode-num system="dd_progid">T774929</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101014500 +0000" stop="20171101024000 +0000">
     <title>Extreme Guide To Parenting</title>
     <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
     <episode-num system="dd_progid">T774003</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101024000 +0000" stop="20171101033500 +0000">
     <title>Catfish</title>
@@ -5007,7 +5073,7 @@
   </programme>
   <programme channel="tv.12" start="20171101073000 +0000" stop="20171101083000 +0000">
     <title>The Real Housewives Of Orange County</title>
-    <desc/>
+    <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
   </programme>
   <programme channel="tv.12" start="20171101083000 +0000" stop="20171101092500 +0000">
@@ -5088,7 +5154,7 @@
   </programme>
   <programme channel="tv.12" start="20171102013500 +0000" stop="20171102023500 +0000">
     <title>The Real Housewives Of Orange County</title>
-    <desc/>
+    <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
   </programme>
   <programme channel="tv.12" start="20171102023500 +0000" stop="20171102033000 +0000">
@@ -13382,7 +13448,7 @@
   </programme>
   <programme channel="tv.27" start="20171026070000 +0000" stop="20171026073000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Alison Mau talk to new Prime Minister Jacinda Ardern about how she plans to tackle child poverty. Plus, a sleep experts joins the team live.</desc>
     <episode-num system="dd_progid">T751810</episode-num>
   </programme>
   <programme channel="tv.27" start="20171026073000 +0000" stop="20171026080000 +0000">
@@ -13432,7 +13498,7 @@
   </programme>
   <programme channel="tv.27" start="20171026131000 +0000" stop="20171026133500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Alison Mau talk to new Prime Minister Jacinda Ardern about how she plans to tackle child poverty. Plus, a sleep experts joins the team live.</desc>
     <episode-num system="dd_progid">T751810</episode-num>
   </programme>
   <programme channel="tv.27" start="20171026133500 +0000" stop="20171026170000 +0000">
@@ -13697,7 +13763,7 @@
   </programme>
   <programme channel="tv.27" start="20171028050000 +0000" stop="20171028060000 +0000">
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
-    <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity). Who w</desc>
+    <desc>New Episode. One castaway struggles to keep his head in the game at a tough reward challenge, and a physically difficult immunity challenge weighs heavily on the players. S35 Ep5</desc>
     <episode-num system="dd_progid">T784661</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -13720,6 +13786,9 @@
     <title>The Silence Of The Lambs</title>
     <desc>Jodie Foster stars in this classic thriller as an FBI trainee who interviews psychiatrist turned psychopathic serial killer Dr. Hannibal Lecture in order to try and find another murderer.</desc>
     <episode-num system="dd_progid">T771229</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028110500 +0000" stop="20171028110600 +0000">
     <title>CRC Motorsport</title>
@@ -13760,29 +13829,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20171028180000 +0000" stop="20171028183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 65</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T461392</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028183000 +0000" stop="20171028190000 +0000">
-    <title>Brian Houston</title>
-    <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1074</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770346</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028190000 +0000" stop="20171028200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1744</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758521</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028200000 +0000" stop="20171028203000 +0000">
     <title>Living Church Of God</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756540</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028203000 +0000" stop="20171028210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc/>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780942</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171028210000 +0000" stop="20171028213000 +0000">
     <title>R &amp; R</title>
@@ -13831,6 +13915,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The moving-in phase sees some couples adjusting to day-to-day life with grace while others begin to break. Later, a surrender date sees one marriage face the ultimate test. S1 Ep9</desc>
     <episode-num system="dd_progid">T785436</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171029083000 +0000" stop="20171029104500 +0000">
     <title>The Bounty Hunter</title>
@@ -13844,6 +13931,9 @@
     <title>Abducted</title>
     <desc>When seven-year-old Jocelyn is mysteriously abducted from a resort in the Colombian rainforest, her rich Columbian stepfather and American mother are accused of being involved. (2015)</desc>
     <episode-num system="dd_progid">T736347</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171029124000 +0000" stop="20171029170000 +0000">
     <title>Infomercials</title>
@@ -13905,6 +13995,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The moving-in phase sees some couples adjusting to day-to-day life with grace while others begin to break. Later, a surrender date sees one marriage face the ultimate test. S1 Ep9</desc>
     <episode-num system="dd_progid">T785436</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171030022500 +0000" stop="20171030025000 +0000">
     <title>Now That's Funny!</title>
@@ -13994,6 +14087,9 @@
     <title>Tin Star</title>
     <desc>New Episode. Jim starts to piece events together despite his alcoholism. Elizabeth finds a witness to testify against North Stream Oil, but Gagnon is determined to eliminate all evidence. S1 Ep8</desc>
     <episode-num system="dd_progid">T780915</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171030093500 +0000" stop="20171030103000 +0000">
     <title>Blue Bloods</title>
@@ -14012,6 +14108,9 @@
     <title>Satisfaction</title>
     <desc>Final. New Episode. Neil and Grace get their business off the ground while Adriana comes up with a plan to ensure Neil stays in her life. S2 Ep10</desc>
     <episode-num system="dd_progid">T694276</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171030115500 +0000" stop="20171030122000 +0000">
     <title>The Project (Encore)</title>
@@ -14170,11 +14269,17 @@
     <title>Lost &amp; Found</title>
     <desc>An Auckland man raised by his father's family searches for his mother. Then, a woman searches for her brother after her parents separated them 36 years ago.</desc>
     <episode-num system="dd_progid">T636016</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171031093000 +0000" stop="20171031105000 +0000">
     <title>Employable Me</title>
     <desc>New Episode. Tom has Tourette's syndrome and Ashley has autism. Both are desperate to find work and have super strengths that would really benefit employers. S1 Ep2</desc>
     <episode-num system="dd_progid">T728110</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171031105000 +0000" stop="20171031112000 +0000">
     <title>Newshub Late</title>
@@ -16988,11 +17093,17 @@
     <title>Four Weddings UK</title>
     <desc>Take one gypsy, a biker Goth and two pink princesses, throw them together and what have you got? The mother of all wedding showdowns.</desc>
     <episode-num system="dd_progid">T784372</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031063000 +0000" stop="20171031073000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a California salon owned by newlyweds who are new business partners. S3 Ep7</desc>
     <episode-num system="dd_progid">T380083</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031073000 +0000" stop="20171031083000 +0000">
     <title>Botched</title>
@@ -17006,11 +17117,17 @@
     <title>Extreme Guide To Parenting</title>
     <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
     <episode-num system="dd_progid">T774003</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031093000 +0000" stop="20171031104000 +0000">
     <title>The Real Housewives Of New Jersey</title>
     <desc>As Teresa struggles with the loss of her mum and the reality of being a single parent, her friends plan a getaway to Boca Raton. S8 Ep1</desc>
     <episode-num system="dd_progid">T774929</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031104000 +0000" stop="20171031113500 +0000">
     <title>Intervention</title>
@@ -17055,6 +17172,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a California salon owned by newlyweds who are new business partners. S3 Ep7</desc>
     <episode-num system="dd_progid">T380083</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171031235000 +0000" stop="20171101004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17076,11 +17196,17 @@
     <title>The Real Housewives Of New Jersey</title>
     <desc>As Teresa struggles with the loss of her mum and the reality of being a single parent, her friends plan a getaway to Boca Raton. S8 Ep1</desc>
     <episode-num system="dd_progid">T774929</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101024500 +0000" stop="20171101034000 +0000">
     <title>Extreme Guide To Parenting</title>
     <desc>Wendy and Tyler got rid of everything they owned and became nomads. While Wendy and the kids long for a place to call home, Tyler fears change could lead back his fear of a normal life.</desc>
     <episode-num system="dd_progid">T774003</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101034000 +0000" stop="20171101043500 +0000">
     <title>Catfish</title>
@@ -17118,7 +17244,7 @@
   </programme>
   <programme channel="tv.30" start="20171101083000 +0000" stop="20171101093000 +0000">
     <title>The Real Housewives Of Orange County</title>
-    <desc/>
+    <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
   </programme>
   <programme channel="tv.30" start="20171101093000 +0000" stop="20171101102500 +0000">
@@ -17199,7 +17325,7 @@
   </programme>
   <programme channel="tv.30" start="20171102023500 +0000" stop="20171102033500 +0000">
     <title>The Real Housewives Of Orange County</title>
-    <desc/>
+    <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
   </programme>
   <programme channel="tv.30" start="20171102033500 +0000" stop="20171102043000 +0000">
