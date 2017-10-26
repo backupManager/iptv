@@ -191,8 +191,8 @@
         "url": "http://iptv.matthuisman.nz/nz/tv.60.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
         "video": {
             "codec": "h264",
-            "width": 640,
-            "height": 360
+            "width": 960,
+            "height": 540
         },
         "audio": {
             "codec": "aac",
