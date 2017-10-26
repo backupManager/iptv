@@ -318,10 +318,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171025163000 +0000" stop="20171025173000 +0000">
+  <programme channel="tv.10" start="20171025163000 +0000" stop="20171025170000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473158</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171025170000 +0000" stop="20171025173000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.10" start="20171025173000 +0000" stop="20171025175500 +0000">
     <title>Sesame Street</title>
@@ -1490,6 +1495,7 @@
   <programme channel="tv.10" start="20171029140000 +0000" stop="20171029143500 +0000">
     <title>Infomercial</title>
     <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171029143500 +0000" stop="20171029152000 +0000">
     <title>24: Legacy</title>
@@ -1523,13 +1529,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171029163000 +0000" stop="20171029170000 +0000">
+  <programme channel="tv.10" start="20171029163000 +0000" stop="20171029173000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171029170000 +0000" stop="20171029173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171029173000 +0000" stop="20171029175500 +0000">
     <title>Sesame Street</title>
@@ -1582,17 +1585,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171029200000 +0000" stop="20171029203000 +0000">
+  <programme channel="tv.10" start="20171029200000 +0000" stop="20171029213000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171029203000 +0000" stop="20171029210000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171029210000 +0000" stop="20171029213000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171029213000 +0000" stop="20171029220000 +0000">
     <title>Neighbours</title>
@@ -1751,13 +1747,22 @@
   </programme>
   <programme channel="tv.10" start="20171030080000 +0000" stop="20171030083000 +0000">
     <title>The Mick</title>
-    <desc>Giving a whole new meaning to the phrase "dysfunctional family", The Mick returns for its second season with all-new outrageous shenanigans!</desc>
-    <episode-num system="dd_progid">10494344</episode-num>
+    <desc>S1 E2 The Pemberton kids learn some lessons in "tough love" when Mickey calls in their overly strict grandmother to discipline them.</desc>
+    <episode-num system="dd_progid">10448591</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030083000 +0000" stop="20171030093500 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E2 Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495964</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030093500 +0000" stop="20171030100500 +0000">
     <title>2 Broke Girls</title>
@@ -1812,13 +1817,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030123000 +0000" stop="20171030130500 +0000">
+  <programme channel="tv.10" start="20171030123000 +0000" stop="20171030133500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171030130500 +0000" stop="20171030133500 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171030133500 +0000" stop="20171030151000 +0000">
     <title>Mistresses</title>
@@ -1852,13 +1854,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030163000 +0000" stop="20171030170000 +0000">
+  <programme channel="tv.10" start="20171030163000 +0000" stop="20171030173000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171030170000 +0000" stop="20171030173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171030173000 +0000" stop="20171030175500 +0000">
     <title>Sesame Street</title>
@@ -1911,17 +1910,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030200000 +0000" stop="20171030203000 +0000">
+  <programme channel="tv.10" start="20171030200000 +0000" stop="20171030213000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171030203000 +0000" stop="20171030210000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171030210000 +0000" stop="20171030213000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499714</episode-num>
   </programme>
   <programme channel="tv.10" start="20171030213000 +0000" stop="20171030220000 +0000">
     <title>Neighbours</title>
@@ -2030,6 +2022,9 @@
     <title>Home And Away</title>
     <desc>The cops hunt for the man from the cabin. Is this it for Scarlett and Justin? Will Beth be able to get a heart transplant in time?</desc>
     <episode-num system="dd_progid">10487069</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171031050000 +0000" stop="20171031053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2140,13 +2135,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171031125000 +0000" stop="20171031132500 +0000">
+  <programme channel="tv.10" start="20171031125000 +0000" stop="20171031135500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171031132500 +0000" stop="20171031135500 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031135500 +0000" stop="20171031152500 +0000">
     <title>Mistresses</title>
@@ -2180,13 +2172,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171031163000 +0000" stop="20171031170000 +0000">
+  <programme channel="tv.10" start="20171031163000 +0000" stop="20171031173000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171031170000 +0000" stop="20171031173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031173000 +0000" stop="20171031175500 +0000">
     <title>Sesame Street</title>
@@ -2239,17 +2228,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171031200000 +0000" stop="20171031203000 +0000">
+  <programme channel="tv.10" start="20171031200000 +0000" stop="20171031213000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171031203000 +0000" stop="20171031210000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171031210000 +0000" stop="20171031213000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473154</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031213000 +0000" stop="20171031220000 +0000">
     <title>Neighbours</title>
@@ -2287,6 +2269,9 @@
     <title>Home And Away</title>
     <desc>The cops hunt for the man from the cabin. Is this it for Scarlett and Justin? Will Beth be able to get a heart transplant in time?</desc>
     <episode-num system="dd_progid">10487069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171101020000 +0000" stop="20171101023000 +0000">
     <title>Shortland Street</title>
@@ -2478,13 +2463,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171101123500 +0000" stop="20171101131000 +0000">
+  <programme channel="tv.10" start="20171101123500 +0000" stop="20171101134000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171101131000 +0000" stop="20171101134000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.10" start="20171101134000 +0000" stop="20171101151000 +0000">
     <title>Mistresses</title>
@@ -2518,13 +2500,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171101163000 +0000" stop="20171101170000 +0000">
+  <programme channel="tv.10" start="20171101163000 +0000" stop="20171101173000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171101170000 +0000" stop="20171101173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171101173000 +0000" stop="20171101175500 +0000">
     <title>Sesame Street</title>
@@ -2577,17 +2556,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171101200000 +0000" stop="20171101203000 +0000">
+  <programme channel="tv.10" start="20171101200000 +0000" stop="20171101213000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171101203000 +0000" stop="20171101210000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.10" start="20171101210000 +0000" stop="20171101213000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.10" start="20171101213000 +0000" stop="20171101220000 +0000">
     <title>Neighbours</title>
@@ -7391,10 +7363,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171025173000 +0000" stop="20171025183000 +0000">
+  <programme channel="tv.14" start="20171025173000 +0000" stop="20171025180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473158</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171025180000 +0000" stop="20171025183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.14" start="20171025183000 +0000" stop="20171025185500 +0000">
     <title>Sesame Street</title>
@@ -8422,6 +8399,7 @@
   <programme channel="tv.14" start="20171029150000 +0000" stop="20171029153500 +0000">
     <title>Infomercial</title>
     <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171029153500 +0000" stop="20171029162000 +0000">
     <title>24: Legacy</title>
@@ -8452,13 +8430,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171029173000 +0000" stop="20171029180000 +0000">
+  <programme channel="tv.14" start="20171029173000 +0000" stop="20171029183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171029180000 +0000" stop="20171029183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171029183000 +0000" stop="20171029185500 +0000">
     <title>Sesame Street</title>
@@ -8508,17 +8483,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171029210000 +0000" stop="20171029213000 +0000">
+  <programme channel="tv.14" start="20171029210000 +0000" stop="20171029223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171029213000 +0000" stop="20171029220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171029220000 +0000" stop="20171029223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171029223000 +0000" stop="20171029230000 +0000">
     <title>Neighbours</title>
@@ -8662,13 +8630,19 @@
   </programme>
   <programme channel="tv.14" start="20171030090000 +0000" stop="20171030093000 +0000">
     <title>The Mick</title>
-    <desc>Giving a whole new meaning to the phrase "dysfunctional family", The Mick returns for its second season with all-new outrageous shenanigans!</desc>
-    <episode-num system="dd_progid">10494344</episode-num>
+    <desc>S1 E2 The Pemberton kids learn some lessons in "tough love" when Mickey calls in their overly strict grandmother to discipline them.</desc>
+    <episode-num system="dd_progid">10448591</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030093000 +0000" stop="20171030103500 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E2 Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495964</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030103500 +0000" stop="20171030110500 +0000">
     <title>2 Broke Girls</title>
@@ -8711,13 +8685,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030133000 +0000" stop="20171030140500 +0000">
+  <programme channel="tv.14" start="20171030133000 +0000" stop="20171030143500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171030140500 +0000" stop="20171030143500 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171030143500 +0000" stop="20171030161000 +0000">
     <title>Mistresses</title>
@@ -8748,13 +8719,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030173000 +0000" stop="20171030180000 +0000">
+  <programme channel="tv.14" start="20171030173000 +0000" stop="20171030183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171030180000 +0000" stop="20171030183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171030183000 +0000" stop="20171030185500 +0000">
     <title>Sesame Street</title>
@@ -8804,17 +8772,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030210000 +0000" stop="20171030213000 +0000">
+  <programme channel="tv.14" start="20171030210000 +0000" stop="20171030223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171030213000 +0000" stop="20171030220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171030220000 +0000" stop="20171030223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499714</episode-num>
   </programme>
   <programme channel="tv.14" start="20171030223000 +0000" stop="20171030230000 +0000">
     <title>Neighbours</title>
@@ -8914,6 +8875,9 @@
     <title>Home And Away</title>
     <desc>The cops hunt for the man from the cabin. Is this it for Scarlett and Justin? Will Beth be able to get a heart transplant in time?</desc>
     <episode-num system="dd_progid">10487069</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171031060000 +0000" stop="20171031063000 +0000">
     <title>The Big Bang Theory</title>
@@ -9006,13 +8970,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171031135000 +0000" stop="20171031142500 +0000">
+  <programme channel="tv.14" start="20171031135000 +0000" stop="20171031145500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171031142500 +0000" stop="20171031145500 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171031145500 +0000" stop="20171031162500 +0000">
     <title>Mistresses</title>
@@ -9043,13 +9004,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171031173000 +0000" stop="20171031180000 +0000">
+  <programme channel="tv.14" start="20171031173000 +0000" stop="20171031183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171031180000 +0000" stop="20171031183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473184</episode-num>
   </programme>
   <programme channel="tv.14" start="20171031183000 +0000" stop="20171031185500 +0000">
     <title>Sesame Street</title>
@@ -9099,17 +9057,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171031210000 +0000" stop="20171031213000 +0000">
+  <programme channel="tv.14" start="20171031210000 +0000" stop="20171031223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171031213000 +0000" stop="20171031220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171031220000 +0000" stop="20171031223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473154</episode-num>
   </programme>
   <programme channel="tv.14" start="20171031223000 +0000" stop="20171031230000 +0000">
     <title>Neighbours</title>
@@ -9147,6 +9098,9 @@
     <title>Home And Away</title>
     <desc>The cops hunt for the man from the cabin. Is this it for Scarlett and Justin? Will Beth be able to get a heart transplant in time?</desc>
     <episode-num system="dd_progid">10487069</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171101030000 +0000" stop="20171101033000 +0000">
     <title>Shortland Street</title>
@@ -9305,13 +9259,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171101133500 +0000" stop="20171101141000 +0000">
+  <programme channel="tv.14" start="20171101133500 +0000" stop="20171101144000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171101141000 +0000" stop="20171101144000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473166</episode-num>
   </programme>
   <programme channel="tv.14" start="20171101144000 +0000" stop="20171101161000 +0000">
     <title>Mistresses</title>
@@ -9342,13 +9293,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171101173000 +0000" stop="20171101180000 +0000">
+  <programme channel="tv.14" start="20171101173000 +0000" stop="20171101183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171101180000 +0000" stop="20171101183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171101183000 +0000" stop="20171101185500 +0000">
     <title>Sesame Street</title>
@@ -9398,17 +9346,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171101210000 +0000" stop="20171101213000 +0000">
+  <programme channel="tv.14" start="20171101210000 +0000" stop="20171101223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171101213000 +0000" stop="20171101220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171101220000 +0000" stop="20171101223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10473191</episode-num>
   </programme>
   <programme channel="tv.14" start="20171101223000 +0000" stop="20171101230000 +0000">
     <title>Neighbours</title>
@@ -20827,6 +20768,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Justin Hartley and Bobby Moynihan.</desc>
     <episode-num system="dd_progid">10491722</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171026220000 +0000" stop="20171026223000 +0000">
     <title>Morena</title>
@@ -20845,9 +20789,12 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171026233000 +0000" stop="20171027000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460538</episode-num>
+    <title>Gino's Italian Escape</title>
+    <desc>Gino D’Acampo’s final leg of his Italian Escape starts on the ‘heel’ of Italy’s boot, in Puglia. Here, Gino visits the town of Altamura - a place world-famous for its historic bread.</desc>
+    <episode-num system="dd_progid">10413478</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171027000000 +0000" stop="20171027003000 +0000">
     <title>1 News At Midday</title>
@@ -21330,7 +21277,7 @@
   </programme>
   <programme channel="tv.38" start="20171029073000 +0000" stop="20171029083000 +0000">
     <title>Sunday</title>
-    <desc>Miriama Kamo presents Sunday, award-winning investigations into the stories that matter, from a team of the country's most experienced journalists.</desc>
+    <desc>Stressed, exhausted, and overwhelmed - many of our teens are at breaking point. Paralympic gold medallist Liam Malone opens up on how anxiety almost beat him, and how he overcame it.</desc>
     <episode-num system="dd_progid">10474070</episode-num>
   </programme>
   <programme channel="tv.38" start="20171029083000 +0000" stop="20171029093500 +0000">
@@ -21379,25 +21326,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20171029152000 +0000" stop="20171029155500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171029152000 +0000" stop="20171029180000 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171029155500 +0000" stop="20171029162000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171029162000 +0000" stop="20171029165500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171029165500 +0000" stop="20171029173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171029173000 +0000" stop="20171029180000 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473190</episode-num>
   </programme>
   <programme channel="tv.38" start="20171029180000 +0000" stop="20171029210000 +0000">
     <title>Breakfast</title>
@@ -21426,9 +21358,12 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171029233000 +0000" stop="20171030000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460539</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>A gang of young, fun-loving Brits hop aboard Coach Trip to visit some of southern Europe's top party spots. Their first stop is Magaluf.</desc>
+    <episode-num system="dd_progid">10464987</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171030000000 +0000" stop="20171030003000 +0000">
     <title>1 News At Midday</title>
@@ -21556,37 +21491,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460799</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171030131500 +0000" stop="20171030134500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171030131500 +0000" stop="20171030170500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030134500 +0000" stop="20171030141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030141000 +0000" stop="20171030144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030144000 +0000" stop="20171030151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030151000 +0000" stop="20171030154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030154000 +0000" stop="20171030160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030160500 +0000" stop="20171030163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171030163500 +0000" stop="20171030170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473171</episode-num>
   </programme>
   <programme channel="tv.38" start="20171030170500 +0000" stop="20171030173500 +0000">
     <title>Impact For Life</title>
@@ -21625,9 +21533,9 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171030233000 +0000" stop="20171031000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460540</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>Day 2, and some of the tourists wake with sore heads, in trouble with tour guide Brendan for their late-night antics. Some cliff-jumping might clear their minds.</desc>
+    <episode-num system="dd_progid">10464988</episode-num>
   </programme>
   <programme channel="tv.38" start="20171031000000 +0000" stop="20171031003000 +0000">
     <title>1 News At Midday</title>
@@ -21749,37 +21657,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460800</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171031133000 +0000" stop="20171031140000 +0000">
-    <title>Informercials</title>
+  <programme channel="tv.38" start="20171031133000 +0000" stop="20171031173500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031140000 +0000" stop="20171031143000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031143000 +0000" stop="20171031150000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031150000 +0000" stop="20171031153000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031153000 +0000" stop="20171031160000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031160000 +0000" stop="20171031163000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031163000 +0000" stop="20171031170500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171031170500 +0000" stop="20171031173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10499710</episode-num>
   </programme>
   <programme channel="tv.38" start="20171031173500 +0000" stop="20171031180000 +0000">
     <title>Te Karere</title>
@@ -21813,9 +21694,9 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171031233000 +0000" stop="20171101000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460541</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>Day 3, and the coach leaves Mallorca, heading for Barcelona. Later on, a twist in the voting causes a big row at decision time.</desc>
+    <episode-num system="dd_progid">10464989</episode-num>
   </programme>
   <programme channel="tv.38" start="20171101000000 +0000" stop="20171101003000 +0000">
     <title>1 News At Midday</title>
@@ -21921,41 +21802,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460801</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171101131500 +0000" stop="20171101134500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171101131500 +0000" stop="20171101173500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101134500 +0000" stop="20171101141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101141000 +0000" stop="20171101144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101144000 +0000" stop="20171101151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101151000 +0000" stop="20171101154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101154000 +0000" stop="20171101160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101160500 +0000" stop="20171101163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101163500 +0000" stop="20171101170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171101170500 +0000" stop="20171101173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473177</episode-num>
   </programme>
   <programme channel="tv.38" start="20171101173500 +0000" stop="20171101180000 +0000">
     <title>Te Karere</title>
@@ -21989,9 +21839,9 @@
     </rating>
   </programme>
   <programme channel="tv.38" start="20171101233000 +0000" stop="20171102000000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460542</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>The group are in Barcelona, where temperatures rise at a very flirty flamenco class</desc>
+    <episode-num system="dd_progid">10464991</episode-num>
   </programme>
   <programme channel="tv.38" start="20171102000000 +0000" stop="20171102003000 +0000">
     <title>1 News At Midday</title>
@@ -30494,7 +30344,7 @@
   </programme>
   <programme channel="tv.55" start="20171026003000 +0000" stop="20171026024500 +0000">
     <title>Live: MLS - Chicago v NY</title>
-    <desc/>
+    <desc>Live coverage of the Chicago Fire hosting the New York Red Bulls in the Knockout Round match from Toyota Park in Chicago, Illinois.</desc>
     <episode-num system="dd_progid">10480161</episode-num>
   </programme>
   <programme channel="tv.55" start="20171026024500 +0000" stop="20171026034000 +0000">
@@ -30671,7 +30521,7 @@
   </programme>
   <programme channel="tv.55" start="20171027105000 +0000" stop="20171027124000 +0000">
     <title>MLS - Houston v Kansas City</title>
-    <desc/>
+    <desc>Delayed coverage of today’s Knockout Round match between the Houston Dynamo and Sporting Kansas City from BBVA Stadium in Houston, Texas.</desc>
     <episode-num system="dd_progid">10480212</episode-num>
   </programme>
   <programme channel="tv.55" start="20171027124000 +0000" stop="20171027133500 +0000">
@@ -30704,7 +30554,7 @@
   </programme>
   <programme channel="tv.55" start="20171027211000 +0000" stop="20171027230000 +0000">
     <title>MLS - Houston v Kansas City</title>
-    <desc>Replay of Friday’s playoff match between Houston v Kansas City.</desc>
+    <desc>Replay of yesterday’s Knockout Round match between the Houston Dynamo and Sporting Kansas City from BBVA Stadium in Houston, Texas.</desc>
     <episode-num system="dd_progid">10480262</episode-num>
   </programme>
   <programme channel="tv.55" start="20171027230000 +0000" stop="20171027232500 +0000">
@@ -30803,7 +30653,7 @@
   </programme>
   <programme channel="tv.55" start="20171028190000 +0000" stop="20171028204500 +0000">
     <title>MLS - Chicago v NY</title>
-    <desc>Replay of Thursday’s playoff match between Chicago v NY.</desc>
+    <desc>Replay of the Knockout Round match between the Chicago Fire and the New York Red Bulls from Toyota Park in Chicago, Illinois.</desc>
     <episode-num system="dd_progid">10480261</episode-num>
   </programme>
   <programme channel="tv.55" start="20171028204500 +0000" stop="20171028211000 +0000">
@@ -35976,7 +35826,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171031122000 +0000" stop="20171031124000 +0000">
+  <programme channel="tv.58" start="20171031122000 +0000" stop="20171031124500 +0000">
     <title>Yard Crashers</title>
     <desc>A choppy, unorganized yard is returned to its sleek mid-century modern roots.</desc>
     <episode-num system="dd_progid">DYCR1400Ep5</episode-num>
@@ -35984,7 +35834,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171031124000 +0000" stop="20171031130000 +0000">
+  <programme channel="tv.58" start="20171031124500 +0000" stop="20171031131000 +0000">
     <title>Desperate Landscapes</title>
     <desc>A couple buys a house on-line without ever seeing it in person and the landscape is a dust bowl!</desc>
     <episode-num system="dd_progid">DESLA1000Ep10</episode-num>
@@ -35992,7 +35842,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171031130000 +0000" stop="20171031133000 +0000">
+  <programme channel="tv.58" start="20171031131000 +0000" stop="20171031133500 +0000">
     <title>Extra Yardage</title>
     <desc>A backyard concrete jungle becomes a lush, tropical island paradise.</desc>
     <episode-num system="dd_progid">DEXY200Ep5</episode-num>
@@ -36000,7 +35850,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171031133000 +0000" stop="20171031140000 +0000">
+  <programme channel="tv.58" start="20171031133500 +0000" stop="20171031140500 +0000">
     <title>Backyard Goldmine</title>
     <desc>Ben Sargent transforms a dilapidated turn-of-the-century train caboose into a one-of-a-kind rental.</desc>
     <episode-num system="dd_progid">DBKG100Ep5</episode-num>
@@ -36008,7 +35858,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171031140000 +0000" stop="20171031143000 +0000">
+  <programme channel="tv.58" start="20171031140500 +0000" stop="20171031143000 +0000">
     <title>Man Caves</title>
     <desc>Lou Fanzini is a busy family man who loves the idea of turning his basement into a throwback 1950s drive in. Jason and Tony twist Lou's space into a retro Man Cave.</desc>
     <episode-num system="dd_progid">DMCV800Ep6</episode-num>
@@ -36328,7 +36178,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171101122000 +0000" stop="20171101124000 +0000">
+  <programme channel="tv.58" start="20171101122000 +0000" stop="20171101124500 +0000">
     <title>House Hunters Off the Grid</title>
     <desc>A successful career as a surgeon wasn't enough for Tuti. He wanted to make a change. So he's leaving everything behind in Argentina for a life in Uruguay in a budget friendly off-the-grid home.</desc>
     <episode-num system="dd_progid">HHOTG200Ep15</episode-num>
@@ -36336,7 +36186,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171101124000 +0000" stop="20171101130000 +0000">
+  <programme channel="tv.58" start="20171101124500 +0000" stop="20171101131000 +0000">
     <title>Desperate Landscapes</title>
     <desc>Jason Cameron and Rebuilding Together New Orleans tackle 8 Katrina torn houses in 8 hours!</desc>
     <episode-num system="dd_progid">DESLA1000Ep11</episode-num>
@@ -36344,7 +36194,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171101130000 +0000" stop="20171101133000 +0000">
+  <programme channel="tv.58" start="20171101131000 +0000" stop="20171101133500 +0000">
     <title>House Hunters: Where Are They Now?</title>
     <desc>We look back on the family who bought a Cape Cod home with a magnificent view, but also had serious layout issues that required a $150,000 solution!</desc>
     <episode-num system="dd_progid">HHWTN200Ep10</episode-num>
@@ -36352,7 +36202,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.58" start="20171101133000 +0000" stop="20171101143000 +0000">
+  <programme channel="tv.58" start="20171101133500 +0000" stop="20171101143000 +0000">
     <title>Mighty Tiny Houses</title>
     <desc>Jenna and Guillaume travel across the country to discover the coolest and most unusual tiny vacation homes, including mini abodes tucked up in the trees and a little gem in the rainforests of Hawaii.</desc>
     <episode-num system="dd_progid">HMTYH100SEp2</episode-num>
@@ -42936,6 +42786,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Justin Hartley and Bobby Moynihan.</desc>
     <episode-num system="dd_progid">10491722</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171026210000 +0000" stop="20171026213000 +0000">
     <title>Morena</title>
@@ -42954,9 +42807,12 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171026223000 +0000" stop="20171026230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460538</episode-num>
+    <title>Gino's Italian Escape</title>
+    <desc>Gino D’Acampo’s final leg of his Italian Escape starts on the ‘heel’ of Italy’s boot, in Puglia. Here, Gino visits the town of Altamura - a place world-famous for its historic bread.</desc>
+    <episode-num system="dd_progid">10413478</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171026230000 +0000" stop="20171026233000 +0000">
     <title>1 News At Midday</title>
@@ -43204,9 +43060,6 @@
     <title>The X Factor UK</title>
     <desc>As this year's auditions come to an end, the judges take in a final round of weird and wonderful performances. Whose talents will buy them a place at next weekend's bootcamp stage?</desc>
     <episode-num system="dd_progid">10485181#1</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20171028070000 +0000" stop="20171028070500 +0000">
     <title>Lotto</title>
@@ -43216,9 +43069,6 @@
     <title>The X Factor UK Continued</title>
     <desc>As this year's auditions come to an end, the judges take in a final round of weird and wonderful performances. Whose talents will buy them a place at next weekend's bootcamp stage?</desc>
     <episode-num system="dd_progid">10485181#1</episode-num>
-    <rating system="Freeview">
-      <value>PGR</value>
-    </rating>
   </programme>
   <programme channel="tv.9" start="20171028073000 +0000" stop="20171028084000 +0000">
     <title>Wild New Zealand</title>
@@ -43439,7 +43289,7 @@
   </programme>
   <programme channel="tv.9" start="20171029063000 +0000" stop="20171029073000 +0000">
     <title>Sunday</title>
-    <desc>Miriama Kamo presents Sunday, award-winning investigations into the stories that matter, from a team of the country's most experienced journalists.</desc>
+    <desc>Stressed, exhausted, and overwhelmed - many of our teens are at breaking point. Paralympic gold medallist Liam Malone opens up on how anxiety almost beat him, and how he overcame it.</desc>
     <episode-num system="dd_progid">10474070</episode-num>
   </programme>
   <programme channel="tv.9" start="20171029073000 +0000" stop="20171029083500 +0000">
@@ -43488,25 +43338,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20171029142000 +0000" stop="20171029145500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171029142000 +0000" stop="20171029170000 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171029145500 +0000" stop="20171029152000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171029152000 +0000" stop="20171029155500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171029155500 +0000" stop="20171029163000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171029163000 +0000" stop="20171029170000 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473190</episode-num>
   </programme>
   <programme channel="tv.9" start="20171029170000 +0000" stop="20171029200000 +0000">
     <title>Breakfast</title>
@@ -43535,9 +43370,12 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171029223000 +0000" stop="20171029230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460539</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>A gang of young, fun-loving Brits hop aboard Coach Trip to visit some of southern Europe's top party spots. Their first stop is Magaluf.</desc>
+    <episode-num system="dd_progid">10464987</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171029230000 +0000" stop="20171029233000 +0000">
     <title>1 News At Midday</title>
@@ -43665,37 +43503,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460799</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171030121500 +0000" stop="20171030124500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171030121500 +0000" stop="20171030160500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030124500 +0000" stop="20171030131000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030131000 +0000" stop="20171030134000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030134000 +0000" stop="20171030141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030141000 +0000" stop="20171030144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030144000 +0000" stop="20171030150500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030150500 +0000" stop="20171030153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171030153500 +0000" stop="20171030160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473171</episode-num>
   </programme>
   <programme channel="tv.9" start="20171030160500 +0000" stop="20171030163500 +0000">
     <title>Impact For Life</title>
@@ -43734,9 +43545,9 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171030223000 +0000" stop="20171030230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460540</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>Day 2, and some of the tourists wake with sore heads, in trouble with tour guide Brendan for their late-night antics. Some cliff-jumping might clear their minds.</desc>
+    <episode-num system="dd_progid">10464988</episode-num>
   </programme>
   <programme channel="tv.9" start="20171030230000 +0000" stop="20171030233000 +0000">
     <title>1 News At Midday</title>
@@ -43858,37 +43669,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460800</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171031123000 +0000" stop="20171031130000 +0000">
-    <title>Informercials</title>
+  <programme channel="tv.9" start="20171031123000 +0000" stop="20171031163500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031130000 +0000" stop="20171031133000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031133000 +0000" stop="20171031140000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031140000 +0000" stop="20171031143000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031143000 +0000" stop="20171031150000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031150000 +0000" stop="20171031153000 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031153000 +0000" stop="20171031160500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171031160500 +0000" stop="20171031163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10499710</episode-num>
   </programme>
   <programme channel="tv.9" start="20171031163500 +0000" stop="20171031170000 +0000">
     <title>Te Karere</title>
@@ -43922,9 +43706,9 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171031223000 +0000" stop="20171031230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460541</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>Day 3, and the coach leaves Mallorca, heading for Barcelona. Later on, a twist in the voting causes a big row at decision time.</desc>
+    <episode-num system="dd_progid">10464989</episode-num>
   </programme>
   <programme channel="tv.9" start="20171031230000 +0000" stop="20171031233000 +0000">
     <title>1 News At Midday</title>
@@ -44030,41 +43814,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460801</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171101121500 +0000" stop="20171101124500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.9" start="20171101121500 +0000" stop="20171101163500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101124500 +0000" stop="20171101131000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101131000 +0000" stop="20171101134000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101134000 +0000" stop="20171101141000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101141000 +0000" stop="20171101144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101144000 +0000" stop="20171101150500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101150500 +0000" stop="20171101153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101153500 +0000" stop="20171101160500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.9" start="20171101160500 +0000" stop="20171101163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473177</episode-num>
   </programme>
   <programme channel="tv.9" start="20171101163500 +0000" stop="20171101170000 +0000">
     <title>Te Karere</title>
@@ -44098,9 +43851,9 @@
     </rating>
   </programme>
   <programme channel="tv.9" start="20171101223000 +0000" stop="20171101230000 +0000">
-    <title>Seven Sharp</title>
-    <desc/>
-    <episode-num system="dd_progid">10460542</episode-num>
+    <title>Coach Trip: Road To Ibiza</title>
+    <desc>The group are in Barcelona, where temperatures rise at a very flirty flamenco class</desc>
+    <episode-num system="dd_progid">10464991</episode-num>
   </programme>
   <programme channel="tv.9" start="20171101230000 +0000" stop="20171101233000 +0000">
     <title>1 News At Midday</title>
