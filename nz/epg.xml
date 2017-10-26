@@ -42675,15 +42675,20 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20171026115000 +0000" stop="20171026121500 +0000">
-    <title>Te Karere</title>
-    <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
-    <episode-num system="dd_progid">10460797</episode-num>
+  <programme channel="tv.9" start="20171026115000 +0000" stop="20171026124000 +0000">
+    <title>20/20</title>
+    <desc>Presented by Carolyn Robinson, 20/20 features the best of international content from ABC and in-depth investigative pieces.</desc>
+    <episode-num system="dd_progid">10485242</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171026121500 +0000" stop="20171026163500 +0000">
+  <programme channel="tv.9" start="20171026124000 +0000" stop="20171026163000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473192</episode-num>
+  </programme>
+  <programme channel="tv.9" start="20171026163000 +0000" stop="20171026163500 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10499710</episode-num>
   </programme>
   <programme channel="tv.9" start="20171026163500 +0000" stop="20171026170000 +0000">
     <title>Te Karere</title>
