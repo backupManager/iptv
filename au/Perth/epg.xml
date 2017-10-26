@@ -1105,16 +1105,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20171029140000 +0000" stop="20171029143000 +0000">
+  <programme channel="tv.101002210220" start="20171029140000 +0000" stop="20171029141500 +0000">
     <title>BBC World News</title>
     <episode-num system="dd_progid">ZW0969A126S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20171029143000 +0000" stop="20171029150000 +0000">
-    <title>Conflict Zone</title>
-    <episode-num system="dd_progid">ZW0977A044S00</episode-num>
+  <programme channel="tv.101002210220" start="20171029141500 +0000" stop="20171029150000 +0000">
+    <title>Four Corners</title>
+    <episode-num system="dd_progid">NC1704H037S00</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1141,10 +1142,16 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20171029170000 +0000" stop="20171029180000 +0000">
-    <title>Landline</title>
-    <episode-num system="dd_progid">RA1701Q038S00</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101002210220" start="20171029170000 +0000" stop="20171029173000 +0000">
+    <title>BBC World News</title>
+    <episode-num system="dd_progid">ZW0960A130S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20171029173000 +0000" stop="20171029180000 +0000">
+    <title>Conflict Zone</title>
+    <episode-num system="dd_progid">ZW0977A044S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -1496,16 +1503,17 @@
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20171031143000 +0000" stop="20171031150000 +0000">
-    <title>Australia Remembers: Beersheba Australian Service</title>
-    <episode-num system="dd_progid">FA1612H002S00</episode-num>
+    <title>Lateline</title>
+    <episode-num system="dd_progid">NC1725H192S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20171031150000 +0000" stop="20171031160000 +0000">
-    <title>Al Jazeera NewsGrid</title>
-    <episode-num system="dd_progid">ZW0974A304S00</episode-num>
+    <title>Australia Remembers: Beersheba Australian Service</title>
+    <episode-num system="dd_progid">FA1612H002S00</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -7927,7 +7935,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171028212800 +0000" stop="20171028213900 +0000">
+  <programme channel="tv.101002210224" start="20171028212800 +0000" stop="20171028214000 +0000">
     <title>SheZow</title>
     <episode-num system="dd_progid">ZX1484A028S00</episode-num>
     <subtitles type="teletext"/>
@@ -7935,21 +7943,21 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171028213900 +0000" stop="20171028220100 +0000">
+  <programme channel="tv.101002210224" start="20171028214000 +0000" stop="20171028220100 +0000">
     <title>Adventure Time</title>
     <episode-num system="dd_progid">ZW0472A007S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171028220100 +0000" stop="20171028222900 +0000">
+  <programme channel="tv.101002210224" start="20171028220100 +0000" stop="20171028222800 +0000">
     <title>News To Me</title>
     <episode-num system="dd_progid">CK1710V018S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171028222900 +0000" stop="20171028224000 +0000">
+  <programme channel="tv.101002210224" start="20171028222800 +0000" stop="20171028224000 +0000">
     <title>Camp Lakebottom</title>
     <episode-num system="dd_progid">ZW1172A020S00</episode-num>
     <subtitles type="teletext"/>
@@ -8086,7 +8094,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029041800 +0000" stop="20171029043000 +0000">
+  <programme channel="tv.101002210224" start="20171029041800 +0000" stop="20171029043100 +0000">
     <title>Shaun the Sheep</title>
     <episode-num system="dd_progid">ZY7651A002S00</episode-num>
     <subtitles type="teletext"/>
@@ -8094,7 +8102,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029043000 +0000" stop="20171029050100 +0000">
+  <programme channel="tv.101002210224" start="20171029043100 +0000" stop="20171029050200 +0000">
     <title>Nippers</title>
     <episode-num system="dd_progid">CH1617H008S00</episode-num>
     <subtitles type="teletext"/>
@@ -8102,14 +8110,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029050100 +0000" stop="20171029052500 +0000">
+  <programme channel="tv.101002210224" start="20171029050200 +0000" stop="20171029052500 +0000">
     <title>Annedroids</title>
     <episode-num system="dd_progid">ZW0702A006S00</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029052500 +0000" stop="20171029060000 +0000">
+  <programme channel="tv.101002210224" start="20171029052500 +0000" stop="20171029055900 +0000">
     <title>Operation Ouch!</title>
     <episode-num system="dd_progid">ZX9930A008S00</episode-num>
     <subtitles type="teletext"/>
@@ -8117,7 +8125,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029060000 +0000" stop="20171029061000 +0000">
+  <programme channel="tv.101002210224" start="20171029055900 +0000" stop="20171029061000 +0000">
     <title>Game On</title>
     <episode-num system="dd_progid">ZW0491A004S00</episode-num>
     <rating system="Freeview">
@@ -8132,14 +8140,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029063700 +0000" stop="20171029065900 +0000">
+  <programme channel="tv.101002210224" start="20171029063700 +0000" stop="20171029065800 +0000">
     <title>Miraculous: Tales of Ladybug &amp; Cat Noir</title>
     <episode-num system="dd_progid">ZX9828A006S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029065900 +0000" stop="20171029071100 +0000">
+  <programme channel="tv.101002210224" start="20171029065800 +0000" stop="20171029071100 +0000">
     <title>SheZow</title>
     <episode-num system="dd_progid">ZX1484A011S00</episode-num>
     <subtitles type="teletext"/>
@@ -8202,7 +8210,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029095300 +0000" stop="20171029101600 +0000">
+  <programme channel="tv.101002210224" start="20171029095300 +0000" stop="20171029101500 +0000">
     <title>R.L. Stine's The Haunting Hour</title>
     <episode-num system="dd_progid">ZW0082A002S00</episode-num>
     <subtitles type="teletext"/>
@@ -8210,7 +8218,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029101600 +0000" stop="20171029104100 +0000">
+  <programme channel="tv.101002210224" start="20171029101500 +0000" stop="20171029104100 +0000">
     <title>Move It Mobstyle</title>
     <episode-num system="dd_progid">ZX9956A013S00</episode-num>
     <subtitles type="teletext"/>
@@ -8239,7 +8247,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029182300 +0000" stop="20171029183500 +0000">
+  <programme channel="tv.101002210224" start="20171029182300 +0000" stop="20171029183600 +0000">
     <title>Sally Bollywood: Super Detective</title>
     <episode-num system="dd_progid">ZX9955A016S00</episode-num>
     <subtitles type="teletext"/>
@@ -8247,7 +8255,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029183500 +0000" stop="20171029190000 +0000">
+  <programme channel="tv.101002210224" start="20171029183600 +0000" stop="20171029190000 +0000">
     <title>Pearlie</title>
     <episode-num system="dd_progid">ZX9951A008S00</episode-num>
     <subtitles type="teletext"/>
@@ -8301,7 +8309,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029205200 +0000" stop="20171029211500 +0000">
+  <programme channel="tv.101002210224" start="20171029205200 +0000" stop="20171029211400 +0000">
     <title>The Legend of Korra</title>
     <episode-num system="dd_progid">ZW0719A019S00</episode-num>
     <subtitles type="teletext"/>
@@ -8309,7 +8317,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029211500 +0000" stop="20171029212600 +0000">
+  <programme channel="tv.101002210224" start="20171029211400 +0000" stop="20171029212600 +0000">
     <title>The Bagel and Becky Show</title>
     <episode-num system="dd_progid">ZW1216A045S00</episode-num>
     <subtitles type="teletext"/>
@@ -8317,7 +8325,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029212600 +0000" stop="20171029213900 +0000">
+  <programme channel="tv.101002210224" start="20171029212600 +0000" stop="20171029213800 +0000">
     <title>Bottersnikes &amp; Gumbles</title>
     <episode-num system="dd_progid">ZW1121A036S00</episode-num>
     <subtitles type="teletext"/>
@@ -8325,7 +8333,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029213900 +0000" stop="20171029215100 +0000">
+  <programme channel="tv.101002210224" start="20171029213800 +0000" stop="20171029215100 +0000">
     <title>Jamie's Got Tentacles</title>
     <episode-num system="dd_progid">ZX9400A011S00</episode-num>
     <subtitles type="teletext"/>
@@ -8356,7 +8364,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029222800 +0000" stop="20171029223500 +0000">
+  <programme channel="tv.101002210224" start="20171029222800 +0000" stop="20171029223400 +0000">
     <title>Handball Heroes</title>
     <episode-num system="dd_progid">CH1217Q011S00</episode-num>
     <subtitles type="teletext"/>
@@ -8364,7 +8372,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171029223500 +0000" stop="20171029230000 +0000">
+  <programme channel="tv.101002210224" start="20171029223400 +0000" stop="20171029230000 +0000">
     <title>Wacky World Beaters</title>
     <episode-num system="dd_progid">CH1301V007S00</episode-num>
     <subtitles type="teletext"/>
@@ -8420,7 +8428,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030005900 +0000" stop="20171030012200 +0000">
+  <programme channel="tv.101002210224" start="20171030005900 +0000" stop="20171030012100 +0000">
     <title>The Next Step</title>
     <episode-num system="dd_progid">ZW0258A020S00</episode-num>
     <subtitles type="teletext"/>
@@ -8428,7 +8436,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030012200 +0000" stop="20171030014500 +0000">
+  <programme channel="tv.101002210224" start="20171030012100 +0000" stop="20171030014500 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0234A032S00</episode-num>
     <subtitles type="teletext"/>
@@ -8436,14 +8444,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030014500 +0000" stop="20171030015800 +0000">
+  <programme channel="tv.101002210224" start="20171030014500 +0000" stop="20171030015700 +0000">
     <title>House of Anubis</title>
     <episode-num system="dd_progid">ZW0714A040S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030015800 +0000" stop="20171030022000 +0000">
+  <programme channel="tv.101002210224" start="20171030015700 +0000" stop="20171030022000 +0000">
     <title>Adventure Time</title>
     <episode-num system="dd_progid">ZW0471A009S00</episode-num>
     <rating system="Freeview">
@@ -8511,14 +8519,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030050100 +0000" stop="20171030052400 +0000">
+  <programme channel="tv.101002210224" start="20171030050100 +0000" stop="20171030052500 +0000">
     <title>Annedroids</title>
     <episode-num system="dd_progid">ZW0702A008S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030052400 +0000" stop="20171030055300 +0000">
+  <programme channel="tv.101002210224" start="20171030052500 +0000" stop="20171030055300 +0000">
     <title>Operation Ouch!</title>
     <episode-num system="dd_progid">ZX9930A009S00</episode-num>
     <subtitles type="teletext"/>
@@ -8534,14 +8542,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030060000 +0000" stop="20171030061100 +0000">
+  <programme channel="tv.101002210224" start="20171030060000 +0000" stop="20171030061000 +0000">
     <title>Game On</title>
     <episode-num system="dd_progid">ZW0491A005S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030061100 +0000" stop="20171030063600 +0000">
+  <programme channel="tv.101002210224" start="20171030061000 +0000" stop="20171030063600 +0000">
     <title>Secret Life of Boys</title>
     <episode-num system="dd_progid">ZW0930A057S00</episode-num>
     <subtitles type="teletext"/>
@@ -8556,7 +8564,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030065800 +0000" stop="20171030071100 +0000">
+  <programme channel="tv.101002210224" start="20171030065800 +0000" stop="20171030071000 +0000">
     <title>SheZow</title>
     <episode-num system="dd_progid">ZX1484A032S00</episode-num>
     <subtitles type="teletext"/>
@@ -8564,14 +8572,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030071100 +0000" stop="20171030073700 +0000">
+  <programme channel="tv.101002210224" start="20171030071000 +0000" stop="20171030073700 +0000">
     <title>Slugterra</title>
     <episode-num system="dd_progid">ZW0538A005S00</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030073700 +0000" stop="20171030075900 +0000">
+  <programme channel="tv.101002210224" start="20171030073700 +0000" stop="20171030080000 +0000">
     <title>The Next Step</title>
     <episode-num system="dd_progid">ZW0259A008S00</episode-num>
     <subtitles type="teletext"/>
@@ -8579,7 +8587,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030075900 +0000" stop="20171030083000 +0000">
+  <programme channel="tv.101002210224" start="20171030080000 +0000" stop="20171030083000 +0000">
     <title>Horrible Histories</title>
     <episode-num system="dd_progid">ZX9803A013S00</episode-num>
     <subtitles type="teletext"/>
@@ -8595,7 +8603,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030090000 +0000" stop="20171030090800 +0000">
+  <programme channel="tv.101002210224" start="20171030090000 +0000" stop="20171030090700 +0000">
     <title>BtN Newsbreak</title>
     <episode-num system="dd_progid">NE1662S194S00</episode-num>
     <subtitles type="teletext"/>
@@ -8603,7 +8611,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030090800 +0000" stop="20171030093000 +0000">
+  <programme channel="tv.101002210224" start="20171030090700 +0000" stop="20171030092900 +0000">
     <title>Degrassi: The Next Generation</title>
     <episode-num system="dd_progid">ZW0236A029S00</episode-num>
     <subtitles type="teletext"/>
@@ -8611,7 +8619,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030093000 +0000" stop="20171030095300 +0000">
+  <programme channel="tv.101002210224" start="20171030092900 +0000" stop="20171030095200 +0000">
     <title>Girl vs. Boy</title>
     <episode-num system="dd_progid">ZW0184A016S00</episode-num>
     <subtitles type="teletext"/>
@@ -8619,7 +8627,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030095300 +0000" stop="20171030101500 +0000">
+  <programme channel="tv.101002210224" start="20171030095200 +0000" stop="20171030101400 +0000">
     <title>R.L. Stine's The Haunting Hour</title>
     <episode-num system="dd_progid">ZW0082A003S00</episode-num>
     <subtitles type="teletext"/>
@@ -8627,7 +8635,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030101500 +0000" stop="20171030104100 +0000">
+  <programme channel="tv.101002210224" start="20171030101400 +0000" stop="20171030104000 +0000">
     <title>Move It Mobstyle</title>
     <episode-num system="dd_progid">ZX9956A014S00</episode-num>
     <subtitles type="teletext"/>
@@ -8635,7 +8643,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171030104100 +0000" stop="20171030114300 +0000">
+  <programme channel="tv.101002210224" start="20171030104000 +0000" stop="20171030114300 +0000">
     <title>rage</title>
     <episode-num system="dd_progid">TR1412H003S00</episode-num>
     <rating system="Freeview">
@@ -10222,7 +10230,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027010000 +0000" stop="20171027033000 +0000">
+  <programme channel="tv.101204600461" start="20171027010000 +0000" stop="20171027033100 +0000">
     <title>Today Extra</title>
     <episode-num system="dd_progid">TODAY17B__195</episode-num>
     <subtitles type="teletext"/>
@@ -10230,7 +10238,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027033000 +0000" stop="20171027040000 +0000">
+  <programme channel="tv.101204600461" start="20171027033100 +0000" stop="20171027040000 +0000">
     <title>Extra</title>
     <episode-num system="dd_progid">EXTR_24_33</episode-num>
     <subtitles type="teletext"/>
@@ -10238,7 +10246,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027040000 +0000" stop="20171027050000 +0000">
+  <programme channel="tv.101204600461" start="20171027040000 +0000" stop="20171027045800 +0000">
     <title>Nine News Now</title>
     <episode-num system="dd_progid">NINE_2017_215</episode-num>
     <subtitles type="teletext"/>
@@ -10246,7 +10254,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027050000 +0000" stop="20171027060000 +0000">
+  <programme channel="tv.101204600461" start="20171027045800 +0000" stop="20171027055700 +0000">
     <title>Ellen</title>
     <episode-num system="dd_progid">ELLE_15_38</episode-num>
     <subtitles type="teletext"/>
@@ -10254,7 +10262,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027060000 +0000" stop="20171027070000 +0000">
+  <programme channel="tv.101204600461" start="20171027055700 +0000" stop="20171027065900 +0000">
     <title>Flog It!</title>
     <episode-num system="dd_progid">FLIT_11_FKAP493H</episode-num>
     <subtitles type="teletext"/>
@@ -10262,7 +10270,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027070000 +0000" stop="20171027080000 +0000">
+  <programme channel="tv.101204600461" start="20171027065900 +0000" stop="20171027080000 +0000">
     <title>Secret Dealers</title>
     <episode-num system="dd_progid">SEDE_4_20</episode-num>
     <subtitles type="teletext"/>
@@ -10278,7 +10286,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027090000 +0000" stop="20171027100000 +0000">
+  <programme channel="tv.101204600461" start="20171027090000 +0000" stop="20171027095900 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA_2017_1592</episode-num>
     <subtitles type="teletext"/>
@@ -10286,7 +10294,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027100000 +0000" stop="20171027110000 +0000">
+  <programme channel="tv.101204600461" start="20171027095900 +0000" stop="20171027110000 +0000">
     <title>Nine News</title>
     <episode-num system="dd_progid">NNNS_2_215</episode-num>
     <subtitles type="teletext"/>
@@ -10294,7 +10302,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027110000 +0000" stop="20171027113000 +0000">
+  <programme channel="tv.101204600461" start="20171027110000 +0000" stop="20171027113200 +0000">
     <title>A Current Affair</title>
     <episode-num system="dd_progid">ACA_2017_215</episode-num>
     <subtitles type="teletext"/>
@@ -10302,14 +10310,14 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027113000 +0000" stop="20171027123000 +0000">
+  <programme channel="tv.101204600461" start="20171027113200 +0000" stop="20171027123800 +0000">
     <title>Vet on the Hill</title>
     <episode-num system="dd_progid">VEON_2_18</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027123000 +0000" stop="20171027144500 +0000">
+  <programme channel="tv.101204600461" start="20171027123800 +0000" stop="20171027150100 +0000">
     <title>The Imitation Game</title>
     <episode-num system="dd_progid">IMGA__1</episode-num>
     <subtitles type="teletext"/>
@@ -10317,14 +10325,14 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027144500 +0000" stop="20171027163000 +0000">
+  <programme channel="tv.101204600461" start="20171027150100 +0000" stop="20171027163100 +0000">
     <title>WA Screen Academy Awards 2017</title>
     <episode-num system="dd_progid">WASC__1</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027163000 +0000" stop="20171027173000 +0000">
+  <programme channel="tv.101204600461" start="20171027163100 +0000" stop="20171027172600 +0000">
     <title>Law &amp; Order True Crime: The Menendez Murders</title>
     <episode-num system="dd_progid">LAORME_1_4</episode-num>
     <subtitles type="teletext"/>
@@ -10332,14 +10340,14 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027173000 +0000" stop="20171027180000 +0000">
+  <programme channel="tv.101204600461" start="20171027172600 +0000" stop="20171027175500 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH_2016_A2830BM07N</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027180000 +0000" stop="20171027190000 +0000">
+  <programme channel="tv.101204600461" start="20171027175500 +0000" stop="20171027185300 +0000">
     <title>Filthy Rich</title>
     <episode-num system="dd_progid">FIRI_1_20</episode-num>
     <subtitles type="teletext"/>
@@ -10347,21 +10355,21 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027190000 +0000" stop="20171027200000 +0000">
+  <programme channel="tv.101204600461" start="20171027185300 +0000" stop="20171027195600 +0000">
     <title>The Avengers</title>
     <episode-num system="dd_progid">AVEN_5_24</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027200000 +0000" stop="20171027203000 +0000">
+  <programme channel="tv.101204600461" start="20171027195600 +0000" stop="20171027202600 +0000">
     <title>Global Shop</title>
     <episode-num system="dd_progid">GLSH_2014_BICW2830B19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171027203000 +0000" stop="20171027220000 +0000">
+  <programme channel="tv.101204600461" start="20171027202600 +0000" stop="20171027220000 +0000">
     <title>Good Morning America</title>
     <episode-num system="dd_progid">GOMO_2017_90</episode-num>
     <subtitles type="teletext"/>
@@ -10466,7 +10474,6 @@
   <programme channel="tv.101204600461" start="20171028093000 +0000" stop="20171028100000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10525,52 +10532,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171028193000 +0000" stop="20171028203000 +0000">
-    <title>The Baron</title>
-    <episode-num system="dd_progid">BARO_1_24</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171028203000 +0000" stop="20171028210000 +0000">
+  <programme channel="tv.101204600461" start="20171028193000 +0000" stop="20171028200000 +0000">
     <title>Global Shop</title>
     <episode-num system="dd_progid">19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171028210000 +0000" stop="20171028213000 +0000">
-    <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH_2016_A2830ARO08N</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171028213000 +0000" stop="20171028220000 +0000">
-    <title>Wesley Impact</title>
-    <episode-num system="dd_progid">WEIM_6_35</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171028220000 +0000" stop="20171028223000 +0000">
-    <title>Riverview TV</title>
-    <episode-num system="dd_progid">RITV17S__1053</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171028223000 +0000" stop="20171028230000 +0000">
-    <title>Dora the Explorer</title>
-    <episode-num system="dd_progid">DORA_7_11</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171028230000 +0000" stop="20171029020000 +0000">
+  <programme channel="tv.101204600461" start="20171028200000 +0000" stop="20171028220000 +0000">
     <title>Weekend Today</title>
     <episode-num system="dd_progid">TODAY_2017_87</episode-num>
     <subtitles type="teletext"/>
@@ -10578,7 +10547,23 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171029020000 +0000" stop="20171029030000 +0000">
+  <programme channel="tv.101204600461" start="20171028220000 +0000" stop="20171028230000 +0000">
+    <title>Weekend Today</title>
+    <episode-num system="dd_progid">TODAY_2017_87</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20171028230000 +0000" stop="20171029023000 +0000">
+    <title>Women's One Day Series</title>
+    <episode-num system="dd_progid">WONDA_2017_1</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600461" start="20171029023000 +0000" stop="20171029030000 +0000">
     <title>Sports Sunday</title>
     <episode-num system="dd_progid">WWOS_2017_35</episode-num>
     <subtitles type="teletext"/>
@@ -10586,43 +10571,12 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600461" start="20171029030000 +0000" stop="20171029033000 +0000">
-    <title>Bike Bug Full Cycle</title>
-    <episode-num system="dd_progid">FUCY_2017_28</episode-num>
+  <programme channel="tv.101204600461" start="20171029030000 +0000" stop="20171029063000 +0000">
+    <title>Women's One Day Series</title>
+    <episode-num system="dd_progid">WONDA_2017_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171029033000 +0000" stop="20171029040000 +0000">
-    <title>MySurf TV</title>
-    <episode-num system="dd_progid">MYSU_4_1</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171029040000 +0000" stop="20171029043000 +0000">
-    <title>SXS Australian Championship</title>
-    <episode-num system="dd_progid">SXSA_2017_3</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171029043000 +0000" stop="20171029053000 +0000">
-    <title>Melbourne Marathon</title>
-    <episode-num system="dd_progid">MEMA2017_2017_1</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204600461" start="20171029053000 +0000" stop="20171029063000 +0000">
-    <title>Endangered</title>
-    <episode-num system="dd_progid">ENDA_3_12</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20171029063000 +0000" stop="20171029063500 +0000">
@@ -10642,8 +10596,8 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20171029064000 +0000" stop="20171029071000 +0000">
-    <title>Neighbours at War</title>
-    <episode-num system="dd_progid">NEWA_7_8</episode-num>
+    <title>Customs</title>
+    <episode-num system="dd_progid">CUST_1_6</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -10673,8 +10627,8 @@
     </rating>
   </programme>
   <programme channel="tv.101204600461" start="20171029093000 +0000" stop="20171029100000 +0000">
-    <title>Customs</title>
-    <episode-num system="dd_progid">CUST_1_6</episode-num>
+    <title>RBT</title>
+    <episode-num system="dd_progid">RBT_5_3</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
@@ -10738,7 +10692,6 @@
   <programme channel="tv.101204600461" start="20171029170000 +0000" stop="20171029173000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -10752,7 +10705,7 @@
   </programme>
   <programme channel="tv.101204600461" start="20171029183000 +0000" stop="20171029190000 +0000">
     <title>Global Shop</title>
-    <episode-num system="dd_progid">GLSH_2014_4</episode-num>
+    <episode-num system="dd_progid">GLSH_2014_EURO2830B19940</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -13691,7 +13644,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171026220000 +0000" stop="20171026223000 +0000">
+  <programme channel="tv.101204600467" start="20171026220000 +0000" stop="20171026223100 +0000">
     <title>In the Garden</title>
     <episode-num system="dd_progid">ITGA__5</episode-num>
     <subtitles type="teletext"/>
@@ -13699,28 +13652,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171026223000 +0000" stop="20171026230000 +0000">
+  <programme channel="tv.101204600467" start="20171026223100 +0000" stop="20171026230000 +0000">
     <title>This is Your Day!</title>
     <episode-num system="dd_progid">BEHI2017_2017_7160</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171026230000 +0000" stop="20171026233000 +0000">
+  <programme channel="tv.101204600467" start="20171026230000 +0000" stop="20171026232900 +0000">
     <title>Creflo Dollar Ministries</title>
     <episode-num system="dd_progid">CRDO_2015_CI1017_27AUS</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171026233000 +0000" stop="20171027000000 +0000">
+  <programme channel="tv.101204600467" start="20171026232900 +0000" stop="20171026235700 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830TL32GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027000000 +0000" stop="20171027010000 +0000">
+  <programme channel="tv.101204600467" start="20171026235700 +0000" stop="20171027010000 +0000">
     <title>Ellen</title>
     <episode-num system="dd_progid">ELLE_15_37</episode-num>
     <subtitles type="teletext"/>
@@ -13728,14 +13681,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027010000 +0000" stop="20171027013000 +0000">
+  <programme channel="tv.101204600467" start="20171027010000 +0000" stop="20171027012900 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830GYA03GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027013000 +0000" stop="20171027020000 +0000">
+  <programme channel="tv.101204600467" start="20171027012900 +0000" stop="20171027020000 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH_2017_A2830ARO08GE</episode-num>
     <rating system="Freeview">
@@ -13749,14 +13702,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027023000 +0000" stop="20171027033000 +0000">
+  <programme channel="tv.101204600467" start="20171027023000 +0000" stop="20171027032800 +0000">
     <title>Harry</title>
     <episode-num system="dd_progid">201</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027033000 +0000" stop="20171027040000 +0000">
+  <programme channel="tv.101204600467" start="20171027032800 +0000" stop="20171027035800 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_8_227418</episode-num>
     <subtitles type="teletext"/>
@@ -13764,7 +13717,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027040000 +0000" stop="20171027060000 +0000">
+  <programme channel="tv.101204600467" start="20171027035800 +0000" stop="20171027055900 +0000">
     <title>The Baby and the Battleship</title>
     <episode-num system="dd_progid">BABA__1</episode-num>
     <subtitles type="teletext"/>
@@ -13772,35 +13725,35 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027060000 +0000" stop="20171027070000 +0000">
+  <programme channel="tv.101204600467" start="20171027055900 +0000" stop="20171027070100 +0000">
     <title>The Hairy Bikers' Best of British</title>
     <episode-num system="dd_progid">HABI_1_1</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027070000 +0000" stop="20171027081500 +0000">
+  <programme channel="tv.101204600467" start="20171027070100 +0000" stop="20171027081700 +0000">
     <title>Escape to the Country</title>
     <episode-num system="dd_progid">ESCO_2_11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027081500 +0000" stop="20171027092000 +0000">
+  <programme channel="tv.101204600467" start="20171027081700 +0000" stop="20171027092100 +0000">
     <title>Heartbeat</title>
     <episode-num system="dd_progid">I</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027092000 +0000" stop="20171027100000 +0000">
+  <programme channel="tv.101204600467" start="20171027092100 +0000" stop="20171027100000 +0000">
     <title>Are You Being Served?</title>
     <episode-num system="dd_progid">ARBE_8_4</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027100000 +0000" stop="20171027103000 +0000">
+  <programme channel="tv.101204600467" start="20171027100000 +0000" stop="20171027102800 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_8_227424</episode-num>
     <subtitles type="teletext"/>
@@ -13808,7 +13761,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027103000 +0000" stop="20171027110000 +0000">
+  <programme channel="tv.101204600467" start="20171027102800 +0000" stop="20171027105700 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_8_227421</episode-num>
     <subtitles type="teletext"/>
@@ -13816,14 +13769,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027110000 +0000" stop="20171027113000 +0000">
+  <programme channel="tv.101204600467" start="20171027105700 +0000" stop="20171027113000 +0000">
     <title>To the Manor Born</title>
     <episode-num system="dd_progid">MABO_1_3</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027113000 +0000" stop="20171027123000 +0000">
+  <programme channel="tv.101204600467" start="20171027113000 +0000" stop="20171027123200 +0000">
     <title>Stop, Search, Seize</title>
     <episode-num system="dd_progid">STSE101_1_7</episode-num>
     <subtitles type="teletext"/>
@@ -13831,7 +13784,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027123000 +0000" stop="20171027143000 +0000">
+  <programme channel="tv.101204600467" start="20171027123200 +0000" stop="20171027143700 +0000">
     <title>Must Love Dogs</title>
     <episode-num system="dd_progid">MULO__1</episode-num>
     <subtitles type="teletext"/>
@@ -13839,7 +13792,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027143000 +0000" stop="20171027163000 +0000">
+  <programme channel="tv.101204600467" start="20171027143700 +0000" stop="20171027163100 +0000">
     <title>Just Friends</title>
     <episode-num system="dd_progid">JUFR__1</episode-num>
     <subtitles type="teletext"/>
@@ -13847,7 +13800,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027163000 +0000" stop="20171027170000 +0000">
+  <programme channel="tv.101204600467" start="20171027163100 +0000" stop="20171027170000 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_8_227424</episode-num>
     <subtitles type="teletext"/>
@@ -13863,14 +13816,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027190000 +0000" stop="20171027200000 +0000">
+  <programme channel="tv.101204600467" start="20171027190000 +0000" stop="20171027195900 +0000">
     <title>Heartbeat</title>
     <episode-num system="dd_progid">I</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027200000 +0000" stop="20171027210000 +0000">
+  <programme channel="tv.101204600467" start="20171027195900 +0000" stop="20171027205700 +0000">
     <title>Seaway</title>
     <episode-num system="dd_progid">SEAW_1_8</episode-num>
     <subtitles type="teletext"/>
@@ -13878,35 +13831,35 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027210000 +0000" stop="20171027220000 +0000">
+  <programme channel="tv.101204600467" start="20171027205700 +0000" stop="20171027220000 +0000">
     <title>Gideon's Way</title>
     <episode-num system="dd_progid">GIWA_1_19</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027220000 +0000" stop="20171027223000 +0000">
+  <programme channel="tv.101204600467" start="20171027220000 +0000" stop="20171027223100 +0000">
     <title>Adventures in Rainbow Country</title>
     <episode-num system="dd_progid">ADRA_1_22</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027223000 +0000" stop="20171027230000 +0000">
+  <programme channel="tv.101204600467" start="20171027223100 +0000" stop="20171027230200 +0000">
     <title>Skippy</title>
     <episode-num system="dd_progid">SKBU_1_10</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027230000 +0000" stop="20171027233000 +0000">
+  <programme channel="tv.101204600467" start="20171027230200 +0000" stop="20171027233100 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH_2017_A2830BMT08GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171027233000 +0000" stop="20171028000000 +0000">
+  <programme channel="tv.101204600467" start="20171027233100 +0000" stop="20171028000000 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830RBG04GE</episode-num>
     <rating system="Freeview">
@@ -13920,28 +13873,28 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028003000 +0000" stop="20171028010000 +0000">
+  <programme channel="tv.101204600467" start="20171028003000 +0000" stop="20171028005800 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830HCM03GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028010000 +0000" stop="20171028013000 +0000">
+  <programme channel="tv.101204600467" start="20171028005800 +0000" stop="20171028012900 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830PEZ06GER</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028013000 +0000" stop="20171028020000 +0000">
+  <programme channel="tv.101204600467" start="20171028012900 +0000" stop="20171028015800 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830BM07GE</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028020000 +0000" stop="20171028023000 +0000">
+  <programme channel="tv.101204600467" start="20171028015800 +0000" stop="20171028023000 +0000">
     <title>Adventures in Rainbow Country</title>
     <episode-num system="dd_progid">ADRA_1_3</episode-num>
     <rating system="Freeview">
@@ -13955,7 +13908,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028093000 +0000" stop="20171028114000 +0000">
+  <programme channel="tv.101204600467" start="20171028093000 +0000" stop="20171028113800 +0000">
     <title>Paper Moon</title>
     <episode-num system="dd_progid">PAMO__1</episode-num>
     <subtitles type="teletext"/>
@@ -13963,7 +13916,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028114000 +0000" stop="20171028135000 +0000">
+  <programme channel="tv.101204600467" start="20171028113800 +0000" stop="20171028134500 +0000">
     <title>Practical Magic</title>
     <episode-num system="dd_progid">PRMA2__1</episode-num>
     <subtitles type="teletext"/>
@@ -13971,7 +13924,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028135000 +0000" stop="20171028153000 +0000">
+  <programme channel="tv.101204600467" start="20171028134500 +0000" stop="20171028152400 +0000">
     <title>The Wedding Date</title>
     <episode-num system="dd_progid">WEDA1__1</episode-num>
     <subtitles type="teletext"/>
@@ -13979,7 +13932,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028153000 +0000" stop="20171028163000 +0000">
+  <programme channel="tv.101204600467" start="20171028152400 +0000" stop="20171028162200 +0000">
     <title>Murder in the First</title>
     <episode-num system="dd_progid">MUIN_3_1</episode-num>
     <subtitles type="teletext"/>
@@ -13987,7 +13940,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028163000 +0000" stop="20171028170000 +0000">
+  <programme channel="tv.101204600467" start="20171028162200 +0000" stop="20171028165900 +0000">
     <title>Learn From the Money Masters</title>
     <episode-num system="dd_progid">LEFR_1_3</episode-num>
     <subtitles type="teletext"/>
@@ -13995,7 +13948,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028170000 +0000" stop="20171028190000 +0000">
+  <programme channel="tv.101204600467" start="20171028165900 +0000" stop="20171028190100 +0000">
     <title>Poor Cow</title>
     <episode-num system="dd_progid">POCO2__1</episode-num>
     <subtitles type="teletext"/>
@@ -14003,7 +13956,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028190000 +0000" stop="20171028204000 +0000">
+  <programme channel="tv.101204600467" start="20171028190100 +0000" stop="20171028204700 +0000">
     <title>Golden Ivory</title>
     <episode-num system="dd_progid">GOIV__1</episode-num>
     <subtitles type="teletext"/>
@@ -14011,7 +13964,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171028204000 +0000" stop="20171028220000 +0000">
+  <programme channel="tv.101204600467" start="20171028204700 +0000" stop="20171028220000 +0000">
     <title>The Edgar Wallace Mystery Theatre</title>
     <episode-num system="dd_progid">EDWA_1_24</episode-num>
     <rating system="Freeview">
@@ -14057,7 +14010,6 @@
   <programme channel="tv.101204600467" start="20171029003000 +0000" stop="20171029010000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14131,7 +14083,7 @@
   </programme>
   <programme channel="tv.101204600467" start="20171029180000 +0000" stop="20171029183000 +0000">
     <title>Global Shop</title>
-    <episode-num system="dd_progid">GLSH_2014_12</episode-num>
+    <episode-num system="dd_progid">GLSH_2014_BICW2830B10304</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -14154,7 +14106,6 @@
   <programme channel="tv.101204600467" start="20171029200000 +0000" stop="20171029203000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14218,9 +14169,16 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600467" start="20171030013000 +0000" stop="20171030023000 +0000">
-    <title>TV Shop - Home Shopping</title>
-    <episode-num system="dd_progid">TVSH__A2830BM07GE</episode-num>
+  <programme channel="tv.101204600467" start="20171030013000 +0000" stop="20171030020000 +0000">
+    <title>Danoz</title>
+    <episode-num system="dd_progid">DGEMP</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600467" start="20171030020000 +0000" stop="20171030023000 +0000">
+    <title>Danoz</title>
+    <episode-num system="dd_progid">PGEMP</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15646,7 +15604,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20171028063000 +0000" stop="20171028070000 +0000">
     <title>Surfing Australia TV</title>
-    <episode-num system="dd_progid">SUAU_2_10</episode-num>
+    <episode-num system="dd_progid">SUAU_2_11</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -15754,7 +15712,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20171028190000 +0000" stop="20171028193000 +0000">
     <title>Surfing Australia TV</title>
-    <episode-num system="dd_progid">SUAU_2_10</episode-num>
+    <episode-num system="dd_progid">SUAU_2_11</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -15816,26 +15774,110 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20171028230000 +0000" stop="20171029023000 +0000">
-    <title>Women's One Day Series</title>
-    <episode-num system="dd_progid">WONDA_2017_1</episode-num>
+  <programme channel="tv.101204600468" start="20171028230000 +0000" stop="20171028230500 +0000">
+    <title>Kids' WB Sunday</title>
+    <episode-num system="dd_progid">KIDSWB_2017_38</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20171029023000 +0000" stop="20171029030000 +0000">
-    <title>Surfing Australia TV</title>
-    <episode-num system="dd_progid">SUAU_2_11</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204600468" start="20171028230500 +0000" stop="20171028233000 +0000">
+    <title>Looney Tunes Classics</title>
+    <episode-num system="dd_progid">LOTU17_2017_76</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204600468" start="20171029030000 +0000" stop="20171029063000 +0000">
-    <title>Women's One Day Series</title>
-    <episode-num system="dd_progid">WONDA_2017_2</episode-num>
+  <programme channel="tv.101204600468" start="20171028233000 +0000" stop="20171029000000 +0000">
+    <title>The Day My Butt Went Psycho!</title>
+    <episode-num system="dd_progid">DAYMYBUT_1_36</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>C</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029000000 +0000" stop="20171029003000 +0000">
+    <title>Be Cool, Scooby-Doo!</title>
+    <episode-num system="dd_progid">BECO_1_10</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029003000 +0000" stop="20171029010000 +0000">
+    <title>The Looney Tunes Show</title>
+    <episode-num system="dd_progid">Looney_1_23</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029010000 +0000" stop="20171029013000 +0000">
+    <title>Green Lantern: The Animated Series</title>
+    <episode-num system="dd_progid">GREENLA_1_19</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029013000 +0000" stop="20171029020000 +0000">
+    <title>The Amazing World of Gumball</title>
+    <episode-num system="dd_progid">AMWO_3_16</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029020000 +0000" stop="20171029030000 +0000">
+    <title>Ninjago: Masters of Spinjitzu - Day of the Departed</title>
+    <episode-num system="dd_progid">NINJ__1</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029030000 +0000" stop="20171029033000 +0000">
+    <title>Ninjago: Masters of Spinjitzu</title>
+    <episode-num system="dd_progid">NINJ_7_6</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029033000 +0000" stop="20171029040000 +0000">
+    <title>Nexo Knights</title>
+    <episode-num system="dd_progid">NEKN_4_5</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029040000 +0000" stop="20171029043000 +0000">
+    <title>Turning Mecard</title>
+    <episode-num system="dd_progid">TUME_1_21</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029043000 +0000" stop="20171029050000 +0000">
+    <title>My Little Pony: Friendship is Magic</title>
+    <episode-num system="dd_progid">MYLI_1_115</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029050000 +0000" stop="20171029053000 +0000">
+    <title>The Making of My Little Pony: The Movie</title>
+    <episode-num system="dd_progid">MYLI101__1</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029053000 +0000" stop="20171029060000 +0000">
+    <title>Beyblade Burst</title>
+    <episode-num system="dd_progid">BEYB_1_7</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204600468" start="20171029060000 +0000" stop="20171029063000 +0000">
+    <title>Yu-Gi-Oh! Arc-V</title>
+    <episode-num system="dd_progid">YU-GI-OH_2_15</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20171029063000 +0000" stop="20171029070000 +0000">
@@ -15846,11 +15888,10 @@
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20171029070000 +0000" stop="20171029073000 +0000">
-    <title>The Day My Butt Went Psycho!</title>
-    <episode-num system="dd_progid">DAYMYBUT_1_36</episode-num>
-    <subtitles type="teletext"/>
+    <title>Yo-kai Watch</title>
+    <episode-num system="dd_progid">YOKA_2_43</episode-num>
     <rating system="Freeview">
-      <value>C</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204600468" start="20171029073000 +0000" stop="20171029080000 +0000">
@@ -15869,7 +15910,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20171029083000 +0000" stop="20171029090000 +0000">
     <title>Power Rangers Ninja Steel</title>
-    <episode-num system="dd_progid">PORA_7_3</episode-num>
+    <episode-num system="dd_progid">PORA_7_21</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15981,7 +16022,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20171029183000 +0000" stop="20171029190000 +0000">
     <title>Yo-kai Watch</title>
-    <episode-num system="dd_progid">YOKA_2_5</episode-num>
+    <episode-num system="dd_progid">YOKA_2_43</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -16081,7 +16122,6 @@
   <programme channel="tv.101204600468" start="20171030013000 +0000" stop="20171030020000 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_8</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -16141,7 +16181,7 @@
   </programme>
   <programme channel="tv.101204600468" start="20171030060000 +0000" stop="20171030063000 +0000">
     <title>Power Rangers Ninja Steel</title>
-    <episode-num system="dd_progid">PORA_7_3</episode-num>
+    <episode-num system="dd_progid">PORA_7_21</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -26712,7 +26752,7 @@
     <episode-num system="dd_progid">59983E208825</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070681" start="20171030133000 +0000" stop="20171030143000 +0000">
@@ -27602,7 +27642,7 @@
     <episode-num system="dd_progid">59779E1500229</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171026131000 +0000" stop="20171026141400 +0000">
@@ -27749,7 +27789,7 @@
     <episode-num system="dd_progid">59779E1500229</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171027063000 +0000" stop="20171027070000 +0000">
@@ -28076,7 +28116,7 @@
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
-  <programme channel="tv.101406070685" start="20171028143000 +0000" stop="20171028153000 +0000">
+  <programme channel="tv.101406070685" start="20171028143000 +0000" stop="20171028152500 +0000">
     <title>Bull</title>
     <episode-num system="dd_progid">59978E1509868</episode-num>
     <subtitles type="teletext"/>
@@ -28084,7 +28124,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171028153000 +0000" stop="20171028163000 +0000">
+  <programme channel="tv.101406070685" start="20171028152500 +0000" stop="20171028162500 +0000">
     <title>48 Hours</title>
     <episode-num system="dd_progid">53816E1368137</episode-num>
     <subtitles type="teletext"/>
@@ -28092,7 +28132,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171028163000 +0000" stop="20171028173000 +0000">
+  <programme channel="tv.101406070685" start="20171028162500 +0000" stop="20171028173000 +0000">
     <title>48 Hours</title>
     <episode-num system="dd_progid">53816E1368138</episode-num>
     <subtitles type="teletext"/>
@@ -28294,7 +28334,8 @@
   </programme>
   <programme channel="tv.101406070685" start="20171029103000 +0000" stop="20171029113000 +0000">
     <title>The Sunday Project</title>
-    <episode-num system="dd_progid">364294E8022140</episode-num>
+    <episode-num system="dd_progid">59876E1515880</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -28323,7 +28364,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171029143000 +0000" stop="20171029153000 +0000">
+  <programme channel="tv.101406070685" start="20171029143000 +0000" stop="20171029152000 +0000">
     <title>NCIS</title>
     <episode-num system="dd_progid">59979E1509890</episode-num>
     <subtitles type="teletext"/>
@@ -28331,9 +28372,10 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171029153000 +0000" stop="20171029163000 +0000">
+  <programme channel="tv.101406070685" start="20171029152000 +0000" stop="20171029163000 +0000">
     <title>The Sunday Project</title>
-    <episode-num system="dd_progid">364294E8022140</episode-num>
+    <episode-num system="dd_progid">59876E1515880</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -28555,18 +28597,18 @@
     <episode-num system="dd_progid">58877E1470331</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171030143000 +0000" stop="20171030163000 +0000">
-    <title>Sisters</title>
-    <episode-num system="dd_progid">0E1512771</episode-num>
+  <programme channel="tv.101406070685" start="20171030143000 +0000" stop="20171030153000 +0000">
+    <title>Madam Secretary</title>
+    <episode-num system="dd_progid">58443E1461630</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171030163000 +0000" stop="20171030173000 +0000">
+  <programme channel="tv.101406070685" start="20171030153000 +0000" stop="20171030163000 +0000">
     <title>The Project</title>
     <episode-num system="dd_progid">59797E1500807</episode-num>
     <subtitles type="teletext"/>
@@ -28574,12 +28616,26 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406070685" start="20171030173000 +0000" stop="20171030183000 +0000">
+  <programme channel="tv.101406070685" start="20171030163000 +0000" stop="20171030173000 +0000">
     <title>The Late Show With Stephen Colbert</title>
     <episode-num system="dd_progid">59896E1509320</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20171030173000 +0000" stop="20171030180000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57656E1447514</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101406070685" start="20171030180000 +0000" stop="20171030183000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57656E1447515</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171030183000 +0000" stop="20171030190000 +0000">
@@ -29020,7 +29076,7 @@
     <title>The Late Show With Stephen Colbert</title>
     <episode-num system="dd_progid">59896E1512040</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171101173000 +0000" stop="20171101180000 +0000">
@@ -31092,7 +31148,7 @@
     <title>Will &amp; Grace</title>
     <episode-num system="dd_progid">60037E1512925</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20171031123000 +0000" stop="20171031143000 +0000">
@@ -31407,7 +31463,7 @@
     <title>Will &amp; Grace</title>
     <episode-num system="dd_progid">60037E1512926</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20171101123000 +0000" stop="20171101140000 +0000">
@@ -31429,7 +31485,7 @@
     <title>The Late Late Show with James Corden</title>
     <episode-num system="dd_progid">59899E1515105</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20171101160000 +0000" stop="20171101163000 +0000">
@@ -31716,7 +31772,7 @@
     <title>Will &amp; Grace</title>
     <episode-num system="dd_progid">60037E1512927</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406070688" start="20171102120000 +0000" stop="20171102123000 +0000">
@@ -31758,7 +31814,7 @@
     <title>The Late Late Show with James Corden</title>
     <episode-num system="dd_progid">59899E1515106</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20171025162300 +0000" stop="20171025163900 +0000">
@@ -32121,7 +32177,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027065700 +0000" stop="20171027074400 +0000">
+  <programme channel="tv.3201026102E1" start="20171027065700 +0000" stop="20171027074500 +0000">
     <title>DCI Banks</title>
     <episode-num system="dd_progid">ZW0342A006S00</episode-num>
     <subtitles type="teletext"/>
@@ -32129,7 +32185,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027074400 +0000" stop="20171027081500 +0000">
+  <programme channel="tv.3201026102E1" start="20171027074500 +0000" stop="20171027081500 +0000">
     <title>Simply Nigella</title>
     <episode-num system="dd_progid">ZW0731A005S00</episode-num>
     <subtitles type="teletext"/>
@@ -32161,7 +32217,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027100000 +0000" stop="20171027101000 +0000">
+  <programme channel="tv.3201026102E1" start="20171027100000 +0000" stop="20171027101100 +0000">
     <title>The Checkout: Snack Size</title>
     <episode-num system="dd_progid">LR1618H010S00</episode-num>
     <subtitles type="teletext"/>
@@ -32169,7 +32225,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027101000 +0000" stop="20171027110000 +0000">
+  <programme channel="tv.3201026102E1" start="20171027101100 +0000" stop="20171027110000 +0000">
     <title>Grand Designs</title>
     <episode-num system="dd_progid">ZX9901A003S00</episode-num>
     <subtitles type="teletext"/>
@@ -32201,7 +32257,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027135000 +0000" stop="20171027142100 +0000">
+  <programme channel="tv.3201026102E1" start="20171027135000 +0000" stop="20171027142200 +0000">
     <title>Planet America</title>
     <episode-num system="dd_progid">NU1735H041S00</episode-num>
     <subtitles type="teletext"/>
@@ -32209,7 +32265,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171027142100 +0000" stop="20171027145200 +0000">
+  <programme channel="tv.3201026102E1" start="20171027142200 +0000" stop="20171027145200 +0000">
     <title>Lateline</title>
     <episode-num system="dd_progid">NC1725H190S00</episode-num>
     <subtitles type="teletext"/>
@@ -32248,7 +32304,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171028020000 +0000" stop="20171028030000 +0000">
+  <programme channel="tv.3201026102E1" start="20171028020000 +0000" stop="20171028025800 +0000">
     <title>rage</title>
     <episode-num system="dd_progid">LR1703H043S00</episode-num>
     <subtitles type="teletext"/>
@@ -32256,7 +32312,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171028030000 +0000" stop="20171028040000 +0000">
+  <programme channel="tv.3201026102E1" start="20171028025800 +0000" stop="20171028040000 +0000">
     <title>Classic Countdown</title>
     <episode-num system="dd_progid">LE1601V006S00</episode-num>
     <subtitles type="teletext"/>
@@ -32266,7 +32322,7 @@
   </programme>
   <programme channel="tv.3201026102E1" start="20171028040000 +0000" stop="20171028042900 +0000">
     <title>ABC News</title>
-    <episode-num system="dd_progid">NU1721H086S00</episode-num>
+    <episode-num system="dd_progid">NU1722H086S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -32297,7 +32353,7 @@
     </rating>
   </programme>
   <programme channel="tv.3201026102E1" start="20171028080000 +0000" stop="20171028082900 +0000">
-    <title>Landline</title>
+    <title>A Landline Special: The Last Charge</title>
     <episode-num system="dd_progid">RA1702Q037S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
@@ -32368,7 +32424,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171028153800 +0000" stop="20171028161700 +0000">
+  <programme channel="tv.3201026102E1" start="20171028153800 +0000" stop="20171028162100 +0000">
     <title>Adam Hills: The Last Leg</title>
     <episode-num system="dd_progid">ZW1371A004S00</episode-num>
     <subtitles type="teletext"/>
@@ -32376,7 +32432,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171028161700 +0000" stop="20171028210000 +0000">
+  <programme channel="tv.3201026102E1" start="20171028162100 +0000" stop="20171028210000 +0000">
     <title>rage</title>
     <episode-num system="dd_progid">LR1704H043S00</episode-num>
     <rating system="Freeview">
@@ -32494,7 +32550,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029081800 +0000" stop="20171029093000 +0000">
+  <programme channel="tv.3201026102E1" start="20171029081800 +0000" stop="20171029092900 +0000">
     <title>Victoria</title>
     <episode-num system="dd_progid">ZW0779A001S00</episode-num>
     <subtitles type="teletext"/>
@@ -32502,7 +32558,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029093000 +0000" stop="20171029100200 +0000">
+  <programme channel="tv.3201026102E1" start="20171029092900 +0000" stop="20171029100100 +0000">
     <title>Hard Quiz</title>
     <episode-num system="dd_progid">LE1631V013S00</episode-num>
     <subtitles type="teletext"/>
@@ -32510,7 +32566,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029100200 +0000" stop="20171029110000 +0000">
+  <programme channel="tv.3201026102E1" start="20171029100100 +0000" stop="20171029110000 +0000">
     <title>Classic Countdown</title>
     <episode-num system="dd_progid">LE1601V007S00</episode-num>
     <subtitles type="teletext"/>
@@ -32518,7 +32574,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029110000 +0000" stop="20171029114100 +0000">
+  <programme channel="tv.3201026102E1" start="20171029110000 +0000" stop="20171029114200 +0000">
     <title>ABC News</title>
     <episode-num system="dd_progid">NN1716W044S00</episode-num>
     <subtitles type="teletext"/>
@@ -32526,7 +32582,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029114100 +0000" stop="20171029122900 +0000">
+  <programme channel="tv.3201026102E1" start="20171029114200 +0000" stop="20171029123000 +0000">
     <title>Doc Martin</title>
     <episode-num system="dd_progid">ZW1293A005S00</episode-num>
     <subtitles type="teletext"/>
@@ -32534,7 +32590,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029122900 +0000" stop="20171029132600 +0000">
+  <programme channel="tv.3201026102E1" start="20171029123000 +0000" stop="20171029132700 +0000">
     <title>The Doctor Blake Mysteries</title>
     <episode-num system="dd_progid">DR1531V007S00</episode-num>
     <subtitles type="teletext"/>
@@ -32542,7 +32598,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029132600 +0000" stop="20171029145700 +0000">
+  <programme channel="tv.3201026102E1" start="20171029132700 +0000" stop="20171029145800 +0000">
     <title>Wallander</title>
     <episode-num system="dd_progid">ZW0661A001S00</episode-num>
     <subtitles type="teletext"/>
@@ -32550,7 +32606,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029145700 +0000" stop="20171029160700 +0000">
+  <programme channel="tv.3201026102E1" start="20171029145800 +0000" stop="20171029160600 +0000">
     <title>Richard Flanagan: Life After Death</title>
     <episode-num system="dd_progid">ZW0694A001S00</episode-num>
     <subtitles type="teletext"/>
@@ -32558,7 +32614,7 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171029160700 +0000" stop="20171029165600 +0000">
+  <programme channel="tv.3201026102E1" start="20171029160600 +0000" stop="20171029165600 +0000">
     <title>Fortitude</title>
     <episode-num system="dd_progid">ZW0222A003S00</episode-num>
     <subtitles type="teletext"/>
@@ -32693,7 +32749,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171030093000 +0000" stop="20171030100000 +0000">
+  <programme channel="tv.3201026102E1" start="20171030093000 +0000" stop="20171030100200 +0000">
     <title>The Drum</title>
     <episode-num system="dd_progid">NU1705H196S00</episode-num>
     <subtitles type="teletext"/>
@@ -32701,7 +32757,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171030100000 +0000" stop="20171030101000 +0000">
+  <programme channel="tv.3201026102E1" start="20171030100200 +0000" stop="20171030101100 +0000">
     <title>The Mix Stories</title>
     <episode-num system="dd_progid">NU1763H003S00</episode-num>
     <subtitles type="teletext"/>
@@ -32709,7 +32765,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171030101000 +0000" stop="20171030110000 +0000">
+  <programme channel="tv.3201026102E1" start="20171030101100 +0000" stop="20171030110000 +0000">
     <title>Grand Designs</title>
     <episode-num system="dd_progid">ZX9901A004S00</episode-num>
     <subtitles type="teletext"/>
@@ -32804,7 +32860,7 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171030200600 +0000" stop="20171030210800 +0000">
+  <programme channel="tv.3201026102E1" start="20171030200600 +0000" stop="20171030210700 +0000">
     <title>Antiques Roadshow</title>
     <episode-num system="dd_progid">ZW0734A022S00</episode-num>
     <subtitles type="teletext"/>
@@ -32812,7 +32868,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171030210800 +0000" stop="20171030220000 +0000">
+  <programme channel="tv.3201026102E1" start="20171030210700 +0000" stop="20171030220000 +0000">
     <title>The Bill</title>
     <episode-num system="dd_progid">ZW0642A081S00</episode-num>
     <subtitles type="teletext"/>
@@ -32916,7 +32972,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031093000 +0000" stop="20171031100000 +0000">
+  <programme channel="tv.3201026102E1" start="20171031093000 +0000" stop="20171031100100 +0000">
     <title>The Drum</title>
     <episode-num system="dd_progid">NU1705H197S00</episode-num>
     <subtitles type="teletext"/>
@@ -32924,7 +32980,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031100000 +0000" stop="20171031101000 +0000">
+  <programme channel="tv.3201026102E1" start="20171031100100 +0000" stop="20171031101100 +0000">
     <title>The Checkout: Snack Size</title>
     <episode-num system="dd_progid">LR1618H014S00</episode-num>
     <subtitles type="teletext"/>
@@ -32932,7 +32988,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031101000 +0000" stop="20171031110000 +0000">
+  <programme channel="tv.3201026102E1" start="20171031101100 +0000" stop="20171031110000 +0000">
     <title>Grand Designs</title>
     <episode-num system="dd_progid">ZX9901A005S00</episode-num>
     <subtitles type="teletext"/>
@@ -32988,7 +33044,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031150100 +0000" stop="20171031151800 +0000">
+  <programme channel="tv.3201026102E1" start="20171031150100 +0000" stop="20171031151700 +0000">
     <title>The Business</title>
     <episode-num system="dd_progid">NU1704H192S00</episode-num>
     <subtitles type="teletext"/>
@@ -32996,7 +33052,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031151800 +0000" stop="20171031161800 +0000">
+  <programme channel="tv.3201026102E1" start="20171031151700 +0000" stop="20171031161800 +0000">
     <title>Australia's Great War Horse</title>
     <episode-num system="dd_progid">DO1302W001S00</episode-num>
     <subtitles type="teletext"/>
@@ -33004,7 +33060,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031161800 +0000" stop="20171031173100 +0000">
+  <programme channel="tv.3201026102E1" start="20171031161800 +0000" stop="20171031173000 +0000">
     <title>Australia Remembers: Beersheba Centenary Service</title>
     <episode-num system="dd_progid">FA1612H001S00</episode-num>
     <subtitles type="teletext"/>
@@ -33012,7 +33068,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031173100 +0000" stop="20171031180800 +0000">
+  <programme channel="tv.3201026102E1" start="20171031173000 +0000" stop="20171031180000 +0000">
+    <title>A Landline Special: The Last Charge</title>
+    <episode-num system="dd_progid">RA1702Q037S00</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.3201026102E1" start="20171031180000 +0000" stop="20171031185800 +0000">
     <title>Australia Remembers: Beersheba Australian Service</title>
     <episode-num system="dd_progid">FA1612H002S00</episode-num>
     <subtitles type="teletext"/>
@@ -33020,7 +33084,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171031180800 +0000" stop="20171031200600 +0000">
+  <programme channel="tv.3201026102E1" start="20171031185800 +0000" stop="20171031200600 +0000">
     <title>rage</title>
     <episode-num system="dd_progid">LR1708H163S00</episode-num>
     <rating system="Freeview">
@@ -33402,7 +33466,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102100000 +0000" stop="20171102100700 +0000">
+  <programme channel="tv.3201026102E1" start="20171102100000 +0000" stop="20171102100800 +0000">
     <title>Classic Countdown Extras</title>
     <episode-num system="dd_progid">LR1601V013S00</episode-num>
     <subtitles type="teletext"/>
@@ -33410,7 +33474,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102100700 +0000" stop="20171102105600 +0000">
+  <programme channel="tv.3201026102E1" start="20171102100800 +0000" stop="20171102105400 +0000">
     <title>Grand Designs</title>
     <episode-num system="dd_progid">ZX9901A007S00</episode-num>
     <subtitles type="teletext"/>
@@ -33418,7 +33482,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102105600 +0000" stop="20171102110000 +0000">
+  <programme channel="tv.3201026102E1" start="20171102105400 +0000" stop="20171102110000 +0000">
     <title>Clarke and Dawe: From the Archives</title>
     <episode-num system="dd_progid">NC1711V035S00</episode-num>
     <subtitles type="teletext"/>
@@ -33434,7 +33498,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102113000 +0000" stop="20171102120200 +0000">
+  <programme channel="tv.3201026102E1" start="20171102113000 +0000" stop="20171102120100 +0000">
     <title>7.30</title>
     <episode-num system="dd_progid">NC1705H184S00</episode-num>
     <subtitles type="teletext"/>
@@ -33442,7 +33506,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102120200 +0000" stop="20171102123100 +0000">
+  <programme channel="tv.3201026102E1" start="20171102120100 +0000" stop="20171102123300 +0000">
     <title>Insert Name Here</title>
     <episode-num system="dd_progid">ZW1361A004S00</episode-num>
     <subtitles type="teletext"/>
@@ -33450,7 +33514,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102123100 +0000" stop="20171102125900 +0000">
+  <programme channel="tv.3201026102E1" start="20171102123300 +0000" stop="20171102125900 +0000">
     <title>The Ex-PM</title>
     <episode-num system="dd_progid">CO1605V002S00</episode-num>
     <subtitles type="teletext"/>
@@ -33466,7 +33530,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102132600 +0000" stop="20171102135200 +0000">
+  <programme channel="tv.3201026102E1" start="20171102132600 +0000" stop="20171102135100 +0000">
     <title>Back</title>
     <episode-num system="dd_progid">ZW1381A002S00</episode-num>
     <subtitles type="teletext"/>
@@ -33474,7 +33538,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102135200 +0000" stop="20171102142300 +0000">
+  <programme channel="tv.3201026102E1" start="20171102135100 +0000" stop="20171102142200 +0000">
     <title>Upper Middle Bogan</title>
     <episode-num system="dd_progid">CO1509V002S00</episode-num>
     <subtitles type="teletext"/>
@@ -33482,7 +33546,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.3201026102E1" start="20171102142300 +0000" stop="20171102145200 +0000">
+  <programme channel="tv.3201026102E1" start="20171102142200 +0000" stop="20171102145200 +0000">
     <title>Lateline</title>
     <episode-num system="dd_progid">NC1725H194S00</episode-num>
     <subtitles type="teletext"/>
@@ -34488,7 +34552,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20171030043500 +0000" stop="20171030053000 +0000">
     <title>American Genius</title>
-    <episode-num system="dd_progid">760328</episode-num>
+    <episode-num system="dd_progid">896321</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -35746,14 +35810,14 @@
   </programme>
   <programme channel="tv.320203000302" start="20171027102500 +0000" stop="20171027112500 +0000">
     <title>Sunshine</title>
-    <episode-num system="dd_progid">839497</episode-num>
+    <episode-num system="dd_progid">896458</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171027112500 +0000" stop="20171027123000 +0000">
     <title>Sunshine</title>
-    <episode-num system="dd_progid">839498</episode-num>
+    <episode-num system="dd_progid">896459</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -36006,9 +36070,9 @@
   </programme>
   <programme channel="tv.320203000302" start="20171028083000 +0000" stop="20171028092500 +0000">
     <title>The Last Shot</title>
-    <episode-num system="dd_progid">0</episode-num>
+    <episode-num system="dd_progid">896322</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171028092500 +0000" stop="20171028093000 +0000">
@@ -36187,28 +36251,28 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20171029052500 +0000" stop="20171029053500 +0000">
+  <programme channel="tv.320203000302" start="20171029052500 +0000" stop="20171029053000 +0000">
     <title>SBS On Demand Staff Picks</title>
     <episode-num system="dd_progid">883511</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20171029053500 +0000" stop="20171029063000 +0000">
+  <programme channel="tv.320203000302" start="20171029053000 +0000" stop="20171029062500 +0000">
     <title>Huang's World</title>
     <episode-num system="dd_progid">864175</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20171029063000 +0000" stop="20171029070000 +0000">
+  <programme channel="tv.320203000302" start="20171029062500 +0000" stop="20171029065500 +0000">
     <title>Batman</title>
     <episode-num system="dd_progid">875979</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000302" start="20171029070000 +0000" stop="20171029072500 +0000">
+  <programme channel="tv.320203000302" start="20171029065500 +0000" stop="20171029072500 +0000">
     <title>Batman</title>
     <episode-num system="dd_progid">875980</episode-num>
     <rating system="Freeview">
@@ -36247,7 +36311,7 @@
     <title>Party Legends</title>
     <episode-num system="dd_progid">886268</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171029112000 +0000" stop="20171029122500 +0000">
@@ -36795,7 +36859,7 @@
     <title>Party Legends</title>
     <episode-num system="dd_progid">886268</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171031143000 +0000" stop="20171031145500 +0000">
@@ -37973,7 +38037,7 @@
     <title>Cooking For Love</title>
     <episode-num system="dd_progid">874893</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171027063000 +0000" stop="20171027070000 +0000">
@@ -38190,7 +38254,7 @@
     <title>Cooking For Love</title>
     <episode-num system="dd_progid">874893</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171027203000 +0000" stop="20171027210000 +0000">
@@ -38988,7 +39052,7 @@
     <title>Cooking For Love</title>
     <episode-num system="dd_progid">874895</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171030063000 +0000" stop="20171030065500 +0000">
@@ -39212,7 +39276,7 @@
     <title>Cooking For Love</title>
     <episode-num system="dd_progid">874895</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171030203000 +0000" stop="20171030210000 +0000">
@@ -41825,7 +41889,7 @@
     <title>Pakam</title>
     <episode-num system="dd_progid">718279</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171031082500 +0000" stop="20171031083000 +0000">
@@ -42306,7 +42370,7 @@
   </programme>
   <programme channel="tv.320203000305" start="20171101230000 +0000" stop="20171101233000 +0000">
     <title>The Point</title>
-    <episode-num system="dd_progid">841793</episode-num>
+    <episode-num system="dd_progid">841937</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
