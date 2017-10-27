@@ -14589,6 +14589,9 @@
     <title>Mainfreight Rugby</title>
     <desc>Tune in to support your local team and watch rugby matches from clubs around New Zealand. G</desc>
     <episode-num system="dd_progid">SNZ10941411</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171029033000 +0000" stop="20171029043000 +0000">
     <title>Best Of Top Gear</title>
@@ -14788,6 +14791,9 @@
     <title>The Crowd Goes Wild</title>
     <desc>Join the Crowd Goes Wild team as we look back on some of the finest (and potentially not-so-fine) sports news moments. G (R)</desc>
     <episode-num system="dd_progid">SNZ10850662</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171030020000 +0000" stop="20171030030000 +0000">
     <title>Escape To The Country</title>
