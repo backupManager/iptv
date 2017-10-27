@@ -90,16 +90,16 @@
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png"/>
   </channel>
   <programme channel="tv.101002210220" start="20171027123000 +0000" stop="20171027130000 +0000">
-    <title>The Mix</title>
-    <episode-num system="dd_progid">NU1702H039S00</episode-num>
+    <title>7.30</title>
+    <episode-num system="dd_progid">NC1705H217S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
   </programme>
   <programme channel="tv.101002210220" start="20171027123000 +0000" stop="20171027130000 +0000">
-    <title>7.30</title>
-    <episode-num system="dd_progid">NC1705H217S00</episode-num>
+    <title>The Mix</title>
+    <episode-num system="dd_progid">NU1702H039S00</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -28972,16 +28972,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20171030033000 +0000" stop="20171030040000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380052</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438024</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406030635" start="20171030033000 +0000" stop="20171030040000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438024</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380052</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
