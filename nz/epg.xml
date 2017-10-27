@@ -233,10 +233,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171026163000 +0000" stop="20171026173000 +0000">
+  <programme channel="tv.10" start="20171026163000 +0000" stop="20171026170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473129</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171026170000 +0000" stop="20171026173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.10" start="20171026173000 +0000" stop="20171026175500 +0000">
     <title>Sesame Street</title>
@@ -1031,6 +1036,12 @@
     <title>Michael Jackson's Halloween</title>
     <desc>Special: Michael Jackson’s music is soundtrack to the story of a young duo named Vincent and Victoria who “accidentally” meet on Halloween night.</desc>
     <episode-num system="dd_progid">10493115</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171029073000 +0000" stop="20171029094000 +0000">
     <title>World War Z</title>
@@ -1326,6 +1337,12 @@
     <title>All New Will &amp; Grace</title>
     <desc>That's right, honey! A decade after their unforgettable eight-season run, comedy's most fabulous foursome is back.</desc>
     <episode-num system="dd_progid">10491209</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030080000 +0000" stop="20171030083000 +0000">
     <title>The Mick</title>
@@ -1335,7 +1352,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030083000 +0000" stop="20171030093500 +0000">
+  <programme channel="tv.10" start="20171030083000 +0000" stop="20171030093000 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E2 Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495964</episode-num>
@@ -1346,7 +1363,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030093500 +0000" stop="20171030100500 +0000">
+  <programme channel="tv.10" start="20171030093000 +0000" stop="20171030100000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E19 When the girls take office temp jobs, Caroline tries to climb the corporate ladder while Max finds herself being hit on by the boss.</desc>
     <episode-num system="dd_progid">10312231</episode-num>
@@ -1357,7 +1374,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171030100500 +0000" stop="20171030103000 +0000">
+  <programme channel="tv.10" start="20171030100000 +0000" stop="20171030103000 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S2 E4 Mike doesn't know what to do when Molly insists on saving money for the wedding and he gets a chance to buy Vince's '57 Chevy Bel Air.</desc>
     <episode-num system="dd_progid">10275926</episode-num>
@@ -1914,6 +1931,9 @@
     <title>Home And Away</title>
     <desc>Mick is in the Bay saying he wants to start over. Maggie worries about Ziggy.</desc>
     <episode-num system="dd_progid">10487070</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171101050000 +0000" stop="20171101053000 +0000">
     <title>The Big Bang Theory</title>
@@ -2187,6 +2207,9 @@
     <title>Home And Away</title>
     <desc>Mick is in the Bay saying he wants to start over. Maggie worries about Ziggy.</desc>
     <episode-num system="dd_progid">10487070</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171102020000 +0000" stop="20171102023000 +0000">
     <title>Shortland Street</title>
@@ -2530,6 +2553,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103043000 +0000" stop="20171103050000 +0000">
     <title>Home And Away</title>
@@ -2548,6 +2574,9 @@
     <title>Neighbours</title>
     <desc>Leo is desperate to repair the damage he’s caused with Mishti. Tyler’s suspicions drive him and piper further apart. Yashvi runs amok on muck-up day.</desc>
     <episode-num system="dd_progid">10415588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103060000 +0000" stop="20171103063000 +0000">
     <title>Shortland Street</title>
@@ -2568,11 +2597,17 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103073000 +0000" stop="20171103083000 +0000">
     <title>Take Me Out</title>
     <desc>Paddy McGuinness hosts a dating show where single guys spill the beans to 30 lovely ladies in the hope of scoring a romantic date.</desc>
     <episode-num system="dd_progid">10455849</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103083000 +0000" stop="20171103093000 +0000">
     <title>Naked Attraction</title>
@@ -19178,7 +19213,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171029093500 +0000" stop="20171029103000 +0000">
+  <programme channel="tv.37" start="20171029093500 +0000" stop="20171029103500 +0000">
     <title>The Auction House</title>
     <desc>They say one man's trash is another man's treasure and nowhere is that more true than at Lots Road Auctions, nestled in the heart of the glamorous London Borough of Chelsea.</desc>
     <episode-num system="dd_progid">TAHS01Ep3</episode-num>
@@ -19186,7 +19221,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171029103000 +0000" stop="20171029110000 +0000">
+  <programme channel="tv.37" start="20171029103500 +0000" stop="20171029110000 +0000">
     <title>Buying Alaska</title>
     <desc>.Ernie came to Alaska over twenty years ago to 'kill things', and he's passed along his love of hunting to his wife and kids. They have a cabin, but they want an upgrade.</desc>
     <episode-num system="dd_progid">BUYA01Ep9</episode-num>
@@ -19338,18 +19373,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030043000 +0000" stop="20171030050000 +0000">
-    <title>Tiny House Hunting</title>
-    <desc>Gregoire and Christopher are hunting for their first home together in San Francisco. They're willing to trade space for a downtown location, but is a decent apartment possible in pricey San Francisco?</desc>
-    <episode-num system="dd_progid">HHUNT03Ep48</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20171030050000 +0000" stop="20171030053000 +0000">
-    <title>Tiny House World</title>
-    <desc>Ali and Belly have a wedding on the horizon, and are ready to buy their first home together. With a tight budget and large which list, will the honeymoon phase be over before it starts?</desc>
-    <episode-num system="dd_progid">TINHW01Ep16</episode-num>
+  <programme channel="tv.37" start="20171030043000 +0000" stop="20171030053000 +0000">
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep113</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19370,7 +19397,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030073000 +0000" stop="20171030083000 +0000">
+  <programme channel="tv.37" start="20171030073000 +0000" stop="20171030083500 +0000">
     <title>Joanna Lumley's Greek Odyssey</title>
     <desc>Joanna Lumley takes an extraordinary odyssey through Greece ? the birthplace of drama, democracy, language, western science and medicine, the wellspring of civilisation and modern European culture.</desc>
     <episode-num system="dd_progid">JOLGO01Ep1</episode-num>
@@ -19378,7 +19405,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030083000 +0000" stop="20171030093000 +0000">
+  <programme channel="tv.37" start="20171030083500 +0000" stop="20171030093500 +0000">
     <title>Chivalry and Betrayal: The 100 Years War</title>
     <desc>England, wracked by plague and revolt, loses the upper hand until Henry V, determined to prove his right to be king, turns the tide at the battle of Agincourt.</desc>
     <episode-num system="dd_progid">CBHYW01Ep2</episode-num>
@@ -19386,7 +19413,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030093000 +0000" stop="20171030103000 +0000">
+  <programme channel="tv.37" start="20171030093500 +0000" stop="20171030103500 +0000">
     <title>American Pickers</title>
     <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
     <episode-num system="dd_progid">APICK06Ep113</episode-num>
@@ -19394,7 +19421,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030103000 +0000" stop="20171030113000 +0000">
+  <programme channel="tv.37" start="20171030103500 +0000" stop="20171030113000 +0000">
     <title>River Cottage To The Core</title>
     <desc>Hugh wants to prove strawberries can be served as a savoury as well as a sweet. He cooks a roast pork, a delicious lemon tart, and homemade mojitos using surprising foraged ingredients.</desc>
     <episode-num system="dd_progid">RVCRE01Ep1</episode-num>
@@ -19410,18 +19437,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030120000 +0000" stop="20171030123000 +0000">
-    <title>Tiny House Hunting</title>
-    <desc>Gregoire and Christopher are hunting for their first home together in San Francisco. They're willing to trade space for a downtown location, but is a decent apartment possible in pricey San Francisco?</desc>
-    <episode-num system="dd_progid">HHUNT03Ep48</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20171030123000 +0000" stop="20171030130000 +0000">
-    <title>Tiny House World</title>
-    <desc>Ali and Belly have a wedding on the horizon, and are ready to buy their first home together. With a tight budget and large which list, will the honeymoon phase be over before it starts?</desc>
-    <episode-num system="dd_progid">TINHW01Ep16</episode-num>
+  <programme channel="tv.37" start="20171030120000 +0000" stop="20171030130000 +0000">
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep113</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19506,18 +19525,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.37" start="20171030213000 +0000" stop="20171030220000 +0000">
-    <title>Tiny House Hunting</title>
-    <desc>Gregoire and Christopher are hunting for their first home together in San Francisco. They're willing to trade space for a downtown location, but is a decent apartment possible in pricey San Francisco?</desc>
-    <episode-num system="dd_progid">HHUNT03Ep48</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.37" start="20171030220000 +0000" stop="20171030223000 +0000">
-    <title>Tiny House World</title>
-    <desc>Ali and Belly have a wedding on the horizon, and are ready to buy their first home together. With a tight budget and large which list, will the honeymoon phase be over before it starts?</desc>
-    <episode-num system="dd_progid">TINHW01Ep16</episode-num>
+  <programme channel="tv.37" start="20171030213000 +0000" stop="20171030223000 +0000">
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep113</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19587,9 +19598,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171031043000 +0000" stop="20171031053000 +0000">
-    <title>Salvage Hunters</title>
-    <desc>At a medieval castle in Cumbria, Drew Pritchard tries a seal a deal on the ultimate car accessory, and is later offered a blast from the past when visiting a meticulous motor museum.</desc>
-    <episode-num system="dd_progid">SALH05Ep9</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep115</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19659,9 +19670,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171031120000 +0000" stop="20171031130000 +0000">
-    <title>Salvage Hunters</title>
-    <desc>At a medieval castle in Cumbria, Drew Pritchard tries a seal a deal on the ultimate car accessory, and is later offered a blast from the past when visiting a meticulous motor museum.</desc>
-    <episode-num system="dd_progid">SALH05Ep9</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep115</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19755,9 +19766,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171031213000 +0000" stop="20171031223000 +0000">
-    <title>Salvage Hunters</title>
-    <desc>At a medieval castle in Cumbria, Drew Pritchard tries a seal a deal on the ultimate car accessory, and is later offered a blast from the past when visiting a meticulous motor museum.</desc>
-    <episode-num system="dd_progid">SALH05Ep9</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep115</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19819,9 +19830,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171101043000 +0000" stop="20171101053000 +0000">
-    <title>The French Collection</title>
-    <desc>3 retro devotees take on Saint Ouen in Paris, the largest flea market in France. An old screen becomes a changing room, and parquet flooring is turned into a coffee table. But can they make a profit?</desc>
-    <episode-num system="dd_progid">FRHCL03Ep20</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep116</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19899,9 +19910,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171101120000 +0000" stop="20171101130000 +0000">
-    <title>The French Collection</title>
-    <desc>3 retro devotees take on Saint Ouen in Paris, the largest flea market in France. An old screen becomes a changing room, and parquet flooring is turned into a coffee table. But can they make a profit?</desc>
-    <episode-num system="dd_progid">FRHCL03Ep20</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep116</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -19995,9 +20006,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171101213000 +0000" stop="20171101223000 +0000">
-    <title>The French Collection</title>
-    <desc>3 retro devotees take on Saint Ouen in Paris, the largest flea market in France. An old screen becomes a changing room, and parquet flooring is turned into a coffee table. But can they make a profit?</desc>
-    <episode-num system="dd_progid">FRHCL03Ep20</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep116</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -20067,9 +20078,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171102043000 +0000" stop="20171102053000 +0000">
-    <title>Gok's Fill Your House For Free</title>
-    <desc>Alice and Richard from Chiswick need help to transform their terraced house into a lovely home. Will Gok and his team's cool and contemporary overhaul impress the family?</desc>
-    <episode-num system="dd_progid">FYHGW01Ep8</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep117</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -20139,9 +20150,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171102120000 +0000" stop="20171102130000 +0000">
-    <title>Gok's Fill Your House For Free</title>
-    <desc>Alice and Richard from Chiswick need help to transform their terraced house into a lovely home. Will Gok and his team's cool and contemporary overhaul impress the family?</desc>
-    <episode-num system="dd_progid">FYHGW01Ep8</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep117</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -20235,9 +20246,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171102213000 +0000" stop="20171102223000 +0000">
-    <title>Gok's Fill Your House For Free</title>
-    <desc>Alice and Richard from Chiswick need help to transform their terraced house into a lovely home. Will Gok and his team's cool and contemporary overhaul impress the family?</desc>
-    <episode-num system="dd_progid">FYHGW01Ep8</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep117</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -20299,9 +20310,9 @@
     </rating>
   </programme>
   <programme channel="tv.37" start="20171103043000 +0000" stop="20171103053000 +0000">
-    <title>DIY SOS - The Big Build</title>
-    <desc>Nick and the team make some alterations to the home Charlotte (35), disabled mother of two on the road to recovery, and her husband Rob (40).</desc>
-    <episode-num system="dd_progid">DYSOS28Ep3</episode-num>
+    <title>American Pickers</title>
+    <desc>Along America's back roads, treasures are waiting to be found - valuable relics hidden in junk piles, barns and garages. Mike and Frank find these lost artefacts and hopefully turn rust to riches.</desc>
+    <episode-num system="dd_progid">APICK06Ep118</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
