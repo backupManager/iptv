@@ -188,7 +188,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20171027030000 +0000" stop="20171027040000 +0000">
+  <programme channel="tv.101002210220" start="20171027030000 +0000" stop="20171027060000 +0000">
     <title>High Court Decision: The Citizenship Seven</title>
     <episode-num system="dd_progid">NU1754H001S00</episode-num>
     <subtitles type="teletext"/>
@@ -196,7 +196,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210220" start="20171027040000 +0000" stop="20171027070000 +0000">
+  <programme channel="tv.101002210220" start="20171027060000 +0000" stop="20171027070000 +0000">
     <title>ABC News</title>
     <episode-num system="dd_progid">NU1707H215S00</episode-num>
     <subtitles type="teletext"/>
@@ -11509,6 +11509,9 @@
     <title>Screen Time</title>
     <episode-num system="dd_progid">AC1701H003S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
   <programme channel="tv.101002410241" start="20171103035800 +0000" stop="20171103045800 +0000">
     <title>New Blood</title>
@@ -11920,7 +11923,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028023000 +0000" stop="20171028032800 +0000">
+  <programme channel="tv.101204000401" start="20171028023000 +0000" stop="20171028030000 +0000">
     <title>Learn From the Money Masters</title>
     <episode-num system="dd_progid">LEFR_1_3</episode-num>
     <subtitles type="teletext"/>
@@ -11928,7 +11931,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028032800 +0000" stop="20171028035800 +0000">
+  <programme channel="tv.101204000401" start="20171028030000 +0000" stop="20171028033000 +0000">
     <title>Kevin Can Wait</title>
     <episode-num system="dd_progid">KECA01_1_119</episode-num>
     <subtitles type="teletext"/>
@@ -11936,7 +11939,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028035800 +0000" stop="20171028045600 +0000">
+  <programme channel="tv.101204000401" start="20171028033000 +0000" stop="20171028043000 +0000">
     <title>Who Do You Think You Are?</title>
     <episode-num system="dd_progid">WHDO_4_401</episode-num>
     <subtitles type="teletext"/>
@@ -11944,7 +11947,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028045600 +0000" stop="20171028062200 +0000">
+  <programme channel="tv.101204000401" start="20171028043000 +0000" stop="20171028060000 +0000">
     <title>The Block</title>
     <episode-num system="dd_progid">BLOC_13_49</episode-num>
     <subtitles type="teletext"/>
@@ -11952,14 +11955,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028062200 +0000" stop="20171028065100 +0000">
+  <programme channel="tv.101204000401" start="20171028060000 +0000" stop="20171028063000 +0000">
     <title>The Travelling Chef</title>
     <episode-num system="dd_progid">TRCH01_1_6</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204000401" start="20171028065100 +0000" stop="20171028070000 +0000">
+  <programme channel="tv.101204000401" start="20171028063000 +0000" stop="20171028070000 +0000">
     <title>The Garden Gurus</title>
     <episode-num system="dd_progid">GAGUT_23_11</episode-num>
     <rating system="Freeview">
@@ -12927,6 +12930,7 @@
   <programme channel="tv.101204000401" start="20171102123000 +0000" stop="20171102133000 +0000">
     <title>Conspiracy</title>
     <episode-num system="dd_progid">CONS101_1_9</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -16565,7 +16569,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171026155700 +0000" stop="20171026162500 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_6</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -16650,7 +16654,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171026213100 +0000" stop="20171026220000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_6</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -16764,7 +16768,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171027050200 +0000" stop="20171027053100 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_7</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17419,7 +17423,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171029213000 +0000" stop="20171029220000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_7</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17521,7 +17525,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171030050000 +0000" stop="20171030053000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_8</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17632,7 +17636,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171030160000 +0000" stop="20171030163000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_8</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17717,7 +17721,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171030213000 +0000" stop="20171030220000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_8</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17826,7 +17830,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171031050000 +0000" stop="20171031053000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_9</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -17931,7 +17935,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171031160000 +0000" stop="20171031163000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_9</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18016,7 +18020,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171031213000 +0000" stop="20171031220000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_9</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18125,7 +18129,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171101050000 +0000" stop="20171101053000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_10</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18260,7 +18264,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171101160000 +0000" stop="20171101163000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_10</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18345,7 +18349,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171101213000 +0000" stop="20171101220000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_10</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18456,7 +18460,7 @@
     </rating>
   </programme>
   <programme channel="tv.10120400040B" start="20171102050000 +0000" stop="20171102053000 +0000">
-    <title>Pokemon</title>
+    <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_11</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -18985,7 +18989,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171027011500 +0000" stop="20171027060200 +0000">
+  <programme channel="tv.101305020528" start="20171027011500 +0000" stop="20171027060000 +0000">
     <title>Racing Live: Echuca/Port Lincoln</title>
     <episode-num system="dd_progid">RDAY2710</episode-num>
     <subtitles type="teletext"/>
@@ -18993,7 +18997,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171027060200 +0000" stop="20171027063000 +0000">
+  <programme channel="tv.101305020528" start="20171027060000 +0000" stop="20171027063000 +0000">
     <title>After The Last</title>
     <episode-num system="dd_progid">ATL2610L</episode-num>
     <subtitles type="teletext"/>
