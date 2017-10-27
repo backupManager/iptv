@@ -2877,7 +2877,7 @@
   </programme>
   <programme channel="tv.11" start="20171027060000 +0000" stop="20171027070000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss Labour's tertiary education plans. Plus, the new Stranger Things star, an interview with Niall Horan and the next part of Missing Jim.</desc>
     <episode-num system="dd_progid">T751811</episode-num>
   </programme>
   <programme channel="tv.11" start="20171027070000 +0000" stop="20171027080500 +0000">
@@ -2892,6 +2892,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Melanie Bracewell, Jeremy Elwood, Guy Williams and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T791356</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171027085000 +0000" stop="20171027092000 +0000">
     <title>Fail Army</title>
@@ -2930,7 +2933,7 @@
   </programme>
   <programme channel="tv.11" start="20171027104500 +0000" stop="20171027114500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss Labour's tertiary education plans. Plus, the new Stranger Things star, an interview with Niall Horan and the next part of Missing Jim.</desc>
     <episode-num system="dd_progid">T751811</episode-num>
   </programme>
   <programme channel="tv.11" start="20171027114500 +0000" stop="20171027160000 +0000">
@@ -3363,6 +3366,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The couples embark on the next phase of the experiment - home visits. And as reality bites, the couples will face some life-changing decisions. S1 Ep10</desc>
     <episode-num system="dd_progid">T785437</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171030073500 +0000" stop="20171030083500 +0000">
     <title>Tin Star</title>
@@ -3467,6 +3473,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The couples embark on the next phase of the experiment - home visits. And as reality bites, the couples will face some life-changing decisions. S1 Ep10</desc>
     <episode-num system="dd_progid">T785437</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171031005500 +0000" stop="20171031015000 +0000">
     <title>Minute To Win It</title>
@@ -3647,6 +3656,9 @@
     <title>Change Of Heart</title>
     <desc>A reality TV producer stumbles across a charming bed and breakfast and decides it will be the location for her next episode. But drama occurs when romance and an ex arrive on location.</desc>
     <episode-num system="dd_progid">T788573</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171101015000 +0000" stop="20171101022000 +0000">
     <title>Celebrity Name Game</title>
@@ -3906,6 +3918,9 @@
     <title>True Story With Hamish &amp; Andy</title>
     <desc>New Episode. Emidio was scammed by a 10-year-old genius while working as a teacher. Featuring Madeleine West from The Wrong Girl, Glenn Robins from Kath &amp; Kim, and Ryan Shelton. S1 Ep3</desc>
     <episode-num system="dd_progid">T746530</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171102073000 +0000" stop="20171102094000 +0000">
     <title>Contraband</title>
@@ -4386,10 +4401,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171028103000 +0000" stop="20171028112000 +0000">
-    <title>Four Weddings UK</title>
-    <desc>Control freak Julia ties the knot twice in Slovenia while Monique brings Nigeria to Hackney with the help of 500 guests and her own cooking.</desc>
-    <episode-num system="dd_progid">T784366</episode-num>
+  <programme channel="tv.12" start="20171028103000 +0000" stop="20171028105500 +0000">
+    <title>The Real Housewives Of NJ: How They Got Here</title>
+    <desc>Featuring the most memorable moments from seven seasons of drama, hijinks, family and friendships, go back to where it all began to relive the memories that had everyone flipping out.</desc>
+    <episode-num system="dd_progid">T774675</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.12" start="20171028105500 +0000" stop="20171028112000 +0000">
+    <title>Property Envy</title>
+    <desc>Join a design obsessed host and esteemed panellists as they dive into everything from one-of-a-kind cultural landmarks to $45 million dollar houses and everything in between.</desc>
+    <episode-num system="dd_progid">T712927</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -4679,11 +4702,11 @@
     </rating>
   </programme>
   <programme channel="tv.12" start="20171030073000 +0000" stop="20171030083000 +0000">
-    <title>Snapped: Killer Couples</title>
-    <desc>A hostile living environment between feuding couples leaves two dead and an apartment in flames. S6 Ep1</desc>
-    <episode-num system="dd_progid">T737355</episode-num>
+    <title>Masters Of Flip</title>
+    <desc>A small budget for an even smaller house is the center of focus for Kortney &amp; Dave's latest flip. S2 Ep1</desc>
+    <episode-num system="dd_progid">T753128</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171030083000 +0000" stop="20171030093000 +0000">
@@ -4928,11 +4951,17 @@
     <title>Four Weddings UK</title>
     <desc>Jewish Princess Suzie's tying the knot with an all-singing, all-dancing Hebrew extravaganza, complete with crowd surfing on chairs, a hearty Mazel tov from 300 guests and an unlimited budget.</desc>
     <episode-num system="dd_progid">T784373</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101053000 +0000" stop="20171101063000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a children's salon in California, but its owner admits that she doesn't even know if she wants to save her salon, creating a huge challenge for Tabatha. S3 Ep8</desc>
     <episode-num system="dd_progid">T380084</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101063000 +0000" stop="20171101073000 +0000">
     <title>Little Weddings</title>
@@ -4946,6 +4975,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101083000 +0000" stop="20171101092500 +0000">
     <title>Little Women: LA</title>
@@ -4998,6 +5030,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a children's salon in California, but its owner admits that she doesn't even know if she wants to save her salon, creating a huge challenge for Tabatha. S3 Ep8</desc>
     <episode-num system="dd_progid">T380084</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171101225000 +0000" stop="20171101234500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5027,6 +5062,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171102023500 +0000" stop="20171102033000 +0000">
     <title>Catfish</title>
@@ -13315,7 +13353,7 @@
   </programme>
   <programme channel="tv.27" start="20171027070000 +0000" stop="20171027080000 +0000">
     <title>The Project</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss Labour's tertiary education plans. Plus, the new Stranger Things star, an interview with Niall Horan and the next part of Missing Jim.</desc>
     <episode-num system="dd_progid">T751811</episode-num>
   </programme>
   <programme channel="tv.27" start="20171027080000 +0000" stop="20171027090500 +0000">
@@ -13330,6 +13368,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Melanie Bracewell, Jeremy Elwood, Guy Williams and Rhys Mathewson.</desc>
     <episode-num system="dd_progid">T791356</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171027095000 +0000" stop="20171027102000 +0000">
     <title>Fail Army</title>
@@ -13362,7 +13403,7 @@
   </programme>
   <programme channel="tv.27" start="20171027114500 +0000" stop="20171027124500 +0000">
     <title>The Project (Encore)</title>
-    <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
+    <desc>Tonight: Kanoa, Jesse, Josh and guest host Jaquie Brown discuss Labour's tertiary education plans. Plus, the new Stranger Things star, an interview with Niall Horan and the next part of Missing Jim.</desc>
     <episode-num system="dd_progid">T751811</episode-num>
   </programme>
   <programme channel="tv.27" start="20171027124500 +0000" stop="20171027170000 +0000">
@@ -13777,6 +13818,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. The couples embark on the next phase of the experiment - home visits. And as reality bites, the couples will face some life-changing decisions. S1 Ep10</desc>
     <episode-num system="dd_progid">T785437</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171030083500 +0000" stop="20171030093500 +0000">
     <title>Tin Star</title>
@@ -13872,6 +13916,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. The couples embark on the next phase of the experiment - home visits. And as reality bites, the couples will face some life-changing decisions. S1 Ep10</desc>
     <episode-num system="dd_progid">T785437</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171031015500 +0000" stop="20171031025000 +0000">
     <title>Minute To Win It</title>
@@ -14049,6 +14096,9 @@
     <title>Change Of Heart</title>
     <desc>A reality TV producer stumbles across a charming bed and breakfast and decides it will be the location for her next episode. But drama occurs when romance and an ex arrive on location.</desc>
     <episode-num system="dd_progid">T788573</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171101025000 +0000" stop="20171101032000 +0000">
     <title>Celebrity Name Game</title>
@@ -14299,6 +14349,9 @@
     <title>True Story With Hamish &amp; Andy</title>
     <desc>New Episode. Emidio was scammed by a 10-year-old genius while working as a teacher. Featuring Madeleine West from The Wrong Girl, Glenn Robins from Kath &amp; Kim, and Ryan Shelton. S1 Ep3</desc>
     <episode-num system="dd_progid">T746530</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171102083000 +0000" stop="20171102104000 +0000">
     <title>Contraband</title>
@@ -16432,10 +16485,18 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171028113000 +0000" stop="20171028122000 +0000">
-    <title>Four Weddings UK</title>
-    <desc>Control freak Julia ties the knot twice in Slovenia while Monique brings Nigeria to Hackney with the help of 500 guests and her own cooking.</desc>
-    <episode-num system="dd_progid">T784366</episode-num>
+  <programme channel="tv.30" start="20171028113000 +0000" stop="20171028115500 +0000">
+    <title>The Real Housewives Of NJ: How They Got Here</title>
+    <desc>Featuring the most memorable moments from seven seasons of drama, hijinks, family and friendships, go back to where it all began to relive the memories that had everyone flipping out.</desc>
+    <episode-num system="dd_progid">T774675</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
+  </programme>
+  <programme channel="tv.30" start="20171028115500 +0000" stop="20171028122000 +0000">
+    <title>Property Envy</title>
+    <desc>Join a design obsessed host and esteemed panellists as they dive into everything from one-of-a-kind cultural landmarks to $45 million dollar houses and everything in between.</desc>
+    <episode-num system="dd_progid">T712927</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16725,11 +16786,11 @@
     </rating>
   </programme>
   <programme channel="tv.30" start="20171030083000 +0000" stop="20171030093000 +0000">
-    <title>Snapped: Killer Couples</title>
-    <desc>A hostile living environment between feuding couples leaves two dead and an apartment in flames. S6 Ep1</desc>
-    <episode-num system="dd_progid">T737355</episode-num>
+    <title>Masters Of Flip</title>
+    <desc>A small budget for an even smaller house is the center of focus for Kortney &amp; Dave's latest flip. S2 Ep1</desc>
+    <episode-num system="dd_progid">T753128</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171030093000 +0000" stop="20171030103000 +0000">
@@ -16974,11 +17035,17 @@
     <title>Four Weddings UK</title>
     <desc>Jewish Princess Suzie's tying the knot with an all-singing, all-dancing Hebrew extravaganza, complete with crowd surfing on chairs, a hearty Mazel tov from 300 guests and an unlimited budget.</desc>
     <episode-num system="dd_progid">T784373</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101063000 +0000" stop="20171101073000 +0000">
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a children's salon in California, but its owner admits that she doesn't even know if she wants to save her salon, creating a huge challenge for Tabatha. S3 Ep8</desc>
     <episode-num system="dd_progid">T380084</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101073000 +0000" stop="20171101083000 +0000">
     <title>Little Weddings</title>
@@ -16992,6 +17059,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101093000 +0000" stop="20171101102500 +0000">
     <title>Little Women: LA</title>
@@ -17044,6 +17114,9 @@
     <title>Tabatha's Salon Takeover</title>
     <desc>Tabatha tries to retool a children's salon in California, but its owner admits that she doesn't even know if she wants to save her salon, creating a huge challenge for Tabatha. S3 Ep8</desc>
     <episode-num system="dd_progid">T380084</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171101235000 +0000" stop="20171102004500 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17073,6 +17146,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>The ladies of Orange County are ready to explore everything in Iceland, but after a long day of activities the ladies are faced with a shocking medical emergency. S12 Ep16</desc>
     <episode-num system="dd_progid">T774575</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171102033500 +0000" stop="20171102043000 +0000">
     <title>Catfish</title>
@@ -55492,19 +55568,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
-    <title>Endangered</title>
-    <episode-num system="dd_progid">ENDA_3_12</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029063000 +0000">
     <title>Women's One Day Series</title>
     <episode-num system="dd_progid">WONDA_2017_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
+    <title>Endangered</title>
+    <episode-num system="dd_progid">ENDA_3_12</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20171029041000 +0000" stop="20171029044000 +0000">

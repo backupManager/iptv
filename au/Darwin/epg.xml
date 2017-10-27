@@ -12091,19 +12091,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
-    <title>Endangered</title>
-    <episode-num system="dd_progid">ENDA_3_12</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029063000 +0000">
     <title>Women's One Day Series</title>
     <episode-num system="dd_progid">WONDA_2017_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
+    <title>Endangered</title>
+    <episode-num system="dd_progid">ENDA_3_12</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20171029041000 +0000" stop="20171029044000 +0000">
