@@ -7325,10 +7325,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171026173000 +0000" stop="20171026183000 +0000">
+  <programme channel="tv.14" start="20171026173000 +0000" stop="20171026180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473129</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171026180000 +0000" stop="20171026183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10473203</episode-num>
   </programme>
   <programme channel="tv.14" start="20171026183000 +0000" stop="20171026185500 +0000">
     <title>Sesame Street</title>
@@ -8018,6 +8023,9 @@
     <title>Michael Jackson's Halloween</title>
     <desc>Special: Michael Jackson’s music is soundtrack to the story of a young duo named Vincent and Victoria who “accidentally” meet on Halloween night.</desc>
     <episode-num system="dd_progid">10493115</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171029083000 +0000" stop="20171029104000 +0000">
     <title>World War Z</title>
@@ -8283,6 +8291,9 @@
     <title>All New Will &amp; Grace</title>
     <desc>That's right, honey! A decade after their unforgettable eight-season run, comedy's most fabulous foursome is back.</desc>
     <episode-num system="dd_progid">10491209</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030090000 +0000" stop="20171030093000 +0000">
     <title>The Mick</title>
@@ -8292,7 +8303,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030093000 +0000" stop="20171030103500 +0000">
+  <programme channel="tv.14" start="20171030093000 +0000" stop="20171030103000 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E2 Battle lines are drawn as Rick and the unified communities are fighting for the promise of a brighter future.</desc>
     <episode-num system="dd_progid">10495964</episode-num>
@@ -8300,7 +8311,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030103500 +0000" stop="20171030110500 +0000">
+  <programme channel="tv.14" start="20171030103000 +0000" stop="20171030110000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E19 When the girls take office temp jobs, Caroline tries to climb the corporate ladder while Max finds herself being hit on by the boss.</desc>
     <episode-num system="dd_progid">10312231</episode-num>
@@ -8308,7 +8319,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171030110500 +0000" stop="20171030113000 +0000">
+  <programme channel="tv.14" start="20171030110000 +0000" stop="20171030113000 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S2 E4 Mike doesn't know what to do when Molly insists on saving money for the wedding and he gets a chance to buy Vince's '57 Chevy Bel Air.</desc>
     <episode-num system="dd_progid">10275926</episode-num>
@@ -8808,6 +8819,9 @@
     <title>Home And Away</title>
     <desc>Mick is in the Bay saying he wants to start over. Maggie worries about Ziggy.</desc>
     <episode-num system="dd_progid">10487070</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171101060000 +0000" stop="20171101063000 +0000">
     <title>The Big Bang Theory</title>
@@ -9051,6 +9065,9 @@
     <title>Home And Away</title>
     <desc>Mick is in the Bay saying he wants to start over. Maggie worries about Ziggy.</desc>
     <episode-num system="dd_progid">10487070</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171102030000 +0000" stop="20171102033000 +0000">
     <title>Shortland Street</title>
@@ -9361,6 +9378,9 @@
     <title>The Simpsons</title>
     <desc>When Homer wins the competition to become the new Duffman after the old one retires, the sober nature of the job forces him to realise beer isn't as important as he thought.</desc>
     <episode-num system="dd_progid">10478334</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103053000 +0000" stop="20171103060000 +0000">
     <title>Home And Away</title>
@@ -9379,6 +9399,9 @@
     <title>Neighbours</title>
     <desc>Leo is desperate to repair the damage he’s caused with Mishti. Tyler’s suspicions drive him and piper further apart. Yashvi runs amok on muck-up day.</desc>
     <episode-num system="dd_progid">10415588</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103070000 +0000" stop="20171103073000 +0000">
     <title>Shortland Street</title>
@@ -9393,11 +9416,17 @@
     <title>Love Connection</title>
     <desc>Hosted by Andy Cohen. After singles are sent on three blind dates, they dish the dirt in front of a live studio audience.</desc>
     <episode-num system="dd_progid">10488183</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103083000 +0000" stop="20171103093000 +0000">
     <title>Take Me Out</title>
     <desc>Paddy McGuinness hosts a dating show where single guys spill the beans to 30 lovely ladies in the hope of scoring a romantic date.</desc>
     <episode-num system="dd_progid">10455849</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103093000 +0000" stop="20171103103000 +0000">
     <title>Naked Attraction</title>
@@ -20881,6 +20910,9 @@
     <desc>As Heather Lawson turns heads while walking the streets of Melbourne with her dressed-up walking cane “Golife”, few would realise the fiercely independent woman is deaf and blind.</desc>
     <episode-num system="dd_progid">10467585</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171028210000 +0000" stop="20171028220000 +0000">
     <title>Q+A</title>
@@ -21047,6 +21079,9 @@
     <desc>As Heather Lawson turns heads while walking the streets of Melbourne with her dressed-up walking cane “Golife”, few would realise the fiercely independent woman is deaf and blind.</desc>
     <episode-num system="dd_progid">10467585</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171029131500 +0000" stop="20171029152000 +0000">
     <title>Red Rock</title>
@@ -21070,6 +21105,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Michael Strahan and Sam Smith.</desc>
     <episode-num system="dd_progid">10491723</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171029220000 +0000" stop="20171029223000 +0000">
     <title>Morena</title>
@@ -21245,6 +21283,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean Hayes and Sheryl Crow.</desc>
     <episode-num system="dd_progid">10491724</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171030220000 +0000" stop="20171030223000 +0000">
     <title>Morena</title>
@@ -21266,6 +21307,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>Day 2, and some of the tourists wake with sore heads, in trouble with tour guide Brendan for their late-night antics. Some cliff-jumping might clear their minds.</desc>
     <episode-num system="dd_progid">10464988</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171031000000 +0000" stop="20171031003000 +0000">
     <title>1 News At Midday</title>
@@ -21427,6 +21471,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>Day 3, and the coach leaves Mallorca, heading for Barcelona. Later on, a twist in the voting causes a big row at decision time.</desc>
     <episode-num system="dd_progid">10464989</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171101000000 +0000" stop="20171101003000 +0000">
     <title>1 News At Midday</title>
@@ -21501,17 +21548,17 @@
     <desc>George gets an unlikely message and messenger from beyond the grave. Woody’s top-secret divorce plan unravels and Hannah has a challenge convincing Constable Tom she’d be a top cop.</desc>
     <episode-num system="dd_progid">10469456</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171101093500 +0000" stop="20171101103500 +0000">
+  <programme channel="tv.38" start="20171101093500 +0000" stop="20171101103000 +0000">
     <title>20/20</title>
     <desc>Presented by Carolyn Robinson, 20/20 features the best of international content from ABC and in-depth investigative pieces.</desc>
     <episode-num system="dd_progid">10485243</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171101103500 +0000" stop="20171101110500 +0000">
+  <programme channel="tv.38" start="20171101103000 +0000" stop="20171101110000 +0000">
     <title>1 News Tonight</title>
     <desc/>
     <episode-num system="dd_progid">10459822</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171101110500 +0000" stop="20171101120000 +0000">
+  <programme channel="tv.38" start="20171101110000 +0000" stop="20171101115500 +0000">
     <title>The Catch</title>
     <desc>Someone from Alice's past resurfaces and asks for her help; Ben and Margot work together to keep a sweet 16 party from getting out of hand.</desc>
     <episode-num system="dd_progid">10457407</episode-num>
@@ -21519,7 +21566,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20171101120000 +0000" stop="20171101125000 +0000">
+  <programme channel="tv.38" start="20171101115500 +0000" stop="20171101125000 +0000">
     <title>Nashville</title>
     <desc>S4 E16 Maddie runs away from home, leaving Rayna and Deacon distraught; Avery's link to Layla threatens Juliette; and Riff's disappearance forces Luke to find a new artist.</desc>
     <episode-num system="dd_progid">10427780</episode-num>
@@ -21572,6 +21619,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>The group are in Barcelona, where temperatures rise at a very flirty flamenco class</desc>
     <episode-num system="dd_progid">10464991</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171102000000 +0000" stop="20171102003000 +0000">
     <title>1 News At Midday</title>
@@ -30350,6 +30400,9 @@
     <title>MLS - Chicago v NY</title>
     <desc>Replay of the Knockout Round match between the Chicago Fire and the New York Red Bulls from Toyota Park in Chicago, Illinois.</desc>
     <episode-num system="dd_progid">10480261</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171028204500 +0000" stop="20171028211000 +0000">
     <title>MLS Soccer Highlights</title>
@@ -30571,6 +30624,9 @@
     <title>New: The Orville</title>
     <desc>Comedy following the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future. Starring Seth McFarlane.</desc>
     <episode-num system="dd_progid">10494285</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171030082500 +0000" stop="20171030103000 +0000">
     <title>Movie: Fair Game</title>
@@ -30825,6 +30881,9 @@
     <title>New: Gotham</title>
     <desc>Gordon and Bullock are hot on a serial killer who has been assassinating cops and dressing his victims in the severed heads of pigs as his signature mark. Meanwhile, Sofia tries to win over Penguin,</desc>
     <episode-num system="dd_progid">10494587</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171101103000 +0000" stop="20171101112000 +0000">
     <title>Behind Bars: Rookie Year</title>
@@ -41171,9 +41230,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171029223000 +0000" stop="20171029224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc/>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171029224500 +0000" stop="20171029230000 +0000">
     <title>Weather Forecast</title>
@@ -41346,9 +41405,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171030223000 +0000" stop="20171030224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc/>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171030224500 +0000" stop="20171030230000 +0000">
     <title>Weather Forecast</title>
@@ -41426,9 +41485,9 @@
     <episode-num system="dd_progid">TV33s0115</episode-num>
   </programme>
   <programme channel="tv.8" start="20171031072000 +0000" stop="20171031073000 +0000">
-    <title>Finance Time</title>
+    <title>IRD Workshop</title>
     <desc/>
-    <episode-num system="dd_progid">TV33S012</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171031073000 +0000" stop="20171031080000 +0000">
     <title>HuNan Impression</title>
@@ -41526,9 +41585,9 @@
     <episode-num system="dd_progid">TV33D040</episode-num>
   </programme>
   <programme channel="tv.8" start="20171031223000 +0000" stop="20171031224500 +0000">
-    <title>Guangxi TV Series Week</title>
+    <title>News</title>
     <desc/>
-    <episode-num system="dd_progid">TV33s0118</episode-num>
+    <episode-num system="dd_progid">TV33S0022</episode-num>
   </programme>
   <programme channel="tv.8" start="20171031224500 +0000" stop="20171031230000 +0000">
     <title>Weather Forecast</title>
@@ -41551,9 +41610,9 @@
     <episode-num system="dd_progid">TV33Et011</episode-num>
   </programme>
   <programme channel="tv.8" start="20171101004500 +0000" stop="20171101010000 +0000">
-    <title>Guangxi's Story</title>
+    <title>IRD Workshop</title>
     <desc/>
-    <episode-num system="dd_progid">TV33D044</episode-num>
+    <episode-num system="dd_progid">TV33S018</episode-num>
   </programme>
   <programme channel="tv.8" start="20171101010000 +0000" stop="20171101030000 +0000">
     <title>Chinese Drama Series</title>
@@ -42320,6 +42379,9 @@
     <title>The X Factor UK</title>
     <desc>As this year's auditions come to an end, the judges take in a final round of weird and wonderful performances. Whose talents will buy them a place at next weekend's bootcamp stage?</desc>
     <episode-num system="dd_progid">10485181#1</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171028070000 +0000" stop="20171028070500 +0000">
     <title>Lotto</title>
@@ -42329,6 +42391,9 @@
     <title>The X Factor UK Continued</title>
     <desc>As this year's auditions come to an end, the judges take in a final round of weird and wonderful performances. Whose talents will buy them a place at next weekend's bootcamp stage?</desc>
     <episode-num system="dd_progid">10485181#1</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171028073000 +0000" stop="20171028084000 +0000">
     <title>Wild New Zealand</title>
@@ -42423,6 +42488,9 @@
     <desc>As Heather Lawson turns heads while walking the streets of Melbourne with her dressed-up walking cane “Golife”, few would realise the fiercely independent woman is deaf and blind.</desc>
     <episode-num system="dd_progid">10467585</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171028200000 +0000" stop="20171028210000 +0000">
     <title>Q+A</title>
@@ -42589,6 +42657,9 @@
     <desc>As Heather Lawson turns heads while walking the streets of Melbourne with her dressed-up walking cane “Golife”, few would realise the fiercely independent woman is deaf and blind.</desc>
     <episode-num system="dd_progid">10467585</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171029121500 +0000" stop="20171029142000 +0000">
     <title>Red Rock</title>
@@ -42612,6 +42683,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Michael Strahan and Sam Smith.</desc>
     <episode-num system="dd_progid">10491723</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171029210000 +0000" stop="20171029213000 +0000">
     <title>Morena</title>
@@ -42787,6 +42861,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Sean Hayes and Sheryl Crow.</desc>
     <episode-num system="dd_progid">10491724</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171030210000 +0000" stop="20171030213000 +0000">
     <title>Morena</title>
@@ -42808,6 +42885,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>Day 2, and some of the tourists wake with sore heads, in trouble with tour guide Brendan for their late-night antics. Some cliff-jumping might clear their minds.</desc>
     <episode-num system="dd_progid">10464988</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171030230000 +0000" stop="20171030233000 +0000">
     <title>1 News At Midday</title>
@@ -42969,6 +43049,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>Day 3, and the coach leaves Mallorca, heading for Barcelona. Later on, a twist in the voting causes a big row at decision time.</desc>
     <episode-num system="dd_progid">10464989</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171031230000 +0000" stop="20171031233000 +0000">
     <title>1 News At Midday</title>
@@ -43043,17 +43126,17 @@
     <desc>George gets an unlikely message and messenger from beyond the grave. Woody’s top-secret divorce plan unravels and Hannah has a challenge convincing Constable Tom she’d be a top cop.</desc>
     <episode-num system="dd_progid">10469456</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171101083500 +0000" stop="20171101093500 +0000">
+  <programme channel="tv.9" start="20171101083500 +0000" stop="20171101093000 +0000">
     <title>20/20</title>
     <desc>Presented by Carolyn Robinson, 20/20 features the best of international content from ABC and in-depth investigative pieces.</desc>
     <episode-num system="dd_progid">10485243</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171101093500 +0000" stop="20171101100500 +0000">
+  <programme channel="tv.9" start="20171101093000 +0000" stop="20171101100000 +0000">
     <title>1 News Tonight</title>
     <desc/>
     <episode-num system="dd_progid">10459822</episode-num>
   </programme>
-  <programme channel="tv.9" start="20171101100500 +0000" stop="20171101110000 +0000">
+  <programme channel="tv.9" start="20171101100000 +0000" stop="20171101105500 +0000">
     <title>The Catch</title>
     <desc>Someone from Alice's past resurfaces and asks for her help; Ben and Margot work together to keep a sweet 16 party from getting out of hand.</desc>
     <episode-num system="dd_progid">10457407</episode-num>
@@ -43061,7 +43144,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.9" start="20171101110000 +0000" stop="20171101115000 +0000">
+  <programme channel="tv.9" start="20171101105500 +0000" stop="20171101115000 +0000">
     <title>Nashville</title>
     <desc>S4 E16 Maddie runs away from home, leaving Rayna and Deacon distraught; Avery's link to Layla threatens Juliette; and Riff's disappearance forces Luke to find a new artist.</desc>
     <episode-num system="dd_progid">10427780</episode-num>
@@ -43114,6 +43197,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>The group are in Barcelona, where temperatures rise at a very flirty flamenco class</desc>
     <episode-num system="dd_progid">10464991</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171101230000 +0000" stop="20171101233000 +0000">
     <title>1 News At Midday</title>
@@ -55406,19 +55492,19 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
+    <title>Endangered</title>
+    <episode-num system="dd_progid">ENDA_3_12</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029063000 +0000">
     <title>Women's One Day Series</title>
     <episode-num system="dd_progid">WONDA_2017_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200421" start="20171029030000 +0000" stop="20171029040000 +0000">
-    <title>Endangered</title>
-    <episode-num system="dd_progid">ENDA_3_12</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20171029041000 +0000" stop="20171029044000 +0000">
