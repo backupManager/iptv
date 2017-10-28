@@ -22461,11 +22461,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305060563" start="20171101153400 +0000" stop="20171101162900 +0000">
+  <programme channel="tv.101305060563" start="20171101153400 +0000" stop="20171101160200 +0000">
     <title>Hardcore Pawn</title>
     <episode-num system="dd_progid">sfbxt3ySmdaPmdmx</episode-num>
     <rating system="Freeview">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305060563" start="20171101160200 +0000" stop="20171101162900 +0000">
+    <title>Pawn Stars</title>
+    <episode-num system="dd_progid">uf9ouMePltaPmdiG</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305060563" start="20171101162900 +0000" stop="20171101172400 +0000">
@@ -26984,16 +26992,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171030063000 +0000" stop="20171030070000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380052</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438024</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171030063000 +0000" stop="20171030070000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438024</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380052</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -27234,16 +27242,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171031063000 +0000" stop="20171031070000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438025</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380053</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406070685" start="20171031063000 +0000" stop="20171031070000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380053</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438025</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
