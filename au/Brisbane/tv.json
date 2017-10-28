@@ -47,54 +47,6 @@
             "sample_rate": "48000"
         }
     },
-    "tv.10120400040A": {
-        "channel": "10120400040A",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.10120400040A.png",
-        "name": "9Gem",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040A.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
-    },
-    "tv.10120400040B": {
-        "channel": "10120400040B",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.10120400040B.png",
-        "name": "9Go!",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/tv.10120400040B.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
-    },
-    "tv.101204000407": {
-        "channel": "101204000407",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204000407.png",
-        "name": "9Life",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/tv.101204000407.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
-    },
     "tv.101002410241": {
         "channel": "101002410241",
         "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002410241.png",
@@ -158,22 +110,6 @@
             "channels": 2,
             "sample_rate": "44100"
         }
-    },
-    "tv.101204000401": {
-        "channel": "101204000401",
-        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204000401.png",
-        "name": "Channel 9",
-        "video": {
-            "codec": "h264",
-            "width": 1280,
-            "height": 720
-        },
-        "audio": {
-            "codec": "aac",
-            "channels": 2,
-            "sample_rate": "48000"
-        },
-        "url": "http://iptv.matthuisman.nz/au/Brisbane/tv.101204000401.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29"
     },
     "tv.320203000304": {
         "channel": "320203000304",
