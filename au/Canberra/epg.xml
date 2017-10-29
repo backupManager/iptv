@@ -89,14 +89,6 @@
     <display-name>Redbull TV</display-name>
     <icon src="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png"/>
   </channel>
-  <programme channel="tv.101002210220" start="20171029123000 +0000" stop="20171029130000 +0000">
-    <title>The Mix</title>
-    <episode-num system="dd_progid">NU1702H039S00</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210220" start="20171029130000 +0000" stop="20171029130100 +0000">
     <title>ABC News Update</title>
     <episode-num system="dd_progid">NU1732H087S00</episode-num>
@@ -1912,6 +1904,13 @@
     <title>7.30</title>
     <episode-num system="dd_progid">NC1705H185S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101002210220" start="20171106130000 +0000" stop="20171106133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H221S00</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -13022,13 +13021,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200424" start="20171029123000 +0000" stop="20171029130000 +0000">
-    <title>House Hunters International</title>
-    <episode-num system="dd_progid">HOHUIN_87_8709H</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200424" start="20171029130000 +0000" stop="20171029140300 +0000">
     <title>Zombie House Flipping</title>
     <episode-num system="dd_progid">ZOHO1_2_8</episode-num>
@@ -14953,13 +14945,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171029125000 +0000" stop="20171029140400 +0000">
-    <title>Escape to the Country</title>
-    <episode-num system="dd_progid">ESCO_2_12</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20171029140400 +0000" stop="20171029143300 +0000">
     <title>TV Shop - Home Shopping</title>
     <episode-num system="dd_progid">TVSH__A2830HCM03GE</episode-num>
@@ -16506,14 +16491,6 @@
   <programme channel="tv.101204200427" start="20171106125500 +0000" stop="20171106133500 +0000">
     <title>Are You Being Served?</title>
     <episode-num system="dd_progid">ARBE_9_3</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171029124000 +0000" stop="20171029130700 +0000">
-    <title>The Big Bang Theory</title>
-    <episode-num system="dd_progid">BIBA_10_T12.15315</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18837,6 +18814,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101204200428" start="20171106130000 +0000" stop="20171106133000 +0000">
+    <title>Rick and Morty</title>
+    <episode-num system="dd_progid">RIMO__1</episode-num>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
+  </programme>
   <programme channel="tv.101305020520" start="20171029124700 +0000" stop="20171029131500 +0000">
     <title>The Goldbergs</title>
     <episode-num system="dd_progid">rLCmq3aLltaPmdeH</episode-num>
@@ -20122,13 +20106,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20171029123600 +0000" stop="20171029133300 +0000">
-    <title>Escape to the Country</title>
-    <episode-num system="dd_progid">rvruqMiOltaPmdiJ</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20171029133300 +0000" stop="20171029163300 +0000">
@@ -21818,13 +21795,6 @@
     <episode-num system="dd_progid">q25vt3qPltaPmdeL</episode-num>
     <rating system="Freeview">
       <value>G</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20171029124700 +0000" stop="20171029134800 +0000">
-    <title>Ultimate Factories: Maserati</title>
-    <episode-num system="dd_progid">vuOgqtaOltaPmdaH</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20171029134800 +0000" stop="20171029145800 +0000">
@@ -24884,14 +24854,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171029123000 +0000" stop="20171029130000 +0000">
-    <title>Raceday Review - Sale</title>
-    <episode-num system="dd_progid">RV29102A</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101305020528" start="20171029130000 +0000" stop="20171029133000 +0000">
     <title>Raceday Review - Hamilton</title>
     <episode-num system="dd_progid">RV29101A</episode-num>
@@ -26756,13 +26718,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20171029125200 +0000" stop="20171029135700 +0000">
-    <title>Undercover Boss</title>
-    <episode-num system="dd_progid">58376E1459638</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020621" start="20171029135700 +0000" stop="20171029142700 +0000">
     <title>World Sport</title>
     <episode-num system="dd_progid">59168E1478050</episode-num>
@@ -28552,14 +28507,6 @@
   <programme channel="tv.101406020621" start="20171106123000 +0000" stop="20171106133000 +0000">
     <title>Elementary</title>
     <episode-num system="dd_progid">58445E1461647</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020625" start="20171029122000 +0000" stop="20171029133100 +0000">
-    <title>The Sunday Project</title>
-    <episode-num system="dd_progid">59876E1515880</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -30446,14 +30393,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101406020628" start="20171029124000 +0000" stop="20171029130800 +0000">
-    <title>Becker</title>
-    <episode-num system="dd_progid">59567E22228</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020628" start="20171029130800 +0000" stop="20171029133900 +0000">
@@ -36771,13 +36710,6 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.320203000304" start="20171029123000 +0000" stop="20171029133000 +0000">
-    <title>Bon appetit: Gerard Depardieu's Europe</title>
-    <episode-num system="dd_progid">714538</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.320203000304" start="20171029133000 +0000" stop="20171029142500 +0000">
     <title>Halloween Baking Championship</title>
     <episode-num system="dd_progid">872972</episode-num>
@@ -39480,6 +39412,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171106130000 +0000" stop="20171106133000 +0000">
+    <title>Diners, Drive-Ins and Dives</title>
+    <episode-num system="dd_progid">873025</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171029111500 +0000" stop="20171029130000 +0000">
     <title>Empire of Dirt</title>
     <episode-num system="dd_progid">738905</episode-num>
@@ -41760,6 +41699,13 @@
   <programme channel="tv.320203000305" start="20171106120000 +0000" stop="20171106130000 +0000">
     <title>Te Araroa: Tales from the Trails</title>
     <episode-num system="dd_progid">819097</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171106130000 +0000" stop="20171106140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">673901</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
