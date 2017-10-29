@@ -11654,6 +11654,7 @@
   <programme channel="tv.101204300430" start="20171029063000 +0000" stop="20171029065900 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_39</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11693,6 +11694,7 @@
   <programme channel="tv.101204300430" start="20171029115700 +0000" stop="20171029125800 +0000">
     <title>See No Evil</title>
     <episode-num system="dd_progid">SENO101_2_9</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -11708,6 +11710,7 @@
   <programme channel="tv.101204300430" start="20171029134900 +0000" stop="20171029142100 +0000">
     <title>Bike Bug Full Cycle</title>
     <episode-num system="dd_progid">FUCY_2017_28</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -11715,6 +11718,7 @@
   <programme channel="tv.101204300430" start="20171029142100 +0000" stop="20171029145000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11823,6 +11827,7 @@
   <programme channel="tv.101204300430" start="20171030060000 +0000" stop="20171030065900 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA_2017_1726</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -11846,7 +11851,6 @@
   <programme channel="tv.101204300430" start="20171030083200 +0000" stop="20171030102000 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_1</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11854,6 +11858,7 @@
   <programme channel="tv.101204300430" start="20171030102000 +0000" stop="20171030112000 +0000">
     <title>Law &amp; Order True Crime: The Menendez Murders</title>
     <episode-num system="dd_progid">LAORME_1_5</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -12017,6 +12022,7 @@
   <programme channel="tv.101204300430" start="20171031060000 +0000" stop="20171031070000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA_2017_1727</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12040,7 +12046,6 @@
   <programme channel="tv.101204300430" start="20171031083000 +0000" stop="20171031094500 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_2</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12056,6 +12061,7 @@
   <programme channel="tv.101204300430" start="20171031101500 +0000" stop="20171031105000 +0000">
     <title>Kath &amp; Kim</title>
     <episode-num system="dd_progid">KAKI101_4_403</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12095,6 +12101,7 @@
   <programme channel="tv.101204300430" start="20171031131000 +0000" stop="20171031134000 +0000">
     <title>Bike Bug Full Cycle</title>
     <episode-num system="dd_progid">FUCY_2017_28</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -12251,7 +12258,6 @@
   <programme channel="tv.101204300430" start="20171101083000 +0000" stop="20171101095000 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_3</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12291,6 +12297,7 @@
   <programme channel="tv.101204300430" start="20171101143000 +0000" stop="20171101150000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_39</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -12445,22 +12452,24 @@
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20171102093000 +0000" stop="20171102103000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">TBA__2</episode-num>
+    <title>Killer Women with Piers Morgan</title>
+    <episode-num system="dd_progid">KIWO_2_1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20171102103000 +0000" stop="20171102113000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">TBA__2</episode-num>
+    <title>Wolf Creek</title>
+    <episode-num system="dd_progid">WOCR101_1_1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101204300430" start="20171102113000 +0000" stop="20171102123000 +0000">
-    <title>Conspiracy</title>
-    <episode-num system="dd_progid">CONS101_1_9</episode-num>
+    <title>Murder Calls</title>
+    <episode-num system="dd_progid">MUCA_1_6</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
@@ -13452,7 +13461,6 @@
   <programme channel="tv.101204300433" start="20171030113000 +0000" stop="20171030131600 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_1</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -13824,6 +13832,7 @@
   <programme channel="tv.101204300433" start="20171101010000 +0000" stop="20171101013000 +0000">
     <title>The Travelling Chef</title>
     <episode-num system="dd_progid">TRCH01_1_6</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15039,6 +15048,7 @@
   <programme channel="tv.101204300436" start="20171028235800 +0000" stop="20171029002800 +0000">
     <title>The Garden Gurus</title>
     <episode-num system="dd_progid">GAGUT_23_11</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15046,6 +15056,7 @@
   <programme channel="tv.101204300436" start="20171029002800 +0000" stop="20171029010000 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15112,6 +15123,7 @@
   <programme channel="tv.101204300436" start="20171029162900 +0000" stop="20171029165800 +0000">
     <title>The Garden Gurus</title>
     <episode-num system="dd_progid">GAGUT_23_11</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -15119,6 +15131,7 @@
   <programme channel="tv.101204300436" start="20171029165800 +0000" stop="20171029172800 +0000">
     <title>Getaway</title>
     <episode-num system="dd_progid">GETA_2017_37</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15148,7 +15161,7 @@
   </programme>
   <programme channel="tv.101204300436" start="20171029193100 +0000" stop="20171029195900 +0000">
     <title>This is Your Day!</title>
-    <episode-num system="dd_progid">BEHI2017_2017_130</episode-num>
+    <episode-num system="dd_progid">BEHI2017_2017_7122</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15199,6 +15212,7 @@
   <programme channel="tv.101204300436" start="20171029232900 +0000" stop="20171030002900 +0000">
     <title>Harry</title>
     <episode-num system="dd_progid">201</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15220,6 +15234,7 @@
   <programme channel="tv.101204300436" start="20171030030900 +0000" stop="20171030041200 +0000">
     <title>Secret Dealers</title>
     <episode-num system="dd_progid">SEDE_4_23</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15548,7 +15563,7 @@
   </programme>
   <programme channel="tv.101204300436" start="20171031193000 +0000" stop="20171031200000 +0000">
     <title>This is Your Day!</title>
-    <episode-num system="dd_progid">BEHI2017_2017_131</episode-num>
+    <episode-num system="dd_progid">BEHI2017_2017_6956</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15877,6 +15892,7 @@
   <programme channel="tv.101204300436" start="20171102094000 +0000" stop="20171102120000 +0000">
     <title>Trial and Retribution</title>
     <episode-num system="dd_progid">TRRE_1_1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -16799,6 +16815,7 @@
   <programme channel="tv.101204300437" start="20171029210000 +0000" stop="20171029213000 +0000">
     <title>Crunch Time</title>
     <episode-num system="dd_progid">CRTI01_2_51</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -16820,6 +16837,7 @@
   <programme channel="tv.101204300437" start="20171029223000 +0000" stop="20171029225900 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_8</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -17119,6 +17137,7 @@
   <programme channel="tv.101204300437" start="20171030223000 +0000" stop="20171030230000 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_33</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -17396,6 +17415,7 @@
   <programme channel="tv.101204300437" start="20171031210000 +0000" stop="20171031213000 +0000">
     <title>Crunch Time</title>
     <episode-num system="dd_progid">CRTI01_2_53</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>C</value>
     </rating>
@@ -17417,6 +17437,7 @@
   <programme channel="tv.101204300437" start="20171031223000 +0000" stop="20171031230000 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_30</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
