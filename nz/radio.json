@@ -1213,5 +1213,16 @@
             "channels": 2,
             "sample_rate": "44100"
         }
+    },
+    "radio.or.18": {
+        "name": "Radio X",
+        "description": "just great rock minus the bullshit",
+        "url": "http://iptv.matthuisman.nz/nz/radio.or.18|X-Forwarded-For=202.89.4.222&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29",
+        "audio": {
+            "codec": "mp3",
+            "channels": 2,
+            "sample_rate": "44100"
+        },
+        "logo": "https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.18.png"
     }
 }
