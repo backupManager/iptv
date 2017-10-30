@@ -56274,6 +56274,7 @@
   <programme channel="tv.101204200424" start="20171103030000 +0000" stop="20171103033000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_39</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -57938,7 +57939,7 @@
   </programme>
   <programme channel="tv.101204200427" start="20171102193000 +0000" stop="20171102200000 +0000">
     <title>This is Your Day!</title>
-    <episode-num system="dd_progid">BEHI2017_2017_132</episode-num>
+    <episode-num system="dd_progid">BEHI2017_2017_6960</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -64769,7 +64770,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20171103080100 +0000" stop="20171103083000 +0000">
+  <programme channel="tv.101305020523" start="20171103080100 +0000" stop="20171103083100 +0000">
     <title>Car Crash TV</title>
     <episode-num system="dd_progid">qLfsqNLPmdaPm6xx</episode-num>
     <subtitles type="teletext"/>
@@ -64777,7 +64778,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20171103083000 +0000" stop="20171103090000 +0000">
+  <programme channel="tv.101305020523" start="20171103083100 +0000" stop="20171103090200 +0000">
     <title>Surveillance Oz</title>
     <episode-num system="dd_progid">uKvsv4LPmdaPnqxx</episode-num>
     <subtitles type="teletext"/>
@@ -64785,7 +64786,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20171103090000 +0000" stop="20171103093300 +0000">
+  <programme channel="tv.101305020523" start="20171103090200 +0000" stop="20171103093300 +0000">
     <title>Surveillance Oz</title>
     <episode-num system="dd_progid">uKvsv4LPmdaPn6xx</episode-num>
     <subtitles type="teletext"/>
@@ -64801,16 +64802,9 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20171103120000 +0000" stop="20171103125900 +0000">
+  <programme channel="tv.101305020523" start="20171103120000 +0000" stop="20171103140200 +0000">
     <title>Outback Truckers</title>
     <episode-num system="dd_progid">tvvuu3aKltaPmdaL</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20171103125900 +0000" stop="20171103140200 +0000">
-    <title>Ink Master</title>
-    <episode-num system="dd_progid">suGlttuSmdaPmd6x</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -67092,9 +67086,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171029200000 +0000" stop="20171029231500 +0000">
+  <programme channel="tv.101305020528" start="20171029200000 +0000" stop="20171029230000 +0000">
     <title>NZB Ready to Run Sale Breeze Ups 2017</title>
     <episode-num system="dd_progid">NZ17BRUA</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171029230000 +0000" stop="20171029231500 +0000">
+    <title>Champions - Weekend Hussler</title>
+    <episode-num system="dd_progid">CHP1712A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -71013,16 +71015,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171031033000 +0000" stop="20171031040000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380053</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438025</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171031033000 +0000" stop="20171031040000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438025</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380053</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>

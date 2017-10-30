@@ -14159,6 +14159,7 @@
   <programme channel="tv.101204000407" start="20171103040000 +0000" stop="20171103043000 +0000">
     <title>Postcards</title>
     <episode-num system="dd_progid">POVI_2017_39</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15837,7 +15838,7 @@
   </programme>
   <programme channel="tv.10120400040A" start="20171102203000 +0000" stop="20171102210000 +0000">
     <title>This is Your Day!</title>
-    <episode-num system="dd_progid">BEHI2017_2017_132</episode-num>
+    <episode-num system="dd_progid">BEHI2017_2017_6960</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -18950,9 +18951,17 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171029200000 +0000" stop="20171029231500 +0000">
+  <programme channel="tv.101305020528" start="20171029200000 +0000" stop="20171029230000 +0000">
     <title>NZB Ready to Run Sale Breeze Ups 2017</title>
     <episode-num system="dd_progid">NZ17BRUA</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171029230000 +0000" stop="20171029231500 +0000">
+    <title>Champions - Weekend Hussler</title>
+    <episode-num system="dd_progid">CHP1712A</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>NC</value>
@@ -24535,16 +24544,9 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20171103130000 +0000" stop="20171103135900 +0000">
+  <programme channel="tv.101305040543" start="20171103130000 +0000" stop="20171103150200 +0000">
     <title>Outback Truckers</title>
     <episode-num system="dd_progid">tvvuu3aKltaPmdaL</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305040543" start="20171103135900 +0000" stop="20171103150200 +0000">
-    <title>Ink Master</title>
-    <episode-num system="dd_progid">suGlttuSmdaPmd6x</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -28867,16 +28869,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171031043000 +0000" stop="20171031050000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438025</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380053</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171031043000 +0000" stop="20171031050000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380053</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438025</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
