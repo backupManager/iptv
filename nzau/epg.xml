@@ -311,10 +311,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171029163000 +0000" stop="20171029173000 +0000">
+  <programme channel="tv.10" start="20171029163000 +0000" stop="20171029170000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171029170000 +0000" stop="20171029173000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.10" start="20171029173000 +0000" stop="20171029175500 +0000">
     <title>Sesame Street</title>
@@ -445,8 +450,11 @@
   </programme>
   <programme channel="tv.10" start="20171030023500 +0000" stop="20171030030500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
+    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
     <episode-num system="dd_progid">10471394</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030030500 +0000" stop="20171030033000 +0000">
     <title>Bunk'd</title>
@@ -631,8 +639,11 @@
   </programme>
   <programme channel="tv.10" start="20171030154000 +0000" stop="20171030160500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
+    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
     <episode-num system="dd_progid">10471394</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171030160500 +0000" stop="20171030163000 +0000">
     <title>Neighbours</title>
@@ -773,7 +784,7 @@
   </programme>
   <programme channel="tv.10" start="20171031023500 +0000" stop="20171031030500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
+    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471395</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031030500 +0000" stop="20171031033000 +0000">
@@ -950,7 +961,7 @@
   </programme>
   <programme channel="tv.10" start="20171031154000 +0000" stop="20171031160500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
+    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471395</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031160500 +0000" stop="20171031163000 +0000">
@@ -1423,7 +1434,7 @@
   </programme>
   <programme channel="tv.10" start="20171102023500 +0000" stop="20171102030500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve glam up your mirror in a craft sesh with Instagram star Kristina Webb, we catch up with Micah Heath on his musical journey, and we could be calling you to win some prizes!</desc>
+    <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
   </programme>
   <programme channel="tv.10" start="20171102030500 +0000" stop="20171102033000 +0000">
@@ -1586,7 +1597,7 @@
   </programme>
   <programme channel="tv.10" start="20171102154000 +0000" stop="20171102160500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve glam up your mirror in a craft sesh with Instagram star Kristina Webb, we catch up with Micah Heath on his musical journey, and we could be calling you to win some prizes!</desc>
+    <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
   </programme>
   <programme channel="tv.10" start="20171102160500 +0000" stop="20171102163000 +0000">
@@ -1717,7 +1728,7 @@
   </programme>
   <programme channel="tv.10" start="20171103023500 +0000" stop="20171103030500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on "End of the Weak"!</desc>
+    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on the Countdown to Conga!</desc>
     <episode-num system="dd_progid">10471398</episode-num>
   </programme>
   <programme channel="tv.10" start="20171103030500 +0000" stop="20171103033000 +0000">
@@ -1727,6 +1738,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103033000 +0000" stop="20171103040000 +0000">
     <title>Friends</title>
@@ -1751,6 +1765,9 @@
     <title>Home And Away</title>
     <desc>Hunter and Mason try to catch the thief who has been breaking into the surf club. A revelation shocks Maggie - will she ever be able to fogive Ziggy?</desc>
     <episode-num system="dd_progid">10487072</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103050000 +0000" stop="20171103053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1803,6 +1820,9 @@
     <title>Naked Attraction</title>
     <desc>British dating game show in which a clothed person selects two contestants from six naked people, whose bodies and then faces are revealed in stages from feet up!</desc>
     <episode-num system="dd_progid">10488198</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171103093000 +0000" stop="20171103100000 +0000">
     <title>2 Broke Girls</title>
@@ -1897,7 +1917,7 @@
   </programme>
   <programme channel="tv.10" start="20171103154000 +0000" stop="20171103160500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on "End of the Weak"!</desc>
+    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on the Countdown to Conga!</desc>
     <episode-num system="dd_progid">10471398</episode-num>
   </programme>
   <programme channel="tv.10" start="20171103160500 +0000" stop="20171103163500 +0000">
@@ -2126,7 +2146,7 @@
   </programme>
   <programme channel="tv.10" start="20171104050000 +0000" stop="20171104053000 +0000">
     <title>The Barefoot Bandits</title>
-    <desc>The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
+    <desc>New Season: The Bandits find a lost episode of their favourite show, Tumeke Space, and settle in for an epic screening. While the episode plays, their nemesis Sebastian tries to sabotag their fun.</desc>
     <episode-num system="dd_progid">10423869</episode-num>
     <subtitles type="teletext"/>
   </programme>
@@ -2291,7 +2311,7 @@
   </programme>
   <programme channel="tv.10" start="20171104190000 +0000" stop="20171104210000 +0000">
     <title>What Now?</title>
-    <desc>What Now is back with more gunge, foam, games ... and a brand new set!</desc>
+    <desc>LIVE from Tauranga! Ronnie gets gungy, giving you the chance to win prizes from Papamoa Beach. Chris is in the studio with a whole audience of identical twins &amp; triplets, including the Oneill Twins!</desc>
     <episode-num system="dd_progid">10470164</episode-num>
   </programme>
   <programme channel="tv.10" start="20171104210000 +0000" stop="20171104230000 +0000">
@@ -2566,6 +2586,9 @@
     <title>Home And Away</title>
     <desc>Hunter and Mason try to catch the thief who has been breaking into the surf club. A revelation shocks Maggie - will she ever be able to fogive Ziggy?</desc>
     <episode-num system="dd_progid">10487072</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171106020000 +0000" stop="20171106023000 +0000">
     <title>Shortland Street</title>
@@ -2672,10 +2695,13 @@
     <title>The Mick</title>
     <desc>Giving a whole new meaning to the phrase "dysfunctional family", The Mick returns for its second season with all-new outrageous shenanigans!</desc>
     <episode-num system="dd_progid">10494344</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
   </programme>
   <programme channel="tv.10" start="20171106083000 +0000" stop="20171106093500 +0000">
     <title>The Walking Dead</title>
-    <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria.</desc>
+    <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria. Continues tomorrow on TVNZ 2.</desc>
     <episode-num system="dd_progid">10495965</episode-num>
   </programme>
   <programme channel="tv.10" start="20171106093500 +0000" stop="20171106100500 +0000">
@@ -7313,10 +7339,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171029173000 +0000" stop="20171029183000 +0000">
+  <programme channel="tv.14" start="20171029173000 +0000" stop="20171029180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171029180000 +0000" stop="20171029183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.14" start="20171029183000 +0000" stop="20171029185500 +0000">
     <title>Sesame Street</title>
@@ -7438,8 +7469,11 @@
   </programme>
   <programme channel="tv.14" start="20171030033500 +0000" stop="20171030040500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
+    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
     <episode-num system="dd_progid">10471394</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030040500 +0000" stop="20171030043000 +0000">
     <title>Bunk'd</title>
@@ -7594,8 +7628,11 @@
   </programme>
   <programme channel="tv.14" start="20171030164000 +0000" stop="20171030170500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
+    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, your Snapchat could get on TV for "Snap That", and we announce the winner of our P!NK competition!</desc>
     <episode-num system="dd_progid">10471394</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171030170500 +0000" stop="20171030173000 +0000">
     <title>Neighbours</title>
@@ -7730,7 +7767,7 @@
   </programme>
   <programme channel="tv.14" start="20171031033500 +0000" stop="20171031040500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
+    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471395</episode-num>
   </programme>
   <programme channel="tv.14" start="20171031040500 +0000" stop="20171031043000 +0000">
@@ -7880,7 +7917,7 @@
   </programme>
   <programme channel="tv.14" start="20171031164000 +0000" stop="20171031170500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve chat to YouTube star JennXPenn, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
+    <desc>Today Adam &amp; Eve release their inner horror movie characters on a Spookers Adam vs Eve, we debut our hilarious new mash-up song parody, and your captions could get on TV for What Do You Meme!</desc>
     <episode-num system="dd_progid">10471395</episode-num>
   </programme>
   <programme channel="tv.14" start="20171031170500 +0000" stop="20171031173000 +0000">
@@ -8308,7 +8345,7 @@
   </programme>
   <programme channel="tv.14" start="20171102033500 +0000" stop="20171102040500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve glam up your mirror in a craft sesh with Instagram star Kristina Webb, we catch up with Micah Heath on his musical journey, and we could be calling you to win some prizes!</desc>
+    <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
   </programme>
   <programme channel="tv.14" start="20171102040500 +0000" stop="20171102043000 +0000">
@@ -8453,7 +8490,7 @@
   </programme>
   <programme channel="tv.14" start="20171102164000 +0000" stop="20171102170500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve glam up your mirror in a craft sesh with Instagram star Kristina Webb, we catch up with Micah Heath on his musical journey, and we could be calling you to win some prizes!</desc>
+    <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
   </programme>
   <programme channel="tv.14" start="20171102170500 +0000" stop="20171102173000 +0000">
@@ -8578,13 +8615,16 @@
   </programme>
   <programme channel="tv.14" start="20171103033500 +0000" stop="20171103040500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on "End of the Weak"!</desc>
+    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on the Countdown to Conga!</desc>
     <episode-num system="dd_progid">10471398</episode-num>
   </programme>
   <programme channel="tv.14" start="20171103040500 +0000" stop="20171103043000 +0000">
     <title>Bunk'd</title>
     <desc>As the end of camp nears, Griff gets some unexpected news that changes his life.</desc>
     <episode-num system="dd_progid">10467340</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103043000 +0000" stop="20171103050000 +0000">
     <title>Friends</title>
@@ -8606,6 +8646,9 @@
     <title>Home And Away</title>
     <desc>Hunter and Mason try to catch the thief who has been breaking into the surf club. A revelation shocks Maggie - will she ever be able to fogive Ziggy?</desc>
     <episode-num system="dd_progid">10487072</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103060000 +0000" stop="20171103063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8652,6 +8695,9 @@
     <title>Naked Attraction</title>
     <desc>British dating game show in which a clothed person selects two contestants from six naked people, whose bodies and then faces are revealed in stages from feet up!</desc>
     <episode-num system="dd_progid">10488198</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171103103000 +0000" stop="20171103110000 +0000">
     <title>2 Broke Girls</title>
@@ -8725,7 +8771,7 @@
   </programme>
   <programme channel="tv.14" start="20171103164000 +0000" stop="20171103170500 +0000">
     <title>The Adam And Eve Show</title>
-    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on "End of the Weak"!</desc>
+    <desc>Today Adam &amp; Eve get professional on an auctioneering Adam vs Eve, YouTuber Chase vs Everything has some awesome tips on how to get through high school, and things get weird on the Countdown to Conga!</desc>
     <episode-num system="dd_progid">10471398</episode-num>
   </programme>
   <programme channel="tv.14" start="20171103170500 +0000" stop="20171103173500 +0000">
@@ -8924,7 +8970,7 @@
   </programme>
   <programme channel="tv.14" start="20171104060000 +0000" stop="20171104063000 +0000">
     <title>The Barefoot Bandits</title>
-    <desc>The Barefoot Bandits are setting out discover the secrets of their island home. Join the adventure!</desc>
+    <desc>New Season: The Bandits find a lost episode of their favourite show, Tumeke Space, and settle in for an epic screening. While the episode plays, their nemesis Sebastian tries to sabotag their fun.</desc>
     <episode-num system="dd_progid">10423869</episode-num>
     <subtitles type="teletext"/>
   </programme>
@@ -9062,7 +9108,7 @@
   </programme>
   <programme channel="tv.14" start="20171104200000 +0000" stop="20171104220000 +0000">
     <title>What Now?</title>
-    <desc>What Now is back with more gunge, foam, games ... and a brand new set!</desc>
+    <desc>LIVE from Tauranga! Ronnie gets gungy, giving you the chance to win prizes from Papamoa Beach. Chris is in the studio with a whole audience of identical twins &amp; triplets, including the Oneill Twins!</desc>
     <episode-num system="dd_progid">10470164</episode-num>
   </programme>
   <programme channel="tv.14" start="20171104220000 +0000" stop="20171105000000 +0000">
@@ -9310,6 +9356,9 @@
     <title>Home And Away</title>
     <desc>Hunter and Mason try to catch the thief who has been breaking into the surf club. A revelation shocks Maggie - will she ever be able to fogive Ziggy?</desc>
     <episode-num system="dd_progid">10487072</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171106030000 +0000" stop="20171106033000 +0000">
     <title>Shortland Street</title>
@@ -9407,7 +9456,7 @@
   </programme>
   <programme channel="tv.14" start="20171106093000 +0000" stop="20171106103500 +0000">
     <title>The Walking Dead</title>
-    <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria.</desc>
+    <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria. Continues tomorrow on TVNZ 2.</desc>
     <episode-num system="dd_progid">10495965</episode-num>
   </programme>
   <programme channel="tv.14" start="20171106103500 +0000" stop="20171106110500 +0000">
@@ -21088,6 +21137,9 @@
     <title>Morena</title>
     <desc>We meet the woman behind Tio Pablo; Chef James Miller shows us how to make yummy Mussel Sliders; Heidi ‘s in to tell us what’s happening in the arts scene; and Kara calls in on sommelier Daniel Kemp.</desc>
     <episode-num system="dd_progid">10495417</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171102223000 +0000" stop="20171102233000 +0000">
     <title>The Chase</title>
@@ -21101,6 +21153,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>On day 5, the beautiful bodies hit the beach. Some new tourists make a big impression and a voting twist puts one couple in the firing line.</desc>
     <episode-num system="dd_progid">10464992</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171103000000 +0000" stop="20171103003000 +0000">
     <title>1 News At Midday</title>
@@ -21148,6 +21203,9 @@
     <title>Come Dine With Me Daytime</title>
     <desc>It's the final night in Edinburgh, and pilot James is hoping a touch of sophistication in his high flying menu will see him land safely in first place.</desc>
     <episode-num system="dd_progid">10441342</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171103045500 +0000" stop="20171103060000 +0000">
     <title>The Chase</title>
@@ -30144,40 +30202,40 @@
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171030170000 +0000" stop="20171030180000 +0000">
+  <programme channel="tv.55" start="20171030170000 +0000" stop="20171030182000 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
+    <episode-num system="dd_progid">10432293</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171030180000 +0000" stop="20171030200000 +0000">
-    <title>Live: MLS Semi Final TBC</title>
-    <desc/>
-    <episode-num system="dd_progid">10480163</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171030200000 +0000" stop="20171030201500 +0000">
-    <title>On DUKE today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171030201500 +0000" stop="20171030211000 +0000">
+  <programme channel="tv.55" start="20171030182000 +0000" stop="20171030191500 +0000">
     <title>Bundesliga Highlights</title>
     <desc>Highlights of the German Bundesliga featuring all the goals from the latest round of matches.</desc>
     <episode-num system="dd_progid">10487925</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171030211000 +0000" stop="20171030234500 +0000">
+  <programme channel="tv.55" start="20171030191500 +0000" stop="20171030215000 +0000">
     <title>NFL - Vikings v Browns</title>
     <desc>Replay of the Cleveland Browns hosting the Minnesota Vikings from Twickenham Stadium in London as part of the International Series.</desc>
     <episode-num system="dd_progid">10490820</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171030234500 +0000" stop="20171031001000 +0000">
+  <programme channel="tv.55" start="20171030215000 +0000" stop="20171030221500 +0000">
     <title>Tour of Southland</title>
     <desc>Coverage of the opening Prologue around Queens Park, Invercargill and the opening 170km stage from Invercargill to Lumsden.</desc>
     <episode-num system="dd_progid">10498508</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171031001000 +0000" stop="20171031024500 +0000">
+  <programme channel="tv.55" start="20171030221500 +0000" stop="20171030232000 +0000">
     <title>WRC Wales</title>
     <desc>Replay of Super Stage 18 – in Brenig, featuring Kiwi driver Hayden Paddon.</desc>
     <episode-num system="dd_progid">10472813</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20171030232000 +0000" stop="20171031011500 +0000">
+    <title>Live: MLS - NY v Toronto</title>
+    <desc>Live coverage of the Conference Semi Final (First Leg) between the New York Red Bulls and Toronto FC from Red Bull Arena in Harrison, New Jersey.</desc>
+    <episode-num system="dd_progid">10480163</episode-num>
+  </programme>
+  <programme channel="tv.55" start="20171031011500 +0000" stop="20171031024500 +0000">
+    <title>WRC Wales</title>
+    <desc>Replay of the final Power Stage of the rally, Super Stage 21 in Brenig, featuring Kiwi driver Hayden Paddon.</desc>
+    <episode-num system="dd_progid">10472814</episode-num>
   </programme>
   <programme channel="tv.55" start="20171031024500 +0000" stop="20171031034000 +0000">
     <title>Mythbusters</title>
@@ -30274,20 +30332,15 @@
     <desc>We'll catch you later on DUKE.</desc>
     <episode-num system="dd_progid">10432292</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171031170000 +0000" stop="20171031180000 +0000">
+  <programme channel="tv.55" start="20171031170000 +0000" stop="20171031185500 +0000">
     <title>On DUKE today...</title>
     <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
+    <episode-num system="dd_progid">10432293</episode-num>
   </programme>
-  <programme channel="tv.55" start="20171031180000 +0000" stop="20171031200000 +0000">
-    <title>LIVE: MLS Semi Final TBC</title>
-    <desc/>
-    <episode-num system="dd_progid">10480164</episode-num>
-  </programme>
-  <programme channel="tv.55" start="20171031200000 +0000" stop="20171031204500 +0000">
-    <title>On DUKE today...</title>
-    <desc>Here's what's on DUKE today.</desc>
-    <episode-num system="dd_progid">10432293#1</episode-num>
+  <programme channel="tv.55" start="20171031185500 +0000" stop="20171031204500 +0000">
+    <title>MLS - Houston v Portland</title>
+    <desc>Delayed coverage of the Conference Semi Final (First Leg) between the Houston Dynamo and the Portland Timbers from BBVA Compass Stadium in Houston, Texas.</desc>
+    <episode-num system="dd_progid">10480214</episode-num>
   </programme>
   <programme channel="tv.55" start="20171031204500 +0000" stop="20171031231500 +0000">
     <title>NFL - Bears v Saints</title>
@@ -30402,8 +30455,8 @@
     <episode-num system="dd_progid">10432293</episode-num>
   </programme>
   <programme channel="tv.55" start="20171101183000 +0000" stop="20171101202000 +0000">
-    <title>MLS Replay</title>
-    <desc>Replay of Tuesday’s playoff match – teams TBC.</desc>
+    <title>MLS - NY v Toronto</title>
+    <desc>Replay of the Conference Semi Final (First Leg) between the New York Red Bulls and Toronto FC from Red Bull Arena in Harrison, New Jersey.</desc>
     <episode-num system="dd_progid">10480263</episode-num>
   </programme>
   <programme channel="tv.55" start="20171101202000 +0000" stop="20171101204500 +0000">
@@ -30493,9 +30546,9 @@
     </rating>
   </programme>
   <programme channel="tv.55" start="20171102090000 +0000" stop="20171102093000 +0000">
-    <title>New: Brooklyn Nine-Nine</title>
-    <desc>To track down infamous arms dealer Dan Valdano, Jake and Terry go undercover at an illegal gambling club, but when Holt gets involved to coach the two in the art of poker, his addiction resurfaces.</desc>
-    <episode-num system="dd_progid">10493655</episode-num>
+    <title>American Dad</title>
+    <desc>CIA operative and all-round American Dad Stan brings his chaotic family, Roger the alien, and their goldfish Klaus to DUKE. Catch the LOL's from the very beginning.</desc>
+    <episode-num system="dd_progid">10483429</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -30537,8 +30590,8 @@
     <episode-num system="dd_progid">10432293</episode-num>
   </programme>
   <programme channel="tv.55" start="20171102175000 +0000" stop="20171102193500 +0000">
-    <title>MLS Replay</title>
-    <desc>Replay of Wednesday’s playoff match – teams TBC.</desc>
+    <title>MLS - Houston v Portland</title>
+    <desc>Replay of the Conference Semi Final (First Leg) between the Houston Dynamo and the Portland Timbers from BBVA Compass Stadium in Houston, Texas.</desc>
     <episode-num system="dd_progid">10480264</episode-num>
   </programme>
   <programme channel="tv.55" start="20171102193500 +0000" stop="20171102200500 +0000">
@@ -30583,6 +30636,9 @@
     <title>Home Improvement</title>
     <desc>Jill's instincts are correct when she predicts something bad will happen on Brad's first night out with his driver's license.</desc>
     <episode-num system="dd_progid">320040</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171103040500 +0000" stop="20171103043000 +0000">
     <title>Tour of Southland</title>
@@ -30617,6 +30673,9 @@
     <title>Movie: The Patriot</title>
     <desc>Benjamin Martin (Mel Gibson) is forced to join the American Revolution when the British threaten to take his farm away from him.</desc>
     <episode-num system="dd_progid">275856</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171103103500 +0000" stop="20171103112500 +0000">
     <title>Modern Life Is Goodish</title>
@@ -41544,6 +41603,9 @@
     <title>Morena</title>
     <desc>We meet the woman behind Tio Pablo; Chef James Miller shows us how to make yummy Mussel Sliders; Heidi ‘s in to tell us what’s happening in the arts scene; and Kara calls in on sommelier Daniel Kemp.</desc>
     <episode-num system="dd_progid">10495417</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171102213000 +0000" stop="20171102223000 +0000">
     <title>The Chase</title>
@@ -41557,6 +41619,9 @@
     <title>Coach Trip: Road To Ibiza</title>
     <desc>On day 5, the beautiful bodies hit the beach. Some new tourists make a big impression and a voting twist puts one couple in the firing line.</desc>
     <episode-num system="dd_progid">10464992</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171102230000 +0000" stop="20171102233000 +0000">
     <title>1 News At Midday</title>
@@ -41604,6 +41669,9 @@
     <title>Come Dine With Me Daytime</title>
     <desc>It's the final night in Edinburgh, and pilot James is hoping a touch of sophistication in his high flying menu will see him land safely in first place.</desc>
     <episode-num system="dd_progid">10441342</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.9" start="20171103035500 +0000" stop="20171103050000 +0000">
     <title>The Chase</title>

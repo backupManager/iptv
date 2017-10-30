@@ -309,6 +309,9 @@ pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r
 #EXTINF:-1 tvg-name="089" tvg-id="radio.ih.6720" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.ih.6720.png" radio="true",Sounds Like Christmas
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.ih.6720.aac -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.ih.6720 -f mpegts pipe:1
 
+#EXTINF:-1 tvg-name="090" tvg-id="radio.or.18" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/radio.or.18.png" radio="true",Radio X
+pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 202.89.4.222\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/nz/radio.or.18 -mpegts_service_type digital_radio -vcodec copy -acodec copy -metadata service_name=radio.or.18 -f mpegts pipe:1
+
 #EXTINF:-1 tvg-name="001" tvg-id="tv.101305020522" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020522.png",7TWO
 pipe:///usr/bin/ffmpeg -loglevel fatal -headers X-Forwarded-For:\ 52.62.247.239\r\nUser-Agent:\ FMLE/3.0\ (compatible;\ FMSc/1.0)\r\n -i http://iptv.matthuisman.nz/au/Sydney/tv.101305020522.m3u8 -vcodec copy -acodec copy -metadata service_name=tv.101305020522 -f mpegts pipe:1
 
