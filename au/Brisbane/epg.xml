@@ -24544,28 +24544,35 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20171103130000 +0000" stop="20171103150200 +0000">
+  <programme channel="tv.101305040543" start="20171103130000 +0000" stop="20171103140000 +0000">
     <title>Outback Truckers</title>
     <episode-num system="dd_progid">tvvuu3aKltaPmdaL</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20171103150200 +0000" stop="20171103155700 +0000">
+  <programme channel="tv.101305040543" start="20171103140000 +0000" stop="20171103150200 +0000">
+    <title>Ink Master</title>
+    <episode-num system="dd_progid">suGlttuSmdaPmd6x</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305040543" start="20171103150200 +0000" stop="20171103155500 +0000">
     <title>Ink Master</title>
     <episode-num system="dd_progid">suGlttuSmdaPmd2x</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20171103155700 +0000" stop="20171103165700 +0000">
+  <programme channel="tv.101305040543" start="20171103155500 +0000" stop="20171103165500 +0000">
     <title>Mark Berg's Fishing Addiction</title>
     <episode-num system="dd_progid">tujgqtqSmdaPmdqx</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305040543" start="20171103165700 +0000" stop="20171103200000 +0000">
+  <programme channel="tv.101305040543" start="20171103165500 +0000" stop="20171103200000 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
@@ -28183,7 +28190,7 @@
     <episode-num system="dd_progid">59741E1498237</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040641" start="20171105060000 +0000" stop="20171105070000 +0000">
@@ -28869,16 +28876,16 @@
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171031043000 +0000" stop="20171031050000 +0000">
-    <title>Ben's Menu</title>
-    <episode-num system="dd_progid">57300E1438025</episode-num>
+    <title>Neighbours</title>
+    <episode-num system="dd_progid">54537E1380053</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171031043000 +0000" stop="20171031050000 +0000">
-    <title>Neighbours</title>
-    <episode-num system="dd_progid">54537E1380053</episode-num>
+    <title>Ben's Menu</title>
+    <episode-num system="dd_progid">57300E1438025</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
@@ -28964,11 +28971,15 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406040645" start="20171031123000 +0000" stop="20171031133000 +0000">
-    <title>To Be Advised</title>
-    <episode-num system="dd_progid">150794E23423</episode-num>
+  <programme channel="tv.101406040645" start="20171031123000 +0000" stop="20171031132500 +0000">
+    <title>Bull</title>
+    <episode-num system="dd_progid">59978E1509869</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>M</value>
+    </rating>
   </programme>
-  <programme channel="tv.101406040645" start="20171031133000 +0000" stop="20171031143000 +0000">
+  <programme channel="tv.101406040645" start="20171031132500 +0000" stop="20171031143000 +0000">
     <title>The Project</title>
     <episode-num system="dd_progid">59797E1500808</episode-num>
     <subtitles type="teletext"/>
@@ -29561,7 +29572,7 @@
     <episode-num system="dd_progid">59984E1509960</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171103030000 +0000" stop="20171103040000 +0000">
@@ -29835,7 +29846,7 @@
     <episode-num system="dd_progid">59741E1498237</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406040645" start="20171104043000 +0000" stop="20171104050000 +0000">
@@ -31623,7 +31634,7 @@
     <title>Will &amp; Grace</title>
     <episode-num system="dd_progid">60037E1512928</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040648" start="20171102103000 +0000" stop="20171102111000 +0000">
@@ -31938,7 +31949,7 @@
     <title>Will &amp; Grace</title>
     <episode-num system="dd_progid">60037E1512929</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406040648" start="20171103100000 +0000" stop="20171103103000 +0000">
