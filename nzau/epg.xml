@@ -6282,23 +6282,36 @@
     <desc>Presenters Piripi Taylor, Rahia Timutimu and the experienced team of reporters bring you the daily news, featuring local, national and international stories from a Māori perspective.</desc>
     <episode-num system="dd_progid">000119465</episode-num>
   </programme>
-  <programme channel="tv.13" start="20171104060000 +0000" stop="20171104073500 +0000">
+  <programme channel="tv.13" start="20171104060000 +0000" stop="20171104073000 +0000">
     <title>Jetsons - The Movie</title>
     <desc>The Jetsons have to relocate when Mr. Spacely promotes George Jetson to take charge of a new factory on a distant planet. (1990)</desc>
     <episode-num system="dd_progid">000123858</episode-num>
   </programme>
-  <programme channel="tv.13" start="20171104073500 +0000" stop="20171104103000 +0000">
-    <title>The Big Blue</title>
-    <desc>(AO) Lifelong pals Jacques and Enzo who grew up together in the Mediterranean are about to compete in a savage battle for the top prize in the world free diving championships. Who will reach the deepe</desc>
-    <episode-num system="dd_progid">000114466</episode-num>
+  <programme channel="tv.13" start="20171104073000 +0000" stop="20171104090000 +0000">
+    <title>2017 Maori All Blacks Tour</title>
+    <desc>Delayed coverage of the Māori All Blacks Tour VS Canada in Vancouver.</desc>
+    <episode-num system="dd_progid">000124079</episode-num>
+  </programme>
+  <programme channel="tv.13" start="20171104090000 +0000" stop="20171104093000 +0000">
+    <title>Aotearoa</title>
+    <desc>Presenters Piripi Taylor, Rahia Timutimu and the experienced team of reporters bring you the daily news, featuring local, national and international stories from a Māori perspective. (R)</desc>
+    <episode-num system="dd_progid">000115062</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme channel="tv.13" start="20171104093000 +0000" stop="20171104100000 +0000">
+    <title>Te Kāea</title>
+    <desc>Tainui Stephens explores the history and rich culture of Te Arawa, telling the stories of its people and the landmarks that define the region within Aotearoa from above. ®</desc>
+    <episode-num system="dd_progid">000119465</episode-num>
+  </programme>
+  <programme channel="tv.13" start="20171104100000 +0000" stop="20171104110000 +0000">
+    <title>All Talk with Anika Moa</title>
+    <desc>(AO) Singer, song-writer and personality powerhouse Anika Moa is back with her popular talk show, bringing guests, live music and her frank perspective on what's trending (and offending) in pop cultur</desc>
+    <episode-num system="dd_progid">000121233</episode-num>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
-  </programme>
-  <programme channel="tv.13" start="20171104103000 +0000" stop="20171104110000 +0000">
-    <title>Te Kāea</title>
-    <desc>Presenters Piripi Taylor, Rahia Timutimu and the experienced team of reporters bring you the daily news, featuring local, national and international stories from a Māori perspective. (R)</desc>
-    <episode-num system="dd_progid">000119465</episode-num>
   </programme>
   <programme channel="tv.13" start="20171104110000 +0000" stop="20171104113000 +0000">
     <title>All Talk with Anika Moa</title>
@@ -44704,6 +44717,13 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme channel="tv.101002210220" start="20171108130000 +0000" stop="20171108133000 +0000">
+    <title>ABC News</title>
+    <episode-num system="dd_progid">NU1717H223S00</episode-num>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
   <programme channel="tv.101002210221" start="20171031121700 +0000" stop="20171031131800 +0000">
     <title>Australia's Great War Horse</title>
     <episode-num system="dd_progid">DO1302W001S00</episode-num>
@@ -51037,13 +51057,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210224" start="20171031113800 +0000" stop="20171031180000 +0000">
-    <title>Station Close</title>
-    <episode-num system="dd_progid">TX1701H001S00</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
   <programme channel="tv.101002210224" start="20171031180000 +0000" stop="20171031182300 +0000">
     <title>Arthur</title>
     <episode-num system="dd_progid">ZX9903A028S00</episode-num>
@@ -54434,14 +54447,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200421" start="20171031121800 +0000" stop="20171031130900 +0000">
-    <title>Cold Case</title>
-    <episode-num system="dd_progid">COCA_3_2T6358</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200421" start="20171031130900 +0000" stop="20171031134000 +0000">
     <title>Bike Bug Full Cycle</title>
     <episode-num system="dd_progid">FUCY_2017_28</episode-num>
@@ -55925,9 +55930,10 @@
     <episode-num system="dd_progid">MOJU_1_3</episode-num>
     <subtitles type="teletext"/>
   </programme>
-  <programme channel="tv.101204200424" start="20171031123100 +0000" stop="20171031133000 +0000">
-    <title>Keeping Up With the Kardashians</title>
-    <episode-num system="dd_progid">KEUP_7_5JY06</episode-num>
+  <programme channel="tv.101204200421" start="20171108130000 +0000" stop="20171108140000 +0000">
+    <title>Chicago Med</title>
+    <episode-num system="dd_progid">CHME01_2_22</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
@@ -57895,13 +57901,6 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171031124800 +0000" stop="20171031135000 +0000">
-    <title>Heartbeat</title>
-    <episode-num system="dd_progid">I</episode-num>
-    <rating system="Freeview">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme channel="tv.101204200427" start="20171031135000 +0000" stop="20171031135500 +0000">
     <title>Explore Moments</title>
     <episode-num system="dd_progid">EXPL__66</episode-num>
@@ -59420,13 +59419,6 @@
   <programme channel="tv.101204200427" start="20171108120000 +0000" stop="20171108131000 +0000">
     <title>Silent Witness</title>
     <episode-num system="dd_progid">SIWI_11_4</episode-num>
-    <rating system="Freeview">
-      <value>MA</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200428" start="20171031122800 +0000" stop="20171031132400 +0000">
-    <title>Most Terrifying Places in America</title>
-    <episode-num system="dd_progid">MOTE_1_SP08H</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
@@ -61776,12 +61768,11 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171031124500 +0000" stop="20171031134100 +0000">
-    <title>Mistresses</title>
-    <episode-num system="dd_progid">tvnuu3aLltaPmdaM</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101204200428" start="20171108130000 +0000" stop="20171108133000 +0000">
+    <title>Rick and Morty</title>
+    <episode-num system="dd_progid">RIMO__3</episode-num>
     <rating system="Freeview">
-      <value>M</value>
+      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020520" start="20171031134100 +0000" stop="20171031145400 +0000">
@@ -63000,13 +62991,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020522" start="20171031123000 +0000" stop="20171031133000 +0000">
-    <title>Bargain Hunt</title>
-    <episode-num system="dd_progid">q25vt3qPltaPmdeP</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101305020522" start="20171031133000 +0000" stop="20171031143000 +0000">
@@ -64681,14 +64665,6 @@
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20171031113300 +0000" stop="20171031135600 +0000">
-    <title>Deliver Us From Evil</title>
-    <episode-num system="dd_progid">uKbdr3aIltaPmdaJ</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>MA</value>
     </rating>
   </programme>
   <programme channel="tv.101305020523" start="20171031135600 +0000" stop="20171031145500 +0000">
@@ -69489,13 +69465,6 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020621" start="20171031123100 +0000" stop="20171031130000 +0000">
-    <title>Hogan's Heroes</title>
-    <episode-num system="dd_progid">59620E1032344</episode-num>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme channel="tv.101406020621" start="20171031130000 +0000" stop="20171031133000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">57596E1476479</episode-num>
@@ -71302,12 +71271,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020625" start="20171031122700 +0000" stop="20171031133000 +0000">
-    <title>The Project</title>
-    <episode-num system="dd_progid">59797E1500808</episode-num>
-    <subtitles type="teletext"/>
+  <programme channel="tv.101406020621" start="20171108130000 +0000" stop="20171108133000 +0000">
+    <title>Home Shopping</title>
+    <episode-num system="dd_progid">57596E1476528</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171031133000 +0000" stop="20171031143000 +0000">
@@ -75667,6 +75635,13 @@
       <value>M</value>
     </rating>
   </programme>
+  <programme channel="tv.101406020628" start="20171108130000 +0000" stop="20171108133000 +0000">
+    <title>The King of Queens</title>
+    <episode-num system="dd_progid">59955E1115576</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000301" start="20171031120500 +0000" stop="20171031130000 +0000">
     <title>The Frozen Dead</title>
     <episode-num system="dd_progid">863105</episode-num>
@@ -77409,6 +77384,13 @@
     <episode-num system="dd_progid">S84516320171108</episode-num>
     <rating system="Freeview">
       <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000301" start="20171108130000 +0000" stop="20171108144000 +0000">
+    <title>Nakom</title>
+    <episode-num system="dd_progid">838211</episode-num>
+    <rating system="Freeview">
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171031120500 +0000" stop="20171031131000 +0000">
@@ -82235,6 +82217,13 @@
       <value>G</value>
     </rating>
   </programme>
+  <programme channel="tv.320203000304" start="20171108130000 +0000" stop="20171108133000 +0000">
+    <title>Diners, Drive-Ins and Dives</title>
+    <episode-num system="dd_progid">873027</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
   <programme channel="tv.320203000305" start="20171031123000 +0000" stop="20171031130000 +0000">
     <title>Our Spirit to C-Gen</title>
     <episode-num system="dd_progid">714587</episode-num>
@@ -84515,6 +84504,13 @@
   <programme channel="tv.320203000305" start="20171108120000 +0000" stop="20171108130000 +0000">
     <title>Anthem Sessions</title>
     <episode-num system="dd_progid">853705</episode-num>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.320203000305" start="20171108130000 +0000" stop="20171108140000 +0000">
+    <title>Volumz</title>
+    <episode-num system="dd_progid">675657</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
