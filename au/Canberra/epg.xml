@@ -3332,7 +3332,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20171107025900 +0000" stop="20171107041100 +0000">
+  <programme channel="tv.101002210221" start="20171107025900 +0000" stop="20171107041000 +0000">
     <title>Indian Summers</title>
     <episode-num system="dd_progid">ZW0506A001S00</episode-num>
     <subtitles type="teletext"/>
@@ -3340,7 +3340,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101002210221" start="20171107041100 +0000" stop="20171107044200 +0000">
+  <programme channel="tv.101002210221" start="20171107041000 +0000" stop="20171107044200 +0000">
     <title>Boyer Lecture: Professor Genevieve Bell</title>
     <episode-num system="dd_progid">NS1744H001S00</episode-num>
     <subtitles type="teletext"/>
@@ -3639,6 +3639,9 @@
     <title>Gruen</title>
     <episode-num system="dd_progid">LE1627H009S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>MA</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210221" start="20171108100800 +0000" stop="20171108103500 +0000">
     <title>Rosehaven</title>
@@ -11534,6 +11537,9 @@
     <title>Spawn Point: Scoop</title>
     <episode-num system="dd_progid">CK1666H038S00</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.101002210224" start="20171108053100 +0000" stop="20171108060000 +0000">
     <title>Operation Ouch!</title>
@@ -22793,14 +22799,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020523" start="20171105180200 +0000" stop="20171105190000 +0000">
-    <title>NFL</title>
-    <episode-num system="dd_progid">t2zmsteIltaPmdmP</episode-num>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020523" start="20171105190000 +0000" stop="20171105212500 +0000">
+  <programme channel="tv.101305020523" start="20171105180200 +0000" stop="20171105212500 +0000">
     <title>NFL</title>
     <episode-num system="dd_progid">t2zmsteIltaPmdmP</episode-num>
     <rating system="Freeview">
@@ -25767,7 +25766,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171103011500 +0000" stop="20171103063000 +0000">
+  <programme channel="tv.101305020528" start="20171103011500 +0000" stop="20171103062500 +0000">
     <title>Racing Live: Horsham</title>
     <episode-num system="dd_progid">RDAY0311</episode-num>
     <subtitles type="teletext"/>
@@ -25775,15 +25774,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171103063000 +0000" stop="20171103070000 +0000">
-    <title>After The Last</title>
-    <episode-num system="dd_progid">ATL0311L</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101305020528" start="20171103070000 +0000" stop="20171103111500 +0000">
+  <programme channel="tv.101305020528" start="20171103062500 +0000" stop="20171103104500 +0000">
     <title>Racenight Live: The Valley</title>
     <episode-num system="dd_progid">RNIT0311</episode-num>
     <subtitles type="teletext"/>
@@ -25791,7 +25782,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171103111500 +0000" stop="20171103113000 +0000">
+  <programme channel="tv.101305020528" start="20171103104500 +0000" stop="20171103111500 +0000">
     <title>Frank Reys - The Ride of His Life</title>
     <episode-num system="dd_progid">FAMC17A</episode-num>
     <subtitles type="teletext"/>
@@ -25799,7 +25790,15 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171103113000 +0000" stop="20171103160000 +0000">
+  <programme channel="tv.101305020528" start="20171103111500 +0000" stop="20171103114500 +0000">
+    <title>Raceday Review - Horsham</title>
+    <episode-num system="dd_progid">RV03111A</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101305020528" start="20171103114500 +0000" stop="20171103160000 +0000">
     <title>Melbourne Cup Marathon</title>
     <episode-num system="dd_progid">MPMT161A</episode-num>
     <subtitles type="teletext"/>
@@ -25911,7 +25910,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171104010000 +0000" stop="20171104064500 +0000">
+  <programme channel="tv.101305020528" start="20171104010000 +0000" stop="20171104064000 +0000">
     <title>Racing Live: Flem/Traral/Morph</title>
     <episode-num system="dd_progid">RDAY0411</episode-num>
     <subtitles type="teletext"/>
@@ -25919,7 +25918,7 @@
       <value>NC</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020528" start="20171104064500 +0000" stop="20171104080000 +0000">
+  <programme channel="tv.101305020528" start="20171104064000 +0000" stop="20171104080000 +0000">
     <title>After The Last</title>
     <episode-num system="dd_progid">ATL0411L</episode-num>
     <subtitles type="teletext"/>
@@ -28949,7 +28948,7 @@
     <episode-num system="dd_progid">60048E1514971</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171102093000 +0000" stop="20171102103000 +0000">
@@ -29898,7 +29897,7 @@
     <episode-num system="dd_progid">58877E1470332</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171106110000 +0000" stop="20171106113000 +0000">
@@ -30039,12 +30038,8 @@
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171107020000 +0000" stop="20171107030000 +0000">
-    <title>Jamie's Quick &amp; Easy Food</title>
-    <episode-num system="dd_progid">59836E1502808</episode-num>
-    <subtitles type="teletext"/>
-    <rating system="Freeview">
-      <value>G</value>
-    </rating>
+    <title>To Be Advised</title>
+    <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
   <programme channel="tv.101406020625" start="20171107030000 +0000" stop="20171107033000 +0000">
     <title>Entertainment Tonight</title>
@@ -30131,7 +30126,7 @@
     <episode-num system="dd_progid">59979E1509892</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171107104000 +0000" stop="20171107114000 +0000">
@@ -31001,28 +30996,28 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171102101000 +0000" stop="20171102105000 +0000">
+  <programme channel="tv.101406020628" start="20171102101000 +0000" stop="20171102104500 +0000">
     <title>Sex and the City</title>
     <episode-num system="dd_progid">59951E286436</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171102105000 +0000" stop="20171102113000 +0000">
+  <programme channel="tv.101406020628" start="20171102104500 +0000" stop="20171102112000 +0000">
     <title>Sex and the City</title>
     <episode-num system="dd_progid">59951E286437</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171102113000 +0000" stop="20171102123000 +0000">
+  <programme channel="tv.101406020628" start="20171102112000 +0000" stop="20171102122000 +0000">
     <title>Crazy Ex-Girlfriend</title>
     <episode-num system="dd_progid">59982E1509948</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101406020628" start="20171102123000 +0000" stop="20171102133000 +0000">
+  <programme channel="tv.101406020628" start="20171102122000 +0000" stop="20171102133000 +0000">
     <title>The Late Late Show with James Corden</title>
     <episode-num system="dd_progid">59899E1515106</episode-num>
     <rating system="Freeview">
@@ -33279,7 +33274,7 @@
     <title>Great British Railway Journeys</title>
     <episode-num system="dd_progid">831041</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000301" start="20171102090500 +0000" stop="20171102093500 +0000">
@@ -33882,7 +33877,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20171105063000 +0000" stop="20171105073000 +0000">
     <title>Russia 1917: Countdown to Revolution</title>
-    <episode-num system="dd_progid">884889</episode-num>
+    <episode-num system="dd_progid">897170</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -34620,7 +34615,7 @@
   </programme>
   <programme channel="tv.320203000301" start="20171108123000 +0000" stop="20171108130000 +0000">
     <title>SBS World News Late Edition</title>
-    <episode-num system="dd_progid">S84516320171108</episode-num>
+    <episode-num system="dd_progid">S89720920171108</episode-num>
     <rating system="Freeview">
       <value>NC</value>
     </rating>
@@ -35163,14 +35158,14 @@
     <title>Cyberwar</title>
     <episode-num system="dd_progid">895970</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171102095500 +0000" stop="20171102102500 +0000">
     <title>Cyberwar</title>
     <episode-num system="dd_progid">895979</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171102102500 +0000" stop="20171102105500 +0000">
@@ -35732,14 +35727,14 @@
     <title>Cyberwar</title>
     <episode-num system="dd_progid">895970</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171104142500 +0000" stop="20171104145000 +0000">
     <title>Cyberwar</title>
     <episode-num system="dd_progid">895979</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171104145000 +0000" stop="20171104154000 +0000">
@@ -36435,7 +36430,7 @@
     <title>Cyberwar</title>
     <episode-num system="dd_progid">895979</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000302" start="20171107063000 +0000" stop="20171107073000 +0000">
@@ -37346,14 +37341,14 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171102070000 +0000" stop="20171102073000 +0000">
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171102073000 +0000" stop="20171102082500 +0000">
@@ -37451,7 +37446,7 @@
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171102133000 +0000" stop="20171102142500 +0000">
@@ -37556,14 +37551,14 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171102210000 +0000" stop="20171102213000 +0000">
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171102213000 +0000" stop="20171102222500 +0000">
@@ -37619,7 +37614,7 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171103013000 +0000" stop="20171103022500 +0000">
@@ -37654,7 +37649,7 @@
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171103040000 +0000" stop="20171103043000 +0000">
@@ -38039,7 +38034,7 @@
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171104072000 +0000" stop="20171104073000 +0000">
@@ -38144,7 +38139,7 @@
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171104140000 +0000" stop="20171104145500 +0000">
@@ -38221,7 +38216,7 @@
     <title>Diners, Drive-Ins and Dives</title>
     <episode-num system="dd_progid">873023</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171104193000 +0000" stop="20171104202500 +0000">
@@ -38361,7 +38356,7 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105065500 +0000" stop="20171105072000 +0000">
@@ -38382,7 +38377,7 @@
     <title>Barefoot Contessa: Back to Basics</title>
     <episode-num system="dd_progid">873173</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105080000 +0000" stop="20171105082500 +0000">
@@ -38466,7 +38461,7 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105133000 +0000" stop="20171105140000 +0000">
@@ -38480,7 +38475,7 @@
     <title>Barefoot Contessa: Back to Basics</title>
     <episode-num system="dd_progid">873173</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105143000 +0000" stop="20171105150000 +0000">
@@ -38543,7 +38538,7 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105190000 +0000" stop="20171105193000 +0000">
@@ -38557,7 +38552,7 @@
     <title>Barefoot Contessa: Back to Basics</title>
     <episode-num system="dd_progid">873173</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171105200000 +0000" stop="20171105203000 +0000">
@@ -38620,7 +38615,7 @@
     <title>Secret Meat Business</title>
     <episode-num system="dd_progid">876794</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171106010000 +0000" stop="20171106013000 +0000">
@@ -38634,7 +38629,7 @@
     <title>Barefoot Contessa: Back to Basics</title>
     <episode-num system="dd_progid">873173</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000304" start="20171106020000 +0000" stop="20171106023000 +0000">
@@ -38786,7 +38781,7 @@
   </programme>
   <programme channel="tv.320203000304" start="20171106120000 +0000" stop="20171106125500 +0000">
     <title>Cutthroat Kitchen</title>
-    <episode-num system="dd_progid">873056</episode-num>
+    <episode-num system="dd_progid">897171</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -38975,7 +38970,7 @@
   </programme>
   <programme channel="tv.320203000304" start="20171107013000 +0000" stop="20171107022500 +0000">
     <title>Cutthroat Kitchen</title>
-    <episode-num system="dd_progid">873056</episode-num>
+    <episode-num system="dd_progid">897171</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -40027,7 +40022,7 @@
     <title>Our Stories</title>
     <episode-num system="dd_progid">876138</episode-num>
     <rating system="Freeview">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171102082000 +0000" stop="20171102082500 +0000">
@@ -40873,14 +40868,14 @@
   </programme>
   <programme channel="tv.320203000305" start="20171105160000 +0000" stop="20171105170000 +0000">
     <title>Volumz</title>
-    <episode-num system="dd_progid">673898</episode-num>
+    <episode-num system="dd_progid">673885</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171105170000 +0000" stop="20171105180000 +0000">
     <title>Volumz</title>
-    <episode-num system="dd_progid">673899</episode-num>
+    <episode-num system="dd_progid">673887</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -41408,7 +41403,7 @@
     <title>Culture Warriors</title>
     <episode-num system="dd_progid">610348</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171107100000 +0000" stop="20171107110000 +0000">
@@ -41576,7 +41571,7 @@
     <title>Culture Warriors</title>
     <episode-num system="dd_progid">610348</episode-num>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.320203000305" start="20171108010000 +0000" stop="20171108020000 +0000">
