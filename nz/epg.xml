@@ -3524,6 +3524,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. One of the most anticipated events in the experiment sees the remaining couples reuniting for a fiery first dinner party. S1 Ep11</desc>
     <episode-num system="dd_progid">T785438</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171105073500 +0000" stop="20171105094000 +0000">
     <title>Grown Ups</title>
@@ -3543,6 +3546,9 @@
     <audio>
       <stereo>dolby</stereo>
     </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171105113000 +0000" stop="20171105160000 +0000">
     <title>Infomercials</title>
@@ -3601,9 +3607,12 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171105235500 +0000" stop="20171106012500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. One of the most anticipated events in the experiment sees the remaining couples reuniting for a fiery first dinner party. S1 Ep11</desc>
     <episode-num system="dd_progid">T785438</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171106012500 +0000" stop="20171106015000 +0000">
     <title>Now That's Funny!</title>
@@ -3728,7 +3737,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171106110000 +0000" stop="20171106112000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751817</episode-num>
   </programme>
@@ -3789,7 +3798,7 @@
     </rating>
   </programme>
   <programme channel="tv.11" start="20171106235500 +0000" stop="20171107005500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
   </programme>
@@ -3887,6 +3896,9 @@
     <title>Lost &amp; Found</title>
     <desc>Final. A Nelson family searches for answers in Austria about a mystery love child from WWII. Then, a man looks for the father he has not seen in 33 years. S2 Ep8</desc>
     <episode-num system="dd_progid">T636017</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171107083000 +0000" stop="20171107095000 +0000">
     <title>Employable Me</title>
@@ -4358,7 +4370,7 @@
     <desc>An Arizona high-roller's luck runs out when two strippers conspire to take his life. S6 Ep6</desc>
     <episode-num system="dd_progid">T737360</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171102111500 +0000" stop="20171102160000 +0000">
@@ -4485,7 +4497,7 @@
     <desc>When a family is attacked on the side of the road in an apparent hate crime; investigators uncover a crime of passion, lust, and revenge. S6 Ep7</desc>
     <episode-num system="dd_progid">T737361</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.12" start="20171103112500 +0000" stop="20171103160000 +0000">
@@ -4839,6 +4851,9 @@
     <title>Snapped: Killer Couples</title>
     <desc>When a family is attacked on the side of the road in an apparent hate crime; investigators uncover a crime of passion, lust, and revenge. S6 Ep7</desc>
     <episode-num system="dd_progid">T737361</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171105234500 +0000" stop="20171106004000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
@@ -4884,11 +4899,17 @@
     <title>Four Weddings UK</title>
     <desc>From drag queens to Ghostbusters, it's classic Four Weddings. Throw in a big fat Greek/Turkish wedding and a 1950s Hollywood bash and you've got comedy, drama and devilishly naughty entertainment.</desc>
     <episode-num system="dd_progid">T784376</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106053000 +0000" stop="20171106063000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha is quick to discover that Jungle Red is a failing salon by day and the owner's home by night. Tabatha has to motivate Suzanne to grow up and stop relying on her daughter to manage her staff.</desc>
     <episode-num system="dd_progid">T779407</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106063000 +0000" stop="20171106073000 +0000">
     <title>Flipping Out</title>
@@ -4946,16 +4967,25 @@
     <title>Four Weddings UK</title>
     <desc>From drag queens to Ghostbusters, it's classic Four Weddings. Throw in a big fat Greek/Turkish wedding and a 1950s Hollywood bash and you've got comedy, drama and devilishly naughty entertainment.</desc>
     <episode-num system="dd_progid">T784376</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106215500 +0000" stop="20171106225000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha is quick to discover that Jungle Red is a failing salon by day and the owner's home by night. Tabatha has to motivate Suzanne to grow up and stop relying on her daughter to manage her staff.</desc>
     <episode-num system="dd_progid">T779407</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106225000 +0000" stop="20171106234500 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>A red hot romance comes to a fiery end when jealousy threatens to rip two lovers apart. Is it a crime of passion or a cold blooded conspiracy? S6 Ep8</desc>
     <episode-num system="dd_progid">T737362</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106234500 +0000" stop="20171107004000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
@@ -14368,6 +14398,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. One of the most anticipated events in the experiment sees the remaining couples reuniting for a fiery first dinner party. S1 Ep11</desc>
     <episode-num system="dd_progid">T785438</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171105083500 +0000" stop="20171105104000 +0000">
     <title>Grown Ups</title>
@@ -14381,6 +14414,9 @@
     <title>Mistress America</title>
     <desc>Comedy in which a lonely and disappointed college freshman ends up being pulled into the wacky schemes of her future stepsister in an attempt to cure her negativity.</desc>
     <episode-num system="dd_progid">T734130</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171105123000 +0000" stop="20171105170000 +0000">
     <title>Infomercials</title>
@@ -14439,9 +14475,12 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171106005500 +0000" stop="20171106022500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. One of the most anticipated events in the experiment sees the remaining couples reuniting for a fiery first dinner party. S1 Ep11</desc>
     <episode-num system="dd_progid">T785438</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171106022500 +0000" stop="20171106025000 +0000">
     <title>Now That's Funny!</title>
@@ -14557,7 +14596,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171106120000 +0000" stop="20171106122000 +0000">
-    <title>The Project</title>
+    <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751817</episode-num>
   </programme>
@@ -14618,7 +14657,7 @@
     </rating>
   </programme>
   <programme channel="tv.27" start="20171107005500 +0000" stop="20171107015500 +0000">
-    <title>Married At First Sight NZ</title>
+    <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
   </programme>
@@ -14713,6 +14752,9 @@
     <title>Lost &amp; Found</title>
     <desc>Final. A Nelson family searches for answers in Austria about a mystery love child from WWII. Then, a man looks for the father he has not seen in 33 years. S2 Ep8</desc>
     <episode-num system="dd_progid">T636017</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171107093000 +0000" stop="20171107105000 +0000">
     <title>Employable Me</title>
@@ -16808,7 +16850,7 @@
     <desc>An Arizona high-roller's luck runs out when two strippers conspire to take his life. S6 Ep6</desc>
     <episode-num system="dd_progid">T737360</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171102121500 +0000" stop="20171102170000 +0000">
@@ -16935,7 +16977,7 @@
     <desc>When a family is attacked on the side of the road in an apparent hate crime; investigators uncover a crime of passion, lust, and revenge. S6 Ep7</desc>
     <episode-num system="dd_progid">T737361</episode-num>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.30" start="20171103122500 +0000" stop="20171103170000 +0000">
@@ -17289,6 +17331,9 @@
     <title>Snapped: Killer Couples</title>
     <desc>When a family is attacked on the side of the road in an apparent hate crime; investigators uncover a crime of passion, lust, and revenge. S6 Ep7</desc>
     <episode-num system="dd_progid">T737361</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106004500 +0000" stop="20171106014000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
@@ -17334,11 +17379,17 @@
     <title>Four Weddings UK</title>
     <desc>From drag queens to Ghostbusters, it's classic Four Weddings. Throw in a big fat Greek/Turkish wedding and a 1950s Hollywood bash and you've got comedy, drama and devilishly naughty entertainment.</desc>
     <episode-num system="dd_progid">T784376</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106063000 +0000" stop="20171106073000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha is quick to discover that Jungle Red is a failing salon by day and the owner's home by night. Tabatha has to motivate Suzanne to grow up and stop relying on her daughter to manage her staff.</desc>
     <episode-num system="dd_progid">T779407</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106073000 +0000" stop="20171106083000 +0000">
     <title>Flipping Out</title>
@@ -17396,16 +17447,25 @@
     <title>Four Weddings UK</title>
     <desc>From drag queens to Ghostbusters, it's classic Four Weddings. Throw in a big fat Greek/Turkish wedding and a 1950s Hollywood bash and you've got comedy, drama and devilishly naughty entertainment.</desc>
     <episode-num system="dd_progid">T784376</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106225500 +0000" stop="20171106235000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha is quick to discover that Jungle Red is a failing salon by day and the owner's home by night. Tabatha has to motivate Suzanne to grow up and stop relying on her daughter to manage her staff.</desc>
     <episode-num system="dd_progid">T779407</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106235000 +0000" stop="20171107004500 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>A red hot romance comes to a fiery end when jealousy threatens to rip two lovers apart. Is it a crime of passion or a cold blooded conspiracy? S6 Ep8</desc>
     <episode-num system="dd_progid">T737362</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107004500 +0000" stop="20171107014000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
