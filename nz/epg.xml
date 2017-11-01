@@ -232,10 +232,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171031163000 +0000" stop="20171031173000 +0000">
+  <programme channel="tv.10" start="20171031163000 +0000" stop="20171031170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473184</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171031170000 +0000" stop="20171031173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.10" start="20171031173000 +0000" stop="20171031175500 +0000">
     <title>Sesame Street</title>
@@ -445,7 +450,7 @@
   </programme>
   <programme channel="tv.10" start="20171101081000 +0000" stop="20171101084000 +0000">
     <title>All New 2 Broke Girls</title>
-    <desc>Final: Max, Caroline and the diner gang prepare for the premiere of the film about Caroline's life; Caroline and Max contemplate their future at the diner.</desc>
+    <desc>Last Ever Episode: Max, Caroline and the diner gang prepare for the premiere of the film about Caroline's life; Caroline and Max contemplate their future at the diner.</desc>
     <episode-num system="dd_progid">10454703</episode-num>
     <audio>
       <stereo>dolby</stereo>
@@ -702,6 +707,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171102030500 +0000" stop="20171102033000 +0000">
     <title>Bunk'd</title>
@@ -793,7 +801,7 @@
   </programme>
   <programme channel="tv.10" start="20171102083000 +0000" stop="20171102093000 +0000">
     <title>The Russell Howard Hour</title>
-    <desc>Join British comedian Russell Howard as he offers his fresh take on the week's biggest headlines and stories. He welcomes a celebrity guest, as well as an upcoming stand-up star.</desc>
+    <desc>Join Russell for his take on current affairs as he mocks the madness of the news and talks with singer-songwriter, guitarist &amp; record producer Ed Sheeran MBE. Stand-up from Rob Auton.</desc>
     <episode-num system="dd_progid">10498150</episode-num>
   </programme>
   <programme channel="tv.10" start="20171102093000 +0000" stop="20171102100000 +0000">
@@ -868,6 +876,9 @@
     <title>The Adam And Eve Show</title>
     <desc>Today Adam &amp; Eve Skype America's Got Talent winner Grace VanderWaal, glam up your mirror in a craft sesh with Instagram star Kristina Webb, and we catch up with Micah Heath on his musical journey!</desc>
     <episode-num system="dd_progid">10471397</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171102160500 +0000" stop="20171102163000 +0000">
     <title>Neighbours</title>
@@ -1368,7 +1379,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171104013000 +0000" stop="20171104020000 +0000">
@@ -1654,7 +1665,7 @@
     <episode-num system="dd_progid">10402868</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171105060000 +0000" stop="20171105063000 +0000">
@@ -1975,13 +1986,13 @@
   </programme>
   <programme channel="tv.10" start="20171106073000 +0000" stop="20171106080000 +0000">
     <title>All New Will &amp; Grace</title>
-    <desc>That's right, honey! A decade after their unforgettable eight-season run, comedy's most fabulous foursome is back.</desc>
+    <desc>When Karen has trouble dealing with a personal tragedy, Will, Grace, and Jack try to intervene. Will and Grace's new business relationship begins to show signs of stress. Minnie Driver guest stars.</desc>
     <episode-num system="dd_progid">10491210</episode-num>
   </programme>
   <programme channel="tv.10" start="20171106080000 +0000" stop="20171106083000 +0000">
     <title>The Mick</title>
-    <desc>Giving a whole new meaning to the phrase "dysfunctional family", The Mick returns for its second season with all-new outrageous shenanigans!</desc>
-    <episode-num system="dd_progid">10494344</episode-num>
+    <desc>S1 E5 Mickey tries her hardest to quit smoking. Meanwhile, Ben meets a new friend.</desc>
+    <episode-num system="dd_progid">10448594</episode-num>
     <audio>
       <stereo>dolby</stereo>
     </audio>
@@ -1993,6 +2004,12 @@
     <title>The Walking Dead</title>
     <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria. Continues tomorrow on TVNZ 2.</desc>
     <episode-num system="dd_progid">10495965</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171106093500 +0000" stop="20171106100500 +0000">
     <title>2 Broke Girls</title>
