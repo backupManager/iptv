@@ -11822,6 +11822,7 @@
   <programme channel="tv.101204200421" start="20171101083200 +0000" stop="20171101095200 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_3</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -11839,7 +11840,7 @@
     <episode-num system="dd_progid">MOJU_1_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20171101132400 +0000" stop="20171101141700 +0000">
@@ -11987,6 +11988,7 @@
   <programme channel="tv.101204200421" start="20171102060000 +0000" stop="20171102070000 +0000">
     <title>Millionaire Hot Seat</title>
     <episode-num system="dd_progid">WHWA_2017_1729</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12297,8 +12299,9 @@
   <programme channel="tv.101204200421" start="20171104010000 +0000" stop="20171104013000 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_11</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200421" start="20171104013000 +0000" stop="20171104020000 +0000">
@@ -12335,7 +12338,6 @@
   <programme channel="tv.101204200421" start="20171104053000 +0000" stop="20171104060000 +0000">
     <title>The Garden Gurus</title>
     <episode-num system="dd_progid">GAGUT_23_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -12514,6 +12516,7 @@
   <programme channel="tv.101204200421" start="20171105044500 +0000" stop="20171105060000 +0000">
     <title>Family Food Fight</title>
     <episode-num system="dd_progid">FAFO_2017_3</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -14229,8 +14232,9 @@
   <programme channel="tv.101204200424" start="20171104230000 +0000" stop="20171104233000 +0000">
     <title>Destination Happiness</title>
     <episode-num system="dd_progid">DEHA01_1_11</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200424" start="20171104233000 +0000" stop="20171105000000 +0000">
@@ -15227,6 +15231,7 @@
   <programme channel="tv.101204200427" start="20171031232900 +0000" stop="20171101002900 +0000">
     <title>Harry</title>
     <episode-num system="dd_progid">201</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15435,6 +15440,7 @@
   <programme channel="tv.101204200427" start="20171101233000 +0000" stop="20171102003000 +0000">
     <title>Harry</title>
     <episode-num system="dd_progid">201</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15622,6 +15628,7 @@
   <programme channel="tv.101204200427" start="20171102233000 +0000" stop="20171103003000 +0000">
     <title>Harry</title>
     <episode-num system="dd_progid">201</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15686,6 +15693,7 @@
   <programme channel="tv.101204200427" start="20171103083000 +0000" stop="20171103093000 +0000">
     <title>Stop, Search, Seize</title>
     <episode-num system="dd_progid">STSE101_1_8</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15729,6 +15737,7 @@
   <programme channel="tv.101204200427" start="20171103160000 +0000" stop="20171103170000 +0000">
     <title>Stop, Search, Seize</title>
     <episode-num system="dd_progid">STSE101_1_8</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
@@ -15971,7 +15980,6 @@
   <programme channel="tv.101204200427" start="20171105013000 +0000" stop="20171105020000 +0000">
     <title>The Garden Gurus</title>
     <episode-num system="dd_progid">GAGUT_23_12</episode-num>
-    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -16014,7 +16022,15 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171105091000 +0000" stop="20171105101000 +0000">
+  <programme channel="tv.101204200427" start="20171105091000 +0000" stop="20171105112000 +0000">
+    <title>The Illusionist</title>
+    <episode-num system="dd_progid">ILLU1__1</episode-num>
+    <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="tv.101204200427" start="20171105112000 +0000" stop="20171105122000 +0000">
     <title>Cosmos: A Spacetime Odyssey</title>
     <episode-num system="dd_progid">COSM_1_7</episode-num>
     <subtitles type="teletext"/>
@@ -16022,14 +16038,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200427" start="20171105101000 +0000" stop="20171105121000 +0000">
-    <title>Sherlock</title>
-    <episode-num system="dd_progid">SHHO_4_1</episode-num>
-    <rating system="Freeview">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme channel="tv.101204200427" start="20171105121000 +0000" stop="20171105131000 +0000">
+  <programme channel="tv.101204200427" start="20171105122000 +0000" stop="20171105131000 +0000">
     <title>The Closer</title>
     <episode-num system="dd_progid">CLOS_5_3X5004</episode-num>
     <subtitles type="teletext"/>
@@ -17054,14 +17063,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101190000 +0000" stop="20171101193000 +0000">
+  <programme channel="tv.101204200428" start="20171101190000 +0000" stop="20171101192900 +0000">
     <title>We Bare Bears</title>
     <episode-num system="dd_progid">08</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101193000 +0000" stop="20171101200000 +0000">
+  <programme channel="tv.101204200428" start="20171101192900 +0000" stop="20171101195900 +0000">
     <title>Paw Patrol</title>
     <episode-num system="dd_progid">PAW%20PATR_2_201</episode-num>
     <subtitles type="teletext"/>
@@ -17069,14 +17078,14 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101200000 +0000" stop="20171101203000 +0000">
+  <programme channel="tv.101204200428" start="20171101195900 +0000" stop="20171101203100 +0000">
     <title>Turning Mecard</title>
     <episode-num system="dd_progid">TUME_1_52</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101203000 +0000" stop="20171101210000 +0000">
+  <programme channel="tv.101204200428" start="20171101203100 +0000" stop="20171101210000 +0000">
     <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_10</episode-num>
     <rating system="Freeview">
@@ -17105,7 +17114,7 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101223000 +0000" stop="20171101230000 +0000">
+  <programme channel="tv.101204200428" start="20171101223000 +0000" stop="20171101225900 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_29</episode-num>
     <subtitles type="teletext"/>
@@ -17113,21 +17122,21 @@
       <value>P</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101230000 +0000" stop="20171101233000 +0000">
+  <programme channel="tv.101204200428" start="20171101225900 +0000" stop="20171101233200 +0000">
     <title>Regal Academy</title>
     <episode-num system="dd_progid">REAC_1_110</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171101233000 +0000" stop="20171102000000 +0000">
+  <programme channel="tv.101204200428" start="20171101233200 +0000" stop="20171102000100 +0000">
     <title>Beyblade Burst</title>
     <episode-num system="dd_progid">BEYB_1_39</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102000000 +0000" stop="20171102003000 +0000">
+  <programme channel="tv.101204200428" start="20171102000100 +0000" stop="20171102003100 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_9_175251</episode-num>
     <subtitles type="teletext"/>
@@ -17135,7 +17144,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102003000 +0000" stop="20171102010000 +0000">
+  <programme channel="tv.101204200428" start="20171102003100 +0000" stop="20171102010200 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_9_175252</episode-num>
     <subtitles type="teletext"/>
@@ -17143,7 +17152,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102010000 +0000" stop="20171102013000 +0000">
+  <programme channel="tv.101204200428" start="20171102010200 +0000" stop="20171102013100 +0000">
     <title>Mad About You</title>
     <episode-num system="dd_progid">MAAB101_6_6-3</episode-num>
     <subtitles type="teletext"/>
@@ -17151,7 +17160,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102013000 +0000" stop="20171102020000 +0000">
+  <programme channel="tv.101204200428" start="20171102013100 +0000" stop="20171102020100 +0000">
     <title>Mad About You</title>
     <episode-num system="dd_progid">MAAB101_6_6-5</episode-num>
     <subtitles type="teletext"/>
@@ -17159,19 +17168,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102020000 +0000" stop="20171102023000 +0000">
+  <programme channel="tv.101204200428" start="20171102020100 +0000" stop="20171102022900 +0000">
     <title>Auction Hunters</title>
     <episode-num system="dd_progid">AUHU_5_6</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102023000 +0000" stop="20171102030000 +0000">
+  <programme channel="tv.101204200428" start="20171102022900 +0000" stop="20171102030000 +0000">
     <title>Movie Juice</title>
     <episode-num system="dd_progid">MOJU_1_2</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>MA</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101204200428" start="20171102030000 +0000" stop="20171102033000 +0000">
@@ -17188,35 +17197,35 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102040000 +0000" stop="20171102043000 +0000">
+  <programme channel="tv.101204200428" start="20171102040000 +0000" stop="20171102042900 +0000">
     <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102043000 +0000" stop="20171102050000 +0000">
+  <programme channel="tv.101204200428" start="20171102042900 +0000" stop="20171102050000 +0000">
     <title>Ninjago: Masters of Spinjitzu</title>
     <episode-num system="dd_progid">NINJ_6_58</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102050000 +0000" stop="20171102060000 +0000">
+  <programme channel="tv.101204200428" start="20171102050000 +0000" stop="20171102055900 +0000">
     <title>Kids' WB Weekdays</title>
     <episode-num system="dd_progid">KIDSWB_2017_189</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102060000 +0000" stop="20171102063000 +0000">
+  <programme channel="tv.101204200428" start="20171102055900 +0000" stop="20171102062900 +0000">
     <title>Ben 10: Omniverse</title>
     <episode-num system="dd_progid">BETE304_4_67</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102063000 +0000" stop="20171102070000 +0000">
+  <programme channel="tv.101204200428" start="20171102062900 +0000" stop="20171102070000 +0000">
     <title>Teen Titans Go!</title>
     <episode-num system="dd_progid">TETI_2_30</episode-num>
     <rating system="Freeview">
@@ -17231,7 +17240,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102073000 +0000" stop="20171102080000 +0000">
+  <programme channel="tv.101204200428" start="20171102073000 +0000" stop="20171102080100 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_9_175253</episode-num>
     <subtitles type="teletext"/>
@@ -17239,7 +17248,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102080000 +0000" stop="20171102083000 +0000">
+  <programme channel="tv.101204200428" start="20171102080100 +0000" stop="20171102083000 +0000">
     <title>The Middle</title>
     <episode-num system="dd_progid">MIDD_4_15</episode-num>
     <subtitles type="teletext"/>
@@ -17247,14 +17256,14 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102083000 +0000" stop="20171102093000 +0000">
+  <programme channel="tv.101204200428" start="20171102083000 +0000" stop="20171102093100 +0000">
     <title>Survivor: Heroes v Healers v Hustlers</title>
     <episode-num system="dd_progid">SURV_35_3506</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102093000 +0000" stop="20171102113000 +0000">
+  <programme channel="tv.101204200428" start="20171102093100 +0000" stop="20171102112400 +0000">
     <title>Napoleon Dynamite</title>
     <episode-num system="dd_progid">NAPO1__1</episode-num>
     <subtitles type="teletext"/>
@@ -17262,28 +17271,28 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102113000 +0000" stop="20171102123000 +0000">
+  <programme channel="tv.101204200428" start="20171102112400 +0000" stop="20171102122700 +0000">
     <title>WWE Raw</title>
     <episode-num system="dd_progid">WRESRAW_23_12</episode-num>
     <rating system="Freeview">
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102123000 +0000" stop="20171102130000 +0000">
+  <programme channel="tv.101204200428" start="20171102122700 +0000" stop="20171102125600 +0000">
     <title>Total Divas</title>
     <episode-num system="dd_progid">TODI_1_109</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102130000 +0000" stop="20171102133000 +0000">
+  <programme channel="tv.101204200428" start="20171102125600 +0000" stop="20171102132300 +0000">
     <title>Rick and Morty</title>
     <episode-num system="dd_progid">RIMO_1_11</episode-num>
     <rating system="Freeview">
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102133000 +0000" stop="20171102140000 +0000">
+  <programme channel="tv.101204200428" start="20171102132300 +0000" stop="20171102135200 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_9_175254</episode-num>
     <subtitles type="teletext"/>
@@ -17291,7 +17300,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102140000 +0000" stop="20171102143000 +0000">
+  <programme channel="tv.101204200428" start="20171102135200 +0000" stop="20171102142000 +0000">
     <title>Friends</title>
     <episode-num system="dd_progid">FRIE_9_175253</episode-num>
     <subtitles type="teletext"/>
@@ -17299,70 +17308,70 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102143000 +0000" stop="20171102150000 +0000">
+  <programme channel="tv.101204200428" start="20171102142000 +0000" stop="20171102144700 +0000">
     <title>Ben 10: Omniverse</title>
     <episode-num system="dd_progid">BETE304_4_67</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102150000 +0000" stop="20171102153000 +0000">
+  <programme channel="tv.101204200428" start="20171102144700 +0000" stop="20171102151400 +0000">
     <title>Pokemon XY</title>
     <episode-num system="dd_progid">POKE_18_11</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102153000 +0000" stop="20171102160000 +0000">
+  <programme channel="tv.101204200428" start="20171102151400 +0000" stop="20171102154200 +0000">
     <title>Steven Universe</title>
     <episode-num system="dd_progid">16</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102160000 +0000" stop="20171102163000 +0000">
+  <programme channel="tv.101204200428" start="20171102154200 +0000" stop="20171102160900 +0000">
     <title>Scooby-Doo! Mystery Incorporated</title>
     <episode-num system="dd_progid">SCDO_2_36</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102163000 +0000" stop="20171102170000 +0000">
+  <programme channel="tv.101204200428" start="20171102160900 +0000" stop="20171102163700 +0000">
     <title>Beyblade Burst</title>
     <episode-num system="dd_progid">BEYB_1_39</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102170000 +0000" stop="20171102173000 +0000">
+  <programme channel="tv.101204200428" start="20171102163700 +0000" stop="20171102170500 +0000">
     <title>Little Charmers</title>
     <episode-num system="dd_progid">LICH01_1_31</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102173000 +0000" stop="20171102175000 +0000">
+  <programme channel="tv.101204200428" start="20171102170500 +0000" stop="20171102173000 +0000">
     <title>Teen Titans Go!</title>
     <episode-num system="dd_progid">TETI_2_31</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102175000 +0000" stop="20171102181000 +0000">
+  <programme channel="tv.101204200428" start="20171102173000 +0000" stop="20171102175700 +0000">
     <title>Power Rangers Ninja Steel</title>
     <episode-num system="dd_progid">PORA_7_3</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102181000 +0000" stop="20171102183000 +0000">
+  <programme channel="tv.101204200428" start="20171102175700 +0000" stop="20171102183200 +0000">
     <title>Wild Kratts</title>
     <episode-num system="dd_progid">WIKR_1_3</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101204200428" start="20171102183000 +0000" stop="20171102190000 +0000">
+  <programme channel="tv.101204200428" start="20171102183200 +0000" stop="20171102190000 +0000">
     <title>Yu-Gi-Oh!</title>
     <episode-num system="dd_progid">YU-GI-OH_1_120</episode-num>
     <rating system="Freeview">
@@ -17422,6 +17431,7 @@
   <programme channel="tv.101204200428" start="20171102223000 +0000" stop="20171102230000 +0000">
     <title>Teddies</title>
     <episode-num system="dd_progid">TEDD_1_12</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>P</value>
     </rating>
@@ -18024,6 +18034,7 @@
   <programme channel="tv.101204200428" start="20171105094000 +0000" stop="20171105120000 +0000">
     <title>San Andreas</title>
     <episode-num system="dd_progid">SAAN1__1</episode-num>
+    <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>M</value>
     </rating>
