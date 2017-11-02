@@ -7373,10 +7373,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171101173000 +0000" stop="20171101183000 +0000">
+  <programme channel="tv.14" start="20171101173000 +0000" stop="20171101180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473193</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171101180000 +0000" stop="20171101183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.14" start="20171101183000 +0000" stop="20171101185500 +0000">
     <title>Sesame Street</title>
@@ -7587,6 +7592,9 @@
     <title>The Russell Howard Hour</title>
     <desc>Join Russell for his take on current affairs as he mocks the madness of the news and talks with singer-songwriter, guitarist &amp; record producer Ed Sheeran MBE. Stand-up from Rob Auton.</desc>
     <episode-num system="dd_progid">10498150</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171102103000 +0000" stop="20171102110000 +0000">
     <title>2 Broke Girls</title>
@@ -8394,6 +8402,7 @@
   <programme channel="tv.14" start="20171105150000 +0000" stop="20171105153500 +0000">
     <title>Infomercial</title>
     <desc/>
+    <episode-num system="dd_progid">10473158</episode-num>
   </programme>
   <programme channel="tv.14" start="20171105153500 +0000" stop="20171105162000 +0000">
     <title>24: Legacy</title>
@@ -8424,13 +8433,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171105173000 +0000" stop="20171105180000 +0000">
+  <programme channel="tv.14" start="20171105173000 +0000" stop="20171105183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171105180000 +0000" stop="20171105183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171105183000 +0000" stop="20171105185500 +0000">
     <title>Sesame Street</title>
@@ -8480,17 +8486,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171105210000 +0000" stop="20171105213000 +0000">
+  <programme channel="tv.14" start="20171105210000 +0000" stop="20171105223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171105213000 +0000" stop="20171105220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171105220000 +0000" stop="20171105223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499719</episode-num>
   </programme>
   <programme channel="tv.14" start="20171105223000 +0000" stop="20171105230000 +0000">
     <title>Neighbours</title>
@@ -8637,7 +8636,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106093000 +0000" stop="20171106103500 +0000">
+  <programme channel="tv.14" start="20171106093000 +0000" stop="20171106103000 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria. Continues tomorrow on TVNZ 2.</desc>
     <episode-num system="dd_progid">10495965</episode-num>
@@ -8645,7 +8644,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106103500 +0000" stop="20171106110500 +0000">
+  <programme channel="tv.14" start="20171106103000 +0000" stop="20171106110000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E24 When Max and Caroline offer to deep-clean a previously hidden part of the diner, they discover something that could re-launch their cupcake business.</desc>
     <episode-num system="dd_progid">10312236</episode-num>
@@ -8653,7 +8652,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106110500 +0000" stop="20171106113500 +0000">
+  <programme channel="tv.14" start="20171106110000 +0000" stop="20171106113500 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S2 E8 When Mike encourages his mum, Peggy, to get a job, he never imagines how it will interfere with Molly's life.</desc>
     <episode-num system="dd_progid">10275930</episode-num>
@@ -8686,13 +8685,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106134000 +0000" stop="20171106141500 +0000">
+  <programme channel="tv.14" start="20171106134000 +0000" stop="20171106144500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171106141500 +0000" stop="20171106144500 +0000">
-    <title>Infomerical</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171106144500 +0000" stop="20171106161500 +0000">
     <title>Devious Maids</title>
@@ -8723,13 +8719,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106173000 +0000" stop="20171106180000 +0000">
+  <programme channel="tv.14" start="20171106173000 +0000" stop="20171106183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171106180000 +0000" stop="20171106183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.14" start="20171106183000 +0000" stop="20171106185500 +0000">
     <title>Sesame Street</title>
@@ -8779,17 +8772,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171106210000 +0000" stop="20171106213000 +0000">
+  <programme channel="tv.14" start="20171106210000 +0000" stop="20171106223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171106213000 +0000" stop="20171106220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171106220000 +0000" stop="20171106223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499711</episode-num>
   </programme>
   <programme channel="tv.14" start="20171106223000 +0000" stop="20171106230000 +0000">
     <title>Neighbours</title>
@@ -8979,13 +8965,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171107133500 +0000" stop="20171107141000 +0000">
+  <programme channel="tv.14" start="20171107133500 +0000" stop="20171107144000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171107141000 +0000" stop="20171107144000 +0000">
-    <title>Infomerical</title>
-    <desc/>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.14" start="20171107144000 +0000" stop="20171107161000 +0000">
     <title>Devious Maids</title>
@@ -9016,13 +8999,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171107173000 +0000" stop="20171107180000 +0000">
+  <programme channel="tv.14" start="20171107173000 +0000" stop="20171107183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171107180000 +0000" stop="20171107183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.14" start="20171107183000 +0000" stop="20171107185500 +0000">
     <title>Sesame Street</title>
@@ -9072,17 +9052,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171107210000 +0000" stop="20171107213000 +0000">
+  <programme channel="tv.14" start="20171107210000 +0000" stop="20171107223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171107213000 +0000" stop="20171107220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171107220000 +0000" stop="20171107223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499724</episode-num>
   </programme>
   <programme channel="tv.14" start="20171107223000 +0000" stop="20171107230000 +0000">
     <title>Neighbours</title>
@@ -9280,13 +9253,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171108134000 +0000" stop="20171108141500 +0000">
+  <programme channel="tv.14" start="20171108134000 +0000" stop="20171108144500 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171108141500 +0000" stop="20171108144500 +0000">
-    <title>Infomerical</title>
-    <desc/>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.14" start="20171108144500 +0000" stop="20171108161500 +0000">
     <title>Devious Maids</title>
@@ -9317,13 +9287,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171108173000 +0000" stop="20171108180000 +0000">
+  <programme channel="tv.14" start="20171108173000 +0000" stop="20171108183000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171108180000 +0000" stop="20171108183000 +0000">
-    <title>Infomercial 6am</title>
-    <desc/>
+    <episode-num system="dd_progid">10473158</episode-num>
   </programme>
   <programme channel="tv.14" start="20171108183000 +0000" stop="20171108185500 +0000">
     <title>Sesame Street</title>
@@ -9373,17 +9340,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171108210000 +0000" stop="20171108213000 +0000">
+  <programme channel="tv.14" start="20171108210000 +0000" stop="20171108223000 +0000">
     <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171108213000 +0000" stop="20171108220000 +0000">
-    <title>Infomercial</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.14" start="20171108220000 +0000" stop="20171108223000 +0000">
-    <title>Infomercial</title>
-    <desc/>
+    <episode-num system="dd_progid">10499722</episode-num>
   </programme>
   <programme channel="tv.14" start="20171108223000 +0000" stop="20171108230000 +0000">
     <title>Neighbours</title>
@@ -21641,25 +21601,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.38" start="20171105151500 +0000" stop="20171105155000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171105151500 +0000" stop="20171105180000 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171105155000 +0000" stop="20171105162000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171105162000 +0000" stop="20171105165500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171105165500 +0000" stop="20171105173000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171105173000 +0000" stop="20171105180000 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473177</episode-num>
   </programme>
   <programme channel="tv.38" start="20171105180000 +0000" stop="20171105210000 +0000">
     <title>Breakfast</title>
@@ -21670,6 +21615,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
     <episode-num system="dd_progid">10491728</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171105220000 +0000" stop="20171105223000 +0000">
     <title>Morena</title>
@@ -21821,33 +21769,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460804</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171106132500 +0000" stop="20171106140000 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171106132500 +0000" stop="20171106170500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106140000 +0000" stop="20171106143000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106143000 +0000" stop="20171106150000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106150000 +0000" stop="20171106153500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106153500 +0000" stop="20171106160000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106160000 +0000" stop="20171106163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171106163500 +0000" stop="20171106170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10473157</episode-num>
   </programme>
   <programme channel="tv.38" start="20171106170500 +0000" stop="20171106173500 +0000">
     <title>Impact For Life</title>
@@ -21868,6 +21793,9 @@
     <title>The Ellen DeGeneres Show</title>
     <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
     <episode-num system="dd_progid">10491729</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171106220000 +0000" stop="20171106223000 +0000">
     <title>Morena</title>
@@ -22013,37 +21941,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460805</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171107133000 +0000" stop="20171107140000 +0000">
-    <title>Informercials</title>
+  <programme channel="tv.38" start="20171107133000 +0000" stop="20171107173500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107140000 +0000" stop="20171107143500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107143500 +0000" stop="20171107150500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107150500 +0000" stop="20171107153500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107153500 +0000" stop="20171107160500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107160500 +0000" stop="20171107163500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107163500 +0000" stop="20171107170500 +0000">
-    <title>Informercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171107170500 +0000" stop="20171107173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10499710</episode-num>
   </programme>
   <programme channel="tv.38" start="20171107173500 +0000" stop="20171107180000 +0000">
     <title>Te Karere</title>
@@ -22199,41 +22100,10 @@
     <desc>Te Karere brings you key events and stories of interest to Maori, as well as bringing a Maori perspective to the day's news and current affairs.</desc>
     <episode-num system="dd_progid">10460806</episode-num>
   </programme>
-  <programme channel="tv.38" start="20171108131500 +0000" stop="20171108134500 +0000">
-    <title>Infomercials</title>
+  <programme channel="tv.38" start="20171108131500 +0000" stop="20171108173500 +0000">
+    <title>Infomercial</title>
     <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108134500 +0000" stop="20171108141500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108141500 +0000" stop="20171108144000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108144000 +0000" stop="20171108151000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108151000 +0000" stop="20171108154000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108154000 +0000" stop="20171108161000 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108161000 +0000" stop="20171108163500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108163500 +0000" stop="20171108170500 +0000">
-    <title>Infomercials</title>
-    <desc/>
-  </programme>
-  <programme channel="tv.38" start="20171108170500 +0000" stop="20171108173500 +0000">
-    <title>Infomercials</title>
-    <desc/>
+    <episode-num system="dd_progid">10499710</episode-num>
   </programme>
   <programme channel="tv.38" start="20171108173500 +0000" stop="20171108180000 +0000">
     <title>Te Karere</title>
@@ -30794,6 +30664,9 @@
     <title>MLS Soccer Highlights</title>
     <desc>Catch up with the latest highlights from the MLS playoffs.</desc>
     <episode-num system="dd_progid">10483823</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171101204500 +0000" stop="20171101232000 +0000">
     <title>NFL - Cowboys v Redskins</title>
@@ -30924,6 +30797,9 @@
     <title>MLS - Houston v Portland</title>
     <desc>Replay of the Conference Semi Final (First Leg) between the Houston Dynamo and the Portland Timbers from BBVA Compass Stadium in Houston, Texas.</desc>
     <episode-num system="dd_progid">10480264</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171102193500 +0000" stop="20171102200500 +0000">
     <title>Tour of Southland</title>
@@ -30934,6 +30810,9 @@
     <title>MLS Soccer Highlights</title>
     <desc>Catch up with the latest highlights from the MLS playoffs.</desc>
     <episode-num system="dd_progid">10483823</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171102203000 +0000" stop="20171102230500 +0000">
     <title>NFL - Steelers v Lions</title>
@@ -31051,6 +30930,9 @@
     <title>MLS Soccer Highlights</title>
     <desc>Catch up with the latest highlights from the MLS playoffs.</desc>
     <episode-num system="dd_progid">10483823</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171103192000 +0000" stop="20171103213000 +0000">
     <title>Live: Bundesliga</title>
