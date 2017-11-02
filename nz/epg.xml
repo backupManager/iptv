@@ -3085,6 +3085,9 @@
     <title>The Goldbergs</title>
     <desc>New Episode. As Murray's business declines due to a new competitor, Adam offers to make him a commercial starring Marvin, but things go awry. And Beverly offers to help Barry with a girl. S5 Ep6</desc>
     <episode-num system="dd_progid">T785703</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
@@ -3180,29 +3183,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.11" start="20171104170000 +0000" stop="20171104173000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 66</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T461393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171104173000 +0000" stop="20171104180000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1075</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770347</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171104180000 +0000" stop="20171104190000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1745</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758522</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171104190000 +0000" stop="20171104193000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756541</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171104193000 +0000" stop="20171104200000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780943</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171104200000 +0000" stop="20171104203000 +0000">
     <title>R &amp; R</title>
@@ -3455,6 +3473,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171106073000 +0000" stop="20171106083500 +0000">
     <title>Tin Star</title>
@@ -3559,6 +3580,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171107005500 +0000" stop="20171107015500 +0000">
     <title>Minute To Win It</title>
@@ -3662,6 +3686,9 @@
     <title>Employable Me</title>
     <desc>Final. New Episode. Ellie has Tourette's syndrome and Ben has autism. Both are desperate to find work and have super strengths that would really benefit employers. S1 Ep3</desc>
     <episode-num system="dd_progid">T728111</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171107095000 +0000" stop="20171107102000 +0000">
     <title>Newshub Late</title>
@@ -4724,6 +4751,9 @@
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171106093000 +0000" stop="20171106102500 +0000">
     <title>Intervention</title>
@@ -4800,6 +4830,9 @@
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107024000 +0000" stop="20171107033500 +0000">
     <title>Catfish</title>
@@ -4821,11 +4854,17 @@
     <title>Four Weddings UK</title>
     <desc>Dig out your rhinestone boxers and spangley jumpsuit, Four Weddings is playing Vegas baby! Vickie's staking her Nevada nuptials to try for that dream honeymoon.</desc>
     <episode-num system="dd_progid">T784377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107053000 +0000" stop="20171107063000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Ripples used to be the gay hot spot, but now it's empty seven nights a week. Tabatha quickly discovers that the problem is that owners John and Larry need to change their stubborn ways. S4 Ep2</desc>
     <episode-num system="dd_progid">T779408</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107063000 +0000" stop="20171107073000 +0000">
     <title>Botched</title>
@@ -4886,16 +4925,25 @@
     <title>Four Weddings UK</title>
     <desc>Dig out your rhinestone boxers and spangley jumpsuit, Four Weddings is playing Vegas baby! Vickie's staking her Nevada nuptials to try for that dream honeymoon.</desc>
     <episode-num system="dd_progid">T784377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107215500 +0000" stop="20171107225000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Ripples used to be the gay hot spot, but now it's empty seven nights a week. Tabatha quickly discovers that the problem is that owners John and Larry need to change their stubborn ways. S4 Ep2</desc>
     <episode-num system="dd_progid">T779408</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107225000 +0000" stop="20171107234500 +0000">
-    <title>Snapped: Killer Couples</title>
-    <desc>Two married couples' infidelity leads to one deadly home invasion, and a shocking investigation that unveils a pair of unlikely suspects. S6 Ep9</desc>
-    <episode-num system="dd_progid">T737363</episode-num>
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler uncovers a disturbing family mystery with reality star Audrina Patridge. Moby is shocked when Tyler offers him very specific details directly from his deceased mother. S2 Ep6</desc>
+    <episode-num system="dd_progid">T751341</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171107234500 +0000" stop="20171108004000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
@@ -14073,29 +14121,44 @@
     <episode-num system="dd_progid">T243931</episode-num>
   </programme>
   <programme channel="tv.27" start="20171104180000 +0000" stop="20171104183000 +0000">
-    <title>Life TV</title>
+    <title>Life TV 66</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T461393</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171104183000 +0000" stop="20171104190000 +0000">
-    <title>Brian Houston</title>
-    <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <title>Brian Houston @ Hillsong TV 1075</title>
+    <desc>Brian Houston @ Hillsong TV is a half-hour Christian television program that features Brian's teaching from the Hillsong Church services in Sydney, Australia</desc>
+    <episode-num system="dd_progid">T770347</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171104190000 +0000" stop="20171104200000 +0000">
-    <title>Charles Stanley</title>
+    <title>Charles Stanley 1745</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T758522</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171104200000 +0000" stop="20171104203000 +0000">
     <title>Living Church Of God</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T756541</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171104203000 +0000" stop="20171104210000 +0000">
-    <title>turning point</title>
+    <title>Turning Point With David Jeremiah</title>
     <desc></desc>
-    <episode-num system="dd_progid">T1</episode-num>
+    <episode-num system="dd_progid">T780943</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171104210000 +0000" stop="20171104213000 +0000">
     <title>R &amp; R</title>
@@ -14342,6 +14405,9 @@
     <title>Married At First Sight NZ</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171106083000 +0000" stop="20171106093500 +0000">
     <title>Tin Star</title>
@@ -14437,6 +14503,9 @@
     <title>Married At First Sight NZ (Encore)</title>
     <desc>New Episode. It's the final therapy session and our couples lay their hearts on the table. With the vow renewals around the corner, who will recommit or choose to walk away from it all? S1 Ep12</desc>
     <episode-num system="dd_progid">T785439</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171107015500 +0000" stop="20171107025500 +0000">
     <title>Minute To Win It</title>
@@ -14537,6 +14606,9 @@
     <title>Employable Me</title>
     <desc>Final. New Episode. Ellie has Tourette's syndrome and Ben has autism. Both are desperate to find work and have super strengths that would really benefit employers. S1 Ep3</desc>
     <episode-num system="dd_progid">T728111</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171107105000 +0000" stop="20171107112000 +0000">
     <title>Newshub Late</title>
@@ -17208,6 +17280,9 @@
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171106103000 +0000" stop="20171106112500 +0000">
     <title>Intervention</title>
@@ -17284,6 +17359,9 @@
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107034000 +0000" stop="20171107043500 +0000">
     <title>Catfish</title>
@@ -17305,11 +17383,17 @@
     <title>Four Weddings UK</title>
     <desc>Dig out your rhinestone boxers and spangley jumpsuit, Four Weddings is playing Vegas baby! Vickie's staking her Nevada nuptials to try for that dream honeymoon.</desc>
     <episode-num system="dd_progid">T784377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107063000 +0000" stop="20171107073000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Ripples used to be the gay hot spot, but now it's empty seven nights a week. Tabatha quickly discovers that the problem is that owners John and Larry need to change their stubborn ways. S4 Ep2</desc>
     <episode-num system="dd_progid">T779408</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107073000 +0000" stop="20171107083000 +0000">
     <title>Botched</title>
@@ -17370,16 +17454,25 @@
     <title>Four Weddings UK</title>
     <desc>Dig out your rhinestone boxers and spangley jumpsuit, Four Weddings is playing Vegas baby! Vickie's staking her Nevada nuptials to try for that dream honeymoon.</desc>
     <episode-num system="dd_progid">T784377</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107225500 +0000" stop="20171107235000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Ripples used to be the gay hot spot, but now it's empty seven nights a week. Tabatha quickly discovers that the problem is that owners John and Larry need to change their stubborn ways. S4 Ep2</desc>
     <episode-num system="dd_progid">T779408</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171107235000 +0000" stop="20171108004500 +0000">
-    <title>Snapped: Killer Couples</title>
-    <desc>Two married couples' infidelity leads to one deadly home invasion, and a shocking investigation that unveils a pair of unlikely suspects. S6 Ep9</desc>
-    <episode-num system="dd_progid">T737363</episode-num>
+    <title>Hollywood Medium With Tyler Henry</title>
+    <desc>Tyler uncovers a disturbing family mystery with reality star Audrina Patridge. Moby is shocked when Tyler offers him very specific details directly from his deceased mother. S2 Ep6</desc>
+    <episode-num system="dd_progid">T751341</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108004500 +0000" stop="20171108014000 +0000">
     <title>The Real Housewives of Beverly Hills</title>
