@@ -242,10 +242,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171101163000 +0000" stop="20171101173000 +0000">
+  <programme channel="tv.10" start="20171101163000 +0000" stop="20171101170000 +0000">
     <title>Infomercial</title>
     <desc></desc>
     <episode-num system="dd_progid">10473193</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171101170000 +0000" stop="20171101173000 +0000">
+    <title>Infomercial</title>
+    <desc></desc>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.10" start="20171101173000 +0000" stop="20171101175500 +0000">
     <title>Sesame Street</title>
@@ -471,6 +476,9 @@
     <title>The Russell Howard Hour</title>
     <desc>Join Russell for his take on current affairs as he mocks the madness of the news and talks with singer-songwriter, guitarist &amp; record producer Ed Sheeran MBE. Stand-up from Rob Auton.</desc>
     <episode-num system="dd_progid">10498150</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171102093000 +0000" stop="20171102100000 +0000">
     <title>2 Broke Girls</title>
@@ -1404,6 +1412,7 @@
   <programme channel="tv.10" start="20171105140000 +0000" stop="20171105143500 +0000">
     <title>Infomercial</title>
     <desc></desc>
+    <episode-num system="dd_progid">10473158</episode-num>
   </programme>
   <programme channel="tv.10" start="20171105143500 +0000" stop="20171105152000 +0000">
     <title>24: Legacy</title>
@@ -1437,13 +1446,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171105163000 +0000" stop="20171105170000 +0000">
+  <programme channel="tv.10" start="20171105163000 +0000" stop="20171105173000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171105170000 +0000" stop="20171105173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171105173000 +0000" stop="20171105175500 +0000">
     <title>Sesame Street</title>
@@ -1496,17 +1502,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171105200000 +0000" stop="20171105203000 +0000">
+  <programme channel="tv.10" start="20171105200000 +0000" stop="20171105213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171105203000 +0000" stop="20171105210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171105210000 +0000" stop="20171105213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10499719</episode-num>
   </programme>
   <programme channel="tv.10" start="20171105213000 +0000" stop="20171105220000 +0000">
     <title>Neighbours</title>
@@ -1668,7 +1667,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106083000 +0000" stop="20171106093500 +0000">
+  <programme channel="tv.10" start="20171106083000 +0000" stop="20171106093000 +0000">
     <title>The Walking Dead</title>
     <desc>S8 E3 Conflict with the Saviors leads to unintended consequences for the Hilltop, the Kingdom, and Alexandria. Continues tomorrow on TVNZ 2.</desc>
     <episode-num system="dd_progid">10495965</episode-num>
@@ -1679,7 +1678,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106093500 +0000" stop="20171106100500 +0000">
+  <programme channel="tv.10" start="20171106093000 +0000" stop="20171106100000 +0000">
     <title>2 Broke Girls</title>
     <desc>S2 E24 When Max and Caroline offer to deep-clean a previously hidden part of the diner, they discover something that could re-launch their cupcake business.</desc>
     <episode-num system="dd_progid">10312236</episode-num>
@@ -1690,7 +1689,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106100500 +0000" stop="20171106103500 +0000">
+  <programme channel="tv.10" start="20171106100000 +0000" stop="20171106103500 +0000">
     <title>Mike &amp; Molly</title>
     <desc>S2 E8 When Mike encourages his mum, Peggy, to get a job, he never imagines how it will interfere with Molly's life.</desc>
     <episode-num system="dd_progid">10275930</episode-num>
@@ -1713,6 +1712,9 @@
     <title>Desperate Housewives</title>
     <desc>Gaby attempts to salvage what's left of her social clout.</desc>
     <episode-num system="dd_progid">10129316</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>AO</value>
     </rating>
@@ -1729,13 +1731,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106124000 +0000" stop="20171106131500 +0000">
+  <programme channel="tv.10" start="20171106124000 +0000" stop="20171106134500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171106131500 +0000" stop="20171106134500 +0000">
-    <title>Infomerical</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171106134500 +0000" stop="20171106151500 +0000">
     <title>Devious Maids</title>
@@ -1769,13 +1768,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106163000 +0000" stop="20171106170000 +0000">
+  <programme channel="tv.10" start="20171106163000 +0000" stop="20171106173000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171106170000 +0000" stop="20171106173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.10" start="20171106173000 +0000" stop="20171106175500 +0000">
     <title>Sesame Street</title>
@@ -1828,17 +1824,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171106200000 +0000" stop="20171106203000 +0000">
+  <programme channel="tv.10" start="20171106200000 +0000" stop="20171106213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171106203000 +0000" stop="20171106210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171106210000 +0000" stop="20171106213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10499711</episode-num>
   </programme>
   <programme channel="tv.10" start="20171106213000 +0000" stop="20171106220000 +0000">
     <title>Neighbours</title>
@@ -2055,13 +2044,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171107123500 +0000" stop="20171107131000 +0000">
+  <programme channel="tv.10" start="20171107123500 +0000" stop="20171107134000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171107131000 +0000" stop="20171107134000 +0000">
-    <title>Infomerical</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473172</episode-num>
   </programme>
   <programme channel="tv.10" start="20171107134000 +0000" stop="20171107151000 +0000">
     <title>Devious Maids</title>
@@ -2071,7 +2057,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>PGR</value>
+      <value>AO</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171107151000 +0000" stop="20171107154000 +0000">
@@ -2095,13 +2081,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171107163000 +0000" stop="20171107170000 +0000">
+  <programme channel="tv.10" start="20171107163000 +0000" stop="20171107173000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171107170000 +0000" stop="20171107173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473193</episode-num>
   </programme>
   <programme channel="tv.10" start="20171107173000 +0000" stop="20171107175500 +0000">
     <title>Sesame Street</title>
@@ -2154,17 +2137,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171107200000 +0000" stop="20171107203000 +0000">
+  <programme channel="tv.10" start="20171107200000 +0000" stop="20171107213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171107203000 +0000" stop="20171107210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171107210000 +0000" stop="20171107213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10499724</episode-num>
   </programme>
   <programme channel="tv.10" start="20171107213000 +0000" stop="20171107220000 +0000">
     <title>Neighbours</title>
@@ -2389,13 +2365,10 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171108124000 +0000" stop="20171108131500 +0000">
+  <programme channel="tv.10" start="20171108124000 +0000" stop="20171108134500 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171108131500 +0000" stop="20171108134500 +0000">
-    <title>Infomerical</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473178</episode-num>
   </programme>
   <programme channel="tv.10" start="20171108134500 +0000" stop="20171108151500 +0000">
     <title>Devious Maids</title>
@@ -2429,13 +2402,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171108163000 +0000" stop="20171108170000 +0000">
+  <programme channel="tv.10" start="20171108163000 +0000" stop="20171108173000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171108170000 +0000" stop="20171108173000 +0000">
-    <title>Infomercial 6am</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10473158</episode-num>
   </programme>
   <programme channel="tv.10" start="20171108173000 +0000" stop="20171108175500 +0000">
     <title>Sesame Street</title>
@@ -2488,17 +2458,10 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171108200000 +0000" stop="20171108203000 +0000">
+  <programme channel="tv.10" start="20171108200000 +0000" stop="20171108213000 +0000">
     <title>Infomercial</title>
     <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171108203000 +0000" stop="20171108210000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
-  </programme>
-  <programme channel="tv.10" start="20171108210000 +0000" stop="20171108213000 +0000">
-    <title>Infomercial</title>
-    <desc></desc>
+    <episode-num system="dd_progid">10499722</episode-num>
   </programme>
   <programme channel="tv.10" start="20171108213000 +0000" stop="20171108220000 +0000">
     <title>Neighbours</title>
