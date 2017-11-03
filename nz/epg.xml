@@ -2797,6 +2797,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Cori Gonzalez-Macuer, Ben Hurley, Justine Smith and Chopper.</desc>
     <episode-num system="dd_progid">T791357</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171103084500 +0000" stop="20171103091500 +0000">
     <title>Fail Army</title>
@@ -2940,8 +2943,11 @@
   </programme>
   <programme channel="tv.11" start="20171104040000 +0000" stop="20171104050000 +0000">
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
-    <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity).</desc>
+    <desc>New Episode. One castaway is upset after being kept out of the loop on a crazy blindside. And a lack of food takes a toll on another castaway. S35 Ep6</desc>
     <episode-num system="dd_progid">T784662</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <rating system="Freeview">
       <value>G</value>
     </rating>
@@ -3134,7 +3140,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171105073500 +0000" stop="20171105094000 +0000">
+  <programme channel="tv.11" start="20171105073500 +0000" stop="20171105094500 +0000">
     <title>Grown Ups</title>
     <desc>After their former high school basketball coach passes away, five good friends and former team mates reunite for the Fourth of July holiday weekend, where they realise age doesn't equal maturity.</desc>
     <episode-num system="dd_progid">T761849</episode-num>
@@ -3145,7 +3151,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171105094000 +0000" stop="20171105113000 +0000">
+  <programme channel="tv.11" start="20171105094500 +0000" stop="20171105114000 +0000">
     <title>Mistress America</title>
     <desc>Comedy in which a lonely and disappointed college freshman ends up being pulled into the wacky schemes of her future stepsister in an attempt to cure her negativity.</desc>
     <episode-num system="dd_progid">T734130</episode-num>
@@ -3156,7 +3162,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171105113000 +0000" stop="20171105160000 +0000">
+  <programme channel="tv.11" start="20171105114000 +0000" stop="20171105160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3345,12 +3351,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.11" start="20171106110000 +0000" stop="20171106112000 +0000">
+  <programme channel="tv.11" start="20171106110000 +0000" stop="20171106113000 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751817</episode-num>
   </programme>
-  <programme channel="tv.11" start="20171106112000 +0000" stop="20171106160000 +0000">
+  <programme channel="tv.11" start="20171106113000 +0000" stop="20171106160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -3765,6 +3771,9 @@
     <title>A Deadly Connection</title>
     <desc>A resentful teenage girl, jealous of the attention her best friend gets, sends risqu‚ photos of herself to an older man. But the relationship soon turns sinister when things don't go his way.</desc>
     <episode-num system="dd_progid">T775151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.11" start="20171109015000 +0000" stop="20171109022000 +0000">
     <title>Celebrity Name Game</title>
@@ -4025,7 +4034,7 @@
   </programme>
   <programme channel="tv.11" start="20171110070000 +0000" stop="20171110080000 +0000">
     <title>The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by special guests Dame Judi Dench, Kenneth Branagh, Michelle Pfeiffer and Josh Gad. S22 Ep6</desc>
+    <desc>New Episode. Graham Norton is joined by special guests Dame Judi Dench, Kenneth Branagh, Michelle Pfeiffer, Josh Gad and St. Vincent. S22 Ep6</desc>
     <episode-num system="dd_progid">T784932</episode-num>
   </programme>
   <programme channel="tv.11" start="20171110080000 +0000" stop="20171110084500 +0000">
@@ -4627,15 +4636,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171106073000 +0000" stop="20171106083000 +0000">
+  <programme channel="tv.12" start="20171106073000 +0000" stop="20171106084000 +0000">
     <title>Million Dollar Listing Los Angeles</title>
-    <desc></desc>
+    <desc>Inventory is low, sales are record high, and the boys are back to some fierce competition! Josh Altman may have money on his mind, but with Heather's pregnancy, he's got baby on the brain. S10 Ep 1</desc>
     <episode-num system="dd_progid">T790415</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171106083000 +0000" stop="20171106093000 +0000">
+  <programme channel="tv.12" start="20171106084000 +0000" stop="20171106094000 +0000">
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
@@ -4643,7 +4652,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171106093000 +0000" stop="20171106102500 +0000">
+  <programme channel="tv.12" start="20171106094000 +0000" stop="20171106103000 +0000">
     <title>Intervention</title>
     <desc>At 14 Sam was sexually assaulted. Counseling and prescription medication helped for a while, but eventually Sam turned to a life of partying, fueled by alcohol and Ecstasy. S12 Ep7</desc>
     <episode-num system="dd_progid">T749395</episode-num>
@@ -4651,7 +4660,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171106102500 +0000" stop="20171106111500 +0000">
+  <programme channel="tv.12" start="20171106103000 +0000" stop="20171106112000 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>A red hot romance comes to a fiery end when jealousy threatens to rip two lovers apart. Is it a crime of passion or a cold blooded conspiracy? S6 Ep8</desc>
     <episode-num system="dd_progid">T737362</episode-num>
@@ -4659,7 +4668,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.12" start="20171106111500 +0000" stop="20171106160000 +0000">
+  <programme channel="tv.12" start="20171106112000 +0000" stop="20171106160000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -4708,7 +4717,7 @@
   </programme>
   <programme channel="tv.12" start="20171107004000 +0000" stop="20171107014000 +0000">
     <title>Million Dollar Listing Los Angeles</title>
-    <desc></desc>
+    <desc>Inventory is low, sales are record high, and the boys are back to some fierce competition! Josh Altman may have money on his mind, but with Heather's pregnancy, he's got baby on the brain. S10 Ep 1</desc>
     <episode-num system="dd_progid">T790415</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -4877,11 +4886,17 @@
     <title>Four Weddings UK</title>
     <desc>Four Weddings UK ventures out of Britain, as the first lot of blushing brides take to the airways, conducting wedding ceremonies in Spain, Germany and the USA.</desc>
     <episode-num system="dd_progid">T784378</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171108053500 +0000" stop="20171108063500 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha discovers that Aisha's anger isn't the only problem in the salon, her staff have become loud and unprofessional. S4 Ep3</desc>
     <episode-num system="dd_progid">T779409</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171108063500 +0000" stop="20171108073000 +0000">
     <title>Catfish</title>
@@ -4895,6 +4910,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki's health scare continues and brings out a side of Peggy that shocks the ladies. Later, a broken friendship might finally be on the path to mending. S12 Ep17</desc>
     <episode-num system="dd_progid">T774576</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171108083000 +0000" stop="20171108093000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -4939,11 +4957,17 @@
     <title>Four Weddings UK</title>
     <desc>Four Weddings UK ventures out of Britain, as the first lot of blushing brides take to the airways, conducting wedding ceremonies in Spain, Germany and the USA.</desc>
     <episode-num system="dd_progid">T784378</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171108215500 +0000" stop="20171108225000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha discovers that Aisha's anger isn't the only problem in the salon, her staff have become loud and unprofessional. S4 Ep3</desc>
     <episode-num system="dd_progid">T779409</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171108225000 +0000" stop="20171108234500 +0000">
     <title>Snapped</title>
@@ -4973,6 +4997,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki's health scare continues and brings out a side of Peggy that shocks the ladies. Later, a broken friendship might finally be on the path to mending. S12 Ep17</desc>
     <episode-num system="dd_progid">T774576</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109023500 +0000" stop="20171109033000 +0000">
     <title>Catfish</title>
@@ -4994,11 +5021,17 @@
     <title>Four Weddings UK</title>
     <desc>Hollie is looking to impress with an after wedding rave. She will be up against wedding planner Natalie.Nicola is planning a Hollywood wedding and Cheryl will be having a ship themed wedding.</desc>
     <episode-num system="dd_progid">T784379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109053000 +0000" stop="20171109063000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>After expanding, Pat's veteran stylists walked out, leaving her emotionally and financially devastated. Can Tabatha help Pat turn around her attitude and her business. S4 Ep4</desc>
     <episode-num system="dd_progid">T779410</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109063000 +0000" stop="20171109073000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -5012,6 +5045,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775510</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109083000 +0000" stop="20171109093000 +0000">
     <title>Escaping Polygamy</title>
@@ -5056,11 +5092,17 @@
     <title>Four Weddings UK</title>
     <desc>Hollie is looking to impress with an after wedding rave. She will be up against wedding planner Natalie.Nicola is planning a Hollywood wedding and Cheryl will be having a ship themed wedding.</desc>
     <episode-num system="dd_progid">T784379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109215000 +0000" stop="20171109224000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>After expanding, Pat's veteran stylists walked out, leaving her emotionally and financially devastated. Can Tabatha help Pat turn around her attitude and her business. S4 Ep4</desc>
     <episode-num system="dd_progid">T779410</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171109224000 +0000" stop="20171109233500 +0000">
     <title>Snapped</title>
@@ -5082,6 +5124,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775510</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171110012500 +0000" stop="20171110022000 +0000">
     <title>Escaping Polygamy</title>
@@ -5111,6 +5156,9 @@
     <title>Four Weddings UK</title>
     <desc>Resident fussy eater Abbey, is having a princess fairy tale day, but what will she think of Kat's traditional two day Polish wedding and Charley takes her football obsession to the extreme.</desc>
     <episode-num system="dd_progid">T784380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.12" start="20171110053500 +0000" stop="20171110063000 +0000">
     <title>Tabatha Takes Over</title>
@@ -13727,6 +13775,9 @@
     <title>7 Days</title>
     <desc>New Episode. Host Jeremy Corbett will be keeping team leaders Paul and Dai in check as they're joined by Cori Gonzalez-Macuer, Ben Hurley, Justine Smith and Chopper.</desc>
     <episode-num system="dd_progid">T791357</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171103094500 +0000" stop="20171103101500 +0000">
     <title>Fail Army</title>
@@ -13861,7 +13912,7 @@
   </programme>
   <programme channel="tv.27" start="20171104050000 +0000" stop="20171104060000 +0000">
     <title>Survivor: Heroes v. Healers v. Hustlers</title>
-    <desc>The 35th season of the American version of Survivor sees players divided into three tribes according to their dominant trait: Heroes (courage), Healers (helping others), and Hustlers (tenacity).</desc>
+    <desc>New Episode. One castaway is upset after being kept out of the loop on a crazy blindside. And a lack of food takes a toll on another castaway. S35 Ep6</desc>
     <episode-num system="dd_progid">T784662</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -14046,7 +14097,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171105083500 +0000" stop="20171105104000 +0000">
+  <programme channel="tv.27" start="20171105083500 +0000" stop="20171105104500 +0000">
     <title>Grown Ups</title>
     <desc>After their former high school basketball coach passes away, five good friends and former team mates reunite for the Fourth of July holiday weekend, where they realise age doesn't equal maturity.</desc>
     <episode-num system="dd_progid">T761849</episode-num>
@@ -14054,7 +14105,7 @@
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171105104000 +0000" stop="20171105123000 +0000">
+  <programme channel="tv.27" start="20171105104500 +0000" stop="20171105124000 +0000">
     <title>Mistress America</title>
     <desc>Comedy in which a lonely and disappointed college freshman ends up being pulled into the wacky schemes of her future stepsister in an attempt to cure her negativity.</desc>
     <episode-num system="dd_progid">T734130</episode-num>
@@ -14062,7 +14113,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171105123000 +0000" stop="20171105170000 +0000">
+  <programme channel="tv.27" start="20171105124000 +0000" stop="20171105170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -14242,12 +14293,12 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.27" start="20171106120000 +0000" stop="20171106122000 +0000">
+  <programme channel="tv.27" start="20171106120000 +0000" stop="20171106123000 +0000">
     <title>The Project (Encore)</title>
     <desc>Hosted by Jesse Mulligan, Kanoa Lloyd and Josh Thomson, The Project combines news and entertainment to provide audiences an intelligent, informative and engaging mix of the stories that matter.</desc>
     <episode-num system="dd_progid">T751817</episode-num>
   </programme>
-  <programme channel="tv.27" start="20171106122000 +0000" stop="20171106170000 +0000">
+  <programme channel="tv.27" start="20171106123000 +0000" stop="20171106170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -14656,6 +14707,9 @@
     <title>A Deadly Connection</title>
     <desc>A resentful teenage girl, jealous of the attention her best friend gets, sends risqu‚ photos of herself to an older man. But the relationship soon turns sinister when things don't go his way.</desc>
     <episode-num system="dd_progid">T775151</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.27" start="20171109025000 +0000" stop="20171109032000 +0000">
     <title>Celebrity Name Game</title>
@@ -14907,7 +14961,7 @@
   </programme>
   <programme channel="tv.27" start="20171110080000 +0000" stop="20171110090000 +0000">
     <title>The Graham Norton Show</title>
-    <desc>New Episode. Graham Norton is joined by special guests Dame Judi Dench, Kenneth Branagh, Michelle Pfeiffer and Josh Gad. S22 Ep6</desc>
+    <desc>New Episode. Graham Norton is joined by special guests Dame Judi Dench, Kenneth Branagh, Michelle Pfeiffer, Josh Gad and St. Vincent. S22 Ep6</desc>
     <episode-num system="dd_progid">T784932</episode-num>
   </programme>
   <programme channel="tv.27" start="20171110090000 +0000" stop="20171110094500 +0000">
@@ -17126,15 +17180,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171106083000 +0000" stop="20171106093000 +0000">
+  <programme channel="tv.30" start="20171106083000 +0000" stop="20171106094000 +0000">
     <title>Million Dollar Listing Los Angeles</title>
-    <desc></desc>
+    <desc>Inventory is low, sales are record high, and the boys are back to some fierce competition! Josh Altman may have money on his mind, but with Heather's pregnancy, he's got baby on the brain. S10 Ep 1</desc>
     <episode-num system="dd_progid">T790415</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171106093000 +0000" stop="20171106103000 +0000">
+  <programme channel="tv.30" start="20171106094000 +0000" stop="20171106104000 +0000">
     <title>Killer Couples</title>
     <desc>A cougar and her new boyfriend devise a vicious plot to get rid of an old boyfriend. S8 Ep3</desc>
     <episode-num system="dd_progid">T774686</episode-num>
@@ -17142,7 +17196,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171106103000 +0000" stop="20171106112500 +0000">
+  <programme channel="tv.30" start="20171106104000 +0000" stop="20171106113000 +0000">
     <title>Intervention</title>
     <desc>At 14 Sam was sexually assaulted. Counseling and prescription medication helped for a while, but eventually Sam turned to a life of partying, fueled by alcohol and Ecstasy. S12 Ep7</desc>
     <episode-num system="dd_progid">T749395</episode-num>
@@ -17150,7 +17204,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171106112500 +0000" stop="20171106121500 +0000">
+  <programme channel="tv.30" start="20171106113000 +0000" stop="20171106122000 +0000">
     <title>Snapped: Killer Couples</title>
     <desc>A red hot romance comes to a fiery end when jealousy threatens to rip two lovers apart. Is it a crime of passion or a cold blooded conspiracy? S6 Ep8</desc>
     <episode-num system="dd_progid">T737362</episode-num>
@@ -17158,7 +17212,7 @@
       <value>AO</value>
     </rating>
   </programme>
-  <programme channel="tv.30" start="20171106121500 +0000" stop="20171106170000 +0000">
+  <programme channel="tv.30" start="20171106122000 +0000" stop="20171106170000 +0000">
     <title>Infomercials</title>
     <desc></desc>
     <episode-num system="dd_progid">T1</episode-num>
@@ -17207,7 +17261,7 @@
   </programme>
   <programme channel="tv.30" start="20171107014000 +0000" stop="20171107024000 +0000">
     <title>Million Dollar Listing Los Angeles</title>
-    <desc></desc>
+    <desc>Inventory is low, sales are record high, and the boys are back to some fierce competition! Josh Altman may have money on his mind, but with Heather's pregnancy, he's got baby on the brain. S10 Ep 1</desc>
     <episode-num system="dd_progid">T790415</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -17376,11 +17430,17 @@
     <title>Four Weddings UK</title>
     <desc>Four Weddings UK ventures out of Britain, as the first lot of blushing brides take to the airways, conducting wedding ceremonies in Spain, Germany and the USA.</desc>
     <episode-num system="dd_progid">T784378</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108063500 +0000" stop="20171108073500 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha discovers that Aisha's anger isn't the only problem in the salon, her staff have become loud and unprofessional. S4 Ep3</desc>
     <episode-num system="dd_progid">T779409</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108073500 +0000" stop="20171108083000 +0000">
     <title>Catfish</title>
@@ -17394,6 +17454,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki's health scare continues and brings out a side of Peggy that shocks the ladies. Later, a broken friendship might finally be on the path to mending. S12 Ep17</desc>
     <episode-num system="dd_progid">T774576</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108093000 +0000" stop="20171108103000 +0000">
     <title>Hollywood Medium With Tyler Henry</title>
@@ -17438,11 +17501,17 @@
     <title>Four Weddings UK</title>
     <desc>Four Weddings UK ventures out of Britain, as the first lot of blushing brides take to the airways, conducting wedding ceremonies in Spain, Germany and the USA.</desc>
     <episode-num system="dd_progid">T784378</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108225500 +0000" stop="20171108235000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>Tabatha discovers that Aisha's anger isn't the only problem in the salon, her staff have become loud and unprofessional. S4 Ep3</desc>
     <episode-num system="dd_progid">T779409</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171108235000 +0000" stop="20171109004500 +0000">
     <title>Snapped</title>
@@ -17472,6 +17541,9 @@
     <title>The Real Housewives Of Orange County</title>
     <desc>Vicki's health scare continues and brings out a side of Peggy that shocks the ladies. Later, a broken friendship might finally be on the path to mending. S12 Ep17</desc>
     <episode-num system="dd_progid">T774576</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109033500 +0000" stop="20171109043000 +0000">
     <title>Catfish</title>
@@ -17493,11 +17565,17 @@
     <title>Four Weddings UK</title>
     <desc>Hollie is looking to impress with an after wedding rave. She will be up against wedding planner Natalie.Nicola is planning a Hollywood wedding and Cheryl will be having a ship themed wedding.</desc>
     <episode-num system="dd_progid">T784379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109063000 +0000" stop="20171109073000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>After expanding, Pat's veteran stylists walked out, leaving her emotionally and financially devastated. Can Tabatha help Pat turn around her attitude and her business. S4 Ep4</desc>
     <episode-num system="dd_progid">T779410</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109073000 +0000" stop="20171109083000 +0000">
     <title>Snapped: Killer Couples</title>
@@ -17511,6 +17589,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775510</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109093000 +0000" stop="20171109103000 +0000">
     <title>Escaping Polygamy</title>
@@ -17555,11 +17636,17 @@
     <title>Four Weddings UK</title>
     <desc>Hollie is looking to impress with an after wedding rave. She will be up against wedding planner Natalie.Nicola is planning a Hollywood wedding and Cheryl will be having a ship themed wedding.</desc>
     <episode-num system="dd_progid">T784379</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109225000 +0000" stop="20171109234000 +0000">
     <title>Tabatha Takes Over</title>
     <desc>After expanding, Pat's veteran stylists walked out, leaving her emotionally and financially devastated. Can Tabatha help Pat turn around her attitude and her business. S4 Ep4</desc>
     <episode-num system="dd_progid">T779410</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171109234000 +0000" stop="20171110003500 +0000">
     <title>Snapped</title>
@@ -17581,6 +17668,9 @@
     <title>The Disappearance Of Maura Murray</title>
     <desc>Nursing student Maura Murray inexplicably vanished in 2004, leaving behind one of the most puzzling unsolved mysteries of the internet age.</desc>
     <episode-num system="dd_progid">T775510</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171110022500 +0000" stop="20171110032000 +0000">
     <title>Escaping Polygamy</title>
@@ -17610,6 +17700,9 @@
     <title>Four Weddings UK</title>
     <desc>Resident fussy eater Abbey, is having a princess fairy tale day, but what will she think of Kat's traditional two day Polish wedding and Charley takes her football obsession to the extreme.</desc>
     <episode-num system="dd_progid">T784380</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.30" start="20171110063500 +0000" stop="20171110073000 +0000">
     <title>Tabatha Takes Over</title>
