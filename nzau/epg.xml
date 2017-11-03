@@ -312,10 +312,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.10" start="20171102163000 +0000" stop="20171102173000 +0000">
+  <programme channel="tv.10" start="20171102163000 +0000" stop="20171102170000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
+  </programme>
+  <programme channel="tv.10" start="20171102170000 +0000" stop="20171102173000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.10" start="20171102173000 +0000" stop="20171102175500 +0000">
     <title>Sesame Street</title>
@@ -982,7 +987,7 @@
   </programme>
   <programme channel="tv.10" start="20171104173500 +0000" stop="20171104174500 +0000">
     <title>Peppa Pig</title>
-    <desc>Peppa Pig is a loveable cheeky little pig, who lives with her brother George, Mummy Pig and Daddy Pig. Her adventures always end happily with louds snorts of laughter.</desc>
+    <desc>Pedro Pony is missing when the playgroup gets on the bus to go to the museum.</desc>
     <episode-num system="dd_progid">10290892</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -992,6 +997,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469484</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171104175500 +0000" stop="20171104180000 +0000">
     <title>Little Monstar</title>
@@ -1362,6 +1370,9 @@
     <title>Home And Away</title>
     <desc>Will Alf be able to help Kat track down the man from the cabin? Robbo is in trouble. Will Ben ever come around to Brody?</desc>
     <episode-num system="dd_progid">10487073</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171106050000 +0000" stop="20171106053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1403,6 +1414,12 @@
     <title>All New Will &amp; Grace</title>
     <desc>When Karen has trouble dealing with a personal tragedy, Will, Grace, and Jack try to intervene. Will and Grace's new business relationship begins to show signs of stress. Minnie Driver guest stars.</desc>
     <episode-num system="dd_progid">10491210</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171106080000 +0000" stop="20171106083000 +0000">
     <title>The Mick</title>
@@ -1621,6 +1638,9 @@
     <title>Home And Away</title>
     <desc>Will Alf be able to help Kat track down the man from the cabin? Robbo is in trouble. Will Ben ever come around to Brody?</desc>
     <episode-num system="dd_progid">10487073</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171107020000 +0000" stop="20171107023000 +0000">
     <title>Shortland Street</title>
@@ -1681,6 +1701,9 @@
     <title>Home And Away</title>
     <desc>Olivia knows Mick is here but not that Irene brought him out. How will Robbo keep his secret hidden from Kat?</desc>
     <episode-num system="dd_progid">10487074</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171107050000 +0000" stop="20171107053000 +0000">
     <title>The Big Bang Theory</title>
@@ -1805,7 +1828,7 @@
       <stereo>dolby</stereo>
     </audio>
     <rating system="Freeview">
-      <value>AO</value>
+      <value>PGR</value>
     </rating>
   </programme>
   <programme channel="tv.10" start="20171107151000 +0000" stop="20171107154000 +0000">
@@ -1934,6 +1957,9 @@
     <title>Home And Away</title>
     <desc>Olivia knows Mick is here but not that Irene brought him out. How will Robbo keep his secret hidden from Kat?</desc>
     <episode-num system="dd_progid">10487074</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171108020000 +0000" stop="20171108023000 +0000">
     <title>Shortland Street</title>
@@ -2032,11 +2058,23 @@
     <title>All New The Big Bang Theory</title>
     <desc>Our favourite physicists are back for a hilarious 11th season!</desc>
     <episode-num system="dd_progid">10494563</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171108081000 +0000" stop="20171108084000 +0000">
     <title>All New Mom</title>
     <desc>New: Mom is back for a hilarious fifth season!</desc>
     <episode-num system="dd_progid">10495088</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.10" start="20171108084000 +0000" stop="20171108094000 +0000">
     <title>Imposters</title>
@@ -2618,6 +2656,9 @@
     <title>Shortland Street</title>
     <desc>Mo battles rising panic. Chris faces an impossible choice.</desc>
     <episode-num system="dd_progid">10469684</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
     <subtitles type="teletext"/>
     <rating system="Freeview">
       <value>PGR</value>
@@ -7277,10 +7318,15 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.14" start="20171102173000 +0000" stop="20171102183000 +0000">
+  <programme channel="tv.14" start="20171102173000 +0000" stop="20171102180000 +0000">
     <title>Infomercial</title>
     <desc/>
     <episode-num system="dd_progid">10473178</episode-num>
+  </programme>
+  <programme channel="tv.14" start="20171102180000 +0000" stop="20171102183000 +0000">
+    <title>Infomercial</title>
+    <desc/>
+    <episode-num system="dd_progid">10499717</episode-num>
   </programme>
   <programme channel="tv.14" start="20171102183000 +0000" stop="20171102185500 +0000">
     <title>Sesame Street</title>
@@ -7857,7 +7903,7 @@
   </programme>
   <programme channel="tv.14" start="20171104183500 +0000" stop="20171104184500 +0000">
     <title>Peppa Pig</title>
-    <desc>Peppa Pig is a loveable cheeky little pig, who lives with her brother George, Mummy Pig and Daddy Pig. Her adventures always end happily with louds snorts of laughter.</desc>
+    <desc>Pedro Pony is missing when the playgroup gets on the bus to go to the museum.</desc>
     <episode-num system="dd_progid">10290892</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -7867,6 +7913,9 @@
     <title>Takaro Tribe</title>
     <desc>Come join the Takaro Tribe as they sing and dance their way through their magical alphabet forest, meeting friends and whanau and learning as they go.</desc>
     <episode-num system="dd_progid">10469484</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171104185500 +0000" stop="20171104190000 +0000">
     <title>Little Monstar</title>
@@ -8195,6 +8244,9 @@
     <title>Home And Away</title>
     <desc>Will Alf be able to help Kat track down the man from the cabin? Robbo is in trouble. Will Ben ever come around to Brody?</desc>
     <episode-num system="dd_progid">10487073</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171106060000 +0000" stop="20171106063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8233,6 +8285,9 @@
     <title>All New Will &amp; Grace</title>
     <desc>When Karen has trouble dealing with a personal tragedy, Will, Grace, and Jack try to intervene. Will and Grace's new business relationship begins to show signs of stress. Minnie Driver guest stars.</desc>
     <episode-num system="dd_progid">10491210</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171106090000 +0000" stop="20171106093000 +0000">
     <title>The Mick</title>
@@ -8427,6 +8482,9 @@
     <title>Home And Away</title>
     <desc>Will Alf be able to help Kat track down the man from the cabin? Robbo is in trouble. Will Ben ever come around to Brody?</desc>
     <episode-num system="dd_progid">10487073</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171107030000 +0000" stop="20171107033000 +0000">
     <title>Shortland Street</title>
@@ -8478,6 +8536,9 @@
     <title>Home And Away</title>
     <desc>Olivia knows Mick is here but not that Irene brought him out. How will Robbo keep his secret hidden from Kat?</desc>
     <episode-num system="dd_progid">10487074</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171107060000 +0000" stop="20171107063000 +0000">
     <title>The Big Bang Theory</title>
@@ -8707,6 +8768,9 @@
     <title>Home And Away</title>
     <desc>Olivia knows Mick is here but not that Irene brought him out. How will Robbo keep his secret hidden from Kat?</desc>
     <episode-num system="dd_progid">10487074</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171108030000 +0000" stop="20171108033000 +0000">
     <title>Shortland Street</title>
@@ -8796,11 +8860,17 @@
     <title>All New The Big Bang Theory</title>
     <desc>Our favourite physicists are back for a hilarious 11th season!</desc>
     <episode-num system="dd_progid">10494563</episode-num>
+    <rating system="Freeview">
+      <value>PGR</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171108091000 +0000" stop="20171108094000 +0000">
     <title>All New Mom</title>
     <desc>New: Mom is back for a hilarious fifth season!</desc>
     <episode-num system="dd_progid">10495088</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.14" start="20171108094000 +0000" stop="20171108104000 +0000">
     <title>Imposters</title>
@@ -15345,11 +15415,17 @@
     <title>Hour of Power</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886885</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171104193000 +0000" stop="20171104200000 +0000">
     <title>Beyond Today</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886809</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171104200000 +0000" stop="20171104203000 +0000">
     <title>Impact For Life</title>
@@ -15363,11 +15439,17 @@
     <title>Life TV</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10887046</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171104210000 +0000" stop="20171104213000 +0000">
     <title>Running With Fire</title>
     <desc>Religious programme. G</desc>
     <episode-num system="dd_progid">SNZ10886939</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.28" start="20171104213000 +0000" stop="20171104230000 +0000">
     <title>Sport Box</title>
@@ -15829,7 +15911,7 @@
   <programme channel="tv.28" start="20171107033000 +0000" stop="20171107043000 +0000">
     <title>Melbourne Cup Live</title>
     <desc>'Prime takes you to the track to celebrate Australasia's most prestigious horse race, the Melbourne Cup. Catch all the tension, drama and action live from Flemington Race Course.'</desc>
-    <episode-num system="dd_progid">SNZ36244505</episode-num>
+    <episode-num system="dd_progid">SNZ11038493</episode-num>
   </programme>
   <programme channel="tv.28" start="20171107043000 +0000" stop="20171107050000 +0000">
     <title>Prime News - First At 5.30</title>
@@ -20867,7 +20949,7 @@
   </programme>
   <programme channel="tv.38" start="20171102210000 +0000" stop="20171102220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Jim Parsons &amp; Iain Armitage.</desc>
     <episode-num system="dd_progid">10491727</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21243,6 +21325,9 @@
     <desc>The Attitude Awards is a gala event celebrating outstanding achievements of athletes, artists, game-changers and young people living with disabilities. Meet the 21 finalists ahead of the big night.</desc>
     <episode-num system="dd_progid">10467586</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171104210000 +0000" stop="20171104220000 +0000">
     <title>Q+A</title>
@@ -21396,6 +21481,9 @@
     <desc>The Attitude Awards is a gala event celebrating outstanding achievements of athletes, artists, game-changers and young people living with disabilities. Meet the 21 finalists ahead of the big night.</desc>
     <episode-num system="dd_progid">10467586</episode-num>
     <subtitles type="teletext"/>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171105131500 +0000" stop="20171105151500 +0000">
     <title>Red Rock</title>
@@ -21417,7 +21505,7 @@
   </programme>
   <programme channel="tv.38" start="20171105210000 +0000" stop="20171105220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her talk-show. Today, Halloween is celebrated, with guests Julie Bowen and contortionist Sofie Dossi.</desc>
     <episode-num system="dd_progid">10491728</episode-num>
     <rating system="Freeview">
       <value>PGR</value>
@@ -21595,7 +21683,7 @@
   </programme>
   <programme channel="tv.38" start="20171106210000 +0000" stop="20171106220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Ricky Gervais.</desc>
     <episode-num system="dd_progid">10491729</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -21762,8 +21850,11 @@
   </programme>
   <programme channel="tv.38" start="20171107210000 +0000" stop="20171107220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kerry Washington.</desc>
     <episode-num system="dd_progid">10491730</episode-num>
+    <rating system="Freeview">
+      <value>G</value>
+    </rating>
   </programme>
   <programme channel="tv.38" start="20171107220000 +0000" stop="20171107223000 +0000">
     <title>Morena</title>
@@ -21875,7 +21966,7 @@
   </programme>
   <programme channel="tv.38" start="20171108093500 +0000" stop="20171108103500 +0000">
     <title>20/20</title>
-    <desc>Presented by Carolyn Robinson, 20/20 features the best of international content from ABC and in-depth investigative pieces.</desc>
+    <desc>Tonight, 20/20 reports on the explosive allegations of sexual harassment and assault that have been made against powerful Hollywood mogul Harvey Weinstein.</desc>
     <episode-num system="dd_progid">10485244</episode-num>
   </programme>
   <programme channel="tv.38" start="20171108103500 +0000" stop="20171108110500 +0000">
@@ -21921,7 +22012,7 @@
   </programme>
   <programme channel="tv.38" start="20171108210000 +0000" stop="20171108220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Kris Jenner.</desc>
     <episode-num system="dd_progid">10491731</episode-num>
   </programme>
   <programme channel="tv.38" start="20171108220000 +0000" stop="20171108223000 +0000">
@@ -22088,7 +22179,7 @@
   </programme>
   <programme channel="tv.38" start="20171109210000 +0000" stop="20171109220000 +0000">
     <title>The Ellen DeGeneres Show</title>
-    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show.</desc>
+    <desc>Comedian and host Ellen DeGeneres brings her unique brand of humour to her Emmy Award-winning talk-show. On the show today, Jesse Tyler Ferguson &amp; Zully Hernandez.</desc>
     <episode-num system="dd_progid">10491732</episode-num>
   </programme>
   <programme channel="tv.38" start="20171109220000 +0000" stop="20171109223000 +0000">
@@ -30579,7 +30670,7 @@
   </programme>
   <programme channel="tv.55" start="20171102200500 +0000" stop="20171102203000 +0000">
     <title>MLS Soccer Highlights</title>
-    <desc>Catch up with the latest highlights from the MLS playoffs.</desc>
+    <desc>Delayed coverage of the Conference Semifinal (2nd Leg) between the Seattle Sounders and the Vancouver Whitecaps FC after the first leg finished 0-0.</desc>
     <episode-num system="dd_progid">10483823</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -30699,7 +30790,7 @@
   </programme>
   <programme channel="tv.55" start="20171103185000 +0000" stop="20171103192000 +0000">
     <title>MLS Soccer Highlights</title>
-    <desc>Catch up with the latest highlights from the MLS playoffs.</desc>
+    <desc>Delayed coverage of the Conference Semifinal (2nd Leg) between the Seattle Sounders and the Vancouver Whitecaps FC after the first leg finished 0-0.</desc>
     <episode-num system="dd_progid">10483823</episode-num>
     <rating system="Freeview">
       <value>G</value>
@@ -31008,7 +31099,7 @@
   </programme>
   <programme channel="tv.55" start="20171106212500 +0000" stop="20171106231500 +0000">
     <title>MLS Delayed</title>
-    <desc>Delayed coverage of yesterday’s second Conference Semi Final Leg 2. Team TBC.</desc>
+    <desc>Delayed coverage of the Conference Semifinal (2nd Leg) between the Portland Timbers and the Houston Dynamo after the first leg finished 0-0.</desc>
     <episode-num system="dd_progid">10480216</episode-num>
   </programme>
   <programme channel="tv.55" start="20171106231500 +0000" stop="20171107015000 +0000">
@@ -31207,6 +31298,9 @@
     <title>New: Gotham</title>
     <desc>S4 E7. With Professor Pyg striking fear throughout Gotham, Gordon and Bullock head into the Narrows to look for clues. Bruce's old friend convinces him to go along for a night with old classmates.</desc>
     <episode-num system="dd_progid">10494588</episode-num>
+    <rating system="Freeview">
+      <value>AO</value>
+    </rating>
   </programme>
   <programme channel="tv.55" start="20171108102000 +0000" stop="20171108111000 +0000">
     <title>Behind Bars: Rookie Year</title>
@@ -31228,7 +31322,7 @@
   </programme>
   <programme channel="tv.55" start="20171108192500 +0000" stop="20171108211500 +0000">
     <title>MLS Replay</title>
-    <desc>Replay of Monday’s Conference Semi Final Leg 2 semi final – teams TBC.</desc>
+    <desc>Replay of the Conference Semifinal (2nd Leg) between the Seattle Sounders and the Vancouver Whitecaps FC after the first leg finished 0-0.</desc>
     <episode-num system="dd_progid">10480265</episode-num>
   </programme>
   <programme channel="tv.55" start="20171108211500 +0000" stop="20171108235000 +0000">
@@ -31351,7 +31445,7 @@
   </programme>
   <programme channel="tv.55" start="20171109221500 +0000" stop="20171110000500 +0000">
     <title>MLS Replay</title>
-    <desc>Replay of Monday’s second Conference Semi Final Leg 2 semi-final – teams TBC.</desc>
+    <desc>Replay of the Conference Semifinal (2nd Leg) between the Portland Timbers and the Houston Dynamo after the first leg finished 0-0.</desc>
     <episode-num system="dd_progid">10480266</episode-num>
   </programme>
   <programme channel="tv.55" start="20171110000500 +0000" stop="20171110003000 +0000">
@@ -62917,7 +63011,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109104400 +0000" stop="20171109131000 +0000">
+  <programme channel="tv.101305020520" start="20171109104400 +0000" stop="20171109131300 +0000">
     <title>City of Angels</title>
     <episode-num system="dd_progid">vLjgr3aNltaPmdeJ</episode-num>
     <subtitles type="teletext"/>
@@ -62925,7 +63019,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109131000 +0000" stop="20171109140500 +0000">
+  <programme channel="tv.101305020520" start="20171109131300 +0000" stop="20171109140700 +0000">
     <title>Scandal</title>
     <episode-num system="dd_progid">uLnbt3qSmdaPmtex</episode-num>
     <subtitles type="teletext"/>
@@ -62933,7 +63027,7 @@
       <value>M</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109140500 +0000" stop="20171109150000 +0000">
+  <programme channel="tv.101305020520" start="20171109140700 +0000" stop="20171109150200 +0000">
     <title>Scandal</title>
     <episode-num system="dd_progid">uLnbt3qSmdaPmtix</episode-num>
     <subtitles type="teletext"/>
@@ -62941,28 +63035,28 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109150000 +0000" stop="20171109153000 +0000">
+  <programme channel="tv.101305020520" start="20171109150200 +0000" stop="20171109153200 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">q2rqltaPnMeO</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109153000 +0000" stop="20171109160000 +0000">
+  <programme channel="tv.101305020520" start="20171109153200 +0000" stop="20171109160200 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">nLr+rdiSmdaOn30x</episode-num>
     <rating system="Freeview">
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109160000 +0000" stop="20171109163000 +0000">
+  <programme channel="tv.101305020520" start="20171109160200 +0000" stop="20171109163200 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">q2rqltaPn32G</episode-num>
     <rating system="Freeview">
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171109163000 +0000" stop="20171109170000 +0000">
+  <programme channel="tv.101305020520" start="20171109163200 +0000" stop="20171109170000 +0000">
     <title>Home Shopping</title>
     <episode-num system="dd_progid">q2rqltaPnMiI</episode-num>
     <rating system="Freeview">
@@ -63073,7 +63167,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="tv.101305020520" start="20171110121100 +0000" stop="20171110131000 +0000">
+  <programme channel="tv.101305020520" start="20171110121100 +0000" stop="20171110130600 +0000">
     <title>To Be Advised</title>
     <episode-num system="dd_progid">150794E23423</episode-num>
   </programme>
@@ -72927,7 +73021,7 @@
     <episode-num system="dd_progid">58216E1456221</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171110030000 +0000" stop="20171110033000 +0000">
@@ -73023,7 +73117,7 @@
     <episode-num system="dd_progid">59258E1507855</episode-num>
     <subtitles type="teletext"/>
     <rating system="Freeview">
-      <value>NC</value>
+      <value>M</value>
     </rating>
   </programme>
   <programme channel="tv.101406020625" start="20171110113000 +0000" stop="20171110123000 +0000">
